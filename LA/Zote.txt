@@ -1,0 +1,185 @@
+<entries>
+<!-- TL note:
+It kinda wrote itself.
+
+TL 100%
+Check 90%
+Confidence 75%
+-->
+
+<entry name="ZOTE_BUZZER_1">Quidnam facere putas?! Quid tibi inter me meamque praedam interventio&#39;st? Quis malum te male consuevit alteri ire interruptum, molestias afferre?</entry>
+<entry name="ZOTE_BUZZER_1_B">Audi bene, puer. Mihi nomen est Zotes Optimus Maximus, illustrissimus eques. Iterum tu mihi ita veni obviam, et comperies quare mei aculei nomen est &#39;Ensis Letifera&#39;.</entry>
+<entry name="ZOTE_BUZZER_2">Etiam vis mihi afficere molestiis? Eques sum ego, nihil mihi curae sunt ista puerilia tua. Quietem mihi volo.&lt;page&gt;Apage a me! Ne ego hoc te aculeo insolentem...</entry>
+<entry name="ZOTE_DREAM_BUZZER">Stulta bestia... quae ita meum inconteribile corpus mandens, malas tibi obtunsas fecisti. Haud mirum est igitur, quod ab isto puerulo imbecillo devicta&#39;s!</entry>
+
+<entry name="ZOTE_CITY_GREET">Eho tu! Quin vide ubi ambulas, erro madens? Ne mihi asperge aquam, qui nolebam usque sic madefieri.&lt;page&gt;Mihi nomen est Zotes Optimus Maximus, illustrissimus eques. Si equidem me siccum manere iubeo, ita me siccum manere oportet!&lt;page&gt;Vae isti miserabili urbi, aqua et monstra continenter ubi decidunt! Haud mirum, quod hoc regnum occidit...</entry>
+<!-- UNUSED -->
+<entry name="ZOTE_CITY_EXTRA">Suspicor te altitudine harum turrium esse commotum. Hem! Etiam altiores meo in itinere conspexeram turris, et quidem pulchriores.</entry>
+<entry name="ZOTE_CITY_REPEAT">Vidistine excubitores illos emortuos, qui etiam nunc hanc urbem custodiunt? Hem! Sed quid boni&#39;st illis ita deditos esse muneribus?</entry>
+<entry name="ZOTE_DREAM_CITY">Quid queritur aer? Numne hoc Regnum ludibrio me vult habere? Namque ultimam meam lacrimam effudi iampridem...</entry>
+
+<entry name="ZOTE_TOWN_1">Heus tu! Quid delitescis in umbris?&lt;page&gt;Ita sic est, non enimvero oculi te fallunt. Ille ego sum Zotes Optimus Maximus, illustrissimus eques. Verere mei!&lt;page&gt;Dum in hoc viculo tu hic latebas, illunc ego in obscurissimum puteum eram profectus, ibique saevissimum occidi monstrum immane, horribile a faucibus et a moribus atrox.&lt;page&gt;Quin, scio iam quid arbitreris, omnibus ego ut merear laudibus et gloria. Tamen nihil ad ista temporis habeo! Nunc mihi est capienda quies, ut in meum iterum proficiscar gravissimum iter.</entry>
+<entry name="ZOTE_TOWN_2">Is senex qui stat illic... Nam quas nugas pergit garrire? &quot;Aerem in specubus esse mortiferum&quot;... quin considerat modo non animam spirare?&lt;page&gt;Etiam de somniis deblaterat saepius. Puah! Ii tantum consuescunt somniare, qui infirmiores sunt quam qui vere vivant.</entry>
+<entry name="ZOTE_TOWN_REPEAT">Hic pagulus, quem squalorem! Aer sordidu&#39;st et oppidani invident nimium. Quam mox in inferiora proficiscar oportet.</entry>
+<!-- BAD?? better adjectives -->
+<entry name="ZOTE_DREAM_TOWN1">Quem locum taetrum... Domi me commonet. Quam dirum...</entry>
+
+<!-- BAD? enimvero -->
+<!-- BAD?? Hmm -->
+<entry name="ZOTE_COLOSSEUM_MEET">Hmm? Num quid petis, puer? Num tu quoque me irrisum venis?&lt;page&gt;Fatui! Nonne enim consideravisti, voluisse me revera in hac cavea includi?!&lt;page&gt;Agedum, iam remittite me in Arenam!&lt;page&gt;Mihi nomen est Zotes Optimus Maximus! Et ut aculeum meum, &#39;Ensem Letiferam&#39;, destrictum habebo, tum risus vester convertetur in metum!</entry>
+<entry name="ZOTE_COLOSSEUM_GREET">Semper equidem pugnavi. Centenos, immo etiam millenos ego hostes superavi.&lt;page&gt;Quid ergo isti fatui me putant se posse in proelio superare? Nugae!&lt;page&gt;Nae isti qui exstingui volunt, profecto a Zote Optimo Maximo quod optant impetrabunt!</entry>
+<entry name="ZOTE_COLOSSEUM_REPEAT">Apage, vermicule! Mihi quiescendum est ante proelium. Precare ne mihi in arena adversus eas...</entry>
+<entry name="ZOTE_DREAM_COLOSSEUM">Quam miseriam, quod hic magis cunctor quam meum inceptum persequor...&lt;page&gt;In hoc regnum adveni ad explendum quod promiseram... quod perficiam necessario.</entry>
+<!-- BAD? efficiam -->
+<entry name="DREAM_COL_CORPSE">Ita, puer! Aufuge! Ne amplius te ludos efficiam.</entry>
+
+<!-- BAD?? adiungare? te adiungam? -->
+<entry name="ZOTE_DEEPNEST_1">Eho! Quin quod agis vide, furcifer?! Quid, malum, istum aculeum agitas hebetem in tenebris?&lt;page&gt;Quin, paene me pulsasti modo, bucco! Et si quidem me pulsavisses... Crede mihi! Interemptus esses iam.&lt;page&gt;Mihi nomen est Zotes Optimus Maximus, illustrissimus eques. Hic aculeus, &#39;Ensis Letifera,&#39;, hostes cecidit innumeros. Apage te, ne ad eorum numerum adiungare!</entry>
+<entry name="ZOTE_DEEPNEST_2">Quid, aberrastine via in his obscuris cuniculis? Non curo.&lt;page&gt;Non te ad lucem conducam. Scio enimvero viam, quod quidem mihi optima est memoria, at solitarium ego meum iter volo. Hinc a me abi.</entry>
+<!-- BAD hoc Regnum pullulabat hoc in nido obscuro praedatrices bestias. -->
+<entry name="ZOTE_DREAM_DEEPNEST">Itaque, hoc in nido obscuro, pullulabat hoc Regnum bestias praedatrices. Bene est igitur, quod summus praedator ecce iam adest...&lt;page&gt;... ego quidem, Zotes Optimus Maximus!</entry>
+
+<entry name="ZOTE_DREAM_FINAL">Huc in hoc regnum adveni, ut promissa mea explerem... et ea res tandem peracta est!&lt;page&gt;Quod promiseram iampridem... quod mihimet promisi...&lt;page&gt;Promissa illa gloria mihi, Zoti Optimo Maximo! Semper mihimet confisus, numquam haesitans, tandem omnia consecutus sum quae cupieram.</entry>
+
+<!-- TODO check these -->
+<!-- PRECEPT -->
+<!-- TL note:
+Yeah.
+
+TL 100%
+Check 50%
+Confidence 40%
+-->
+<entry name="PRECEPT_1">... at non id solum fuit periculum, quod in mea expetenda gloria superare debuerim! Animadvertistine hanc palmam? Haec quidem est aliquod trophaeum meae recentissimae victoriae, eius proelii quod pugnatum est in illac cavea.&lt;page&gt;Ita est, ut &#39;Ensis Letifera&#39; novissimam sibi victoriam vindicavit, simul turba spectantium exsultavit in triumpho. Inclamabant tunc victoris nomen, clare et quidem sincere.&lt;page&gt;Quomodo tot tantasque victorias et triumphos alium ex alio tam facile sim adeptus? Scienter rogas. Ut ante dixi, id in hoc potissimum nititur, mea philosophia vitae, quae collecta est in meis &#39;QVINQVAGINTA SEPTEM PRAECEPTIS ZOTIS&#39;. Praecipuum in hoc profecit illud, praeceptum primum: &#39;Vincere, Non Vinci&#39;. Quid de ceteris quiquaginta sex, rogas? Ecce...</entry>
+
+<entry name="PRECEPT_1_R">PRAECEPTVM ZOTIS PRIMVM: &#39;Vincere, Non Vinci&#39;.&lt;page&gt;A perdito proelio nihil accipies, nihil disces. Vincito proelium omne quod facis, aut proelium nec facito ullum!</entry>
+
+<entry name="PRECEPT_2">PRAECEPTVM ZOTIS SECVNDVM: &#39;Irrisores Noli Perferre&#39;.&lt;page&gt;Fatui sunt qui omnia irrident, etiam qui eos longe praestent. Cave tamen, quoniam risus hic innoxius non est, verum ab alio in alios diffunditur, usque adeo ut nemo sit quin te inrideat.&lt;page&gt;Radicitus hunc risum sceleratum praecide, ne irrisum te quis veniat.</entry>
+
+<entry name="PRECEPT_3">PRAECEPTVM ZOTIS TERTIVM: &#39;Quiesce&#39;.&lt;page&gt;Pugnare, itineraque sustinere, magni laboris est corpori tuo. Corpus tuum tamen cum requiescit, sanatur et fortius fit. Et quo longius conquiesces, tanto fortius fiet.</entry>
+
+<entry name="PRECEPT_4">PRAECEPTVM ZOTIS QVARTVM: &#39;Immemor Praeteriti Esto&#39;.&lt;page&gt;Dolet meminisse rerum praeteritarum. Si quid praeteriti reminisceris, miseria&#39;st. Aliis ergo cogita de rebus, velut de futuris, vel de sapido cibo.</entry>
+
+<entry name="PRECEPT_5">PRAECEPTVM ZOTIS QVINTVM: &#39;Vis Contra Vim&#39;.&lt;page&gt;Esne sollicitus, quia adversarius quam tu videatur validior? Modo tu esto validior, et eum facile evinces.</entry>
+
+<entry name="PRECEPT_6">PRAECEPTVM ZOTIS SEXTVM: &#39;Fatum Ipse Tuum Creato&#39;.&lt;page&gt;Maiores nostri ita profitentur, sortem esse unicuique certam, eamque ante quam nascimur esse statutam. Ego quidem dissentio.</entry>
+
+<entry name="PRECEPT_7">PRAECEPTVM ZOTIS SEPTIMVM: &#39;Mortuos Noli Lugere&#39;.&lt;page&gt;Cum mortui erimus, meliusne an peius habebimus nos? Cum neutrum pro certo scire possimus, neque lugenda neque celebranda est mors.</entry>
+
+<entry name="PRECEPT_8">PRAECEPTVM ZOTIS OCTAVVM: &#39;Esto Solitarius&#39;.&lt;page&gt;Confidere nemini potes, quia fidelis usque erit nemo. Neminem igitur comitem tibi habeto.</entry>
+
+<!-- BAD? emdash -->
+<entry name="PRECEPT_9">PRAECEPTVM ZOTIS NONVM: &#39;Domus Munda Esto&#39;.&lt;page&gt;Domi est ubi tuam maximam rem reponis &#8212; te ipsum. Quare purga eam, quam mundissima ut sit.</entry>
+
+<!-- PRECEPT_10 -->
+<entry name="PRECEPT_10">PRAECEPTVM ZOTIS DECIMVM: &#39;Aculei Acies Exacuta Esto&#39;.&lt;page&gt;Semper curo ut mei aculei, &#39;Ensis Letiferae&#39;, quam acutissima sit acies. Sic multo facilius quidlibet caedere possum.</entry>
+
+<entry name="PRECEPT_11">PRAECEPTVM ZOTIS VNDECIMVM: &#39;Matres Infidas Habeto&#39;.&lt;page&gt;Causa liquet.</entry>
+
+<entry name="PRECEPT_12">PRAECEPTVM ZOTIS DVODECIMVM: &#39;Pallium Siccum Esto&#39;.&lt;page&gt;Si pallium tuum madidum fit, siccum id fac quam primum. Pallium madens est enim molestum, et aegrotum te faciet.</entry>
+
+<entry name="PRECEPT_13">PRAECEPTVM ZOTIS TERTIVM DECIMVM: &#39;Noli Metuere&#39;.&lt;page&gt;Quod te retinere potest, metus tantum est. Metum autem vincere maximi laboris est. Igitur, noli in primo metuere quicquam.</entry>
+
+<entry name="PRECEPT_14">PRAECEPTVM ZOTIS QVARTVM DECIMVM: &#39;Reverere Maiores&#39;.&lt;page&gt;Si quis te vel viribus vel intellectu superat, eum tibi vereri oportet. Noli eum irridere aut ignorare.</entry>
+
+<entry name="PRECEPT_15">PRAECEPTVM ZOTIS QVINTVM DECIMVM: &#39;Hostes Singulo Ictu Superato&#39;.&lt;page&gt;Singulo ictu hostes superare oportet. Nam plures adhibere dispendio est. Etiam, si ictus tuos inde numerabis, tum hostium victorum numerum quoque cognosces.</entry>
+
+<entry name="PRECEPT_16">PRAECEPTVM ZOTIS SEXTVM DECIMVM: &#39;De Consiliis Noli Ambigere&#39;.&lt;page&gt;Si quid constituis facere, perficito id usque ad finem. Plures res sic effeceris.</entry>
+
+<entry name="PRECEPT_17">PRAECEPTVM ZOTIS SEPTIMVM DECIMVM: &#39;Tuis Viribus Confide&#39;.&lt;page&gt;Alii de te dubitare possunt, sed unus est cui semper confidere potes: tibimet. Dum tibimet confides, numquam haesitabis.</entry>
+
+<entry name="PRECEPT_18">PRAECEPTVM ZOTIS DVODEVICESIMVM: &#39;In Tenebris Veritas&#39;.&lt;page&gt;Liquet etiam.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_19">PRAECEPTVM ZOTIS VNDEVICESIMVM: &#39;Ubi Conandum Est, Consequere&#39;.&lt;page&gt;Si quid facere conaberis, fac ut id succedat. Nisi vero succedet, tum id defecerit! Hoc quam maxime vita.</entry>
+
+<!-- PRECEPT_20 -->
+<entry name="PRECEPT_20">PRAECEPTVM ZOTIS VICESIMVM: &#39;Verum Tantum Profiteri&#39;.&lt;page&gt;Cum alios alloqueris, decet, et expeditissimum est, vera eloqui. Cave autem quod veritas odium parit. Hoc tibi erit patiendum.</entry>
+
+<entry name="PRECEPT_21">PRAECEPTVM ZOTIS VICESIMVM PRIMVM: &#39;Animadverte Quod Circa Te Est&#39;.&lt;page&gt;Dum ambulas porro, noli oculos in terram defigere! Interdum erit prorsus aspiciendum, ut nihil inexspectati advorsus in via adveniat.</entry>
+
+<entry name="PRECEPT_22">PRAECEPTVM ZOTIS VICESIMVM SECVNDVM: &#39;Ab Incunabulis Secede&#39;.&lt;page&gt;Quam primum potui, ab incunabulis secessi. Noli cessare in nido. Ibi nihil inest boni tibi.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_23">PRAECEPTVM ZOTIS VICESIMVM TERTIVM: &#39;Comperi Infirmitates Hostis&#39;.&lt;page&gt;Cuique hosti quem inveneris erit aliqua infirmitas, vel si rimulam habeat in concha, vel quod dormiat. Inquire quam assidue infirmitatem hostis quae sit!</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_24">PRAECEPTVM ZOTIS VICESIMVM QVARTVM: &#39;Appete Infirmitates Hostis&#39;.&lt;page&gt;Cognita hostis infirmitate, ut supra dictum est, appete eam. Per hoc occides.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_25">PRAECEPTVM ZOTIS VICESIMVM QVINTVM: &#39;Defende Infirmitates Tuas&#39;.&lt;page&gt;Cave, quod hostes tuas exquirent quae sint infirmitates, ideoque sunt protegendae. Quae sit optima protectio? Nullam habere infirmitatem.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_26">PRAECEPTVM ZOTIS VICESIMVM SEXTVM: &#39;Tuae Imagini Noli Fidere&#39;.&lt;page&gt;Cum in quasdam superficies inspicies, faciei tuae similis respiciet aliqua imago. Imago haec gestus tuos imitabitur, tuumque vultum assimulabit, quam ob rem non censeo eam mereri ullam fidem.</entry>
+
+<entry name="PRECEPT_27">PRAECEPTVM ZOTIS VICESIMVM SEPTIMVM: &#39;Quantum Potes Comede&#39;.&lt;page&gt;Quandocumque edis, comede quantum potes. Sic maiores vires habebis, et esuries minus.</entry>
+
+<entry name="PRECEPT_28">PRAECEPTVM ZOTIS VICESIMVM OCTAVVM: &#39;In Tenebras Noli Aspicere&#39;.&lt;page&gt;Si nimium in loco obscuro intueris, ubi nihil praeter tenebras est quod aspicias, tum mens tua memorias recordari incipiet. Vitandum est id, ut in quarto praecepto dictum est.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_29">PRAECEPTVM ZOTIS VICESIMVM NONVM: &#39;Tenere Cursum&#39;.&lt;page&gt;Quoniam semitae in specubus dirimuntur, colligantur, convolvuntur, facile est de via aberrare. Certum cursum autem si teneas et dirigas, quasi charta in mente est quae te admoneat.</entry>
+
+<!-- PRECEPT_30 -->
+<entry name="PRECEPT_30">PRAECEPTVM ZOTIS TRICESIMVM: &#39;Promissa Noli Accipere&#39;.&lt;page&gt;Spernenda sunt promissa aliorum, qui numquam quod pollicentur reddunt. Amoris promissa, vel etiam matrimonii, sunt praecipue vitanda.</entry>
+
+<entry name="PRECEPT_31">PRAECEPTVM ZOTIS TRICESIMVM PRIMVM: &#39;Caenum Morbos Gignit&#39;.&lt;page&gt;Si nimio tempore lutulento in loco versabis, aeger fies. Ubi erit devertendum alienae domi, quam maximam munditiam postulato.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_32">PRAECEPTVM ZOTIS TRICESIMVM SECVNDVM: &#39;Nomen Omen&#39;.&lt;page&gt;In nomine sunt vires, itaque si nomen attribuas alicui rei, potestatem simul ei condonas. Qua de causa, aculeum meum sic appellavi, &#39;Ensem Letiferam&#39;. Cave furtum feceris huius nominis! Comminiscere nomen aliquod tuum!</entry>
+
+<entry name="PRECEPT_33">PRAECEPTVM ZOTIS TRICESIMVM TERTIVM: &#39;Vae Victis&#39;.&lt;page&gt;Hostibus victis parcere nulla virtus est! Si aliquis adversatur tibi, is nullam meretur gratiam, clementiam, misericordiam.</entry>
+
+<entry name="PRECEPT_34">PRAECEPTVM ZOTIS TRICESIMVM QVARTVM: &#39;Antequam Dormias Noli Comesse&#39;.&lt;page&gt;Ne, propter cruditatem, inquieta nox fiat. Hoc omnes sciunt.</entry>
+
+<entry name="PRECEPT_35">PRAECEPTVM ZOTIS TRICESIMVM QVINTVM: &#39;Quod Supra Supra Est, Quod Deorsum Deorsum&#39;.&lt;page&gt;Si in obscuro loco cades, quorsum sit sursum erit ab integro comperiendum. Bene igitur huius praecepti memento!</entry>
+
+<entry name="PRECEPT_36">PRAECEPTVM ZOTIS TRICESIMVM SEXTVM: &#39;Testa Ovi Facile Fracta Est&#39;.&lt;page&gt;Huius quoque praecepti causa liquet.</entry>
+
+<entry name="PRECEPT_37">PRAECEPTVM ZOTIS TRICESIMVM SEPTIMVM: &#39;Mutuas Res Quaere, Noli Dare&#39;.&lt;page&gt;Si rem mutuam das, deinde recipis, nihil accepisti. Si mutuam rem obtines, neque reddis, acquisisti omne.</entry>
+
+<entry name="PRECEPT_38">PRAECEPTVM ZOTIS TRICESIMVM OCTAVVM: &#39;Cave Vim Ignotam&#39;.&lt;page&gt;Vis quaedam ignota est, quae nos gravat, deorsum nos premit. Si nimium commoraris in aere, deiectus eris in solum ab hac vi, et ibi peries. Caveto!</entry>
+
+<entry name="PRECEPT_39">PRAECEPTVM ZOTIS TRICESIMVM NONVM: &#39;Cito Comes, Pota Lente&#39;.&lt;page&gt;Corpus nostrum est veluti aliqua delicatissima machina, quam ob rem quam maxime considerate in id alimenta ducamus oportet. Cibus solidus quam citissime comedendus, liquida lentius potanda sunt.</entry>
+
+<!-- PRECEPT_40 -->
+<entry name="PRECEPT_40">PRAECEPTVM ZOTIS QUADRAGESIMVM: &#39;Legibus Nisi Tuis Noli Parere&#39;.&lt;page&gt;Leges quas alii scripserunt, tui incommodi causa scripserunt. Quae desideras ea tuae leges sunto.</entry>
+
+<entry name="PRECEPT_41">PRAECEPTVM ZOTIS QUADRAGESIMVM PRIMVM: &#39;Deprehendere Falsos&#39;.&lt;page&gt;Alii cum lonquuntur, soliti sunt mentiri. Donec sua mendacia fatebuntur, continenter percontare eos.</entry>
+
+<entry name="PRECEPT_42">PRAECEPTVM ZOTIS QUADRAGESIMVM SECVNDVM: &#39;Quam Pecuniam Habes Impende&#39;.&lt;page&gt;Sunt qui ita Georum sint avidi, ut etiam in morte ea dimittere non queant. Melius est omne Geum quam citissime dispendere, ut deliciis ac voluptatibus vitae fruare.</entry>
+
+<entry name="PRECEPT_43">PRAECEPTVM ZOTIS QUADRAGESIMVM TERTIVM: &#39;Noli Ignoscere Quicquam&#39;.&lt;page&gt;Si quis ignosci postulat sibi, vel etiam si frater tuus, denega id ei. Iste frater, aut quisquis est, ignosci non meretur.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_44">PRAECEPTVM ZOTIS QUADRAGESIMVM QVARTVM: &#39;Sub Aqua Non Potest Spirari&#39;.&lt;page&gt;Aqua scilicet potui est iucunda, tamen si sub aqua spiritum conaberis ducere, pessimam rem tibi habebis compertam.</entry>
+
+<!-- BAD? quam? quae? qualem fuisse? -->
+<entry name="PRECEPT_45">PRAECEPTVM ZOTIS QUADRAGESIMVM QVINTVM: &#39;Hoc Non Est Illud&#39;.&lt;page&gt;Hoc enimvero perspicuum est, tamen fuerunt quidam qui aliquam rem, quam qualis fuisset erat manifestum, tamen alteram rem eam fuisse aiebant, quam plane non erat. Cave ab his!</entry>
+
+<entry name="PRECEPT_46">PRAECEPTVM ZOTIS QUADRAGESIMVM SEXTVM: &#39;Mundus Est Opinione Minor&#39;.&lt;page&gt;In pueritia, mundus nimirum habetur vastus, immensus, immanis. Atqui mundus videlicet eo est minor. Et ego quidem hoc aio, qui late longeque mundum sum peregrinatus.</entry>
+
+<entry name="PRECEPT_47">PRAECEPTVM ZOTIS QUADRAGESIMVM SEPTIMVM: &#39;Ensem Confice Artificio Tuo&#39;.&lt;page&gt;Quali aculeo sit tibi opus, scis perfecte tu solus. &#39;Ensem Letiferam&#39; confeci egomet ex ligno testaceo in pueritia. Numquam postea ea me defecit. Neque ego eam.</entry>
+
+<entry name="PRECEPT_48">PRAECEPTVM ZOTIS QUADRAGESIMVM OCTAVVM: &#39;Cave Ab Igni&#39;.&lt;page&gt;Ignis est aliquod genus spiritus ardentis, qui ad incertos modos movetur. Quamquam scilicet tepefacere te et lucem facere maxime prodest, si incaute propius ad eum accedas, concham tuam amburet.</entry>
+
+<entry name="PRECEPT_49">PRAECEPTVM ZOTIS QUADRAGESIMVM NONVM: &#39;Effigies Flocci Facito&#39;.&lt;page&gt;Numne mea est effigies? Sin minus, numquid mea refert?</entry>
+
+<!-- PRECEPT_50 -->
+<entry name="PRECEPT_50">PRAECEPTVM ZOTIS QUINQUAGESIMVM: &#39;Nodum In Scirpo Noli Quaerere&#39;.&lt;page&gt;Sunt aliquae res in hoc mundo, quae velut scirpi nobis videntur. Vel aenigmata. Si sensus alicuius rei plane non liquet, omitte eam rem. Praeteri modo.</entry>
+
+<entry name="PRECEPT_51">PRAECEPTVM ZOTIS QUINQUAGESIMVM PRIMVM: &#39;Nulla Est Res Sine Damno&#39;.&lt;page&gt;Nihil in hoc mundo est, quod tibi dato spatio non noceat. Amici, vel hostes, vel monstra, vel semitae iniquae. Haec omnia in suspicione habeto.</entry>
+
+<entry name="PRECEPT_52">PRAECEPTVM ZOTIS QUINQUAGESIMVM SECVNDVM: &#39;Patres Invidos Caveto&#39;.&lt;page&gt;Patres, quia te pepererit, se a te serviri oportere, nequaquam a te posse superari credent. Si vis invenire viam tuam, vincere tuum patrem debes. Aut saltem eum derelinquere.</entry>
+
+<entry name="PRECEPT_53">PRAECEPTVM ZOTIS QUINQUAGESIMVM TERTIVM: &#39;Desideria Aliorum Noli Surripere&#39;.&lt;page&gt;Omnia animalia in se sua desideria conservant. Si quid desiderium alienum conspicias, id desiderium noli facere tuum. Non enim ad beatiorem vitam te adducet.</entry>
+
+<entry name="PRECEPT_54">PRAECEPTVM ZOTIS QUINQUAGESIMVM QVARTVM: &#39;Si Quid Occludas Sub Clavi, Retine Clavem&#39;.&lt;page&gt;Nihil decet perpetuo tenere sub clavi, qua de causa eam clavem usque servato. Quod occlusisti quondam, aliquando recludes.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_55">PRAECEPTVM ZOTIS QUINQUAGESIMVM QVINTVM: &#39;Morigerus Esto Nemini&#39;.&lt;page&gt;Sunt aliqui, molesti imperiosi, qui alios ad suam voluntatem volunt cogere, et potiri cibo, terra, imperioque tui corporis, vel etiam opinionis!&lt;page&gt;Nec quicquam fecerunt, ut has res mererent. Noli istis subjicere caput, eorumque dictis nunquam pareto.</entry>
+
+<!-- BAD? -->
+<entry name="PRECEPT_56">PRAECEPTVM ZOTIS QUINQUAGESIMVM SEXTVM: &#39;Noli Somniare&#39;.&lt;page&gt;Nihil est periculosius quam somnium. Sententiae insolitae, alienae quidem, obsident tuam mentem, neque affatim eas repugnare poteris, quoniam dolebit. Quare optimum est non somniare quicquam, ut equidem soleo.</entry>
+
+<entry name="PRECEPT_57">PRAECEPTVM ZOTIS QVINQVAGESIMVM SEPTIMVM: &#39;Quodque Praeceptum Usque Observato&#39;.&lt;page&gt;Praecepta haec comprehende memoria, hisque regulis usque oboediens esto. Et huic praecipue!&lt;page&gt;Hmm. Accepistine omne quod praecepi? Satius sit iterare, et ab initio ut recitem mea &#39;QVINQVAGINTA SEPTEM PRAECEPTA ZOTIS&#39;...</entry>
+</entries>

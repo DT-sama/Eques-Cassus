@@ -1,0 +1,62 @@
+<entries>
+<!-- TL note:
+Needs work. I wanted him to be a man of few words.
+This is the result now.
+
+TL 100%
+Check 99%
+Confidence 95%
+-->
+
+<!--
+Faber Aculearius
+-->
+<entry name="NAILSMITH_MEET_1">Fersne alium aculeum, cuius mucronem exacuam? Relinque humi, et redito post, si vives.</entry>
+<entry name="NAILSMITH_MEET_2">Hem?&lt;page&gt;Oh. Alius es quam credidi.</entry>
+<entry name="NAILSMITH_MEET_3">Quaerisne Fabrum? Reperisti. Etiam si minus placet loqui, siqui aculeus est reficiendus, ad locum opportunum advenisti.&lt;page&gt;Iste aculeus est valde retusus... plane non est unus meorum. Tamen arte, opera et ingenio, etiam iste ensis retunsus refici potest.</entry>
+
+<entry name="NAILSMITH_GREET">Hem? Oh, redis.</entry>
+<entry name="NAILSMITH_REGREET">Hem? Etiam ades. Numquid me vis?</entry>
+
+<entry name="NAILSMITH_OFFER">Recoquam, si vis, istum aculeum, et acutiorem ei aciem excudero.</entry>
+<entry name="NAILSMITH_ACCEPT">Igitur, aculeo operam dabo.</entry>
+<entry name="NAILSMITH_DECLINE">Nonne vis? Ut libet.</entry>
+
+<entry name="NAILSMITH_NOT_ENOUGH_GEO">Ah, non habes Geum? Revenito cum habueris.</entry>
+
+<entry name="NAILSMITH_OFFER_ORE">Video te reperisse Aes Album. Optimum metallum est, et rarum. Si id aes mihi des, atque pretium pro opera, Aculeum tuum acutiorem refecero.</entry>
+
+<entry name="NAILSMITH_NEED_ORE1">Aes Album I afferto, et Aculeum acutiorem refecero.</entry>
+<entry name="NAILSMITH_NEED_ORE2">Aera Alba II afferto, et Aculeum acutiorem refecero.</entry>
+<entry name="NAILSMITH_NEED_ORE3">Aera Alba III afferto, et Aculeum acutiorem refecero.</entry>
+
+<entry name="NAILSMITH_COMPLETE_1">Ecce tibi Aculeus refectus, cui aciem exacui.&lt;page&gt;Plane acutior tibi visus erit. I nunc, et agitato eum in hostes.</entry>
+<entry name="NAILSMITH_COMPLETE_2">Ecce tibi Aculeus refectus. Ita eum caelavi, ut melius caedat.&lt;page&gt;Plane acutior tibi visus erit. I nunc, et eius aciem in hostes temptato.</entry>
+<entry name="NAILSMITH_COMPLETE_3">Ecce tibi Aculeus refectus. Laminam in spiras procudi, quod hau facile factu fuit.&lt;page&gt;Plane acutior tibi visus erit. I nunc, et hostes percellito porro.</entry>
+<!-- BAD -->
+<entry name="NAILSMITH_COMPLETE_4">Perfectus est. Ecce refectus est Aculeus.&lt;page&gt;Iste Aculeus iam optimam aciem tenet.&lt;page&gt;In tuo enim aculeo solum, tanta mihi obvenit opportunitas, ut tandem illum aculeum excuderem: Aculeus Perfectus.&lt;page&gt;Quale opus me confecisse, quam mox in vita mea...&lt;page&gt;Ego... ego nunc foras discedere parumper volo...</entry>
+
+<!-- BAD? Longum post tempus, tanto post labore... nonne id tandem meritus sum -->
+<entry name="NAILSMITH_KILL">Tandem Aculeo Perfecto excuso, unius vitae iam summum opus perfeci. Nunc id demum mihi restat desiderium, ut eum caedere aspiciam, immo ut experiar!&lt;page&gt;Obsecro, caede me isto aculeo. Sic de vita excedere volo, perfecta ensis cuspide caesus.&lt;page&gt;Longum post tempus, tanto post labore... nonne id tandem meritus sum?</entry>
+<!-- BAD?? mucronem -->
+<entry name="NAILSMITH_KILL_REPEAT">Noli cunctari. Obsecro. Caede me! Id demum desidero, experiri istunc perfectum mucronem.</entry>
+
+<entry name="NAILSMITH_DREAM_INTERIOR">...Excudere Aculeum perfectum...</entry>
+<!-- BAD? Quid nunc mihi vivere restat -->
+<entry name="NAILSMITH_DREAM_CLIFF">Unius vitae maximo opere perfecto... Quid nunc mihi vivere restat...?</entry>
+
+<entry name="NAILSMITH_SIGN">Unused</entry>
+
+<!-- BAD? Ad hunc igitur explorandum profectus -->
+<!-- BAD?? deveni -->
+<entry name="ART_MEET">Hem? Oh, heus tu. Quam mirum, in tam amplo mundo, nos ambo iterum in unum locum convenire.&lt;page&gt;Gratias tibi ago, quod cum rogassem non me cecidisti. Cum primum causam non intellegerem, idque moleste tulissem, tamen multum postquam mecum cogitavi, prudentiam tuam agnovi.&lt;page&gt;Hic mundus... e pluribus rebus constat quam metallo et aculeo. Ad hunc igitur explorandum profectus, huc tandem deveni.&lt;page&gt;Scaeo hic est magister multarum artium, quas me pollicitu&#39;st docere. Credo me pulchre habiturum hic.</entry>
+<entry name="ART_DREAM">....Una fere aetate in labore consumpta... hoc nihil est sane quod respuam...</entry>
+
+<!-- BAD?? -->
+<entry name="PAINTED">Vereor, ne non multa tecum facere queam. Nam si nimium meum corpus moveam, vitium fiet magno operi Magistri Scaeonis, neque velim ei tantam afferre molestiam.&lt;page&gt;Is enim, quamvis corporis statura videatur ingens, verum tamen animo tenellu&#39;st.</entry>
+<entry name="PAINTED_REPEAT">Oh, exstare inter densas Nidisacrenses tenebras tantam animi benignitatem!...</entry>
+
+<!-- BAD?? Haec quidem subtilissima ars, animum meum prorsus succendit -->
+<entry name="MODELLING">Parva sigilla nunciam conficimus Equitatus Regii. Ubi idcirco ego paene oblitus sum eorum, quod parvi tunc temporis eos faciebam, Scaeo equitis uniuscuiusque clarissime commeminit.&lt;page&gt;Ah, sed quam hoc me iuvat! Plane haec quam secus est atque illa mea annosa rudisque ars cudendi! Hoc quidem mihi subtilissimum artificium, animum meum prorsus accendit.</entry>
+<entry name="MODELLING_REPEAT">Incredibile. Numquam opinatus essem, meas manus tam subtiliter materiam effingere posse...</entry>
+</entries>

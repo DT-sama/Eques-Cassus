@@ -1,0 +1,16 @@
+<entries>
+<entry name="STATIONS">Stationes</entry>
+<entry name="DIRTMOUTH">Pulveria</entry>
+<entry name="CROSSROADS">Tramites Relicti</entry>
+<entry name="GREENPATH">Via Viridis</entry>
+<entry name="CITY_OF_TEARS_1">Promptuaria Urbis</entry>
+<entry name="ROYAL_GARDENS">Horti Reginae</entry>
+<entry name="KINGS_STATION">Statio Regis</entry>
+<entry name="FUNGAL_WASTES">Statio Reginae</entry>
+<entry name="HIDDEN_STATION">Statio Abdita</entry>
+<entry name="RESTING_GROUNDS">Requietorium</entry>
+<entry name="STAG_NEST">Nidus Scarabaeus</entry>
+<entry name="PALACE_GROUNDS">Regalia</entry>
+<entry name="DEEPNEST">Pagus Remotus</entry>
+<entry name="BONE_FOREST">Silva Ossium</entry>
+</entries>

@@ -1,0 +1,35 @@
+<entries>
+<!-- TL note:
+Not too bad, but it's very rough. One of the first characters I did.
+I wanted a somewhat rustic feel for it, to represent her aloofness, but I guess it doesn't really figure that much.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+
+<!--
+Iselda, -ae.
+-->
+
+<entry name="ISELDA_MEET">Heus tu, venisne emptum tabulas? De eis potius cum marito rem agitare debeas, sed en, ipse descendit in puteum.&lt;page&gt;Is interdum, ut novas chartas ferat quae in taberna veneant, profecto illinc huc ascendit, sed velim tamen ut minus temporis degat in illis ruinis. Enim mercaturas facere me satis aegre tenet.&lt;page&gt;Eia vero, videamus quid habeam, quod tibi vendere possum.</entry>
+
+<entry name="ISELDA_GREET1">Omnibus ex locis quo poteramus deverti, en hoc oppidum desertum... Arbitrata eram nos mox profecturos hinc fuisse, at maritus subito ab illa ruina captus est.&lt;page&gt;Nunc totum diem conterit ibi. Ait vero vendere tabulas pictas esse honestissimum negotium, at quis eas emet praeter te?</entry>
+<entry name="ISELDA_REPEAT">Ut vales in ruinis? Nidus Sacer, ut maritus solet mihi narrare, videtur locus interdum amoenus, nonnumquam infensus, ac periculis utique confertus.</entry>
+
+<!-- BAD -->
+<entry name="ISELDA_CORNIFER_HOME">Tandem Cornifer domum rediit. Tamen em eum, prorsum confectum! Semper ita est, is primum alicuius loci chartam pingit assidue, dein propter lassitudinem humi corruit omnino.&lt;page&gt;Nunc aliquamdiu sic videtur dormiturus. Vae mihi, qui etiam cum domi maritus adest, coniuge meo nequeo frui!&lt;page&gt;Ahhh, sed quotquot sunt ei vitia, tamen hunc amo, cuius tam fervidum explorandi studium, etiam in me nescioquem incendit ardorem.&lt;page&gt;Cornellus vero me saepenumero poposcit ut secum irem exploratum, at ego semper recusavi. Quid ais, quid si proximum assentiar ei?</entry>
+
+<entry name="ISELDA_NOSTOCK">Etiam commeatum apparas? Mecastor, sed omnia iam coemisti quae habuimus vendere!&lt;page&gt;Cornifer sane delectabitur hac re, sed subvereor in quid tantam pecuniam velit impendere.</entry>
+
+<entry name="ISELDA_DREAM">Bene fuit deponere aculeum, namque nunc iucundiore vita non fruerer, hac quidem tranquilla cum Cornello meo.&lt;page&gt;Verum tamen velim spatiari foras... fortasse mox...</entry>
+
+<!-- UNUSED -->
+<entry name="ISELDA_GHOSTPIN">Modo narrabat Cornellus meus, de peculiaribus sepulchris ac templis quae circum regnum eminent, ad quae designanda, ecce confeci novum sigillum.&lt;page&gt;Nec parvi laboris fuit tam subtiliter hoc conficere, quamobrem paulo maioris pretii venit.</entry>
+<!-- UNUSED -->
+<entry name="ISELDA_TRAMPIN">In Nido Sacro, ut fert Cornellus, sunt quidam magni carri mechanici... Equidem, eos cui rei prosint non videns, rogo nonne potius praesto sunt ii scarabaei, de quibus etiam locutu&#39;st?&lt;page&gt;Nihilominus, sigillum ad designandos eos confeci. Utile erit, si chartam subtilius perfectam velis.&lt;page&gt;Nec fuit affatim difficile factu, quare nec maiore pretio posco.</entry>
+<!-- UNUSED -->
+<entry name="ISELDA_DREAMTREE">Maritus narravit, de quibusdam insolitis radicibus quae circum regnum crescunt, et hortatus est ut sigillum ad eam denotandam conficerem.&lt;page&gt;Ecce igitur sigillum. Quam Cornello videtur, in sigillo hoc radicem magnificentiorem depinxi, quam illam siccam miserabilemque quam invenerat. Equidem sic melius esse censeo, nam quis emat sigillum alicuius miserae exsiccatae radicis?</entry>
+
+<entry name="ISELDA_NEW_MAP">ISELDA_NEW_MAP</entry>
+</entries>

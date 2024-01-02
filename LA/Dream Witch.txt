@@ -1,0 +1,67 @@
+<entries>
+<!-- TL note:
+Oh god why is this so hard.
+
+TL 100%
+Check 50%
+Confidence 40%
+-->
+
+<!--
+Saga, -ae.
+-->
+<!-- BAD? -->
+<entry name="WITCH_INTRO">Illae imagines, illi Somniatores... Paucis reliquis suis viribus collectis, illum ii te impulerunt abditum in locum.&lt;page&gt;At istud phylacterium, iste Aculeus Somniorum quem stringis... is aculeus potest id velum interscindere, quod mundum vigiliae a mundo soporis seiungit, sic ut ipsi Somniatores a potestate sua non queant abscondi.&lt;page&gt;At fateor tamen, hunc sacrum aculeum tempus valde hebetasse videtur. Set fortasse nobis modus erit, quo modo potestatem eius restituamus. Affer mihi modo Substantiam.&lt;page&gt;Substantia Somnii.. ea pretiosa fragmina lucis, ex quibus somnia consistunt. Collige ea ubicumque terrarum reperias, eamque coacervatam ad me Substantiam referto.&lt;page&gt;Cum satis Substantiam habebimus collectam, tum quaevis miracula patrabimus. Proficiscere nunc in mundum, o Aculeifer. Exquire Substantiam quae in eo latet!&lt;page&gt;Particulis demum saltem centum Substantiae collectis, redito huc ad me, et plus te docebo...</entry>
+
+<entry name="WITCH_MEET_A">Ahhhh, redisti. Exoptatum te rursus excipio in mundo vigilantium.</entry>
+<!-- BAD? -->
+<entry name="WITCH_MEET_B">Ahhhh, tandem reditum ad me repperisti. Cum e somno solutus es, modo abisti. Credebam vero me te terruisse.</entry>
+
+<!-- BAD?? -->
+<entry name="WITCH_GREET">Ah, redisti, o Aculeifer. Sine adspiciam tuum Aculeum Somniorum...</entry>
+
+<!-- BAD? -->
+<entry name="WITCH_GENERIC">Huic regno insunt multae veterrimae memoriae, aliae pulcherrimae, aliae foedissimae. Conquire eas et adaperi, earumque colligito Substantiam.</entry>
+
+<!-- BAD Nonne eas arbores vidisti susurrantes, quae passim in hoc Regno nascuntur? Quin, etiam unam prope credo adesse foris. -->
+<entry name="WITCH_HINT_DREAMPLANT">Ubi somnia suas radices capiunt, ibi maxime Substantia invenitur.&lt;page&gt;Vidistine illas arbores susurrantes, quae dispersim per Regnum nascuntur? Quin, etiam unam prope credo crevisse foris. Quid si eam caedere Aculeo Somniorum coneris?</entry>
+<!-- BAD?? -->
+<entry name="WITCH_HINT_XERO">Somnia nonnumquam figuram se assimulant defunctorum. Et somnia eiusmodi sunt magnus quidem fons Substantiae!&lt;page&gt;Inquirendum est praesertim prope sepulcra vel monumenta. Quin, credo etiam aliquod me vidisse eiusgeneris sepulcrum in sepulcreto Requietorii.&lt;page&gt;At si quidem ea somnia turbare statueris, caveto: non sine pugna evades.</entry>
+
+<!-- BAD?? -->
+<entry name="WITCH_DREAM1">Oh, quam iniquam ad sortem isti te impulerunt.&lt;page&gt;Quem in spatium inter corpora et spiritum obiecerunt.&lt;page&gt;Quid ages, demiror. Utrum morem eis geres, et a conatu tuo recedes? An eo fortius aculeum destringes, et viam ab infelici somnio aperies?</entry>
+<!-- BAD At perge modo mundum appetere isto tuo Aculeo Somniorum... -->
+<entry name="WITCH_DREAM">Quid facis, quid in somniis petis huius vetulae anus? Nihil momenti inest hic, mihi crede.&lt;page&gt;At perge modo mundum petere tuo Aculeo Somniorum... Et res tibi opertae recludent.</entry>
+<entry name="WITCH_DREAM_FALL">Etiam si tu ipse occidas, tamen voluntas tua perget.&lt;page&gt;Somnium sine fine est, Regnum non item.&lt;page&gt;Potestas excitandi huius mundi... ostende modo manum, et apprehendes eam.</entry>
+
+
+<!-- TODO: look at these -->
+<entry name="WITCH_QUEST_1">Hm. Adhuc imperitu&#39;s in arte somniandi. Collige saltem 100 particulas Substantiae cum Aculeo Somniorum. Deinde redito huc, et quam scientiam habeo, impertiam tibi.</entry>
+<entry name="WITCH_QUEST_2">Acutior videris, ut iste Aculeus Somniorum, tamen longa adhuc est via. Redito huc ad me, particulis Substantiae collectis dumtaxat 200.</entry>
+<entry name="WITCH_QUEST_3">Acutior videris, ut iste Aculeus Somniorum, tamen longa adhuc est via. Redito huc ad me, particulis Substantiae collectis dumtaxat 300.</entry>
+<entry name="WITCH_QUEST_4">Ah, videris iam perite istum Aculeum Somniorum stringere. Redito huc ad me, particulis dumtaxat 500 collectis  Substantiae, et plus te docebo.</entry>
+<entry name="WITCH_QUEST_5">Ah, videris iam perite istum Aculeum Somniorum stringere. Redito huc ad me, particulis dumtaxat 700 collectis  Substantiae, et plus te docebo.</entry>
+<entry name="WITCH_QUEST_5B">Hui hui, prope videris in somnium conversus, tu quidem! Collectis dumtaxat 900 particulis Substantiae, aliquid quod diutissime occului te docebo.</entry>
+<entry name="WITCH_QUEST_6">Ahhh, quam clare nitet iste Aculeus Somniorum! Perge sic. Redito huc ad me, particulis Substantiae collectis dumtaxat 1200.</entry>
+<entry name="WITCH_QUEST_7">Ahhh, quam clare nitet iste Aculeus Somniorum! Perge sic. Redito huc ad me, particulis Substantiae collectis dumtaxat 1500.</entry>
+<entry name="WITCH_QUEST_8">Incredibile est... Aculei Somniorum vis paene excitata esse videtur! Collige etiam plus Substantiam! Particulis deinde Substantiae collectis dumtaxat 1800, aliquid mirabile eveniet!</entry>
+<!-- BAD -->
+<entry name="WITCH_QUEST_9">Aculeus Somniorum tandem est excitatus, sed tu adhuc sedulo Substantiam colligis. Num quam ego in animo tuo industriam incendi, vel studii Substantiam colligendi?&lt;page&gt;Quin ergo, perge modo! Ut eventura res sit gaudens expectabo.&lt;page&gt;Collectis deinde particulis Substantiae dumtaxat 2400, redito huc ad me. Nihil habeo quod iam tibi pro opera donarem... sed saltem illum te esse demonstraveris, quem pridem mea tribus exspectabat Aculeiferum.</entry>
+
+<entry name="WITCH_REWARD_1">Ehem, iam 100 particulas Substantiae collegisti, et quidem quam cito!&lt;page&gt;Haud mirum est, Somniatores te in illo somnio conatos esse arcere. Fortasse te metuunt? An forte, quod ipsi sint captivi, tua captivi desiderabatur ab illis societas?&lt;page&gt;Utut est, etiam longa adhuc est opera. Cape nunc munusculum meum hoc, et post quam 200 particulas Substantiae collegeris, huc redito ad me.</entry>
+<entry name="WITCH_REWARD_2A">Ahhh... Ut Aculeus Somniorum tenet iam 200 particulas Substantiae, ita demonstras tuam peritiam.&lt;page&gt;Vidistine illam magnam ianuam foris? Mea tribus interclusit eam iampridem, neque aperiatur interdictum est.&lt;page&gt;At cum ego sola sum ex mea tribu quae restet, erga quem sit mihi dedecoris si eam nunc patefaciam tibi? Etiam. Indicium ut sit meae in te fiduciae, ianuam illanc recludam tibi.</entry>
+<entry name="WITCH_REWARD_2B">Ecce, ianua est aperta, simul et ingressus ad lucum qui post est. Si bene auscultas ibi, animas defunctorum potes audire susurrantes.</entry>
+<entry name="WITCH_REWARD_3">Itaque 300 particulas Substantiae collegisti... Iam somnia huius veterrimi Regni te complecti coeperunt. Bene est.&lt;page&gt;Tu mihi, quae diu, hei, huius luci sum custos, profecto operam hic valde reddidisti iucundiorem.&lt;page&gt;At vero non deceat mihi ita conqueri. Nam custodire hunc lucum, et Aculeifero inservire, ad expianda quaedam veterrima scelera poena&#39;st quam do. Rerum compensandarum gratia.&lt;page&gt;Ecce iam tibi munusculum pro opera, et redito ad me 500 collectis Substantiae particulis. Persevera in ista opera gravissima!</entry>
+<entry name="WITCH_REWARD_4">Ahhhhh. 500 particulae Substantiae collectae. Probe! Optime quidem! Alterum munusculum ecce habeo tibi.&lt;page&gt;Carptum e meis pretiosissimis memoriis, hoc Amuleto te et Aculeum Somniorum tuum efficiet coniunctiores. Non iam secreta huius regni sese a te occulere poterunt!&lt;page&gt;Accipe hoc, et post quam collegeris 700 particulas Substantiae, redito huc. Etiam plura dona te opperiuntur...</entry>
+<entry name="WITCH_REWARD_5">Itaque, iam 700 particulas Substantiae possides. Miror tueantur necne te Somniatores, dum laboras. Aut etiam ille Rex.&lt;page&gt;Munimentum quod sibi fecerunt... Extremum fuit consilium, verum non omnino carens ratione. Miror tamen quamdiu id esse obtenturum censuissent.&lt;page&gt;Non autem mihi sunt in odio, quod quo magis aetatem dego, eius repetitionibus fio tolerantior.&lt;page&gt;Accipe munusculum tuum, et perge Substantiam colligere. Post quam 900 particulas collegeris, tunc redito ad me.</entry>
+<entry name="WITCH_REWARD_5B">Iam 900 particulas Substantiae Aculeus Somniorum in se retinet! Demirarisne autem quod tot somnia hoc Regnum delapsum occultat?&lt;page&gt;Iam tu quoque eas videre coepisti, connexiones quas relinquimus somniorum, quasi vestigia in arenam. Iam tempus adest tibi, ut ad eos locos, ad quos sis coniunctus, revertere discas!&lt;page&gt;Stringe Aculeum Somniorum, o Aculeifer, dum magnas portas prae te aperiri animo fingis!</entry>
+<entry name="WITCH_REWARD_6">Aculeus Somniorum enitet... iam 1200 particulas Substantiae tenet. Et cum in eo inspicio, memorias in me respicientes cerno permultas, implorantes reminisci sui.&lt;page&gt;Nemo est nostrum qui perpetuo vivat, itaque vivos postulamus in perpetuum ut nostri recordentur.&lt;page&gt;Tene enim aliquid memoria, et tecum usque vivet, obliviscere autem, et in aeternum id oblivioni abdes. Ea demum est unica mors metuenda.&lt;page&gt;Hem, ita saltem ut aiunt! Huius rei iam satis est. Accipe hoc et ad me 1500 particulis Substantiae redito collectis. Esto!</entry>
+<entry name="WITCH_REWARD_7">Etiam, ita ut suspicabar. Plus quam 1500 particulae Substantiae. Aculeus Somniorum... iam paene excitatus est!&lt;page&gt;Perge modo hac via, o Aculeifer. Quid te conducat, quidve porro te impellat ignoro, tamen ubi collegeris 1800 Substantiae particulas, ego hic tibi praestolabor.&lt;page&gt;Accipe hoc munus, ut vires tuas adaugeat, utque sit tibi auxilio, dum omnem Substantiam huius mundi colliges!</entry>
+<entry name="WITCH_REWARD_8A">Nunc. Nunc demum tempus adest. Aculeus Somniorum... et quidem tu, o Aculeifer, excitamini vos ambo.&lt;page&gt;Substantiam quam collegisti... ea spes quae hoc in Regno restat, pura potestas est! Affluat in te, tuumque in aculeum.&lt;page&gt;O Aculeifer, sublime aculeum stringe! Excitamini!</entry>
+<entry name="WITCH_REWARD_8B">Iam somnium quod a te abscondi possit est nullum. Etiam in tenebrosissimos potes iam aspicere locos, si quam rimulam invenias. Quid efficies, o Aculeifer, tanta potestate? Cuius insequeris memorias?&lt;page&gt;Hah. Fac quod placitum est, quoniam quod promiseram iam perfeci. Nunc scelera meae tribus, eluantur in tempus, simul ac cetera huius Regni...</entry>
+
+
+<entry name="WITCH_FINAL_1">Quanta Substantia... Quamque nitens... Tu tandem es ille Aculeifer, quem mea tribus iam pridem exspectabat.&lt;page&gt;Mea gens genita est a luce quadam, quae lux simillima est Substantiae, similis quoque ei potenti Aculeo, tamen etiam clarius nitens. Ii tunc satis habuerunt ea luce fructi, eamque lucem venerati.&lt;page&gt;At altera postea lux apparuerat in mundo... Draco, qui sibi Regiam induerat vestem.&lt;page&gt;Oh, quam leves fuere exin mei maiores! Qui eampse lucem quae genuerat eos deseruere temerarie, fidem fregerunt suam, eiusque memoriam abiecere...</entry>
+<entry name="WITCH_FINAL_2">Hoc Regnum natum est ex hac quidem proditione. At vero manebat eorum in animis memoria priscae lucis, indicium veterrimae fidei, donec omnis Nidus Sacer, in somniis lucis meminisse coepere.&lt;page&gt;Ah, sed iam fabula peracta&#39;st. Et ego quoque meam partem peregi. Tandem Aculeifer apparuisti. Memoriam meae tribus iam diutius custodii. Tempus adest, nos quoque ut in oblivionem mittamur.&lt;page&gt;Quaeso, o Aculeifer, ne nostri memineris. Ne nos honoraris. Qui non ista meremur...</entry>
+<entry name="WITCH_FINAL_3">Aahh... Ignosce mihi...&lt;page&gt;Lux... O Lux...&lt;page&gt;Ego memini... tui.</entry>
+</entries>

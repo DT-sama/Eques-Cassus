@@ -1,0 +1,59 @@
+<entries>
+<!-- TL note:
+Could be much better, but it's not the end of the world.
+Done.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+
+<!--
+Jiji, indecl.
+Confessor
+-->
+
+<entry name="MEET1">Salve puer, qui huc irrepis. Ego hic aliquamdiu obdormisse videor... Aliquam...diu...?&lt;page&gt;Ah. Etiam. Bene. Nunc vero cum iam expergefactus sim, id iam nihili refert. Vel auxilium, si vis, tibi offerre possim.</entry>
+<entry name="MEET2">Mihi nomen est Jiji. Quoniam apud me venisti, suspicor te indigere meo auxilio.&lt;page&gt;Namque, nonnumquam, nostra lamenta et dolores dispersos quasi atras maculas relinquimus per mundum, quibus neglectis, etiam spem et desideria fit ut aliquando deseramus.&lt;page&gt;Quid de te, o puer, habesne etiam tu dispersos dolores leniendos? Sine mihi in te intueri...</entry>
+
+<entry name="GREET">Ah, salve. Valuistine usque? Venisne ob leniendas sollicitudines? Sine mihi in te intueri...</entry>
+<entry name="DREAM">Quamdiu dormivi? Quam atra est nunc haec terra facta, quamque piceis conferta maculis maeroris...&lt;page&gt;Aer quoque est factus obscurior. Haec obscuritas... Vorabitne huc ingressa et me, si rursus obdormiam?</entry>
+
+<entry name="SHADE_OFFER_INTRO">Si vis, istam aegrimoniam ad te ciere possum, ut tutemet eam placare possis.&lt;page&gt;Attamen, cum diu sopitus fuerim, valde esurio nunc. Quaeso, ecquid habes quo vescar?</entry>
+<entry name="SHADE_OFFER">Si escam suavem tradas mihi, dolores tuos ad te ciere possum.</entry>
+
+<entry name="NOSHADE">Nullam tu videris maeroris maculam reliquisse in mundo. Macte virtute! Nihil iam mihi est quod faciam, quod tibi sit auxilii.</entry>
+<entry name="NOSHADE_REPEAT">Nullam maculam maeroris in mundo habes relictam. Nihil ergo est mihi quod faciam tibi auxilii. Vale.</entry>
+<entry name="SHADE_CHARM">Ooohhhh. Vel etiam maiores mei hoc admirarentur...&lt;page&gt;Perraro enim invenitur quisquam tam aegrimoniis vacans, quam tu es. Quibus tenebris adversatus tantam rem es adeptus?</entry>
+
+<!-- BAD?? Hem -->
+<entry name="NO_EGGS">Hem, at nihil videris habere cibi. Non saltem quo vescar ego. Piget vero, at ita esuriens, tibi auxilio esse nequeo. Sin vero aliquid esculenti in itinere tuo eris nactus, revertito tunc ad me si vis.</entry>
+<entry name="NO_EGGS_REPEAT">Quam escam maxime diligam... aliquid molle et glomerosum, quod cum mordeas, dirumpatur totum in ore, gravissimo cum sapore. Et odor quoque illius... Ei, vel recordatione esurire incipio. Id enim profecto est ciborum omnium suavissimum.</entry>
+
+<entry name="RITUAL_BEGIN">Mmmm... Valde hac melli suaviore buccella fruniscar posthac. Age nunc, incipiamus.</entry>
+<entry name="RITUAL_COMPLETED">Attat, certe tu novum quidem, vel cruentum potius, istum dolorem in modum mulsisti. Utique bene est. Nunc vale. Ego enim epulis me iam dare velim.</entry>
+<entry name="RITUAL_REPEAT">Vale. In mente mea eris, dum meum cibum gustabo.</entry>
+
+<entry name="DECLINE">Oh? Si non aegrimonias tuas remittere vis, nihil facere possum, ut te adiuvem.</entry>
+
+
+<entry name="GREEN_PATH">Ecce eum sentio, relictum tuum maerorem. Macula atra, in viridissima terra relicta.</entry>
+<entry name="CROSSROADS">Ecce eum sentio, relictum tuum maerorem. Macula atra, inter Regni tramites aberrans sub terra.</entry>
+<entry name="WATERWAYS">Ecce eum sentio, relictum tuum maerorem. Macula atra, canalibus circumdata, quam aqua eluere non potuit...</entry>
+<entry name="SHAMAN_TEMPLE">Ecce eum sentio, relictum tuum maerorem. Macula atra, in antiquissimis delubris relicta...</entry>
+<entry name="CLIFFS">Ecce eum sentio, relictum tuum maerorem. Macula atra, in edito loco relicta, circumdata vento strepente.</entry>
+<entry name="WASTES">Ecce eum sentio, relictum tuum maerorem. Macula atra, sita inter fungos miros et acidas aquas.</entry>
+<entry name="CITY">Ecce eum sentio, relictum tuum maerorem. Macula atra, penitus in capite huius regni, quam ne imbres quidem eluere potuerunt.</entry>
+<entry name="HIVE">Ecce eum sentio, relictum tuum maerorem. Macula atra, amplexa aurea luce, in alveo quodam distante.</entry>
+<entry name="QUEENS_STATION">Ecce eum sentio, relictum tuum maerorem. Macula atra, quae sola sedet in Statione Reginae.</entry>
+<entry name="MINES">Ecce eum sentio, relictum tuum maerorem. Macula atra, paene occulta a nitore crystalli.</entry>
+<entry name="KINGS_PASS">Ecce eum sentio, relictum tuum maerorem. Macula atra, vicina, prope ingressum huius regni.</entry>
+<entry name="COLOSSEUM">Ecce eum sentio, relictum tuum maerorem. Macula atra, circumdata fatuis certatoribus.</entry>
+<entry name="LOST_SHADE">Ecce eum sentio, relictum tuum maerorem. Macula atra, in tenebris celata.</entry>
+<entry name="OUTSKIRTS">Ecce eum sentio, relictum tuum maerorem. Macula atra, procul hinc, iuxta fines mundi.</entry>
+<entry name="RESTING_GROUNDS">Ecce eum sentio, relictum tuum maerorem. Macula atra, in sacro requietis loco.</entry>
+<entry name="FOG_CANYON">Ecce eum sentio, relictum tuum maerorem. Macula atra, inter nebulas relicta.</entry>
+<entry name="ROYAL_GARDENS">Ecce eum sentio, relictum tuum maerorem. Macula atra, amoenum hortum foedans.</entry>
+<entry name="DEEPNEST">Ecce eum sentio, relictum tuum maerorem. Macula atra, quae vix conspici potest, inter cunicula alicuius nidi, qui sub infimo regno est.</entry>
+<entry name="ABYSS">Vix perspici is potest, sed ecce eum sentio, relictum tuum maerorem. Macula atra, in profundissimo abdita mundi, quasi pars ipsius obscuritatis...</entry>
+</entries>

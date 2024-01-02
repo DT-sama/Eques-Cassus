@@ -1,0 +1,333 @@
+<entries>
+<!-- TL note:
+I don't like this file.
+I haven't touched this since February 2021.
+Now, May 2023, I have.
+
+TL 99%
+Check 90%
+Confidence 80%
+-->
+
+<entry name="MINDLESS_1">...</entry>
+
+<entry name="DUNG_DEF_1">...in honorem Regis!..</entry>
+<entry name="DUNG_DEF_2">...in honorem Quinque Equitum!..</entry>
+<entry name="DUNG_DEF_3">...in honorem Nidi Sacri!</entry>
+<entry name="WHITE_DEF_1">Hegemol... desidero facetias tuas...</entry>
+<entry name="WHITE_DEF_2">Ze&#39;mer... desidero fabulas tuas...</entry>
+<entry name="WHITE_DEF_3">Dryya... desidero sapientiam tuam...</entry>
+<entry name="WHITE_DEF_4">Isma... desidero... te...</entry>
+<entry name="WHITE_DEF_5">O Rex... Confide mihi!</entry>
+
+
+<entry name="FALSE_KNIGHT_1">Ego nunc sum fortior!</entry>
+<entry name="FALSE_KNIGHT_2">Ego iam sum audacior!</entry>
+<entry name="FALSE_KNIGHT_3">Haec magna concha... Nunc mea est!</entry>
+<entry name="FALSE_KNIGHT_D_1">Ego nunc sum fortior!</entry>
+<entry name="FALSE_KNIGHT_D_2">Ego iam sum audacior!</entry>
+<entry name="FALSE_KNIGHT_D_3">Haec magna concha... Nunc mea est!</entry>
+
+<entry name="GRUB_MIMIC_1">...Vacuum...</entry>
+<entry name="GRUB_MIMIC_2">...Occide...</entry>
+<entry name="GRUB_MIMIC_3">...Alterum...</entry>
+
+
+<entry name="HIVE_KNIGHT_1">Spectasne me?</entry>
+<entry name="HIVE_KNIGHT_2">Confide mihi!</entry>
+<entry name="HIVE_KNIGHT_3">Cum evigilabis... Alveare...</entry>
+
+<!-- TODO -->
+<entry name="MYLA_1">*...Bury my mother...Pale and slight...</entry>
+<entry name="MYLA_2">*...Bury...My sisters...Two by two...</entry>
+<entry name="MYLA_3">*...Bury...Bury the priest in his...</entry>
+
+<entry name="TISO_1">...Cur?..</entry>
+
+<entry name="MAGGOT_1">...heu eheu heuheuheu heu eheu...</entry>
+<entry name="MAGGOT_2">Vigila, frater! Adiuva me!</entry>
+<entry name="MAGGOT_3">Aaaaaaaauugghhhhh!</entry>
+
+<entry name="ROYAL_GUARD_1">...Defende...</entry>
+<entry name="ROYAL_GUARD_2">...Occide...</entry>
+
+<entry name="WYRM_SERVANT_1">...Rex mi... Nostra causa...</entry>
+<entry name="WYRM_SERVANT_2">... Opperiemur te...  O Rex...</entry>
+<entry name="WYRM_SERVANT_3">...O Rex... Aerumnas tuas... Sinas mihi, oro...</entry>
+<entry name="WYRM_SERVANT_4">Lux tua... Magnifica et sincera...</entry>
+
+<entry name="RUINS_SENTRY_1">...Hostem...</entry>
+<entry name="RUINS_SENTRY_2">...Defende...</entry>
+<entry name="RUINS_SENTRY_3">...Occide...</entry>
+<entry name="RUINS_SENTRY_4">...Defende....urbem...</entry>
+<entry name="RUINS_SENTRY_5">...Invasorem...Interfice...</entry>
+<entry name="RUINS_SENTRY_6">...Prohibe...</entry>
+
+<entry name="FK_MACE_1">Liber tandem!</entry>
+
+<entry name="LURKER_1">Rex! Meus!</entry>
+<entry name="LURKER_2">Mea! Tua! Regis causa!</entry>
+<entry name="LURKER_3">Clavis! Thesaurus! Abi, abi!</entry>
+
+<entry name="GRUZMOTHER_1">...Plena...Mox erit tempus...</entry>
+<entry name="GRUZMOTHER_2">...Periculum...Lassa...Occide...</entry>
+<entry name="GRUZMOTHER_3">...Dormire... Mori...</entry>
+
+<entry name="GIANTBUZZER_1">...Ira...</entry>
+<entry name="GIANTBUZZER_2">...Defende...Occide...</entry>
+<entry name="GIANTBUZZER_3">...Lux...</entry>
+
+<entry name="BLACK_KNIGHT_1">Defende...Vinculum...</entry>
+<entry name="BLACK_KNIGHT_2">Lux...Plena...</entry>
+<entry name="BLACK_KNIGHT_3">...Crusta fortis...</entry>
+
+<entry name="SLASH_SPIDER_1">...Protege...Opprime...</entry>
+<entry name="SLASH_SPIDER_2">...Nostra terra...</entry>
+<entry name="SLASH_SPIDER_3">...Herrae gratia...Prolis gratia...</entry>
+<entry name="MIMIC_SPIDER_1">...</entry>
+
+<entry name="BEE_HATCHLING_1">...Defende...</entry>
+<entry name="BEE_HATCHLING_2">...Occide...</entry>
+<entry name="BEE_HATCHLING_3">...Hostem...</entry>
+
+<entry name="MEGAFATBEE_1">...Fames...Fessus...Fames...</entry>
+<entry name="MEGAFATBEE_2">...Fratres...Sorores...Mater...</entry>
+<entry name="MEGAFATBEE_3">...Dolor...Caede...Dolor...Caede...</entry>
+
+<entry name="BLOCKER_1">...Defende...</entry>
+<entry name="BLOCKER_2">Periculum...Dolor.</entry>
+<entry name="BLOCKER_3">Abditus...Salvus...Tenebris.</entry>
+
+<entry name="MAWLEK_1">Ubi sunt illi...?</entry>
+<entry name="MAWLEK_2">Audiuntne me...?</entry>
+<entry name="MAWLEK_3">...Solus...Solus...</entry>
+
+<entry name="PARASITE_BLOB_1">...LVX...</entry>
+<entry name="PARASITE_BLOB_2">...CLARA...</entry>
+<entry name="PARASITE_BLOB_3">...LVCET...</entry>
+
+<entry name="ZOTE_1">Mitte metum, puer... Namque mortem rapidam patrabo tuam.</entry>
+<entry name="ZOTE_2">En alium fatuum, qui per Ensem hanc Letiferam morte occumbet...</entry>
+<entry name="ZOTE_3">Alios insuper occidam millenos... Eritne tunc satis, pater?</entry>
+<entry name="GREY_PRINCE_1">Mea Regina... Tua causa ego vivo!</entry>
+<entry name="GREY_PRINCE_2">Ego magis illam amo!</entry>
+<entry name="GREY_PRINCE_3">Lux... Tenebrae... Quid haec prae illa?</entry>
+<entry name="GREY_PRINCE_4">Confestim te interficiam... namque Regina Mea opperitur!</entry>
+<entry name="GREY_PRINCE_5">Invide, stulte! Qui putas me a te posse vinci?</entry>
+<entry name="ZOTELING_1">Pulcherrima&#39;st!</entry>
+<entry name="ZOTELING_2">Sapientissima&#39;st!</entry>
+<entry name="ZOTELING_3">Numquam erit iterum deserta!</entry>
+
+<entry name="ZOMBIE_HIVE_1">Dulce. Dulce. Dulce!</entry>
+<entry name="ZOMBIE_HIVE_2">...Venter... prurit...</entry>
+<entry name="ZOMBIE_HIVE_3">Murmur... unde..?</entry>
+<entry name="ZOM_GUARD_1">Resta...Ad defendendum...</entry>
+<entry name="ZOM_GUARD_2">Defendere...Debeo...</entry>
+<entry name="ZOM_GUARD_3">Noli accedere!</entry>
+<entry name="GRAVE_ZOMBIE_1">...Lux... mea...</entry>
+<entry name="GRAVE_ZOMBIE_2">...Somnus... lux... somnus...</entry>
+<entry name="GRAVE_ZOMBIE_3">...Vivus... plus lucis...</entry>
+<entry name="ZOMBIE_ROYAL_1">Odor tuus...foedus...Occidam...</entry>
+<entry name="ZOMBIE_ROYAL_2">Cupisne....Meum Geum?</entry>
+<entry name="ZOMBIE_ROYAL_3">Hae divitiae...Meae...Meae sunt...</entry>
+<entry name="ZOMBIE_ROYAL_4">...Abi a me...</entry>
+
+<entry name="JAR_COLLECTOR_1">Mi dilecti! Mi dilecti! Tandem estis salvi!</entry>
+<entry name="JAR_COLLECTOR_2">Salvi estis hic! Salvi!</entry>
+<entry name="JAR_COLLECTOR_3">Servandi sunt mihi!</entry>
+
+
+<entry name="WATCHERS_BUTLER_1">Domine...quamdiu...</entry>
+<entry name="WATCHERS_BUTLER_2">...Servam...</entry>
+<entry name="WATCHERS_BUTLER_3">...Tuear te...</entry>
+<entry name="WATCHERS_BUTLER_4">...Domine...vocat iam lux...</entry>
+
+<entry name="GORGEOUS_HUSK_1">Gloriosus! Gloriosus!</entry>
+<entry name="GORGEOUS_HUSK_2">Tu pulcher! Ego pulcher!</entry>
+<entry name="GORGEOUS_HUSK_3">Mea lux unica lux! Sequere me!</entry>
+
+<entry name="JELLYFISH_LIL_1">...Monomon...</entry>
+<entry name="JELLYFISH_1">...MONOMON...</entry>
+<entry name="MEGAJELLYFISH_1">...NOLI DESPERARE...</entry>
+<entry name="MEGAJELLYFISH_2">...NOLI SACRIFICARI...</entry>
+<entry name="MEGAJELLYFISH_3">...LVX... MONOMONI...</entry>
+
+<entry name="ZOMBIE_MEGA_MINER_1">...Lassus... Quamdiu...</entry>
+<entry name="ZOMBIE_MEGA_MINER_2">...Mea lux... Mea quies...</entry>
+<entry name="ZOMBIE_MEGA_MINER_3">...Lux... Ego sum lux...</entry>
+<entry name="ZOMBIE_MEGA_MINER_R_1">...Peri...Apage...Peri...</entry>
+<entry name="ZOMBIE_MEGA_MINER_R_2">...Occide...OCCIDE...</entry>
+<entry name="ZOMBIE_MEGA_MINER_R_3">...Uror! Ego... comburor!</entry>
+<entry name="ZOMBIE_MINER_1">...Fode... Occide... Ditias...</entry>
+<entry name="ZOMBIE_MINER_2">Crystallus... Lux...</entry>
+<entry name="ZOMBIE_MINER_3">...Mens... Lux... Volo, plus lucis...</entry>
+
+<entry name="BEE_1">...Tuere Reginam...</entry>
+<entry name="BEE_2">...Dele...</entry>
+<entry name="BEE_3">...Arce...</entry>
+
+<entry name="GENERIC_1">...Lux... Periculum...</entry>
+<entry name="GENERIC_2">...Tutus... Tenebris...</entry>
+<entry name="GENERIC_3">...Fames... Fames...</entry>
+<entry name="GENERIC_4">...Metus...</entry>
+<entry name="GENERIC_5">...Cibus... Ubi...</entry>
+<entry name="GENERIC_6">...Caedes... Dolor...</entry>
+<entry name="GENERIC_7">...Abi. Abi...</entry>
+<entry name="GENERIC_8">...Dolor...</entry>
+
+<entry name="COLOSSEUM_1">Ego sum omnium fortissimus!</entry>
+<entry name="COLOSSEUM_2">Verere mei, certator!</entry>
+<entry name="COLOSSEUM_3">Te mactabo!</entry>
+<entry name="COLOSSEUM_4">Ne tangere quidem me potes!</entry>
+
+<entry name="ZOMBIE_1">Apage!</entry>
+<entry name="ZOMBIE_2">Iste odor... Occidam...</entry>
+<entry name="ZOMBIE_3">...Ubi est...?</entry>
+<entry name="ZOMBIE_4">Iste dulcis odor...  Dolor...</entry>
+<entry name="ZOMBIE_5">Vigilare.... Nequeo...</entry>
+<entry name="ZOMBIE_6">Mene tu.... vis ferire?</entry>
+<entry name="ZOMBIE_7">Non ego sum... mortuus...</entry>
+<entry name="ZOMBIE_8">Nonne... Dormibam?</entry>
+<entry name="ZOMBIE_9">...Lux... Lux...</entry>
+<entry name="ZOMBIE_10">Occidam te!</entry>
+
+<entry name="INFECTED_1">...LVX...</entry>
+<entry name="INFECTED_2">...ARDENS... NITENS...</entry>
+<entry name="INFECTED_3">...ECFVGIERVNT TENEBRAE..</entry>
+<entry name="INFECTED_4">...LVX EXSVRGET...</entry>
+<entry name="INFECTED_5">...CLARA LVX...</entry>
+
+<entry name="MUSH_GUARD_SHROOMISH_1">Nyush oola mumu? Shruba dungo ola, ola mu... gungi?</entry>
+<entry name="MUSH_GUARD_SHROOMISH_2">...Mushi mungi ooalala...</entry>
+<entry name="MUSH_GUARD_SHROOMISH_3">...Nyanmul....Gassa ola...</entry>
+<entry name="MUSH_OGRE_SHROOMISH_1">Melemag....Mu ola...</entry>
+<entry name="MUSH_OGRE_SHROOMISH_2">...Undaya...Moga moga nala...</entry>
+<entry name="MUSH_OGRE_SHROOMISH_3">Gagan oola</entry>
+<entry name="MUSH_GUARD_1">...Apage...</entry>
+<entry name="MUSH_GUARD_2">...Defendendum... Occidendum...</entry>
+<entry name="MUSH_GUARD_3">...Nostrae mentes universae...</entry>
+<entry name="MUSH_OGRE_1">...Nos obterimus...</entry>
+<entry name="MUSH_OGRE_2">...Nos fortes...</entry>
+<entry name="MUSH_OGRE_3">...Nos universi...</entry>
+
+<entry name="MOSS_LAKE_1">...Me vocat illa... Appropinquamus domo...</entry>
+<entry name="MOSS_FAT_1">...Clara lux... duc me...</entry>
+<entry name="MOSS_FAT_2">...Loquere, lux...</entry>
+<entry name="MOSS_FAT_3">Defende locutorem...</entry>
+<entry name="MOSS_MAN_1">...Unn vocat...</entry>
+<entry name="MOSS_MAN_2">Nostra folia languescunt...</entry>
+<entry name="MOSS_MAN_3">Defende viam Unni...</entry>
+<entry name="MOSS_KNIGHT_1">...Nova lux, in nostris foliis...</entry>
+<entry name="MOSS_KNIGHT_2">...Occide, Lucis gratia... Unni gratia...</entry>
+<entry name="MOSS_KNIGHT_3">...Defende... Perime...</entry>
+
+<entry name="FLUKEMON_1">...Mater...</entry>
+<entry name="FLUKEMON_2">...Mater...</entry>
+<entry name="FLUKE_BIT_1">...Mater...</entry>
+<entry name="FLUKE_BIT_2">...Mater...</entry>
+<entry name="FLUKEMON_3">...Mater... Mater...</entry>
+<entry name="FLUKEMOTHER_1">...Genera...</entry>
+<entry name="FLUKEMOTHER_2">...Occide...</entry>
+<entry name="FLUKEMOTHER_3">...Defende...</entry>
+
+<entry name="GRIMM_FLAMEBEARER_1">Saltamus!</entry>
+<entry name="GRIMM_FLAMEBEARER_2">Quam obscurum! Clarius exarde!</entry>
+<entry name="GRIMM_FLAMEBEARER_3">Cape, si dignu&#39;s!</entry>
+<entry name="GRIMM_REMINDER_1">...Puer...</entry>
+<entry name="GRIMM_1">Ignis...</entry>
+<entry name="GRIMM_2">Caerimonia...</entry>
+<entry name="GRIMM_3">Grex...</entry>
+<entry name="GRIMM_GG_1">Quod proscaenium!</entry>
+<entry name="GRIMM_GG_2">Quam caerimonia alacrem... quod gaudium!</entry>
+<entry name="GRIMM_GG_3">Quanto me honestas honore, qui nos advocas!</entry>
+<entry name="NIGHTMARE_GRIMM_1">Cor ex Igne...</entry>
+<entry name="NIGHTMARE_GRIMM_2">In somniis... Renatus...</entry>
+<entry name="NIGHTMARE_GRIMM_3">Potestas... Metus...</entry>
+<entry name="NIGHTMARE_GRIMM_GG_1">Divi... caerimonia vincti...</entry>
+<entry name="NIGHTMARE_GRIMM_GG_2">Maxima potestas... Cor est...</entry>
+<entry name="NIGHTMARE_GRIMM_GG_3">Terrae dispersae... In incubo revinctae...</entry>
+
+<entry name="MAGE_MISTAKE_1">...Quare... Quare...?</entry>
+<entry name="MAGE_MISTAKE_2">...Lux.... Animus... Lux!</entry>
+<entry name="MAGE_MISTAKE_3">...Successitne...?</entry>
+<entry name="MAGE_1">...In me illa sentio...</entry>
+<entry name="MAGE_2">...Vires... Lucem... Iram...</entry>
+<entry name="MAGE_3">...Mens crescit... Mens dolet...</entry>
+<entry name="MAGELORD_1">Rex periit, ego vivam perpetuo!</entry>
+<entry name="MAGELORD_2">Mea somnia sunt perpetua, et ego item!</entry>
+<entry name="MAGELORD_3">Audio... susurros eorum animorum...</entry>
+<entry name="MAGELORD_D_1">Promiseras fore me immortalem!</entry>
+<entry name="MAGELORD_D_2">Eorum animi, duxeruntne me propius luci?</entry>
+<entry name="MAGELORD_D_3">Illa vox... Non vera fuit...?</entry>
+<entry name="MAGE_KNIGHT_1">Hic animus... Estne hic meus?</entry>
+<entry name="MAGE_KNIGHT_2">...Hae vires... Quanto pretio?</entry>
+<entry name="MAGE_KNIGHT_3">Tantam peritiam... Me exercitasse non memini......</entry>
+
+<entry name="MANTIS_1">...Honorem Dominabus...Invasoribus necem...</entry>
+<entry name="MANTIS_2">...Non iam occidemus...Non iam languebimus...</entry>
+<entry name="MANTIS_3">Resiste contagioni belvarum...</entry>
+<entry name="MANTIS_YOUNG_1">...Estne hic puer?...</entry>
+<entry name="MANTIS_YOUNG_2">...Occidere debeo...ad ostendendas pago meas vires...</entry>
+<entry name="MANTIS_YOUNG_3">...Metus huic cognoscendus est...</entry>
+<entry name="MANTIS_PASSIVE_1">...Strenuus pugnator. Dominae approbant...</entry>
+<entry name="MANTIS_PASSIVE_2">Quantus honor in peregrino...Insolitum...</entry>
+<entry name="MANTIS_PASSIVE_3">...Ut superaret Dominas, quantas vires...</entry>
+<entry name="MANTIS_YOUNG_PASSIVE_1">...Fortis Duellator...</entry>
+<entry name="MANTIS_YOUNG_PASSIVE_2">Hic est probatus...</entry>
+<entry name="MANTIS_YOUNG_PASSIVE_3">...Certator...</entry>
+<entry name="MANTIS_TRAITOR_1">...Exsul...Vivere...Occidere...</entry>
+<entry name="MANTIS_TRAITOR_2">...Invasorem...Interfice...</entry>
+<entry name="MANTIS_TRAITOR_3">Terra nostra...</entry>
+<entry name="MANTISLORD_1">...Tandem verus proeliator...</entry>
+<entry name="MANTISLORD_2">...Tantum honorem ab aliquo huius generis...</entry>
+<entry name="MANTISLORD_3">Bonam indolem ad pugnandum habet...</entry>
+
+<entry name="INFECTED_KNIGHT_D_1">...</entry>
+<entry name="INFECTED_KNIGHT_D_2">...</entry>
+<entry name="INFECTED_KNIGHT_D_3">...</entry>
+<entry name="INFECTED_KNIGHT_1">...</entry>
+<entry name="INFECTED_KNIGHT_2">...</entry>
+<entry name="INFECTED_KNIGHT_3">...</entry>
+
+<entry name="SLY_1">Somnium gloriae...</entry>
+<entry name="SLY_2">Aculeum pete in rem appetitam!</entry>
+<entry name="SLY_3">Memento... vos esse fratres...</entry>
+
+<entry name="ORO_1">Quod volo impetrabo, quoquo opus erit!</entry>
+<entry name="ORO_2">Meum solum est hoc iter...</entry>
+<entry name="MATO_1">Fratribus una oportet pugnare!</entry>
+<entry name="MATO_2">Ne me deseratis!</entry>
+<entry name="SHEO_1">Nonne hae sunt vires summae?</entry>
+<entry name="SHEO_2">Num quisque nostrum rem diversam petit?</entry>
+<entry name="SHEO_3">Quid est divus, nisi artifex?</entry>
+
+<entry name="HORNET_GREENPATH_1">Debilis es, o larvula...</entry>
+<entry name="HORNET_GREENPATH_2">Nulla me insectabitur umbra...</entry>
+<entry name="HORNET_GREENPATH_3">Vae tuo generi scelerato!</entry>
+<entry name="HORNET_K_EDGE_1">Potestne hic eam superare?</entry>
+<entry name="HORNET_K_EDGE_2">Estne sat fortis?</entry>
+<entry name="HORNET_K_EDGE_3">Unde tantas vires haurit?</entry>
+<entry name="HORNET_GG_1">Tune mea somnia agitas... An ego tua?</entry>
+<entry name="HORNET_GG_2">O Larvula... Qualium somniorum nos sumus consortes...</entry>
+<entry name="HORNET_GG_3">...Spectantne nostram pugnam?...</entry>
+
+<entry name="HOLLOW_KNIGHT_1">...Caede...</entry>
+<entry name="HOLLOW_KNIGHT_2">...Ardebit libera...</entry>
+<entry name="HOLLOW_KNIGHT_3">...Hoc Vas, corruptum... defecit...</entry>
+<entry name="HOLLOW_KNIGHT_4">...Dilucescet... dies...</entry>
+<entry name="HOLLOW_KNIGHT_5">...Invasor, sine mente... Sola vi...</entry>
+<entry name="HOLLOW_KNIGHT_6">...Interime invasorem... Ne lux nostra restinguatur...</entry>
+<entry name="HOLLOW_KNIGHT_7">...Pater?...</entry>
+<entry name="PURE_VESSEL_1">Noli cogitare...</entry>
+<entry name="PURE_VESSEL_2">Noli loqui...</entry>
+<entry name="PURE_VESSEL_3">Noli sperare...</entry>
+<entry name="PURE_VESSEL_4">Noli...</entry>
+<entry name="PURE_VESSEL_5">...</entry>
+
+<entry name="RADIANCE_1">...O PRISCE PERDVELLIS...</entry>
+<entry name="RADIANCE_2">...EGO TE NON METVO...</entry>
+<entry name="RADIANCE_3">...SINE ME LIBEREM...</entry>
+<entry name="RADIANCE_4">...OBLIVIONEM EVASERO...</entry>
+<entry name="RADIANCE_5">...DILVCESCET MEA LVX...</entry>
+<entry name="RADIANCE_6">...MEA LVX NON EXSTINGVETVR...</entry>
+</entries>

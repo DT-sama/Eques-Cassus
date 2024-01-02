@@ -1,0 +1,640 @@
+<entries>
+<!-- TL Note:
+The names are more or less fine. The descriptions are very suspect.
+Most prompts should be looked at in-game.
+Menu options suck and I hate them.
+
+TL 100%
+Check 80%
+Confidence 65%
+-->
+<entry name="UI_BLANK"></entry>
+
+<entry name="LANGUAGE_CONFIRM">Certumne est tibi?</entry>
+
+<entry name="TRAVEL">PROFICISCERE</entry>
+<entry name="ASCEND">ASCENDE</entry>
+<entry name="LISTEN">AUSCULTA</entry>
+
+<entry name="COMPLETION">Completio</entry>
+<entry name="COMPLETION_RATE_UNLOCKED">Ludi completio in Tabula q.e. &quot;Inventa&quot; invenitur.</entry>
+
+<entry name="MAIN_MENU_START_GAME">Incoha</entry>
+<entry name="MAIN_MENU_OPTIONS">Optiones</entry>
+<entry name="MAIN_MENU_QUIT_GAME">Exi Ludo</entry>
+
+<entry name="OPT_MENU_TITLE">Optiones</entry>
+<entry name="OPT_MENU_BACK_BUTTON">Redi</entry>
+<entry name="OPT_MENU_RESOLUTION">Dimensiones:</entry>
+<entry name="OPT_MENU_MUSIC_VOL">Magnitudo Musicae:</entry>
+<entry name="OPT_MENU_SOUND_VOL">Magnitudo Sonorum:</entry>
+<entry name="OPT_MENU_APPLY_BUTTON">Applica</entry>
+
+
+<entry name="CTRL_BUY">Eme</entry>
+<entry name="CTRL_SELL">Vende</entry>
+
+<entry name="CTRL_CONFIRM">Confirma</entry>
+<entry name="CTRL_CANCEL">Dimitte</entry>
+<entry name="CTRL_EXIT">Discede</entry>
+
+<entry name="BANK_EXIT">Discede</entry>
+<entry name="BANK_DEPOSIT">Depone</entry>
+<entry name="BANK_DEPOSIT_AMT">Quantum depones?</entry>
+<entry name="BANK_WITHDRAW">Deprome</entry>
+<entry name="BANK_WITHDRAW_AMT">Quantum depromes?</entry>
+<entry name="BANK_YOURBALANCE">Geum</entry>
+<entry name="BANK_MAX_BALANCE">Maximum: </entry>
+
+
+<!-- Equip -->
+<entry name="CTRL_EQUIP">Indue</entry>
+<entry name="CTRL_UNEQUIP">Exue</entry>
+<entry name="CHARM_EQUIP_REMIND">Indue Amuleta</entry>
+
+<!-- Map -->
+<entry name="CTRL_ZOOM_OUT">Longinquius</entry>
+<entry name="CTRL_ZOOM_IN">Propinquius</entry>
+
+<entry name="CTRL_SHOW_PINS_KEY">Ostende Sigilla &amp; Indices</entry>
+<entry name="CTRL_HIDE_PINS">Abde Sigilla</entry>
+<entry name="CTRL_HIDE_KEY">Abde Indices</entry>
+
+<entry name="CTRL_MARKER_PLACE">Pone</entry>
+<entry name="CTRL_MARKER_REMOVE">Tolle</entry>
+<entry name="CTRL_MARKER_CHANGE">Muta</entry>
+
+<entry name="CTRL_TRAVEL">Proficiscere</entry>
+<entry name="CTRL_MARKERS">Notae</entry>
+
+
+<!-- Journal -->
+<entry name="ENCOUNTERED">Inventi</entry>
+<entry name="COMPLETED">Completi</entry>
+
+
+
+<entry name="PANE_MAP">Loca</entry>
+<entry name="PANE_CHARMS">Amuleta</entry>
+<entry name="PANE_INVENTORY">Inventa</entry>
+<entry name="PANE_JOURNAL">Diurna</entry>
+
+<!-- cf. CP2 -->
+<!-- BAD?? collectus? (from consumed) -->
+<entry name="FLAME_COLLECTED">Ignis Consumptus</entry>
+
+<entry name="NAME_HUNTERMARK">Cornu Venatoris</entry> <!-- Journal -->
+
+<!-- MAP -->
+<!-- BAD?? -->
+<entry name="MAP_UPDATED">Recens Explorata Inscripta</entry>
+
+<!-- Dirtmouth -->
+<entry name="MAP_NAME_DIRTMOUTH">Pulveria</entry>
+
+<!-- Forgotten Crossroads -->
+<entry name="MAP_NAME_CROSSROADS">Tramites Relicti</entry>
+<entry name="MAP_DESC_CROSSROADS">Tabula picta Tramitum Relictorum, inferioris Pulveria loci. Cornifer semel ultro me traxerat illuc. Locus propemodum vastus ac desertus videbatur, sed tamen admodum mirabilis.</entry>
+<!-- Greenpath -->
+<entry name="MAP_NAME_GREENPATH">Via Viridis</entry>
+<entry name="MAP_DESC_GREENPATH">Tabula picta Viae Viridis, virentissimi Nidisacrensium loci, prope summam terram siti. Cave ustus sis ab illa aqua!</entry>
+
+<!-- Fungal Wastes -->
+<entry name="MAP_NAME_FUNGAL_WASTES">Deserta Fungina</entry>
+<!-- BAD?? rettulerit rettulisset -->
+<entry name="MAP_DESC_FUNGAL_WASTES">Tabula picta Desertorum Funginorum, creberrimis fungis loci, infra Tramites Relictos siti. Cum nonnullos fungulos maritus illinc rettulerit, eos coquere conata sum. Fi tamen, quam pessime fetebant!</entry>
+<!-- Howling Cliffs -->
+<entry name="MAP_NAME_CLIFFS">Rupes Stridentes</entry>
+<entry name="MAP_DESC_CLIFFS">Tabula picta Rupium Stridentium, ad Pulveriam vergentium. Cornifer ait ventos ibi ita esse strepentes, ut cum loqueretur, suam ipsam vocem audire non posset. Sed, et hoc quidem mirandum est... quare ipse secum loquebatur?</entry>
+
+<!-- City of Tears -->
+<entry name="MAP_NAME_CITY">Urbs Lachrymarum</entry>
+<!-- BAD?? verone -->
+<entry name="MAP_DESC_CITY">Tabula picta Urbis Lachrymarum, Nidi Sacri urbis capitalis. Verone aqua illic ut imber continenter decidit de lapidibus? Oh, quam pulchrum id visu esse oportet...</entry>
+<!-- Royal Waterways -->
+<entry name="MAP_NAME_WATERWAYS">Aquaeductus Regales</entry>
+<entry name="MAP_DESC_WATERWAYS">Tabula picta Aquaeductuum Regalium, ductuum canaliumque infra Urbem Lachrymarum. Cornifer eos explorare videtur valde gavisus, quamvis huc reversus, madidus et frigore horrens erat.</entry>
+
+<!-- Resting Grounds -->
+<entry name="MAP_NAME_RESTING_GROUNDS">Requietorium</entry>
+<entry name="MAP_DESC_RESTING_GROUNDS">Tabula picta Requietorii, cuiusdam loci sacri, non procul a Tramitibus siti. Cornifer ait se hunc tranquillum et serenum locum esse nactum, at mihi quidem, cum audio eum narrantem, videtur locus formidulosissimus. Eum numquam equidem viserem!</entry>
+<!-- Queen's Gardens -->
+<entry name="MAP_NAME_ROYAL_GARDENS">Horti Reginae</entry>
+<entry name="MAP_DESC_ROYAL_GARDENS">Tabula picta Hortorum Reginae, viridarii regalis, prope Viam Viridem siti. Cornifer saepe me suam Reginam appellare solet... praesertim cum sim irata.</entry>
+
+<!-- Fog Canyon -->
+<entry name="MAP_NAME_FOG_CANYON">Fauces Caliginum</entry>
+<entry name="MAP_DESC_FOG_CANYON">Tabula picta Faucium Caliginum, Viam Viridem Desertis Funginis iungentium. Adeo densa&#39;st ibi caligo, ut Cornifer difficulter se iter reperisse rettulerit. Aut saltem quidem difficilius quam solitu&#39;st.</entry>
+<!-- Kingdom's Edge -->
+<entry name="MAP_NAME_OUTSKIRTS">Regni Fines</entry>
+<entry name="MAP_DESC_OUTSKIRTS">Tabula picta Regni Finium, terrarum regno confinium. Maritus meus... dum ego hic in tristi oppidulo maneo, is tam longinque a domo aberrat.</entry>
+
+<!-- Crystal Peaks -->
+<entry name="MAP_NAME_MINES">Mons Crystalli</entry>
+<entry name="MAP_DESC_MINES">Tabula picta Montis Crystalli, ingentis montis splendentis ultra Pulveriam siti. Maritus, praeter chartam, etiam aliquot crystallos ab hoc loco rettulit. Quid est quod eos ita refulgere facit?</entry>
+
+<!-- Ancient Basin -->
+<entry name="MAP_NAME_ABYSS">Prisca Lacuna</entry>
+<entry name="MAP_DESC_ABYSS">Tabula picta Priscae Lacunae, terrae in imo mundo absconditae.</entry>
+<!-- Deepnest -->
+<entry name="MAP_NAME_DEEPNEST">Nidus Inferus</entry>
+<entry name="MAP_DESC_DEEPNEST">Tabula picta Nidi Inferi, infimi mundi loci, atri ac infesti.&lt;br&gt;&lt;br&gt;Fateor, maritus reversus cum charta prope incepta aliquantum me pigebat, at postea cum faciem eius metu trementem aspexi... O mi miselle marite!</entry>
+
+
+<!-- MARKER -->
+<!-- Token Marker -->
+<entry name="MARKER_Y_NAME">Nota Circuli</entry>
+<entry name="MARKER_Y_DESC">Haec est nova merx quam vendito. His usus, notas quorumlibet locorum in chartis imponere potes!&lt;br&gt;&lt;br&gt;Cum hunc colorem pacatum video, thesauri subterranei in mentem mihi veniunt quaerendi...</entry>
+<!-- Gleaming Marker -->
+<entry name="MARKER_W_NAME">Nota Corusca</entry>
+<entry name="MARKER_W_DESC">Haec est nova merx quam vendito. His usus, notas quorumlibet locorum in chartis imponere potes!&lt;br&gt;&lt;br&gt;Rara est ea materia ex qua has notas confeci, ideoque paulo maiore pretio veneunt.</entry>
+<!-- Scarab Marker -->
+<entry name="MARKER_B_NAME">Nota Scarabaei</entry>
+<entry name="MARKER_B_DESC">Haec est nova merx quam vendito. His usus, notas quorumlibet locorum in chartis imponere potes!&lt;br&gt;&lt;br&gt;Nonne hic color leni&#39;st?</entry>
+<!-- Shell Marker -->
+<entry name="MARKER_R_NAME">Nota Conchae</entry>
+<entry name="MARKER_R_DESC">Haec est nova merx quam vendito. His usus, notas quorumlibet locorum in chartis imponere potes!&lt;br&gt;&lt;br&gt;Quidni hoc flagranti colore, acerrima proelia quae superasti commemoras?</entry>
+
+<!-- PIN -->
+<!-- Vendor Pin -->
+<entry name="PIN_NAME_SHOP">Sigillum Tabernarii</entry>
+<entry name="PIN_DESC_SHOP">His sigillis adnota situs tabernariorum, vel aliorum quos per iter tuum inveneris.&lt;br&gt;&lt;br&gt;Interdum enim amicos visere, quidque egerint percontari aequum est, et laetiores eos reddes.</entry>
+<!-- Bench Pin -->
+<entry name="PIN_NAME_BENCH">Sigillum Subsellii</entry>
+<entry name="PIN_DESC_BENCH">His sigillis subsellia, vel alios locos ad quietem aptos, annota.&lt;br&gt;&lt;br&gt;Magnopere ex re fessis, quibus modo sellula est opus ad quiescendum!</entry>
+<!-- Stag Station Pin -->
+<entry name="PIN_NAME_STAG">Sigillum Scarabaei</entry>
+<entry name="PIN_DESC_STAG">His sigillis Stationes Scarabaeas adnotato quas visisti.&lt;br&gt;&lt;br&gt;Quam concitatas vita fuisse oportet, cum Scarabaei etiamtunc per eas commearent.</entry>
+<!-- Tram Pin -->
+<entry name="PIN_NAME_TRAM">Sigillum Carri</entry>
+<entry name="PIN_DESC_TRAM">Hi carri videntur esse machinamenta satis complicata. Et peritissimi machinarii fuisse oportet antiqui cives Nidisacrenses, qui ea sunt commentati.&lt;br&gt;&lt;br&gt;His ergo sigillis, eorum carrorum mansiones adnotabis.</entry>
+<!-- Hot Spring Pin -->
+<entry name="PIN_NAME_SPA">Sigillum Thermarum</entry>
+<entry name="PIN_DESC_SPA">Haec sigilla confeci videlicet ut adnotes positiones Regni aquarum thermarum.&lt;br&gt;&lt;br&gt;Ego vero eas nondum visi... spero Corniferum me aliquando ad eas ducturum. Interea, tu, credo, meliorem ex his facies usum quam ego.</entry>
+<!-- Cocoon Pin -->
+<entry name="PIN_NAME_COCOON">Sigillum Chrysalidis</entry>
+<entry name="PIN_DESC_COCOON">Vidistine illas pulcherrimas chrysalides caeruleas? Haec sigilla confeci, ut earum positionem annotes.&lt;br&gt;&lt;br&gt;Quamvis pulchrae sint illae chrysalides, tamen admodum tenerae sunt. Cave ergo ne eas fregeris.</entry>
+<!-- Warrior's Grave Pin -->
+<entry name="PIN_NAME_GHOST">Sigillum Sepulchri</entry>
+<entry name="PIN_DESC_GHOST">Cornifer narrat de singularibus sepulchris ac templis quae circum regnum eminent.&lt;br&gt;&lt;br&gt;His sigillis, adnota quae placuerunt tibi. Et adi si vis precatum.</entry>
+<!-- Whispering Root Pin -->
+<entry name="PIN_NAME_DREAMPLANT">Sigillum Radicis</entry>
+<entry name="PIN_DESC_DREAMPLANT">Cornifer narrat de quibusdam insolitis radicibus quae circum regnum increscunt.&lt;br&gt;&lt;br&gt;Haec sigilla confeci, ut earum situs in chartis adnotes.</entry>
+
+
+<!-- KEY -->
+<entry name="KEY_SHOP">Mercator</entry>
+<entry name="KEY_STAG">Statio Scarabaea</entry>
+<entry name="KEY_SPA">Thermae</entry>
+<entry name="KEY_BENCH">Subsellium</entry>
+<entry name="KEY_DREAMER">Somniator</entry>
+<entry name="KEY_COCOON">Chrysalis</entry>
+<entry name="KEY_TRAM">Statio Carri</entry>
+<entry name="KEY_DREAMPLANT">Radix Susurrans</entry>
+<entry name="KEY_GRUB">Tineola Captiva</entry>
+<entry name="KEY_GHOST">Sepulcrum Duellatoris</entry>
+<entry name="KEY_BLACKEGG">Templum Ovi Nigri</entry>
+
+
+<!-- CHARM -->
+<!-- TL note: rather bad. -->
+<!-- Gathering Swarm -->
+<entry name="CHARM_NAME_1">Examen Auripeta</entry>
+<entry name="CHARM_DESC_1">Examen insequetur gerentem, ad quem sedulo omne Geum dispersum conferet.&lt;br&gt;&lt;br&gt;Frugi est eis, qui vel minimum lucrum amittere nolunt.</entry>
+<!-- Wayward Compass -->
+<entry name="CHARM_NAME_2">Acus Magnetica</entry>
+<entry name="CHARM_DESC_2">Insusurrat gerenti in chartam intuenti suam positionem in charta.</entry>
+<!-- Grubsong -->
+<entry name="CHARM_NAME_3">Carmen Tineale</entry>
+<!-- BAD -->
+<entry name="CHARM_DESC_3">Amuletum cui insita est Tineolarum liberatarum gratissima memoria.&lt;br&gt;&lt;br&gt;Acceptis vulneribus, recuperabitur etiam paululum Animi.</entry>
+<!-- Stalwart Shell -->
+<entry name="CHARM_NAME_4">Crusta Dura</entry>
+<entry name="CHARM_DESC_4">Amuletum patientis. Vulnere recepto, longius spatium temporis erit datum gerenti invulnerabile, quo facilius fugam capiat a periculo.</entry>
+<!-- Baldur Shell -->
+<entry name="CHARM_NAME_5">Testa Baldoris</entry>
+<entry name="CHARM_DESC_5">Protegit gerentem testa dura dum colligit Animum.&lt;br&gt;&lt;br&gt;Id tegmentum tamen frangetur nonnullis ictibus receptis.</entry>
+<!-- Fury of the Fallen -->
+<entry name="CHARM_NAME_6">Furia Perditorum</entry>
+<entry name="CHARM_DESC_6">Amuletum continens morituri furorem atque audaciam.&lt;br&gt;&lt;br&gt;Propinquante morte, gerens fortior fiet.</entry>
+<!-- Quick Focus -->
+<entry name="CHARM_NAME_7">Animus Intentus</entry>
+<entry name="CHARM_DESC_7">Amuletum continens lentem crystallinam, quae Animum intendit.&lt;br&gt;&lt;br&gt;Efficit ut ocius Animus cogatur, dum gerens sibi vulnera sanat.</entry>
+<!-- Lifeblood Heart -->
+<entry name="CHARM_NAME_8">Sanguis Vitalis</entry>
+<entry name="CHARM_DESC_8">Amuletum quo manat Liquor Vitae.&lt;br&gt;&lt;br&gt;Dum quiescit, protegetur gerens operimento liquoris vitae a vulnere modico.</entry>
+<!-- Lifeblood Core -->
+<entry name="CHARM_NAME_9">Cor Vitale</entry>
+<entry name="CHARM_DESC_9">Amuletum quo manat Liquor Vitae.&lt;br&gt;&lt;br&gt;Dum quiescit, protegetur gerens operimento liquoris vitae a vulnere ingenti.</entry>
+<!-- Defender's Crest -->
+<entry name="CHARM_NAME_10">Insigne Defensoris</entry>
+<entry name="CHARM_DESC_10">Amuletum singulare, quo illustrissimi Equites Nidisacrenses donabantur pro merito a Rege. Vetustum et aliquantum obsoletum, tamen etiamnunc care custoditur.&lt;br&gt;&lt;br&gt;Gerens olebit heroicum odorem.</entry>
+<!-- Flukenest -->
+<entry name="CHARM_NAME_11">Nidus Sentinae</entry>
+<entry name="CHARM_DESC_11">Amuletum vivens, ex ventri Sentinae Matricis natum.&lt;br&gt;&lt;br&gt;Pro Anima Ultrice, evocabitur Sentinarum minutarum examen volantium.</entry>
+<!-- Thorns of Agony -->
+<entry name="CHARM_NAME_12">Spinae Tormenti</entry>
+<entry name="CHARM_DESC_12">Dolorem vulnerum gerentis convertit in impetus violentos.&lt;br&gt;&lt;br&gt;Vulnere recepto, spinas ultrices propinquos remittet in hostes.</entry>
+<!-- Mark of Pride -->
+<entry name="CHARM_NAME_13">Symbolus Gloriae</entry>
+<!-- BAD?? Longiorem Aculei iactum facit, ut hostes etiam procul astantes gerens petere possit -->
+<entry name="CHARM_DESC_13">Amuletum quod meritis de se Tribus Mantidum solet donare.&lt;br&gt;&lt;br&gt;Longiorem Aculei iactum facit, ut hostes etiam procul astantes gerens petere possit.</entry>
+<!-- Steady Body -->
+<entry name="CHARM_NAME_14">Corpus Solidum</entry>
+<!-- BAD?? -->
+<entry name="CHARM_DESC_14">Inhibet gerentem quominus impactu hostis aculeo perculsi retro resultet.&lt;br&gt;&lt;br&gt;Sic instantius in hostes impetus identidem gerens poterit dare.</entry>
+<!-- Heavy Blow -->
+<entry name="CHARM_NAME_15">Plaga Praegravis</entry>
+<entry name="CHARM_DESC_15">Amuletum ex aculeis bellatorum mortuorum informatum.&lt;br&gt;&lt;br&gt;Ita gerentis vires adauctae erunt, ut hostes aculeo perculsi longius repellantur.</entry>
+<!-- Sharp Shadow -->
+<entry name="CHARM_NAME_16">Umbra Mordax</entry>
+<!-- BAD?? Prosultum Umbrae -->
+<entry name="CHARM_DESC_16">Continet carmen occultum, quod umbras convertit in acutissimas cuspides.&lt;br&gt;&lt;br&gt;Quotienscumque umbris amictus gerens in hostes prorumpat, umbra exacuta eos vulnerabit.</entry>
+<!-- Spore Shroom -->
+<entry name="CHARM_NAME_17">Fungus Seminosus</entry>
+<!-- BAD?? -->
+<entry name="CHARM_DESC_17">Ex fungis vivis consistens Amuletum, qui fungi cum Animum attingunt, semina in nebulas dispergunt, hostes sensim vulnerantia.</entry>
+<!-- Long Nail -->
+<entry name="CHARM_NAME_18">Acies Longa</entry>
+<entry name="CHARM_DESC_18">Aculei aciem longiorem reddit.</entry>
+<!-- Shaman Stone -->
+<entry name="CHARM_NAME_19">Lapis Sacerdotis</entry>
+<entry name="CHARM_DESC_19">Amuletum in quo dicitur contineri scientia priscorum sacerdotum.&lt;br&gt;&lt;br&gt;Vires cantuum magicorum gerentis augebit, ut hostes laedant gravius.</entry>
+<!-- Soul Catcher -->
+<entry name="CHARM_NAME_20">Animilegium</entry>
+<entry name="CHARM_DESC_20">Amuletum quo sacerdotes plus ab aere Animi trahunt.&lt;br&gt;&lt;br&gt;Augescet Animus ab hostibus aculeo perculsis collectus.</entry>
+<!-- Soul Eater -->
+<entry name="CHARM_NAME_21">Animivorum</entry>
+<entry name="CHARM_DESC_21">Priscum instrumentum sacerdotale, quod Animum ab animantibus extrahere potest.&lt;br&gt;&lt;br&gt;Augescet magnopere Animus ab hostibus aculeo perculsis collectus.</entry>
+<!-- Glowing Womb -->
+<entry name="CHARM_NAME_22">Uterus Ardens</entry>
+<entry name="CHARM_DESC_22">Amuletum quod pullos parit extracto Animo gerentis.&lt;br&gt;&lt;br&gt;Pullulis partis neque cibo neque vita est usus, quare parentis protegendi causa quam ferocissime propugnabunt.</entry>
+
+<!-- Fragile / Unbreakable Heart -->
+<entry name="CHARM_NAME_23">Cor Fragile</entry>
+<!-- BAD? -->
+<entry name="CHARM_DESC_23">Salutem gerentis auget, ut plura vulnera ab hostibus sustinere possit.&lt;br&gt;&lt;br&gt;Cum hoc amuletum sit fragile, siquando gerens eo indutus morietur, frangetur.</entry>
+<entry name="CHARM_NAME_23_BRK">Cor Fragile (Fractum)</entry>
+<entry name="CHARM_DESC_23_BROKEN">Salutem gerentis auget, ut plura vulnera ab hostibus sustinere possit.&lt;br&gt;&lt;br&gt;Cum hoc amuletum sit fractum, silent eius vires. Quam ob rem, indui non potest.</entry>
+<entry name="CHARM_NAME_23_G">Cor Invictum</entry>
+<entry name="CHARM_DESC_23_G">Salutem gerentis auget, ut plura vulnera ab hostibus sustinere possit.&lt;br&gt;&lt;br&gt;Hoc amuletum frangi nullo pacto potest.</entry>
+<!-- Fragile / Unbreakable Greed -->
+<entry name="CHARM_NAME_24">Cornu Fragile</entry>
+<!-- BAD? -->
+<entry name="CHARM_DESC_24">Fortunam gerentis auget, ut ab hostibus victis magna effluat Georum copia.&lt;br&gt;&lt;br&gt;Cum hoc amuletum sit fragile, siquando gerens eo indutus morietur, frangetur.</entry>
+<entry name="CHARM_NAME_24_BRK">Cornu Fragile (Fractum)</entry>
+<entry name="CHARM_DESC_24_BROKEN">Fortunam gerentis auget, ut ab hostibus victis magna effluat Georum copia.&lt;br&gt;&lt;br&gt;Cum hoc amuletum sit fractum, silent eius vires. Quam ob rem, indui non potest.</entry>
+<entry name="CHARM_NAME_24_G">Cornu Invictum</entry>
+<entry name="CHARM_DESC_24_G">Fortunam gerentis auget, ut ab hostibus victis magna effluat Georum copia.&lt;br&gt;&lt;br&gt;Hoc amuletum frangi nullo pacto potest.</entry>
+<!-- Fragile / Unbreakable Strength -->
+<entry name="CHARM_NAME_25">Robur Fragile</entry>
+<!-- BAD? -->
+<entry name="CHARM_DESC_25">Vires gerentis auget, ut in hostes vulnera aculeo inferat vehementius.&lt;br&gt;&lt;br&gt;Cum hoc amuletum sit fragile, siquando gerens eo indutus morietur, frangetur.</entry>
+<entry name="CHARM_NAME_25_BRK">Robur Fragile (Fractum)</entry>
+<entry name="CHARM_DESC_25_BROKEN">Vires gerentis auget, ut in hostes vulnera aculeo inferat vehementius.&lt;br&gt;&lt;br&gt;Cum hoc amuletum sit fractum, silent eius vires. Quam ob rem, indui non potest.</entry>
+<entry name="CHARM_NAME_25_G">Robur Invictum</entry>
+<entry name="CHARM_DESC_25_G">Vires gerentis auget, ut in hostes vulnera aculeo inferat vehementius.&lt;br&gt;&lt;br&gt;Hoc amuletum frangi nullo pacto potest.</entry>
+
+<entry name="CHARM_DESC_BROKEN">Cum hoc amuletum sit fractum, silent eius vires. Quam ob rem, indui non potest.</entry>
+<entry name="NOTIFICATION_CHARM_BREAK">Amuletum Fractum est</entry>
+<!-- Nailmaster's Glory -->
+<entry name="CHARM_NAME_26">Gloria Magistri</entry>
+<entry name="CHARM_DESC_26">Amuletum cui insita sunt Aculeatoris Magistri studium, ingenium, lamenta.&lt;br&gt;&lt;br&gt;Gerentis Artium Aculei peritiam augebit, ut citius vires colligere, artesque usurpare possit.</entry>
+<!-- Joni's Blessing -->
+<entry name="CHARM_NAME_27">Gratia Jonis</entry>
+<entry name="CHARM_DESC_27">Gratia Jonis, haereticae benignae. Convertit sanguis in caeruleum liquorem vitae.&lt;br&gt;&lt;br&gt;Sic et durior et salubrior erit concha gerentis, ut plura vulnera sustinere possit. At simul tamen non concedetur gerenti sanare sua vulnera Animo collecto.</entry>
+<!-- Shape of Unn -->
+<entry name="CHARM_NAME_28">Forma Unni</entry>
+<!-- BAD?? -->
+<entry name="CHARM_DESC_28">Recludit formam Unni in gerente latentem.&lt;br&gt;&lt;br&gt;Dum Animus colligitur, ita forma gerentis mutabitur, ut se libere movere possit, atque hostium sic impetus vitare.</entry>
+<!-- Hiveblood -->
+<entry name="CHARM_NAME_29">Sanguis Alvearis</entry>
+<entry name="CHARM_DESC_29">Glebula auricolor ex melli indurato Alvearis.&lt;br&gt;&lt;br&gt;Gerentis vulnera salusque nullo Animo consumpto sanantur per tempus.</entry>
+<!-- Dream Wielder -->
+<entry name="CHARM_NAME_30">Symbolus Somniorum</entry>
+<!-- BAD plus Animum / plus Animi -->
+<entry name="CHARM_DESC_30">Amuletum sublime, ad usum Aculei Somniorum gerentis, colligentis Substantiam Somnii.&lt;br&gt;&lt;Efficit ut citius gerens in Aculeo Somniorum vires cogat, plusque ab hostibus perculsis Animum extrahat.</entry>
+<!-- Dashmaster -->
+<entry name="CHARM_NAME_31">Alipes</entry>
+<!-- BAD atque deorsum -->
+<entry name="CHARM_DESC_31">Ad imaginem cuiusdam confectum, cui nomen est inditum &#39;Alipes&#39;.&lt;br&gt;&lt;br&gt;Gerenti saepius proruendi dabitur potestas, atque deorsum versus. Utile iis, qui ultro citroque volunt moveri quam celerrime.</entry>
+<!-- Quick Slash -->
+<entry name="CHARM_NAME_32">Ictus Celer</entry>
+<entry name="CHARM_DESC_32">Ab imperfectis aculeis reiectis natum, in unum confusis. Aculei vero adhuc gestiunt stringi.&lt;br&gt;&lt;br&gt;Faciet ut rapidius gerens hostes caesim petere possit aculeo.</entry>
+<!-- Spell Twister -->
+<entry name="CHARM_NAME_33">Incantator</entry>
+<!-- BAD quanto Animo / quanto Animi -->
+<entry name="CHARM_DESC_33">Quod studiosi Animi Sacrarii maius imperium in Animum cupiebant, hoc Amuletum carminum iactandorum peritiam auget gerentis.&lt;br&gt;&lt;br&gt;Diminuitur quanto Animo sit opus ad cantus magicos iactandos.</entry>
+<!-- Deep Focus -->
+<entry name="CHARM_NAME_34">Animus Contentus</entry>
+<entry name="CHARM_DESC_34">E natura post longum tempus informatum in crystallo. Trahit Animum ab aere.&lt;br&gt;&lt;br&gt;Sic paulo lentius gerens Animum colliget, ut duplo sibi vulnera sanet.</entry>
+<!-- Grubberfly's Elegy -->
+<entry name="CHARM_NAME_35">Elegia Tinealis</entry>
+<entry name="CHARM_DESC_35">Continet gratissimum animum Tineolarum, in proximum gradum suae vitae progressurarum. Inficit arma quadam sacra vi.&lt;br&gt;&lt;br&gt;Salute gerentis plena, emittet eius Aculeus flammeos ignes.</entry>
+<!-- White Fragment -->
+<entry name="CHARM_NAME_36_A">Fragmentum Album</entry>
+<entry name="CHARM_DESC_36_A">Fragmentum Amuleti Albi. Indui non potest.</entry>
+<!-- Kingsoul -->
+<entry name="CHARM_NAME_36_B">Anima Regia</entry>
+<entry name="CHARM_DESC_36_B">Amuletum sacrum, quod coniugium inter superos demonstrat. Qui hoc geret, infinitam sibi copiam Animi in eo insitam absorbebit.&lt;br&gt;&lt;br&gt;Aperit aditum ad incunabula.</entry>
+<!-- Void Heart -->
+<entry name="CHARM_NAME_36_C">Cor Inanis</entry>
+<entry name="CHARM_DESC_36_C">Inanitas, quondam intus occulta, iam exsoluta. Coniungit Inane cum voluntate gerentis.&lt;br&gt;&lt;br&gt;Hoc Amuletum est iam factum pars gerentis. Exui non potest.</entry>
+<!-- Sprintmaster -->
+<entry name="CHARM_NAME_37">Citipes</entry>
+<!-- BAD? aemulos -->
+<entry name="CHARM_DESC_37">Ad imaginem cuiusdam confectum, cui nomen est inditum &#39;Citipes&#39;.&lt;br&gt;&lt;br&gt;Gerenti facultas citius currendi datur, sic ut pericula vitare, aemulosque suos superare possit.</entry>
+<!-- Dreamshield -->
+<entry name="CHARM_NAME_38">Aegis Somnii</entry>
+<entry name="CHARM_DESC_38">Amuletum protegens ab aliqua tribu confectum, quae somnia effingere poterat.&lt;br&gt;&lt;br&gt;Invocat scutum insequens protegensque gerentem.</entry>
+<!-- Weaversong -->
+<entry name="CHARM_NAME_39">Carmen Textile</entry>
+<entry name="CHARM_DESC_39">Amuletum sericeum quod carmen continet Textorum valedicentium, e Nido Sacro in pristinam domum abiturorum.&lt;br&gt;&lt;br&gt;Evocat parvos textores qui comites eant gerenti.</entry>
+<!-- Grimmchild -->
+<entry name="CHARM_NAME_40">Pupus Grimm</entry>
+<entry name="CHARM_DESC_40">Gerunt ii, qui in Caerimonia Gregis Scaenici Grimm intersunt.&lt;br&gt;&lt;br&gt;Qui hoc gerit, Grimmulos quaerere, eorumque ignes colligere est munus. Ignes colligendae erunt ostentae in tabula regionum gerentis.</entry>
+<!-- Carefree Melody -->
+<entry name="CHARM_NAME_40_N">Carmen Otiosum</entry>
+<entry name="CHARM_DESC_40_N">Signum initae novae amiticiae.&lt;br&gt;&lt;br&gt;Continet carmen intus protectionis, quod a vulnere gerentem teget.</entry>
+<entry name="CHARM_DESC_40_F">Signum caerimoniae perfectae. Insita est flamma viva coccinei coloris.</entry>
+
+<!-- BAD? -->
+<entry name="CHARM_ALERT_NONE">Nulla Amuleta geris.&lt;br&gt;&lt;br&gt;Ut Amuletis induas te, dum in subsellio sedes, in Tabulam q.e. &quot;Amuleta&quot; adi.</entry>
+<entry name="CHARM_ALERT_NONE_BENCH">Nulla Amuleta geris.&lt;br&gt;&lt;br&gt;Sume Amuletum quo te induas, ut eius effectum incites.</entry>
+
+<!-- why does AMULETIS not show? maybe it's better this way -->
+<entry name="CHARM_TXT_OVERCHARMED">OPPLETUS AMULETIS</entry>
+<entry name="CHARM_TXT_EQUIPPED">Induta</entry>
+<entry name="CHARM_TXT_COLLECTION">Collecta</entry>
+<!-- BAD?? -->
+<entry name="CHARM_TXT_NOTCHCOST">Cunei Implendi</entry>
+<entry name="CHARM_TXT_NOTCHES">Cunei</entry>
+<!-- BAD?? Implendi? Insumendi? -->
+<entry name="CHARM_TXT_COST">Implendi</entry>
+
+
+<!-- INV -->
+<entry name="INV_NAME_JOURNAL">Diurna Venatoris</entry>
+
+<entry name="INV_NAME_GEO">Geum</entry>
+<entry name="INV_DESC_GEO">Nummi per Nidum Sacrum usitati in mercatura, qui ex conchulis aetate in lapidem conversis feriuntur.&lt;br&gt;&lt;br&gt;Magno ex usu quibus in animo est mercari, vel in tributis solvendis aliquorum antiquorum machinamentorum.</entry>
+
+<entry name="INV_NAME_MAP">Tabula Locorum</entry>
+<entry name="INV_DESC_MAP">Tabula picta regionum Nidi Sacri, quam adumbravit Cornifer.&lt;br&gt;&lt;br&gt;Sine penna, regiones novas describere non potes.</entry>
+<entry name="INV_NAME_QUILL">Penna</entry>
+<entry name="INV_DESC_QUILL">Penna qua tuorum itinerum commentarios scribas.&lt;br&gt;&lt;br&gt;Opus est charta, in qua scribas.</entry>
+<entry name="INV_NAME_MAPQUILL">Charta cum Penna</entry>
+<entry name="INV_DESC_MAPQUILL">Tabula picta regionum Nidi Sacri.&lt;br&gt;&lt;br&gt;Ubi in subsellio consides, quas novas regiones recens exploraveris, hac penna in charta describere poteris.</entry>
+
+<entry name="INV_NAME_DASH">Pallium Alarum Papilionis</entry>
+<entry name="INV_DESC_DASH">Pallium intextum filis alarum papilionum.&lt;br&gt;&lt;br&gt;Quo amictus, gerens per terram aeremque perniciter proruere potest.</entry>
+<entry name="INV_NAME_SHADOWDASH">Pallium Tenebrarum</entry>
+<entry name="INV_DESC_SHADOWDASH">Pallium ex ipsa Abyssi materia informatum.&lt;br&gt;&lt;br&gt;Quo amictus, gerens per hostium impetus sine vulnere perrumpere ruendo potest.</entry>
+
+<entry name="INV_NAME_SUPERDASH">Cor Crystalli</entry>
+<entry name="INV_DESC_SUPERDASH">Cor vitale veteris Golem fossoris.&lt;br&gt;&lt;br&gt;Quo usus, viribus in crystallo insitis collectis, magno provolatu gerens in aerem se iaculari potest.</entry>
+
+<entry name="INV_NAME_DOUBLEJUMP">Alae Monarchae</entry>
+<entry name="INV_DESC_DOUBLEJUMP">Alae ex materia aetheria, quae emicat in tenebris.&lt;br&gt;&lt;br&gt;Quibus amictus, gerens in aere alterum saltum dare potest.</entry>
+<entry name="INV_NAME_WALLJUMP">Unguis Mantidis</entry>
+<entry name="INV_DESC_WALLJUMP">Unguis ex ossibus excavatus.&lt;br&gt;&lt;br&gt;Quo indutus, gerens adhaerere ad parietes, de eisque dare saltum potest.</entry>
+
+<entry name="INV_NAME_ACIDARMOUR">Lachryma Ismae</entry>
+<entry name="INV_DESC_ACIDARMOUR">Pomum ex una lacrima coagulata formatum.&lt;br&gt;&lt;br&gt;Quo comeso, gerens aquas acidas, quae hic illic per Nidum Sacrum inveniuntur, illaesus attingere poterit.</entry>
+
+
+<!-- INV ART SPELL -->
+<!-- Great Slash -->
+<entry name="INV_NAME_ART_DASH">Caesum Grande</entry>
+<entry name="INV_DESC_ART_DASH">Ars Aculeatoris Magistri Scaeonis.&lt;br&gt;Magnus impetus in directum, quo aculeum hostibus violenter profligas.</entry>
+<!-- Dash Slash -->
+<!-- BAD de prosultu -->
+<entry name="INV_NAME_ART_UPPER">Ictus Impulsus</entry>
+<entry name="INV_DESC_ART_UPPER">Ars Aculeatoris Magistri Oronis.&lt;br&gt;Ictus in directum, quo de proruptu hostes caedas.</entry>
+<!-- Cyclone Slash -->
+<entry name="INV_NAME_ART_CYCLONE">Aculei Vortex</entry>
+<!-- BAD?? volvens -->
+<entry name="INV_DESC_ART_CYCLONE">Ars Aculeatoris Magistri Matonis.&lt;br&gt;Impetus volvens, quo hostes utraque ex parte percellas.</entry>
+
+<!-- Focus -->
+<entry name="INV_NAME_SPELL_FOCUS">Animi Intentio</entry>
+<entry name="INV_DESC_SPELL_FOCUS">Intento Animo collecto, concha restauratur, sanantur vulnera.&lt;br&gt;&lt;br&gt;Pete hostes aculeo, ut Animum colligas.</entry>
+
+<!-- Vengeful Spirit -->
+<entry name="INV_NAME_SPELL_FIREBALL1">Anima Ultrix</entry>
+<entry name="INV_DESC_SPELL_FIREBALL1">Invocat spiritum in hostes involantem, quos violenter amburet attactos.&lt;br&gt;&lt;br&gt;Ut spiritus invoces, Animo est opus. Pete hostes aculeo, ut Animum colligas.</entry>
+<!-- Shade Soul -->
+<entry name="INV_NAME_SPELL_FIREBALL2">Anima Umbrae</entry>
+<entry name="INV_DESC_SPELL_FIREBALL2">Invocat spiritum in hostes involantem, quos violenter amburet attactos.&lt;br&gt;&lt;br&gt;Ut umbras invoces, Animo est opus. Pete hostes aculeo, ut Animum colligas.</entry>
+
+<!-- Howling Wraiths -->
+<entry name="INV_NAME_SPELL_SCREAM1">Clamor Larvalis</entry>
+<entry name="INV_DESC_SPELL_SCREAM1">Percellit hostes animis clamantibus.&lt;br&gt;&lt;br&gt;Ut animas invoces, Animo est opus. Pete hostes aculeo, ut Animum colligas.</entry>
+<!-- Abyss Shriek -->
+<entry name="INV_NAME_SPELL_SCREAM2">Stridor Abyssi</entry>
+<entry name="INV_DESC_SPELL_SCREAM2">Percellit hostes umbris stridentibus.&lt;br&gt;&lt;br&gt;Ut umbras invoces, Animo est opus. Pete hostes aculeo, ut Animum colligas.</entry>
+
+<!-- Desolate Dive -->
+<entry name="INV_NAME_SPELL_QUAKE1">Lapsus Vastitiei</entry>
+<entry name="INV_DESC_SPELL_QUAKE1">Percutit solum magna Animi vi collecta, ut hostes feriat et compages fragiles perfringat.&lt;br&gt;&lt;br&gt;Ad vires colligendas, Animo est opus. Pete hostes aculeo, ut Animum colligas.</entry>
+<!-- Descending Dark -->
+<entry name="INV_NAME_SPELL_QUAKE2">Descensus Tenebrarum</entry>
+<entry name="INV_DESC_SPELL_QUAKE2">Percutit solum magna Animi vi Umbraeque collecta, ut hostes feriat et compages fragiles perfringat.&lt;br&gt;&lt;br&gt;Ad vires colligendas, Animo est opus. Pete hostes aculeo, ut Animum colligas.</entry>
+
+
+<!-- INV NAIL -->
+<entry name="INV_NAME_NAIL1">Aculeus Vetustus</entry>
+<entry name="INV_DESC_NAIL1">Telum Nidisacrense usitatissimum. Propter vetustatem, acies est valde hebetata.</entry>
+<entry name="INV_NAME_NAIL2">Aculeus Acutus</entry>
+<entry name="INV_DESC_NAIL2">Telum Nidisacrense usitatissimum, cuius subtilissima acies iam refecta est.</entry>
+<entry name="INV_NAME_NAIL3">Aculeus Caelatus</entry>
+<entry name="INV_DESC_NAIL3">Aculeus Nidisacrensis fabre caelatus, ut quam possit acutissimus sit.</entry>
+<entry name="INV_NAME_NAIL4">Aculeus Spiratus</entry>
+<entry name="INV_DESC_NAIL4">Fortis aculeus Nidisacrensis, praeter ceteros expolitus.</entry>
+<entry name="INV_NAME_NAIL5">Aculeus Perfectus</entry>
+<entry name="INV_DESC_NAIL5">Aculeus Nidisacrensis perfectus, ad summam perfectionem excusus. Tandem hic priscus ensis suam veram formam ostendit.</entry>
+
+<entry name="INV_NAME_DREAMNAIL_A">Aculeus Somniorum</entry>
+<entry name="INV_DESC_DREAMNAIL_A">Intercidit spatium inter somnium ac vigiliam. Hic aculeus, ut quasdam portas, itidem somnia occulta aperire potest.&lt;br&gt;&lt;br&gt;Hoc Aculeo Somniorum, colligi potest Substantiam, somniorum desideriorumque reliquias.</entry>
+<entry name="INV_NAME_DREAMNAIL_B">Aculeus Exsomnis</entry>
+<entry name="INV_DESC_DREAMNAIL_B">Intercidit spatium inter somnium ac vigiliam. Hic aculeus, ut quasdam portas, itidem somnia occulta aperire potest.&lt;br&gt;&lt;br&gt;Potestate Aculei Somniorum iam funditus excitata, tandem ea somnia, quae penitus in memoriis recondita sunt, patefieri poterunt.</entry>
+
+
+
+<!-- INV SOULORBS HEARTPIECE -->
+<entry name="INV_NAME_SOULORBS_NONE"></entry>
+<entry name="INV_DESC_SOULORBS_NONE"></entry>
+<entry name="INV_NAME_SOULORBS_ALL">Vas Animi</entry>
+<entry name="INV_DESC_SOULORBS_ALL">Vas integrum, Animi continendi potestate infectum.</entry>
+<entry name="INV_NAME_SOULORBS_0">Fragmenta Vasis</entry>
+<entry name="INV_NAME_SOULORBS_1">Fragmentum Vasis</entry>
+<entry name="INV_NAME_SOULORBS_2">Fragmenta Vasis</entry>
+<entry name="INV_DESC_SOULORBS_0">Fragmenta vasis albi, Animum continentis.&lt;br&gt;&lt;br&gt;Ad vas integrum complendum, quo plus Animi continere possis, opus est etiam tribus fragmentis.</entry>
+<entry name="INV_DESC_SOULORBS_1">Fragmentum vasis albi, Animum continentis.&lt;br&gt;&lt;br&gt;Ad vas integrum complendum, quo plus Animi continere possis, opus est etiam duobus fragmentis.</entry>
+<entry name="INV_DESC_SOULORBS_2">Fragmenta vasis albi, Animum continentis.&lt;br&gt;&lt;br&gt;Ad vas integrum complendum, quo plus Animi continere possis, opus est etiam uno fragmento.</entry>
+
+<entry name="INV_NAME_HEARTPIECE_NONE"></entry>
+<entry name="INV_DESC_HEARTPIECE_NONE"></entry>
+<entry name="INV_NAME_HEARTPIECE_ALL">Larva Antiqua</entry>
+<entry name="INV_DESC_HEARTPIECE_ALL">Larva integra, quae te protegat, tuamque veram speciem occultet.</entry>
+<entry name="INV_NAME_HEARTPIECE_0">Fragmenta Larvae</entry>
+<entry name="INV_NAME_HEARTPIECE_1">Fragmentum Larvae</entry>
+<entry name="INV_NAME_HEARTPIECE_2">Fragmenta Larvae</entry>
+<entry name="INV_NAME_HEARTPIECE_3">Fragmenta Larvae</entry>
+<!-- BAD -->
+<entry name="INV_DESC_HEARTPIECE_0">Fragmenta antiquae larvae, a vulnere tegentis.&lt;br&gt;&lt;br&gt;Ad roborandam concham tuam, qua plura vulnera sustinere possis, opus est etiam quattuor fragmentis.</entry>
+<entry name="INV_DESC_HEARTPIECE_1">Fragmenta antiquae larvae, a vulnere tegentis.&lt;br&gt;&lt;br&gt;Ad roborandam concham tuam, qua plura vulnera sustinere possis, opus est etiam tribus fragmentis.</entry>
+<entry name="INV_DESC_HEARTPIECE_2">Fragmenta antiquae larvae, a vulnere tegentis.&lt;br&gt;&lt;br&gt;Ad roborandam concham tuam, qua plura vulnera sustinere possis, opus est etiam duobus fragmentis.</entry>
+<entry name="INV_DESC_HEARTPIECE_3">Fragmenta antiquae larvae, a vulnere tegentis.&lt;br&gt;&lt;br&gt;Ad roborandam concham tuam, qua plura vulnera sustinere possis, opus est etiam uno fragmento.</entry>
+
+
+<!-- INV ETC -->
+<entry name="INV_NAME_NOTCH">Cuneus Amuleti</entry>
+<entry name="INV_NAME_DREAMCORE">Substantia Somnii</entry>
+
+<entry name="INV_NAME_KINGSBRAND">Insigne Regium</entry>
+<entry name="INV_DESC_KINGSBRAND">Qui hoc insigne gerit, asciscitur Rex. Aditus ad regiones antiquissimas Nidi Sacri prae eo patefiet.</entry>
+
+<entry name="INV_NAME_ORE">Aes Album</entry>
+<entry name="INV_DESC_ORE">Pallidissimum metallum rarum, quod tactu subfrigidum est.&lt;br&gt;&lt;br&gt;Magni aestimatur a fabris aculeariis.</entry>
+<entry name="INV_NAME_RANCIDEGG">Ovum Fetidum</entry>
+<entry name="INV_DESC_RANCIDEGG">Crassum, rancindumque ovum alicuius bestiae ignotae. Redolet valde fetidissimum odorem.&lt;br&gt;&lt;br&gt;Plerumque edi non posse existimatur.</entry>
+
+<!-- Wanderer's Journal -->
+<entry name="INV_NAME_TRINKET1">Libellus Viatoris</entry>
+<entry name="INV_DESC_TRINKET1">Commentarii ab viatore relicti, iam diu emortuo. Verba insunt aliquo perdito sermone conscripta, ideoque difficilia interpretatu.&lt;br&gt;&lt;br&gt;Pars est quod reliquum est ex Regni Nidisacrensis praeteritis temporibus, quae plurimi iam parvi aestimant, nisi qui antiquis reliquiis student.</entry>
+<!-- Hallownest Seal -->
+<entry name="INV_NAME_TRINKET2">Sigillum Nidisacrense</entry>
+<entry name="INV_DESC_TRINKET2">Sigillum Regni Nidi Sacri, quod auctoritatem Regis eiusque Equitatus demonstrat.&lt;br&gt;&lt;br&gt;Pars est quae reliquum est ex Regni Nidisacrensis praeteritis temporibus, quod plurimi iam parvi aestimant, nisi qui antiquis reliquiis student.</entry>
+<!-- King's Idol -->
+<entry name="INV_NAME_TRINKET3">Simulacrum Regis</entry>
+<entry name="INV_DESC_TRINKET3">Simulacrum album, ad figuram Regis Nidisacrensis exsculptum. Regis cultum, qui vulgo propalam esse rarissime solebat, per haec multa simulacra cives colebant.&lt;br&gt;&lt;br&gt;Pars est quod reliquum est ex Regni Nidisacrensis praeteritis temporibus, quae plurimi iam parvi aestimant, nisi qui antiquis reliquiis student.</entry>
+<!-- Arcane Egg -->
+<entry name="INV_NAME_TRINKET4">Ovum Arcanum</entry>
+<!-- BAD -->
+<entry name="INV_DESC_TRINKET4">Mirabile ovum lapideum, etiam Regni Nidi Sacri ortu antiquius.&lt;br&gt;&lt;br&gt;Pars est quod reliquum est ex Regni Nidisacrensis praeteritis temporibus, quae plurimi iam parvi aestimant, nisi qui antiquis reliquiis student.</entry>
+
+<!-- City Crest -->
+<entry name="INV_NAME_CITYKEY">Insigne Urbis</entry>
+<entry name="INV_DESC_CITYKEY">Lapis Insigni Urbis Capitalis Regni Nidi Sacri obsignatus. Parvus clavus a tergo extrusus est, qui in quoddam foramen inseri posse videtur.</entry>
+<!-- Simple Key -->
+<entry name="INV_NAME_SIMPLEKEY">Clavis Rudis</entry>
+<entry name="INV_DESC_SIMPLEKEY">Clavis vilis rustice confecta, qua varia rudia claustella aperire potest.&lt;br&gt;&lt;br&gt;Cum sit viliter confecta, uno usu frangetur.</entry>
+<!-- Love Key -->
+<entry name="INV_NAME_LOVEKEY">Clavis Amoris</entry>
+<entry name="INV_DESC_LOVEKEY">Clavis operta mollicula materia, quae amoris signum gerit.</entry>
+<!-- Shopkeeper's Key -->
+<entry name="INV_NAME_STOREKEY">Clavis Tabernarii</entry>
+<entry name="INV_DESC_STOREKEY">Parva clavis aenea, ad speciem tabernarii cuiusdam confecta.</entry>
+<!-- Elegant Key -->
+<entry name="INV_NAME_WHITEKEY">Clavis Ornata</entry>
+<entry name="INV_DESC_WHITEKEY">Clavis ornata ficta ex albo metallo, quae enitet in tenebris. Inscriptum in ea est signum Sacrarii Animi Nidisacrensis.</entry>
+
+<!-- Lumafly Lantern -->
+<entry name="INV_NAME_LANTERN">Lanterna Cicindelarum</entry>
+<entry name="INV_DESC_LANTERN">Lanterna facta ex crystallo, in qua insunt inclusae Cicindelae, viatoribus iter per specus obscuros collustrantes.</entry>
+<!-- Tram Pass -->
+<entry name="INV_NAME_TRAM_PASS">Tessera Carri</entry>
+<entry name="INV_DESC_TRAM_PASS">Tessera licentiae ascendendi carros mechanicos, qui diversas regiones Nidisacrenses coniungunt. Has tesseras, praeter magnam copiam Georum ad emendum necessariam, tantummodo citra regium permissum emere licet.</entry>
+
+<!-- Dreamgate -->
+<entry name="INV_NAME_DREAMGATE">Porta Somniorum</entry>
+<!-- BAD?? -->
+<entry name="INV_DESC_DREAMGATE">Dat gerenti per somnia meandi facultas.&lt;br&gt;&lt;br&gt;Retine clavem &quot;Deorsum&quot; dum Aculeum Somniorum stringis, ut Portam Somniorum in loco aperias. Tene postea clavem &quot;Sursum&quot; Aculeo Somniorum stricto, ut, ope unius particulae Substantiae, statim ad eandem Portam Somniorum redeas.&lt;br&gt;&lt;br&gt;Sunt nonnullae regiones omnino semitis ad somnia carentes, in quibus portas somniorum aperire non licebit.</entry>
+
+<!-- Delicate Flower -->
+<entry name="INV_NAME_FLOWER">Flos Tenuis</entry>
+<!-- BAD? -->
+<entry name="INV_DESC_FLOWER">Tradidit in Requietorio Cinerea Lugens, ut ad sepulcrum amantis suae in Hortis Reginae conferas.&lt;br&gt;&lt;br&gt;Cum tactu sit tenerrimus, si vulnera acceperis aut Scarabaeo vectus eris, ilico periet.</entry>
+<entry name="INV_DESC_FLOWER_QG">Ex Hortis Reginae carptus, enitet candida tenuique luce.&lt;br&gt;&lt;br&gt;Cum tactu sit tenerrimus, si vulnera acceperis aut Scarabaeo vectus eris, ilico periet.</entry>
+<!-- Ruined Flower -->
+<entry name="INV_NAME_FLOWER_BROKEN">Flos Perditus</entry>
+<entry name="INV_DESC_FLOWER_BROKEN">Tradidit in Requietorio Cinerea Lugens.&lt;br&gt;&lt;br&gt;Quoniam periit, haudquaquam videtur quicquam umquam fuisse amoris indicium.</entry>
+<entry name="INV_DESC_FLOWER_BROKEN_QG">Ex Viridiario Reginae carptus. Cum periit, nunc pro nihilo est.</entry>
+<entry name="NOTIFICATION_FLOWER_BREAK">Periit Flos</entry>
+
+
+<!-- SHOP -->
+<entry name="SHOP">TABERNA</entry>
+
+<entry name="SHOP_PURCHASE_CONFIRM">Hoccine emes?</entry>
+<entry name="SHOP_SELL_CONFIRM">Hoccine vendes?</entry>
+<entry name="SHOP_PURCHASE_COMPLETE">Emptum est</entry>
+<entry name="SHOP_SELL_COMPLETE">Venditum est</entry>
+
+<!-- SHOP DESC -->
+<!-- TL note:
+I don't like it at all.
+
+TL 100%
+Check 95%
+Confidence 80%
+-->
+<!-- Iselda -->
+<entry name="SHOP_DESC_WAYWARDCOMPASS">Hortor tibi ut hoc emas! Si quidem per devia ruinarum saepe aberras, conare hoc Amuleto, quod locum ubi sis exquisite in chartam ostendet.&lt;br&gt;&lt;br&gt;Ad exploranda loca ignota, utilissimum est!</entry>
+<entry name="SHOP_DESC_QUILL">Si in chartam nova loca addere voles, hanc tibi empto est opus.&lt;br&gt;&lt;br&gt;Quicumque velit fieri probus chartarius, necessaria res est!</entry>
+
+
+<!-- Salubra -->
+<entry name="SHOP_NAME_SALUBRA">Mea Gratia</entry>
+<entry name="SHOP_SALUBRA_BLESSING">Gratia mea erga te. Quam bene meritus es!</entry>
+<!-- BAD -->
+<entry name="SHOP_SALUBRA_BLESSING_NE">Hoc est aliquid singulare, quod eis tantum vendo, qui Amuleta diligunt tamquam ego.&lt;br&gt;&lt;br&gt;Siquando 40 Amuleta collegeris, libenter id tibi vendam.&lt;br&gt;&lt;br&gt;Etiam </entry>
+<entry name="CHARMS_REMAINING"> Amuletis opus est. Perge Amuleta acquirere!</entry>
+
+<entry name="SHOP_DESC_NOTCH_1">Velisne plura amuleta gerere? Quin, profecto velis!&lt;br&gt;&lt;br&gt;Eme ergo hunc cuneum amuleti, et etiam plura amuleta simul gerere poteris.</entry>
+<entry name="SHOP_DESC_NOTCH_2">Velisne plura amuleta gerere? Quin, profecto velis!&lt;br&gt;&lt;br&gt;Eme ergo hunc cuneum amuleti, et etiam plura amuleta simul gerere poteris.</entry>
+<entry name="SHOP_DESC_NOTCH_3">Velisne plura amuleta gerere? Quin, profecto velis!&lt;br&gt;&lt;br&gt;Eme ergo hunc cuneum amuleti, et etiam plura amuleta simul gerere poteris.</entry>
+<entry name="SHOP_DESC_NOTCH_4">Velisne plura amuleta gerere? Quin, profecto velis!&lt;br&gt;&lt;br&gt;Eme ergo hunc cuneum amuleti, et etiam plura amuleta simul gerere poteris.</entry>
+
+<entry name="SHOP_DESC_NOTCH_1_NE">Hoc est aliquid singulare, quod eis tantum vendo, qui Amuleta diligunt tamquam ego.&lt;br&gt;&lt;br&gt;Siquando 5 Amuleta collegeris, libenter id tibi vendam.&lt;br&gt;&lt;br&gt;Etiam </entry>
+<entry name="SHOP_DESC_NOTCH_2_NE">Hoc est aliquid singulare, quod eis tantum vendo, qui Amuleta diligunt tamquam ego.&lt;br&gt;&lt;br&gt;Siquando 10 Amuleta collegeris, libenter id tibi vendam.&lt;br&gt;&lt;br&gt;Etiam </entry>
+<entry name="SHOP_DESC_NOTCH_3_NE">Hoc est aliquid singulare, quod eis tantum vendo, qui Amuleta diligunt tamquam ego.&lt;br&gt;&lt;br&gt;Siquando 18 Amuleta collegeris, libenter id tibi vendam.&lt;br&gt;&lt;br&gt;Etiam </entry>
+<entry name="SHOP_DESC_NOTCH_4_NE">Hoc est aliquid singulare, quod eis tantum vendo, qui Amuleta diligunt tamquam ego.&lt;br&gt;&lt;br&gt;Siquando 25 Amuleta collegeris, libenter id tibi vendam.&lt;br&gt;&lt;br&gt;Etiam </entry>
+
+<entry name="SHOP_DESC_BLUEHEALTHSMALL">Potavistine umquam illud liquidum caeruleum, &#39;liquorem vitae&#39;? Id aliquid turpe habetur, tamen si eum bibas multo validior fias.&lt;br&gt;&lt;br&gt;Hoc ergo Amuletum, quod liquorem vitae effundit, valetudini tuae profecto proderit!</entry>
+<entry name="SHOP_DESC_LONGNAIL">Aculeus tuus sane quam pulcher est! At nonne interdum velis eum esse... longiorem?&lt;br&gt;&lt;br&gt;Ho! Ho ho hoe! Age, cape sis hoc Amuletum. Iam hostes tibi comminus erunt.</entry>
+<entry name="SHOP_DESC_NORECOIL">Oh, quam pulchra sunt huius Amuleti lineamenta! Quam lepidum est! Est enim ex materia fictum probe firma et robusta.&lt;br&gt;&lt;br&gt;Si eo te indueris, firmiter in eodem vestigio stare poteris, dum aculeum tuum in hostes vibras.</entry>
+<!-- BAD furuncule / iocor quidem -->
+<entry name="SHOP_DESC_SPELLDMGUP">Placentne tibi cantus magici, o furuncule? Ho ho! Iocor quidem.&lt;br&gt;&lt;br&gt;Siquos cantus didiceris, hoc Amuleto, quod eos fortiores reddere dicitur, erit usus tibi!</entry>
+<entry name="SHOP_DESC_QUICKFOCUS">Nonne hic crystallus in medio Amuleto insertus pulcherrimus est? Lepidissimus quidem! Audii vero hos crystallos ad &quot;intentionem&quot; valde iuvare. Siquidem id tua interest, ut hoc accipias suadeo!</entry>
+
+
+<!-- Sly -->
+<entry name="SHOP_DESC_SIMPLEKEY">Clavis est modo. Aperiet claustella variorum generum, quod maxime ex usu erit, si aliquo intrare invocatus volueris.</entry>
+<entry name="SHOP_DESC_SLYEGG">Hoc sub mensa repperi. Aliquod animal id peperisse oportet, dum ego in ruinis detinebar.&lt;br&gt;&lt;br&gt;Velisne tu id emere? Scio enim eius gravis odoris me non cariturum.</entry>
+<entry name="SHOP_DESC_LANTERN">Utrum maioris ponderis habes? Lucemne habere quae viam collustret, an socium qui usque tuus sit comes?&lt;br&gt;&lt;br&gt;Res haud in dubio est, ecce enim qui ambas tibi partes agat: socia cicindela, quae sua luce vel obscurissimam viam illuminet tibi.</entry>
+<entry name="SHOP_DESC_GEOGATHERER">Taedetne praetermittere nummulos, dum festinas per speluncas?&lt;br&gt;&lt;br&gt;Ecce ergo tibi Amuletum commodissimum, quod id Geum ad te referat.</entry>
+<entry name="SHOP_DESC_STALWARTSHELL">Hei, quam dura est vita in Nido Sacro, quod identidem vulnerare et pulsare. Hoc autem Amuleto, tempus tibi ad reciperandum dabitur longius, quo facilius fugam a periculo capias.</entry>
+<entry name="SHOP_DESC_ENEMYRECOILUP">Si delectaris hostibus verberandis aculeo, ecce tibi aliquid quod prosit: hoc enim Amuleto, auferentur verberibus hostes procul!</entry>
+<entry name="SHOP_DESC_WHITEKEY">Explorator quidam invenerat in urbis aquaeductibus hanc clavem ornatam. Non, inquam, eam purgavi.</entry>
+<entry name="SHOP_DESC_SPRINTMASTER">Placetne tibi hoc? Aliquid novum est quod vendito. Nonne id est pulchrum? Si autem id tenes, citissime currere potes, et quidem sine fatigatione, quasi rursus iuvenis sis factus! Hem, aut saltem ita ferunt.</entry>
+
+<entry name="SHOP_DESC_HEARTPIECE_1">Hoc quid sit? Modo fragmentum aliquid maius. Haud scio an forte ex usu tibi sit.</entry>
+<entry name="SHOP_DESC_HEARTPIECE_2">Ecce autem alterum fragmentum inveni. Si propius inspicias, insunt aliqua signa arte incisa.&lt;br&gt;&lt;br&gt;Credo autem me exiguum pro altero poposcisse pretium, quamobrem hoc, quia ultimum est, iam maioris pretii facio!</entry>
+<entry name="SHOP_DESC_HEARTPIECE_3">Quid ais, an haec fragmenta colligis? Bene ergo, quia alterum inveni in promptuario.&lt;br&gt;&lt;br&gt;Hoc autem vere est ultimum, ideoque aequum ei pretium constitui.</entry>
+<entry name="SHOP_DESC_HEARTPIECE_4">Hem, alterum vero, ut apparet, habebam horum fragmentorum. Hoc revera est ultimum!&lt;br&gt;&lt;br&gt;Paenitet me quod tanti tibi alia fragmenta fecerim, praecipue quod hoc etiam pluris fecero.</entry>
+
+<entry name="SHOP_DESC_SOULORBS_1">Fragmentum Vasis Animi est, illi quidem orbes formidulosi, quos forte vidisti.&lt;br&gt;&lt;br&gt;Quamvis hos aliquantum abominosos puto, cum rarior merx sit, magnum pretium tibi facere debeo.</entry>
+<entry name="SHOP_DESC_SOULORBS_2">Ecce alterum horum inveni. Unum integrum fere, ut apparet, habebam. Nisi abhorrerem, fragmenta in integrum reponerem egomet.</entry>
+<!-- UNUSED? -->
+<entry name="SHOP_DESC_SOULORBS_3">Ehem. Etiam alterum fragmentum Vasis inveni. Mirabile est quod in proptuario inveniri potest, quod oblitus sis.</entry>
+<!-- UNUSED? -->
+<entry name="SHOP_DESC_SOULORBS_4">Fateor, perperam fortasse haec aestimavi. Habent enim revera insolitam sibi quandam pulchritudinem.&lt;br&gt;&lt;br&gt;Modo timeo ne minoris fecerim alia quae vendidi tibi...</entry>
+
+
+<!-- Legeater -->
+<entry name="SHOP_DESC_GLASS_HP">Hoc Amuletum tam pretiosum quam lepidum... tua causa id finxi! Si geres, multo plus valebis.&lt;br&gt;&lt;br&gt;Si mortem metuis, hoc tibi est opus Amuleto!</entry>
+<entry name="SHOP_DESC_GLASS_HP_BRK">Fractum est, ergo vires sunt sopitae. Quam miseriam! Da mihi Geum tamen, et id reficiam tibi.</entry>
+<entry name="SHOP_DESC_GLASS_GEO">Ecce Amuletum unicum et pretiosum! Visne plus pecuniae invenire? Tene hoc, et i venatum!&lt;br&gt;&lt;br&gt;Deinde quod Geum inveneris, huc id ad me referto!</entry>
+<entry name="SHOP_DESC_GLASS_GEO_BRK">Fractum est, ergo vires sunt sopitae. Quam miseriam! Da mihi Geum tamen, et id reficiam tibi.</entry>
+<entry name="SHOP_DESC_GLASS_ATTACK">Censen&#39; te infirmum? Geum da mihi modo. Quo dato, hoc Amuletum tibi tradam.&lt;br&gt;&lt;br&gt;Hoc fies fortior. Sic inimici tui, et ceteri omnes, tandem te metuent...</entry>
+<entry name="SHOP_DESC_GLASS_ATTACK_BRK">Fractum est, ergo vires sunt sopitae. Quam miseriam! Da mihi Geum tamen, et id reficiam tibi.</entry>
+
+
+<!-- Lemm -->
+<entry name="SHOP_DESC_TRINKET1">Hi commentarii sunt quid cogitarint qui ante nos vixerunt magno documento. Cum tamen sint facili repertu, non magnum pretium tibi facere possum.</entry>
+<entry name="SHOP_DESC_TRINKET2">Haec ornamenta arte confecta fuerunt Regis eiusque Equitatus pretiosissima insignia.&lt;br&gt;&lt;br&gt;Illi vero iamdiu perierunt, tamen haec insignia etiamnunc nonnullius pretii aestimantur. Proinde non parvum pretium tibi faciam.</entry>
+<entry name="SHOP_DESC_TRINKET3">Hoc est simulacrum Regis Nidi Sacri, quem Nidisacrenses venerabantur pro deo et duce. Simulacrum autem videtur ex aliqua ignota materia alba factum, et propter raritatem in magno pretio habentur.&lt;br&gt;&lt;br&gt;Si ergo id vendes mihi, bonum pretium tibi faciam.</entry>
+<entry name="SHOP_DESC_TRINKET4">Ah! Quamvis modo vulgarissimum ovum videatur, verum pretiosissima reliquia est eius temporis quod erat ante Regnum conditum Nidisacrensem!&lt;br&gt;&lt;br&gt;Haec quidem est merx egregie pretiosa. Precor, vende istuc mihi!</entry>
+</entries>

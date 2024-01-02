@@ -1,0 +1,892 @@
+<entries>
+<!-- TL note:
+Phew. It's basically over now.
+The quality varies greatly, but at least it's done.
+Ok now it's much better.
+
+TL 95%
+Check 90%
+Confidence 80%
+
+-->
+
+<entry name="NOTIFICATION_HALF">Addita Diurna</entry>
+<entry name="NOTIFICATION_FULL">Mutata Diurna</entry>
+
+<entry name="KILL_COUNT_1">Caedito etiam</entry>
+<entry name="KILL_COUNT_2">ad nova interpretanda Diurna Venatoris.</entry>
+
+<!-- KIN_SEAL Seal of Binding -->
+<entry name="NAME_KIN_SEAL">Symbolus Vinculi</entry>
+<entry name="DESC_KIN_SEAL">Symbolus ad morem antiquum confectus.&lt;br&gt;&lt;br&gt;Adhibebatur ad magnas vires continendas, aut ad aliquid conservandum maximi momenti.</entry>
+<entry name="NOTE_KIN_SEAL"></entry>
+<!-- HUNTERMARK Hunter&#39;s Mark -->
+<entry name="NAME_HUNTERMARK">Cornu Venatoris</entry>
+<entry name="DESC_HUNTERMARK">Indicium veri Venatoris.</entry>
+<entry name="NOTE_HUNTERMARK">Nulla mihi&#39;st proles, aut subiecti, aut cultores. Quod sum, quod didici, quod meum est... Id tibi trado, ut prosit, Venator.</entry>
+<!-- VOID_IDOL_1 Void Idol -->
+<entry name="NAME_VOID_IDOL_1">Simulacrum Inanis</entry>
+<entry name="DESC_VOID_IDOL_1">Effigies arte confecta, ab aetate antiquiore quam Nidisacrensis memoria. Continet stillam liquoris Abyssi.</entry>
+<entry name="NOTE_VOID_IDOL_1">&quot;Sive divinitus instincti seu insanitate compulsi, videntur antiqui non dominos, imperia, viresve consuesse venerari, sed tenebras ipsas.&quot;&lt;br&gt;- Lemm</entry>
+<!-- VOID_IDOL_2 Void Idol -->
+<entry name="NAME_VOID_IDOL_2">Simulacrum Inanis</entry>
+<entry name="DESC_VOID_IDOL_2">Effigies arte confecta, ab aetate antiquiore quam Nidisacrensis memoria. Intus rebullit liquor Abyssi.</entry>
+<entry name="NOTE_VOID_IDOL_2">&quot;Sive divinitus instincti seu insanitate compulsi, videntur antiqui non dominos, imperia, viresve consuesse venerari, sed tenebras ipsas.&quot;&lt;br&gt;- Lemm</entry>
+<!-- VOID_IDOL_3 Void Idol -->
+<entry name="NAME_VOID_IDOL_3">Simulacrum Inanis</entry>
+<entry name="DESC_VOID_IDOL_3">Effigies arte confecta, ab aetate antiquiore quam Nidisacrensis memoria, cuius spirae contorquentur in unam. Plena est immoto liquore Abyssi.</entry>
+<entry name="NOTE_VOID_IDOL_3">&quot;Sive divinitus instincti seu insanitate compulsi, videntur antiqui non dominos, imperia, viresve consuesse venerari, sed tenebras ipsas.&quot;&lt;br&gt;- Lemm</entry>
+
+<!-- GODSEEKER_MASK Weathered Mask -->
+<entry name="NAME_GODSEEKER_MASK">Larva Veterata</entry>
+<!-- BAD? Tali forma ficta esse videtur, ut gerentis cogitationes in cristam cogantur in unum -->
+<entry name="DESC_GODSEEKER_MASK">Insolita persona ex terra quadam vacante divis, tradita per tempus usque ad nos. Tali forma ficta esse videtur, ut gerentis cogitationes in cristam cogantur in unum.</entry>
+<entry name="NOTE_GODSEEKER_MASK">&quot;O Di fulgurum et imbrium! Cur ita vestros deseruistis servos fideles? Quinam patiantur iam nostrae mentes hanc solitudinem? Qui Deus remanet nunc, qui misero nos hoc liberet silentio?&quot;&lt;br&gt;- Lamenta Divipetentium</entry>
+
+
+<!-- ENEMIES -->
+<!-- CRAWLER Crawlid -->
+<entry name="NAME_CRAWLER">Cimiculus</entry>
+<entry name="DESC_CRAWLER">Timidae bestiolae quae per specus cibum quaerunt.</entry>
+<entry name="NOTE_CRAWLER">Insulsi et molliculi, quos interficere vix operae pretium est.</entry>
+
+
+<!-- VENGEFLIES -->
+<!-- BUZZER Vengefly -->
+<entry name="NAME_BUZZER">Tormentifera</entry>
+<entry name="DESC_BUZZER">Praedatores volantes, qui pertinaciter praedam persequuntur.</entry>
+<entry name="NOTE_BUZZER">Hi parvi sed feroces venatores, mirabile dictu, etiam animalia multo se maiora audent venari. Admirabile quidem! Quod tamen sunt aliquantulum infirmi, iam devoravi centenos sine opera nec cura.</entry>
+<!-- ANGRY_BUZZER Furious Vengefly -->
+<entry name="NAME_ANGRY_BUZZER">Tormentifera Furiosa</entry>
+<entry name="DESC_ANGRY_BUZZER">Tormentiferae quarum corpora morbus distorsit. Sunt saevissimae.</entry>
+<entry name="NOTE_ANGRY_BUZZER">Ea pestis quae ab animali in animal incedit, vires auget et animos addit, at voluntatem exstinguit. Quid tu, tradasne voluntatem tuam pro viribus?</entry>
+<!-- BIGBUZZER Vengefly King -->
+<entry name="NAME_BIGBUZZER">Tormentiferus Rex</entry>
+<entry name="DESC_BIGBUZZER">Dominus coloniae tormentiferarum. Vehementer incursat in invasores, et auxilium vocat ubi de sua vita metuit.</entry>
+<entry name="NOTE_BIGBUZZER">Animal spurcissimum, quod quicquid humi in specu iacet consuevit comesse. Ubi periculum animadvertit, molestissimos edit clamores, quamobrem eum occide quam citissime.</entry>
+
+
+<!-- GRUZZERS -->
+<!-- BOUNCER Gruzzer -->
+<entry name="NAME_BOUNCER">Muscula</entry>
+<entry name="DESC_BOUNCER">Insipientissima animalia, quae circumerrant sine consilio huc et illuc.</entry>
+<entry name="NOTE_BOUNCER">Ideo maxime ad aculeum exercitandum opportunae, quod plerumque circumstantium rerum videntur ignarae. Quid est quod eas per suas semitas conducit, ita temerarie aberrantes, quasi mortem suam quaerentes?</entry>
+<!-- BURSTING_BOUNCER Volatile Gruzzer -->
+<entry name="NAME_BURSTING_BOUNCER">Muscula Virulenta</entry>
+<!-- BAD?? -->
+<entry name="DESC_BURSTING_BOUNCER">Muscula tumefacta pesti, quae ad explodendum prona&#39;st.</entry>
+<!-- BAD?? -->
+<entry name="NOTE_BURSTING_BOUNCER">Virus horribile, simul cum aliquo noxissimo aere, repentino de supero demanare coepit. Quae vero est huius pestis origo? Nihil quidem, quod ego reperire potuissem.</entry>
+<!-- BIGFLY Gruz Mother -->
+<entry name="NAME_BIGFLY">Muscula Mater</entry>
+<entry name="DESC_BIGFLY">Muscula adulta quae pullos gestat in alvo. Aggreditur suo iaculando corpore ingenti.</entry>
+<entry name="NOTE_BIGFLY">Haec bestia, mirabile dictu, non parit ova, verum pullos intus se excludere consuevit, eosque gestare in ventre suo. Propter hunc inusitatum morem pariendi, ea facillime defatigari videtur, saepiusque remoratur ad quiescendum. Tunc maxime aculeus inferendu&#39;st!</entry>
+
+
+<!-- ASPIDS -->
+<!-- SPITTER Aspid Hunter -->
+<entry name="NAME_SPITTER">Aspis Venatrix</entry>
+<entry name="DESC_SPITTER">Spuunt in praedam umorem urentem. Solent venari per greges.</entry>
+<entry name="NOTE_SPITTER">Praedatrices astutae, quae e longinquo te necare conabuntur. Noli eis locum dare aggrediendi, inrue modo quam primo et eas occide! Nam non adeo astutae erunt, ubi mortuae.</entry>
+<!-- SUPER_SPITTER Primal Aspid -->
+<entry name="NAME_SUPER_SPITTER">Aspis Prisca</entry>
+<entry name="DESC_SUPER_SPITTER">Aspides priscae et agrestiores. Iampridem exinctae putabantur, resurrexerunt vero in confinibus mundi.</entry>
+<entry name="NOTE_SUPER_SPITTER">Hae crudelissimae bestiolae, hostes, per insidias adortae, petunt instanter potenti veneno. Quam mirum est igitur, tam infirmam esse progeniem earum. Spero equidem meos liberos fore me fortiores, siquando mihi aliqua fuerit proles...</entry>
+<!-- HATCHLING Aspid Hatchling -->
+<entry name="NAME_HATCHLING">Aspidula</entry>
+<entry name="DESC_HATCHLING">Natae recens, hae aspidulae sciunt e natura hostes circumvenire.</entry>
+<entry name="NOTE_HATCHLING">Quin, etiam pulli earum necare a natura coacti sunt! Tamen, quoniam sunt tantummodo infantes, facillime tuo aculeo erunt occisae. Siquidem non te multitudo eorum ante oppresserit.</entry>
+<!-- HATCHER Aspid Mother -->
+<entry name="NAME_HATCHER">Aspis Mater</entry>
+<entry name="DESC_HATCHER">Ova gestat in ventre suo. Pullos pro necessitate ex ovis excludit et in hostes iaculatur.</entry>
+<!-- BAD?? -->
+<entry name="NOTE_HATCHER">Impudentissime haec pullis suis sic utitur pro telis! Hoc quidem abhorrendum est, atqui admirandus quoque est astus.
+Manifestum est igitur venatores bonos non bonos fore parentes.</entry>
+
+
+<!-- BIG_FAT_FLYER Boofly -->
+<entry name="NAME_BIG_FAT_FLYER">Bubusca</entry>
+<entry name="DESC_BIG_FAT_FLYER">Bestia tam magna quam cicur, quae placide circumvolitat per specus Regni Finium.</entry>
+<entry name="NOTE_BIG_FAT_FLYER">Tardiores quam ut effugiant, maiores quam ut sese abscondant. Non repugnabit tibi haec praeda, at non nocet interdum ita vivere otiose.</entry>
+<!-- CLIMBER Tiktik -->
+<entry name="NAME_CLIMBER">Tixtix</entry>
+<entry name="DESC_CLIMBER">Parietes ascendunt parvis ungulis.</entry>
+<entry name="NOTE_CLIMBER">Plerumque vitam degunt vias specusque vagantes huius regni. Si tempus exspectas caedendi opportunum, eas de pariete dejicere potes.</entry>
+
+<!-- WORM Goam -->
+<entry name="NAME_WORM">Goam</entry>
+<entry name="DESC_WORM">Intectus crusta praedura, e terra praedam insilit, dentibusque rapit.</entry>
+<entry name="NOTE_WORM">Adeo hae bestiae impenetrabilia habent corpora, ut suum corium arma possit acuere sicut cos, plagasque sufferre quotlibet.</entry>
+
+
+<!-- HUSKS 1 -->
+<!-- ZOM_RUNNER Wandering Husk -->
+<entry name="NAME_ZOM_RUNNER">Erro Vacuus</entry>
+<entry name="DESC_ZOM_RUNNER">Corpora vacua, aliqua mirifica vi animata. Circumerrant locum ubi quondam habitabant.</entry>
+<entry name="NOTE_ZOM_RUNNER">Olim cives Nidi Sacri, qui tam infirmi erant vivi, quam nunc sunt in morte. Remitte eos in terram, unde venerunt!</entry>
+<!-- ZOM_HORNHEAD Husk Hornhead -->
+<entry name="NAME_ZOM_HORNHEAD">Corniger Vacuus</entry>
+<entry name="DESC_ZOM_HORNHEAD">Corpora vacua, aliqua mirifica vi animata. Quos nondum morbus contigerit cornibus petunt.</entry>
+<entry name="NOTE_ZOM_HORNHEAD">Etiam in morte, sua longa cornua ostentant aliquantum superbe. Quamobrem eadem cornua praerumpere mihi est magni delectamenti.</entry>
+<!-- ZOM_LEAPER Leaping Husk -->
+<entry name="NAME_ZOM_LEAPER">Vacuus Saliens</entry>
+<entry name="DESC_ZOM_LEAPER">Corpora vacua, aliqua mirifica vi animata. Insiliunt in eos, qui nondum morbo sunt affecti.</entry>
+<entry name="NOTE_ZOM_LEAPER">Antiqui cives Nidisacrenses videbantur non suum quisque cibum providere, verum cibaria portabantur ad eos. Haec tandem est causa cur essent tam imbecilli, eorumque regnum sit lapsum in oblivionem et ruinas!</entry>
+<!-- ZOM_BARGER Husk Bully -->
+<entry name="NAME_ZOM_BARGER">Contumax Vacuus</entry>
+<entry name="DESC_ZOM_BARGER">Corpora vacua, aliqua mirifica vi animata. Ferociter aggrediuntur quosquos sanos inveniunt.</entry>
+<entry name="NOTE_ZOM_BARGER">Haec cadavera implet quaedam spissa et lutea caligo, quae aliquem morbidum dulcorem sapit, maxime mihi stomacho moventem fastidium. Proinde suadeo, postquam ea occidas, ne vescaris his animalibus.</entry>
+<!-- ZOM_SHIELD Husk Warrior -->
+<entry name="NAME_ZOM_SHIELD">Pugnator Vacuus</entry>
+<entry name="DESC_ZOM_SHIELD">Corpora vacua, aliqua mirifica vi animata. Gerunt scutum et aculeum.</entry>
+<!-- BAD -->
+<entry name="NOTE_ZOM_SHIELD">Luxuriae et voluptates per saecula, eis ungues, arma, venenaque ademit. Qui se defendere volunt, arma sibi ex lapide, ferro, vel concha fingunt.</entry>
+<!-- ZOM_GUARD Husk Guard -->
+<entry name="NAME_ZOM_GUARD">Vigil Vacuus</entry>
+<entry name="DESC_ZOM_GUARD">Corpora vacua Vigilum Nidisacrensium, aliqua mirifica vi animata. Ex pristina quotidiana consuetudine, suas easdem etiamnunc agitant urbis vigilias.</entry>
+<entry name="NOTE_ZOM_GUARD">Maiores quam fratres sui et fortiores, nihilosetius arma, exuviis cadaverum erepta, usurpanda censuerunt sibi. Non vagantur nec venantur, excubias tantum agitant perpetuas, quicumque prope aderret aggressuri.</entry>
+<!-- MUMMY Entombed Husk -->
+<entry name="NAME_MUMMY">Vacuus Sepultus</entry>
+<entry name="DESC_MUMMY">Cadaver arte medicatum, deforme et saevum ob contagionem.</entry>
+<entry name="NOTE_MUMMY">Insita in his laceris cadaveribus est quaedam clarissima lux, quaslibet in tenebras penetrans. Intuitus sum semel in eam lucem, et... aliquid intus relucescere aspexi. Aliquid quidem horribile.</entry>
+
+<!-- FUNG_ZOMBIE Fungified Husk -->
+<entry name="NAME_FUNG_ZOMBIE">Vacuus Fungosus</entry>
+<entry name="DESC_FUNG_ZOMBIE">Corpora vacua, correpta fungis. Saepe emittunt venenosum vaporem.</entry>
+<entry name="NOTE_FUNG_ZOMBIE">Tam miserabiles sunt incolae Nidisacrenses, ut infici fungorum veneno, sibi revera necopinata sit salus. Plane hi sunt absurdi.</entry>
+
+
+<!-- FALSE_KNIGHT False Knight -->
+<entry name="NAME_FALSEKNIGHT">Eques Falsus</entry>
+<entry name="DESC_FALSEKNIGHT">Vermiculus qui aliqua mirifica vi est factus insanus. Armaturam quam surripuit usurpat.</entry>
+<entry name="NOTE_FALSEKNIGHT">Imbecilli semper delectantur furandis viribus alienis. Quas enim suas non habent vires, eas maxime cupiunt, ut fortes, a quibus dominantur, vicissim valeant dominari.</entry>
+
+<!-- PRAYER_SLUG Maggot -->
+<entry name="NAME_PRAYER_SLUG">Vermiculus</entry>
+<entry name="DESC_PRAYER_SLUG">Debilissima Nidisacrensia animalia. A plerisque contempti, coacti sunt humilissimis fungi muneribus.</entry>
+<!-- BAD?? -->
+<entry name="NOTE_PRAYER_SLUG">Corpore plerumque constante ex dulcissimo adipe, haec innocua animalcula sunt ad cibaria longo itineri paranda aptissima, propterea quod optime sapiunt assata super ignem. Si pacisci vitam orant sibi, non est parcendum. Nihil enim habent quod dent.</entry>
+
+<!-- MENDERBUG Menderbug -->
+<entry name="NAME_MENDERBUG">Sartor</entry>
+<entry name="DESC_MENDERBUG">Socius cuiusdam secreti sodalicii, quibus Nidi Sacri publica insignia sarcienda et conservanda sunt operae et curae.</entry>
+<entry name="NOTE_MENDERBUG">Nidisacrensibus maximi studii erat aedificari. Mores eorum demiror.</entry>
+
+<!-- HEALTH_SCUTTLER Lifeseed -->
+<entry name="NAME_HEALTH_SCUTTLER">Semen Vitae</entry>
+<entry name="DESC_HEALTH_SCUTTLER">Semina ambulantia impleta salubri Liquore Vitae, qui liquor ab iis extrahi potest.</entry>
+<entry name="NOTE_HEALTH_SCUTTLER">Id liquidum lucens quod in his animalibus continetur dulcissimum est, et bibito vigesces. Miror autem quid mea viscera sapiant... quam sit turpe, si eorum saporem experiar?</entry>
+
+<!-- BALDUR -->
+<!-- ROLLER Baldur -->
+<entry name="NAME_ROLLER">Baldur</entry>
+<!-- BAD?? sic/ita? -->
+<entry name="DESC_ROLLER">Involutus in orbem, iaculatur se in invasores qui suam domum minitantur. Inde ab infantia sunt ferocissimi.</entry>
+<entry name="NOTE_ROLLER">Iuvenes venatores saepissime has bestiolas capiunt, ac pro oblectamento volutant. Hortor quidem coneris, si tibi videtur.</entry>
+<!-- BLOCKER Elder Baldur-->
+<entry name="NAME_BLOCKER">Baldur Vetus</entry>
+<entry name="DESC_BLOCKER">Vasti et tecti durissima pelli. Involvitur in se pro tegmento.</entry>
+<entry name="NOTE_BLOCKER">Progrediente aetate, graviores fiunt et maiores quam ut possint se libere volutare, et ita in se involutos se abdunt.
+Quid autem agitant secum, sic introrsus convoluti? Fortasse de tempore meliore.</entry>
+<!-- COL_ROLLER Sharp Baldur -->
+<entry name="NAME_COL_ROLLER">Baldur Acutus</entry>
+<entry name="DESC_COL_ROLLER">Baldur durior, ad pugnandum in Amphitheatro Fatuum alitus. Ferocior et tenacior quam feri congeneres.</entry>
+<entry name="NOTE_COL_ROLLER">Harum bestiarum, nullum plene adultum umquam vidi. Quia non sinunt, puto, ad maturam aetatem adolescere eos.</entry>
+
+<!-- MOSS -->
+<!-- MOSS_WALKER Mosscreep -->
+<entry name="NAME_MOSS_WALKER">Muscosus Fugax</entry>
+<entry name="DESC_MOSS_WALKER">Animal imbecillum quod contegit se frondibus, ut maior videatur. Solet latescere subter virgulta caduca.</entry>
+<entry name="NOTE_MOSS_WALKER">Quondam eos putabam esse aliquod genus herbarum ambulantium. Ubi primum intellexeram eos revera esse animalia, tum continuo eos occidere coepi. Haec tandem est aeterna Venatio!</entry>
+<!-- MOSS_FLYER Mossfly -->
+<entry name="NAME_MOSS_FLYER">Musca Muscosa</entry>
+<entry name="DESC_MOSS_FLYER">Animal aliger imbecillum quod contegit se frondibus, ut maior videatur. Solet latere sub virgultis, fugamque capere volando.</entry>
+<entry name="NOTE_MOSS_FLYER">Aut in occulto aut in fuga, sic fere totam suam vitam degunt. Miserabile&#39;st. An forte idcirco hanc sibi elegerunt vitam, quod eam mavolunt? Parum credibile mihi videtur, atqui non impossibile.</entry>
+<!-- MOSSMAN_RUNNER Mosskin -->
+<entry name="NAME_MOSSMAN_RUNNER">Muscosus</entry>
+<entry name="DESC_MOSSMAN_RUNNER">Herbis opertus, hostes propinquos aggreditur.</entry>
+<entry name="NOTE_MOSSMAN_RUNNER">Difficile est inter frondes eos oculis cernere, et cum propinquus es, subito adoriuntur. Cave eos.</entry>
+<!-- MOSSMAN_SHAKER Volatile Mosskin -->
+<entry name="NAME_MOSSMAN_SHAKER">Muscosus Infirmus</entry>
+<entry name="DESC_MOSSMAN_SHAKER">Herbis opertus, morbo tumefactus. In aggressores vaporem exhalat mortiferum.</entry>
+<entry name="NOTE_MOSSMAN_SHAKER">Vapor quem effundunt olfactu dulci&#39;st, at is per tuam concham in carnem permanans, aduret te si attingat!</entry>
+<!-- MOSS_CHARGER Moss Charger -->
+<entry name="NAME_MOSS_CHARGER">Muscosus Currens</entry>
+<entry name="DESC_MOSS_CHARGER">Animal timidum, quod aggressores terrere conatur, globulis se cooperiendo muscosis.</entry>
+<entry name="NOTE_MOSS_CHARGER">Quoniam est parvus, animos sibi et fortitudinem invenit in fronde. Et desiderium quidem sui obtegendi comprobo...</entry>
+<!-- MEGA_MOSS_CHARGER Massive Moss Charger -->
+<entry name="NAME_MEGA_MOSS_CHARGER">Enormis Muscosus Currens</entry>
+<entry name="DESC_MEGA_MOSS_CHARGER">Bestiarum cuncta familia, quae una inter frondes vivere consuerunt.</entry>
+<entry name="NOTE_MEGA_MOSS_CHARGER">Sunt scilicet in numero vires, at hi prope nullam a principio habent suam quam appellent vim. Caede ergo et concide istorum mendacia!</entry>
+<!-- MOSS_KNIGHT Moss Knight -->
+<entry name="NAME_MOSS_KNIGHT">Miles Muscosus</entry>
+<entry name="DESC_MOSS_KNIGHT">Defensor Viae Viridis, peritus in arte Aculei et Scuti.</entry>
+<entry name="NOTE_MOSS_KNIGHT">Quamvis in frondibus delitescere solent, ideoque molliculi videantur, cave quam maxime hos bellatores! Acerbissimi enim sunt in proelio, vehementer cum aliquid defendere videntur, penitus in Viam Viridem abconditum.</entry>
+<!-- MOSS_KNIGHT_FAT Mossy Vagabond -->
+<entry name="NAME_MOSS_KNIGHT_FAT">Grassator Muscosus</entry>
+<entry name="DESC_MOSS_KNIGHT_FAT">Piger corpulentusque Muscosus, animo facillime distento.</entry>
+<entry name="NOTE_MOSS_KNIGHT_FAT">Tardus, obesus, facile occisus; haec sunt vitia iis omnibus communia, qui a suis officiis muneribusque deficiunt.</entry>
+
+
+<!-- SNAPPER_TRAP Fool Eater -->
+<entry name="NAME_SNAPPER_TRAP">Stultivora</entry>
+<entry name="DESC_SNAPPER_TRAP">Genus herbarum carnivorarum, quae magnis foliis praedam quasi morsu apprehensam circumsaepiunt.</entry>
+<entry name="NOTE_SNAPPER_TRAP">Quisquis ab ea decipitur, is verus stultus est.</entry>
+<!-- PLANT_SHOOTER Gulka -->
+<entry name="NAME_PLANT_SHOOTER">Frutex Venefica</entry>
+<entry name="DESC_PLANT_SHOOTER">Animal herbaceum quod, periculo propinquo, confestim in terram recedit, e longinquo duros globulos spinosos remittit.</entry>
+<entry name="NOTE_PLANT_SHOOTER">Frondes sunt siccae et insipidae. Gemma acerba et amara. At virus in globulis quos sputant... Oh, quam suave&#39;st! Ubi poteris, hortor ut id potites, eiusque effectus experiare.</entry>
+
+<!-- PIGEON Maskfly -->
+<entry name="NAME_PIGEON">Volucris Larvata</entry>
+<entry name="DESC_PIGEON">Bestiae volucres et innocuae, loca tranquilla pro latibulis habentia, quae in grege migrare solent.</entry>
+<entry name="NOTE_PIGEON">Circumspectant attente siquid adest periculi, et cum evolet una, reliquae sequuntur. Gregis tutamen... quale id sit omnino ignoro.</entry>
+<!-- CEILING_DROPPER Belfly -->
+<entry name="NAME_CEILING_DROPPER">Volucris Praeceps</entry>
+<entry name="DESC_CEILING_DROPPER">Occulunt viscera ignigena exilibus alibus. Suum cubile defendent usque ad mortem.</entry>
+<entry name="NOTE_CEILING_DROPPER">Animal ferox, quod sine cura sui hostem petit. Bestia sine metu... Haud decet eam praedam appellare.</entry>
+
+<!-- MOSQUITO Squit -->
+<entry name="NAME_MOSQUITO">Culex</entry>
+<entry name="DESC_MOSQUITO">Impetum in praedam faciunt per nasum exacutum.</entry>
+<entry name="NOTE_MOSQUITO">Si in te involant, noli metuere. Sta modo in loco dum appetunt, deinde repelle eos aculeo.</entry>
+<!-- COL_MOSQUITO Armoured Squit -->
+<entry name="NAME_COL_MOSQUITO">Culex Armatus</entry>
+<entry name="DESC_COL_MOSQUITO">Culices armati, ad pugnandum in Amphitheatro Fatuum aliti, ideoque fortiores et magis hostiles quam feri.</entry>
+<entry name="NOTE_COL_MOSQUITO">Fortes celeresque, ubi in loco recedere videantur, aut de via decede, aut paratus esto aculeo repellere inruentes!</entry>
+
+<!-- BLOB_FLYER Obble -->
+<entry name="NAME_BLOB_FLYER">Probrum</entry>
+<entry name="DESC_BLOB_FLYER">Animal volatile, praepingue tardumque. Humor acidus quem in corpore continet frequens aspergit.</entry>
+<entry name="NOTE_BLOB_FLYER">Scitne se quam molestus sit, dum sua liquida noxia aspergit ubique? Occidito sis quotquot invenies.</entry>
+<!-- BLOBBLE Battle Obble -->
+<entry name="NAME_BLOBBLE">Probrum Pugnax</entry>
+<entry name="NOTE_BLOBBLE">Vide, hoc etiam parvulam personam gerit! At numquid ea proficit pugnatui?</entry>
+<entry name="DESC_BLOBBLE">Alitum in Amphitheatro. Quamvis ad pugnam exercitatum, corpus adhuc movet imperite.</entry>
+<!-- OBLOBBLE Oblobble -->
+<entry name="NAME_OBLOBBLE">Opprobrium</entry>
+<entry name="DESC_OBLOBBLE">Congener maior Probri. Coniugium semel in vita faciunt, nec coniugem umquam reliquunt.</entry>
+<entry name="NOTE_OBLOBBLE">Coniunx... aliquis, qui usque ad mortem te non deserat. Quam mirum. Nemo umquam fuit mihi, qui adsit mihi coniunx...</entry>
+
+<!-- ACID_WALKER Durandoo -->
+<entry name="NAME_ACID_WALKER">Durambulus</entry>
+<entry name="DESC_ACID_WALKER">Bestia circumambulans durissima testa operta, quae vada aquarum acidarum inambulare solita est.</entry>
+<entry name="NOTE_ACID_WALKER">Mordacissimas aquas acidas perferre potest. Sed unde loci hae aquae usque ad nos defluunt, ita ferventes odio viventium?</entry>
+<!-- ACID_FLYER Duranda -->
+<entry name="NAME_ACID_FLYER">Durambula</entry>
+<entry name="DESC_ACID_FLYER">Bestia volans, intecta durissima testa spinosa.</entry>
+<entry name="NOTE_ACID_FLYER">Credunt se satis esse protectas, ideoque ignorant securae praetereuntes. Appete modo earum faciem, nullam ut ediscant fere esse salutem sibi.</entry>
+
+
+<!-- LAZY_FLYER Aluba -->
+<entry name="NAME_LAZY_FLYER">Aluba</entry>
+<entry name="DESC_LAZY_FLYER">Placida bestia volitans, quae iuxta aquas acidissimas invenitur.</entry>
+<entry name="NOTE_LAZY_FLYER">Volitantes sine curis suam vitam agunt. At siquando prope solum una volitabit...</entry>
+
+<!-- ZAP_BUG Charged Lumafly -->
+<entry name="NAME_ZAP_BUG">Cicindelae</entry>
+<entry name="DESC_ZAP_BUG">Ubi terrentur, in unum congregantur, et scintillas pariunt.</entry>
+<entry name="NOTE_ZAP_BUG">Solent volitare tranquillae, sed cum prope congregantur, rapidas scintillas edunt, quibus vel maximae bestiae fulminentur. Cave ab eis, et occasionem inveni ut eas cito praetereas.</entry>
+
+
+<!-- JELLYFISH Ooma -->
+<entry name="NAME_JELLYFISH">Voma</entry>
+<entry name="DESC_JELLYFISH">Placidissimum animal, quod instabile cor explosivum celat.</entry>
+<entry name="NOTE_JELLYFISH">Formidulosa animalia quae ex quodam liquido spisso constant. Quamquam corpus translucidum est, sensa ubi reponant non patet. His minime fidendum censeo. Noli nimis prope aggredi.</entry>
+<!-- JELLY_CRAWLER Uoma -->
+<entry name="NAME_JELLY_CRAWLER">Vama</entry>
+<!-- BAD?? identidem per intervalla -->
+<entry name="DESC_JELLY_CRAWLER">Minimum huius generis animal, placidum atque lentum, quod ardentes scintillas excutit identidem per intervalla.</entry>
+<entry name="NOTE_JELLY_CRAWLER">Spiritus avi defuncti? Cerebrum alicuius animalis maioris, a corpore seiunctum? Ovum, locum ad excludendum quaerens? Quidnam hoc sit parum scio.</entry>
+<!-- MEGA_JELLYFISH Uumuu -->
+<entry name="NAME_MEGA_JELLYFISH">Vomu</entry>
+<entry name="DESC_MEGA_JELLYFISH">Animal sapiens, quod intimum conclave Archivi Eruditae custodit.</entry>
+<entry name="NOTE_MEGA_JELLYFISH">In ea voragine quae est inferius, ibi est quaedam spissa caligo, mirifica vi accensa... Facillime quisquam Venator illic errare via potest. Quam cautissime aggredere... aliquid portentosi se occultat illic.</entry>
+
+
+<!-- SHROOM -->
+<!-- FUNG_CRAWLER Ambloom -->
+<entry name="NAME_FUNG_CRAWLER">Ambivagus Funginus</entry>
+<entry name="DESC_FUNG_CRAWLER">Reptile animal funginum, simplicissima mente praeditum. Caput opertum est durissimis spinis.</entry>
+<entry name="NOTE_FUNG_CRAWLER">Iace humi, aperi os, deinde mane, dum haec suavissima buccella tuum prorsus se conferat in gutturem.</entry>
+<!-- FUNGOON_BABY Fungling -->
+<entry name="NAME_FUNGOON_BABY">Fungunculus</entry>
+<entry name="DESC_FUNGOON_BABY">Placidum Animal funginum. Inflatum est vapore subtilissimo, per quem suspenditur in aere.</entry>
+<entry name="NOTE_FUNGOON_BABY">Infans, qui volitat huc illuc, clausis oculis, mente aperta. In mea autem pueritia, venabamur alii alios, fratres et sorores. Nunc solus venor.</entry>
+<!-- FUNGOON Fungoon -->
+<entry name="NAME_FUNGOON">Fungo</entry>
+<entry name="DESC_FUNGOON">Fungus adultus. Vapores intus contentos violenter in aggressores exhalat.</entry>
+<entry name="NOTE_FUNGOON">Quam rotundus est! Nullam bestiam usquam vidi rotundiorem. Sane, huic mundo quot insunt mirifica animalia! Ea volo venari omnia!</entry>
+
+<!-- MUSH_TURRET Sporg -->
+<entry name="NAME_MUSH_TURRET">Stirps</entry>
+<entry name="DESC_MUSH_TURRET">Siquem prope gressum cernunt, semina displodentia eructant, quae eum insequentur.</entry>
+<entry name="NOTE_MUSH_TURRET">Si calles, semina emissa in eos possunt remitti, ita ut pereant suis telis. Quod, credo, cuivis sit magno documento.</entry>
+<!-- MUSH_BABY Shrumeling -->
+<entry name="NAME_MUSH_BABY">Fungulus</entry>
+<entry name="DESC_MUSH_BABY">Parva animalia fungina. Plerumque vitam degunt in terra radicati, sed suas radices ita possunt e terra effodere, ut fugam capiant a periculo.</entry>
+<entry name="NOTE_MUSH_BABY">Specie videntur vulgarissimi fungi, donec, cum prope accedis, exsiliunt e terra, et cursitare incipiunt huc et illuc. Perquam ridiculum est.</entry>
+<!-- MUSH_ROLLER Shrumal Warrior -->
+<entry name="NAME_MUSH_ROLLER">Pugnator Funginus</entry>
+<entry name="DESC_MUSH_ROLLER">Animalia fungina, quae invasores abigunt ad prolem protegendam.</entry>
+<entry name="NOTE_MUSH_ROLLER">Aliquid mirum in aere effecit, ut hi fungi animos, mentes, vel etiam vultus acquisierint! E quo quidem fit ut etiam de sua vita nunc metuere possint, sicut ceteri animantes.</entry>
+<!-- MUSH_BRAWLER Shrumal Ogre -->
+<entry name="NAME_MUSH_BRAWLER">Fungus Immanis</entry>
+<entry name="DESC_MUSH_BRAWLER">Animal funginum ingens. Sputat venenum in hostes, eosque suo corpore tundit.</entry>
+<entry name="NOTE_MUSH_BRAWLER">Suntne hae aliquae bestiae immanes an modo fungi? Nullum huic quaestioni inveni responsum in putentibus visceribus eorum quos cecidi.</entry>
+
+
+<!-- MANTIS -->
+<!-- MANTIS Mantis Warrior -->
+<entry name="NAME_MANTIS">Mantis Pugnatrix</entry>
+<entry name="DESC_MANTIS">Bestiae ex magna tribu, quae strenue suos fines defendere consuerunt. Aggrediuntur ferociter bracchis acutis.</entry>
+<entry name="NOTE_MANTIS">Ubi altius in silvas funginas audeas introire, ibi his bellatricibus occurres. Quidnam est quod protegunt, tam alta in silva?</entry>
+<!-- MANTIS_FLYER_CHILD Mantis Youth -->
+<entry name="NAME_MANTIS_FLYER_CHILD">Mantis Iuvenis</entry>
+<entry name="DESC_MANTIS_FLYER_CHILD">Bestiae ex magna tribu, quae strenue suos fines defendere consuerunt. Inferunt impetus mordaces suo abdomine aculeato.</entry>
+<entry name="NOTE_MANTIS_FLYER_CHILD">Dum adolescunt, facultatem volandi amittunt. Solemus enim celebrare adulescentiam, adultosque fieri, at vero obliviscimur eodem tempore quod amiserimus.</entry>
+<!-- MANTIS_LORD Mantis Lords -->
+<entry name="NAME_MANTIS_LORD">Dominae Mantidum</entry>
+<entry name="DESC_MANTIS_LORD">Duces tribus Mantidum, eorumque validissimorum militum imperatrices. Tela possident aculearia subtilissima, quibus rapidissimos capiunt in hostes impetus violentos.</entry>
+<entry name="NOTE_MANTIS_LORD">Nullam apparet fuisse inter tribum Mantidum et reliquum regnum Nidisacrense amicitiam. Mantides tamen superstites fuerunt inimicis suis, eorumque civitas etiamnunc perdurat.</entry>
+<!-- MANTIS_FLYER_ADULT Mantis Petra -->
+<entry name="NAME_MANTIS_FLYER_ADULT">Mantis Petra</entry>
+<entry name="DESC_MANTIS_FLYER_ADULT">Delitescere in frondibus solent, et hostem appetunt falcibus eminus iactis.</entry>
+<entry name="NOTE_MANTIS_FLYER_ADULT">Quod e longinquo falces continenter iaculantur, comminus sunt depugnandae. Quod sunt corpore molliculae, perfacile eas aculeus occidet.</entry>
+<!-- MANTIS_FLYER_HEAVY Mantis Traitor -->
+<entry name="NAME_MANTIS_HEAVY">Mantis Infida</entry>
+<entry name="DESC_MANTIS_HEAVY">Quondam socius tribus Mantidum, iam exsul, et a pesti factus insanus.</entry>
+<entry name="NOTE_MANTIS_HEAVY">Esse a tribu, an non esse. Nescio quid inter haec intersit. Namque nulla est mihi quam meam appellem tribus.</entry>
+<!-- MANTIS_TRAITOR_LORD Traitor Lord -->
+<entry name="NAME_TRAITOR_LORD">Dominus Perfidus</entry>
+<entry name="DESC_TRAITOR_LORD">Dominus quidam, tribu Mantidum exsul. Amplectus pestilentiam, in sorores est adortus.</entry>
+<entry name="NOTE_TRAITOR_LORD">Me quoque paene corripuerat illa cupiditas. Ea quidem cupido se pesti dedendi, virium adipiscendarum gratia... His tunc mea conturbabantur cogitationibus somnia, hac quidem falsa spe, cuius nitore clarissimo frustramur frequenter obscurissimis in temporibus.</entry>
+
+
+<!-- GRASS_HOPPER Loodle -->
+<entry name="NAME_GRASS_HOPPER">Ludula</entry>
+<entry name="DESC_GRASS_HOPPER">Habitant terras prope Hortos Reginae. Quamquam sunt placida natura, tamen saltus, quos continenter faciunt, non parvo sunt periculo.</entry>
+<entry name="NOTE_GRASS_HOPPER">Tantus est eius corporis vigor, ut paene defatigari non posse videantur. Num umquam consistunt ad dormiendum, vel comedendum, vel amandum?</entry>
+<!-- COL_HOPPER Death Loodle -->
+<entry name="NAME_COL_HOPPER">Ludula Mortifera</entry>
+<entry name="DESC_COL_HOPPER">Ludulae galeatae, in gladiatura exercitatae.</entry>
+<entry name="NOTE_COL_HOPPER">Feroces cum videntur, tamen difficultates habent nonnullas in impetus dirigendos in inimicos. Observato eas dum moventur, et cape occasionem ad appetendum. Galea denique potitor ut trophaeum.</entry>
+
+
+<!-- SENTRIES -->
+<!-- SENTRY_1 Husk Sentry -->
+<entry name="NAME_SENTRY_1">Vigil Vacuus</entry>
+<entry name="DESC_SENTRY_1">Corpora vacua Vigilum Urbis, memora adhuc veterum munerum.</entry>
+<entry name="NOTE_SENTRY_1">Plurimum inter Nidisacrenses pollent in pugna. Mobiles sed levi armatura induti. Instanter eos appete.</entry>
+<!-- SENTRY_FAT Heavy Sentry -->
+<entry name="NAME_SENTRY_FAT">Vigil Crassus</entry>
+<entry name="DESC_SENTRY_FAT">Corpora vacua Vigilum Urbis. Unus paucissimorum Nidisacrensium qui aculeum tam magnum gerere queat.</entry>
+<entry name="NOTE_SENTRY_FAT">Ut in cadavere, opinione sagaciores, quos si transilire conaberis, ii in aere te captare conabuntur, et insequentur te si aufugias. Iucundi ad venandum, cave eos in gregibus.</entry>
+<!-- SENTRY_FLYING Winged Sentry -->
+<entry name="NAME_SENTRY_FLYING">Vigil Aliger</entry>
+<entry name="DESC_SENTRY_FLYING">Vigiles volantes Urbis, qui urbis altitudines tutantur, specuumque in quibus inaedificata est.</entry>
+<entry name="NOTE_SENTRY_FLYING">Volitat per aerem extra aculei ictum, exspectans dum locum invadendi inveniat. Mane, si audax, dum inruit, deinde eum repelle.</entry>
+<!-- SENTRY_FLYING_JAVELIN Lance Sentry -->
+<entry name="NAME_SENTRY_FLYING_JAVELIN">Vigil Hastatus</entry>
+<entry name="DESC_SENTRY_FLYING_JAVELIN">Vigiles alati Urbis. Aculeos hastatos gerunt, quos e longinquo in hostes conjiciunt.</entry>
+<entry name="NOTE_SENTRY_FLYING_JAVELIN">Procul distat dum tela eminus iacit. Cum in te irrumpit, saltum da in loco, eumque pete deorsum.</entry>
+<!-- GREAT_SHIELD_ZOMBIE Great Husk Sentry -->
+<entry name="NAME_GREAT_SHIELD_ZOMBIE">Magnus Vigil Vacuus</entry>
+<entry name="DESC_GREAT_SHIELD_ZOMBIE">Corpora vacua Magnorum Vigilum, illustrissimorum Urbis custodum. Magnum aculeum cum scuto gerunt, quibuscum fortes impetus faciunt.</entry>
+<!-- BAD? emdash -->
+<entry name="NOTE_GREAT_SHIELD_ZOMBIE">Ecce tibi rarissima avis &#8212; Nidisacrensis qui ullius sit periculi. Caute eos aggredere, quoniam solent subinde dare magnos impetus vehementes.</entry>
+
+
+<!-- MAGES -->
+<!-- MAGEBLOB Mistake -->
+<entry name="NAME_MAGEBLOB">Homunculus</entry>
+<entry name="DESC_MAGEBLOB">Quondam inter eruditissimos Nidisacrensium, quem deformem abusus Animi effecit.</entry>
+<entry name="NOTE_MAGEBLOB">Dementer cum Animum alienum attrectabant, suam formam amiserunt. Nunc vagantur sicut limaces inter umbras Sacrarii sui, frustra sperantes suos fratres sibi nova corpora daturos.</entry>
+<!-- MAGE_BALLOON Folly -->
+<entry name="NAME_MAGE_BALLOON">Vecors</entry>
+<entry name="DESC_MAGE_BALLOON">Quondam inter eruditissimos Nidisacrensium, ab abusu Animi iam tumefactus.</entry>
+<entry name="NOTE_MAGE_BALLOON">Rumor est, quod hi stulti sibi appetissent immortalitatem fuisse. Vivere in perpetuum... Nihil hoc obscaenius umquam audivi!</entry>
+
+<!-- MAGE Soul Twister -->
+<entry name="NAME_MAGE">Versor Animi</entry>
+<entry name="DESC_MAGE">Doctissimus et Nidisacrensium eruditissimus, qui scientia arcana usus, Animum in noxissima incantamenta convertit.</entry>
+<!-- BAD? emdash -->
+<entry name="NOTE_MAGE">Profecto audii nonnullos de &#39;anima&#39; disputantes, ipse vero quid ea sit ignoro. Scio hoc tamen, carnem recens occisam sapere melius &#8212; num ergo idcirco id fit, quod ista &#39;anima&#39; adhuc ad carnem cohaeret?</entry>
+<!-- ELEC_MAGE Volt Twister  -->
+<entry name="NAME_ELEC_MAGE">Versor Electri</entry>
+<entry name="DESC_ELEC_MAGE">Unus doctissimus Nidisacrensis, qui scientiam Animi Sacrarii ad artem pugnandi aptavit. Aggreditur electricis scintillis.</entry>
+<entry name="NOTE_ELEC_MAGE">Videtur vesci plerumque cicindelis, vitamque degit aut pugnans in arena, aut in solitudine meditans. Inimicus perquam insolitus.</entry>
+<!-- MAGE_KNIGHT Soul Warrior -->
+<entry name="NAME_MAGE_KNIGHT">Miles Animi</entry>
+<entry name="DESC_MAGE_KNIGHT">Doctissimus Nidisacrensis, qui subtilissimo acu destricto solitus est pugnare. Suas pugnandi facultates auxit Animo collecto.</entry>
+<entry name="NOTE_MAGE_KNIGHT">Quoquo eunt hi insoliti bellatores, taetri susurri subsequuntur. Non modo Aculei usu maxime callent, verum etiam aliqua ignota vi usi, possunt se ex alio loco in alium temporis momento movere. Caute incede.</entry>
+<!-- MAGE_LORD Soul Master -->
+<entry name="NAME_MAGE_LORD">Dominus Animi</entry>
+<entry name="DESC_MAGE_LORD">Caput Sacrarii Animi. Coacervabat Animum ut morbum reprimeret, donec morbi potestati ipse succubuit.</entry>
+<entry name="NOTE_MAGE_LORD">Nidisacrenses conati sunt morbum abigere compluribus in modis. Et frustra quidem! Idcirco fortasse ii morbum fugare nequierunt, quod intrinsecus erat ortus in eis.</entry>
+
+<!-- HUSKS 2 -->
+<!-- ZOM_ROYAL_1 Husk Dandy -->
+<entry name="NAME_ZOM_ROYAL_1">Vacuus Lepidus</entry>
+<entry name="DESC_ZOM_ROYAL_1">Nidisacrensis nobilissima stirpe. Parum pollet pugnis.</entry>
+<entry name="NOTE_ZOM_ROYAL_1">In Nido Sacro, ita fere semper videbatur, ut imbecillissimus et avarissimus quisque cives, maximum in ceteros obtineret imperium et potestatem. Quapropter nimirum erat semper futurum huius regni exitium.</entry>
+<!-- ZOM_ROYAL_2 Cowardly Husk -->
+<entry name="NAME_ZOM_ROYAL_2">Vacuus Timidus</entry>
+<entry name="DESC_ZOM_ROYAL_2">Nidisacrensis nobilissima stirpe. Tametsi coactus vi interiore ad aggrediendum, tamen saepius sua indole is compellitur a periculis in fugam.</entry>
+<entry name="NOTE_ZOM_ROYAL_2">Tanta erat Nidisacrensium ignavia et timiditas, ut etiam in morte perseveret! Prope dedecus censeo eos venari.</entry>
+<!-- ZOM_ROYAL_FAT Gluttonous Husk -->
+<entry name="NAME_ZOM_ROYAL_FAT">Helluo Vacuus</entry>
+<entry name="DESC_ZOM_ROYAL_FAT">Nidisacrensis nobilissima stirpe. Magno corpore pro armis utitur.</entry>
+<entry name="NOTE_ZOM_ROYAL_FAT">Quo ditiores fiebant cives, tanto minus venabantur, eoque magis vescebantur, dum talem in formam eos natura distorquebat, ut quasi pomum quod iamdudum suam maturitatem excesserit viderentur.</entry>
+<!-- GORGEOUS_HUSK Gorgeous Husk -->
+<entry name="NAME_GORGEOUS_HUSK">Dives Vacuus</entry>
+<entry name="DESC_GORGEOUS_HUSK">Vacuum corpus Nidisacrensis tam opulenti quam corpulenti, corpore cooperto aurea crusta. Eius cadaver movetur mera lucricupidine.</entry>
+<entry name="NOTE_GORGEOUS_HUSK">Multiformis est variarum rerum pulcritudo: imagines remissae lucis aqua, recens occisae carnis sapor, vagitus pulli plorantis matrem... at ista aviditas gemmarum et metallorum, eam nequeo intelligere.</entry>
+
+
+<!-- BLACK_KNIGHT Watcher Knight -->
+<entry name="NAME_BLACK_KNIGHT">Eques Custos</entry>
+<entry name="DESC_BLACK_KNIGHT">Concha deserta Equitis Custodis, quam examen muscarum morbo infectarum exagitat.</entry>
+<entry name="NOTE_BLACK_KNIGHT">Cum hi taciturni bellatores in proelio cadunt, eorum ex corporibus in medio diffissis, minutissima animalia exeunt volantia. Demiror vero, cum mortuus ero, de me quid fiat. Numquidnam evolabit ex me? Spes metusque mei, perientne simul in tenebras?</entry>
+
+<!-- JAR_COLLECTOR The Collector -->
+<entry name="NAME_JAR_COLLECTOR">Collector</entry>
+<entry name="DESC_JAR_COLLECTOR">Umbratilis figura quae Turrim Amoris habitat. Studiosissime in amphoris vitreis animalia Nidisacrensia conservat, praesertim Tineolas.</entry>
+<entry name="NOTE_JAR_COLLECTOR">Visus est interdum quasi umbra festinare per specus, dum murmurat secum mirum in modum. Quoniam raro extra Turrim cernitur, parum cognitum est mihi qualis sit.</entry>
+
+
+<!-- FLIP_HOPPER Pilflip -->
+<entry name="NAME_FLIP_HOPPER">Versisaltor</entry>
+<entry name="DESC_FLIP_HOPPER">Insolitum animal quod, prout fert necessitas, alterutris utitur cruribus, quae in utraque parte corporis habet.</entry>
+<entry name="NOTE_FLIP_HOPPER">Prudenter tuos modos ad circumstantia accommodare, est virtus ad vivendum maxime necessaria. Si aliquo modo res parum procedit, alterum in modum conandum est.</entry>
+
+<!-- INFLATOR Hwurmp -->
+<entry name="NAME_INFLATOR">Inflatulus</entry>
+<entry name="DESC_INFLATOR">Exiguus et pacatus, inflatur ad ingentem magnitudinem ubi terretur.</entry>
+<entry name="NOTE_INFLATOR">Animal admodum ridiculum.</entry>
+<!-- EGG_SAC Bluggsac -->
+<entry name="NAME_EGG_SAC">Oviparus</entry>
+<entry name="DESC_EGG_SAC">Placidum sed putridum animal, quod ova rancida in visceribus tenet.</entry>
+<entry name="NOTE_EGG_SAC">Facillime eos animadvertit quicumque olfacit. Suasum est ne eorum ova comedas.</entry>
+
+
+<!-- DUNG_DEFENDER Dung Defender -->
+<entry name="NAME_DUNG_DEFENDER">Defensor Stercorarius</entry>
+<entry name="DESC_DUNG_DEFENDER">Sollers pugnator qui fundum Aquaeductuum habitat. Conjicit in aggressores stercus glomeratum in globos.</entry>
+<entry name="NOTE_DUNG_DEFENDER">&#39;Honoris&#39; causa pugnare, vel etiam &#39;fidei&#39;... id aeque duco ac si pulveris. Si vis occidere, voluntatis causa id facies, tuae ipsius. Haec tandem est Venatoria indoles.</entry>
+<!-- WHITE_DEFENDER White Defender -->
+<entry name="NAME_WHITE_DEFENDER">Defensor Albus</entry>
+<entry name="DESC_WHITE_DEFENDER">Illustris Eques cuiusdam cari temporis praeteriti. Victus in proelio, fit fortior pro decore.</entry>
+<entry name="NOTE_WHITE_DEFENDER">&quot;Munus Herois, Silva Tortuosa, Proelium Draconis Nigri... memini eorum omnium. Nostras glorias semper mecum portabo... donec rursus conveniemus omnes.&quot;&lt;br&gt;- Ogrim ex Quinque Equitibus Illustribus</entry>
+
+
+<!-- FLUKES -->
+<!-- FLUKEFLY Flukefey -->
+<entry name="NAME_FLUKEFLY">Sentina Pullula</entry>
+<entry name="DESC_FLUKEFLY">Iuvenissima huius generis animalia. Totum corpus constat modo ex dentibus, alis, ventre.</entry>
+<entry name="NOTE_FLUKEFLY">Affigunt se dentibus acutissimis in quidlibet prope movens. Cognorunt autem fratres ne morsu petant, non ergo omnino animal sine mente est.</entry>
+<!-- FLUKEMAN Flukemon -->
+<entry name="NAME_FLUKEMAN">Sentina Adulta</entry>
+<entry name="DESC_FLUKEMAN">Animalia vermiformia, quae regiones humidas et obscuras incolunt.</entry>
+<entry name="NOTE_FLUKEMAN">Periculosa et ambigua animalia, quae infestant aquaeductus Nidisacrensis maximae urbis. Etiam cum credas te ea omnia occidisse, cautim procedas oportet.</entry>
+<!-- FAT_FLUKE Flukemunga -->
+<entry name="NAME_FAT_FLUKE">Sentina Obesa</entry>
+<entry name="DESC_FAT_FLUKE">Sentina adulta, pinguis ab excrementis Urbis ductuum facta.</entry>
+<entry name="NOTE_FAT_FLUKE">Praedatores quorum venatio nimium successerit, fieri solent pingues et molles. Sunt autem nonnulli, ut hae, qui in ea pinguitate quandam sibi inveniant utilitatem.</entry>
+<!-- FLUKE_MOTHER Flukemarm-->
+<entry name="NAME_FLUKE_MOTHER">Sentina Matrix</entry>
+<entry name="DESC_FLUKE_MOTHER">Sedula matrix, cuius fetus Aquaeductus implevit. Intus pullulascunt pullulae Sentinae.</entry>
+<entry name="NOTE_FLUKE_MOTHER">Procreandi cupiditas, id est monumentum nostri futuris tradendi in forma puerili... hic est idem appetitus quem cuique animali natura penitus in corde instinxit, quem appetitum vel ego nonnumquam sentio.</entry>
+
+
+<!-- CRYSTAL -->
+<!-- MINES_CRAWLER Shardmite -->
+<entry name="NAME_MINES_CRAWLER">Acarus Crystallinus</entry>
+<entry name="DESC_MINES_CRAWLER">Vescitur pulvere crystallina, et spinis crystallinis usus, se a periculo defendit.</entry>
+<entry name="NOTE_MINES_CRAWLER">Hoc genus bestiarum memorabilis nihil habere puto. Cur non volant, aut evomunt ignem, aut metuenda carmina canunt, aut quicquam quidem faciunt, quod eas memoratu efficiat dignas?</entry>
+<!-- CRYS_CRAWLER Glimback -->
+<entry name="NAME_CRYS_CRAWLER">Ambivagus Crystallinus</entry>
+<entry name="DESC_CRYS_CRAWLER">Animal pigrum et robustum, cuius in tergo increscunt crystalli, ab ictibus superne tegentes.</entry>
+<entry name="NOTE_CRYS_CRAWLER">Grande et ample protectum, tamen segne et lene animal. Nidisacrenses erant soliti iubere haec animalia suos carros et machinas vehere.</entry>
+<!-- CRYS_FLYER Crystal Hunter -->
+<entry name="NAME_CRYS_FLYER">Venator Crystallinus</entry>
+<entry name="DESC_CRYS_FLYER">Ejicit in invasores fragmenta crystalli continenter increscentis.</entry>
+<entry name="NOTE_CRYS_FLYER">Latibulum parant sibi in cacumine mundi. Utunturne consulto crystallis pro telo, an vero sunt crystalli parasiti, qui eos movent?</entry>
+<!-- CRYS_LAZER_BUG Crystal Crawler -->
+<entry name="NAME_CRYS_LAZER_BUG">Cimex Crystallinus</entry>
+<entry name="DESC_CRYS_LAZER_BUG">Emittit subinde e crystallo dorsali candentes radios lucis, ipse vero quasi huius rei ignarus.</entry>
+<entry name="NOTE_CRYS_LAZER_BUG">Quamquam debiles videntur, per intervalla, ex crystallis quos portant in dorso, radios lucis ardentes emittunt. Cautim accede, et irrumpendi exspecta occasionem!</entry>
+<!-- MEGA_BEAM_MINER Crystal Guardian -->
+<entry name="NAME_MEGA_BEAM_MINER">Custos Crystalli</entry>
+<entry name="DESC_MEGA_BEAM_MINER">Robustus fossor Montis Crystallini, crystallis continenter increscentibus obsessus. Ex membris crystallificatis, ardentes radios lucis emittere potest.</entry>
+<entry name="NOTE_MEGA_BEAM_MINER">Miror huic animali, ex carcere crystallino in quo inclusum est, qualis reliquus mundus videatur. Num tantummodo lucem prospicit? Haecine tandem est eius furoris causa?</entry>
+
+
+<!-- CENTIPEDES -->
+<!-- BABY_CENTIPEDE Dirtcarver -->
+<entry name="NAME_BABY_CENTIPEDE">Terredo</entry>
+<entry name="DESC_BABY_CENTIPEDE">Praedatores Nidi Inferi, qui in grege venantur. Cunicula fodiunt sub terra, e quibus praedam insiliunt.</entry>
+<entry name="NOTE_BABY_CENTIPEDE">Rapidi et feroces, horum venatorum vires sunt in numeris, ut in angustis et obscuris specibus praedam per insidias aggrediantur. Bene ab iis caveto!</entry>
+<!-- CENTIPEDE_HATCHER Carver Hatcher -->
+<entry name="NAME_CENTIPEDE_HATCHER">Pariens Terredinum</entry>
+<entry name="DESC_CENTIPEDE_HATCHER">Bestiae volatiles, quae in praedas petendas terredines insputant.</entry>
+<entry name="NOTE_CENTIPEDE_HATCHER">Utrum hae sint revera terredinum parentes, in incerto habeo. Sin vero non sunt, quomodo terredines in has sese intulerunt? Res maxime in dubio versatur.</entry>
+<!-- BIG_CENTIPEDE Garpede -->
+<entry name="NAME_BIG_CENTIPEDE">Garipeda</entry>
+<entry name="DESC_BIG_CENTIPEDE">Animalia durissima crusta operta, cunicula quae per Nidum Inferum effodiunt vagantia.</entry>
+<entry name="NOTE_BIG_CENTIPEDE">Enormia animalia, quorum durissima crusta facile impetus depellit. Quod hostilitati non student, si semitas eorum vitas, transitum tutum feceris.</entry>
+
+
+<!-- HUSKS 3 -->
+<!-- ZOM_MINER Husk Miner -->
+<entry name="NAME_ZOM_MINER">Fossor Vacuus</entry>
+<entry name="DESC_ZOM_MINER">Corpora vacua qui Montem Crystalli petiverunt, aviditate crystallorum adducti. Dolabras usurpant pro telis.</entry>
+<entry name="NOTE_ZOM_MINER">Insolitae erant res, quarum Nidisacrenses cives erant cupidi. Furtim terram fodiebant, lapides metallaque quaerentes, et crystallos praesertim qui in cacumine mundi increscunt.</entry>
+<!-- ZOM_BEAM_MINER Crystallised Husk -->
+<entry name="NAME_ZOM_BEAM_MINER">Vacuus Crystallificatus</entry>
+<entry name="DESC_ZOM_BEAM_MINER">Corpora vacua qui inter crystallos sunt defuncti. Quadam mira vi animati, ex bracchis crystallificatis radios lucis ignigenos emittunt.</entry>
+<entry name="NOTE_ZOM_BEAM_MINER">Quaedam mirifica potestas est in eis crystallis insita, qui in illo monte excrescunt. Coruscant in tenebris et refulgent, et in quoque crystallo est nucleus inclusus candidi alicuius ardentisque caloris. Et, si bene auscultes, quasi per voculam videntur canere tenuissimum carmen...</entry>
+
+<!-- ZOM_BURSTING Violent Husk -->
+<entry name="NAME_ZOM_BURSTING">Vacuus Violentus</entry>
+<entry name="DESC_ZOM_BURSTING">Contagionis causa, maxima saevitia affectus. Impetus in hostes facit ferociter quam temerarie.</entry>
+<entry name="NOTE_ZOM_BURSTING">Illa antiqua contagio contorsit corpora Nidisacrensium. Primum sopiuntur, deinde e somno soluti mentes amittunt, denique corpora eorum incipiunt torqueri...</entry>
+<!-- ZOM_SPITTING Slobbering Husk -->
+<entry name="NAME_ZOM_SPITTING">Vacuus Virulentus</entry>
+<entry name="DESC_ZOM_SPITTING">Corpora eorum, quos morbus funditus consumpsit. Acidissimum umorem vomunt.</entry>
+<entry name="NOTE_ZOM_SPITTING">Morbus qui iampridem totum Nidum Sacrum pervasit... traditur quanto magis eum reluctari coneris, eo magis te ille consumere.</entry>
+<!-- ZOM_SPINE Spiny Husk -->
+<entry name="NAME_ZOM_SPINE">Vacuus Spinosus</entry>
+<entry name="DESC_ZOM_SPINE">Obsitus frondibus, acutas spinas ex corpore frondoso emittit.</entry>
+<entry name="NOTE_ZOM_SPINE">Spinae quas iaciunt videntur infectae quodam debili veneno. Noli igitur illis uti ad dentes purgandos, postquam hos comederis!</entry>
+<!-- ZOM_HIVE Husk Hive -->
+<entry name="NAME_ZOM_HIVE">Vacuus Alvearius</entry>
+<entry name="DESC_ZOM_HIVE">Vacuus ignavus, cuius corpus occuparunt apiculae.</entry>
+<entry name="NOTE_ZOM_HIVE">Apesne fuerint, quae circum eius corpus alvearium exstruxerint, an ipse in alvum eorum suum corpus intruserit, non liquet. Utrumcumque est, alteri consuetudinem alterius non rejicere videntur.</entry>
+
+
+<!-- SPIDERS -->
+<!-- ZOM_SPIDER Corpse Creeper -->
+<entry name="NAME_ZOM_SPIDER">Cimex Cadaverinus</entry>
+<entry name="DESC_ZOM_SPIDER">Parasiticum animal, quod cadaver movet hospitis emortui.</entry>
+<entry name="NOTE_ZOM_SPIDER">Animalia huius terrae ingeniosissima latibula sibi invenerunt complura, nullum tamen tam ingeniosum latibulum, quam in corpore alieno! Siquando hoc animal tibi erit inventum, laetare! Duplicem enim praedam venatus eris.</entry>
+
+<!-- MINI_SPIDER Deepling -->
+<entry name="NAME_MINI_SPIDER">Araneola</entry>
+<entry name="DESC_MINI_SPIDER">Progenies Nidi Inferi. Fortuitos vagantur circuitus per tenebras, dum naturam suae domi cognoscunt.</entry>
+<entry name="NOTE_MINI_SPIDER">Nidus Infer est locus tam periculosus quam venatu fecundus. Infirmiora exquirito animalia, quae facilius comesse possis. Sic vires inter tenebras conservabis.</entry>
+<!-- SPITTING_SPIDER Deephunter -->
+<entry name="NAME_SPITTING_SPIDER">Aranea</entry>
+<entry name="DESC_SPITTING_SPIDER">Repit super parietes, dum venena in praeterientes spuit.</entry>
+<entry name="NOTE_SPITTING_SPIDER">Difficiles sunt visu, cum ultra citraque suas tenebrosas latebras meant. Oculos nitentes animadverte.</entry>
+
+<!-- SPIDER_FLYER Little Weaver -->
+<entry name="NAME_SPIDER_FLYER">Textor Parvus</entry>
+<entry name="DESC_SPIDER_FLYER">Agilis aranea quae sua latibula per telas a se intextas circumeat. Insidias parare solita&#39;st.</entry>
+<entry name="NOTE_SPIDER_FLYER">Cave, repentino hae oriuntur e tenebris! Eae quasi per aerem volare videntur, cum librant se in lineis intextis subtilissimis, dum furtive praedam persequuntur.</entry>
+<!-- SLASH_SPIDER Stalking Devout -->
+<entry name="NAME_SLASH_SPIDER">Persecutor Fidelis</entry>
+<entry name="DESC_SLASH_SPIDER">Cultores illius Belvae Herrae. Protegunt se duris unguibus, antequam praedam vehementer caedunt.</entry>
+<entry name="NOTE_SLASH_SPIDER">Fortes, bene tectae et agiles, non sunt hae simplices bestiae. Observato eas cautim, dum occasionem animadvertas inferendi.</entry>
+
+<!-- MIMIC_SPIDER Nosk -->
+<entry name="NAME_MIMIC_SPIDER">Nosk</entry>
+<entry name="DESC_MIMIC_SPIDER">Imitatur formas alienas, ut praedam in suum latibulum seducat.</entry>
+<entry name="NOTE_MIMIC_SPIDER">In profundissima obscuritate, latescunt aliquae bestiae quae, ex tuis memoriis ereptos, familiares vultus gerunt,  ita ut decipiant cor tuum. Nosce te ipsum, et bono animo esto.</entry>
+
+
+<!-- ABYSS_CRAWLER Shadow Creeper -->
+<entry name="NAME_ABYSS_CRAWLER">Cimex Umbraticus</entry>
+<entry name="DESC_ABYSS_CRAWLER">In locis profundissimis inveniuntur. Numquam comesse nec quicquam potare visi.</entry>
+<entry name="NOTE_ABYSS_CRAWLER">Hic cimiculus infirmissimus est, et ulli periculi non est, tamen quomodo se moveant, quales sonos edant... aliquantum me inquietant.</entry>
+
+<!-- MAWLEK -->
+<!-- LESSER_MAWLEK Lesser Mawlek -->
+<entry name="NAME_LESSER_MAWLEK">Crucifaux Minor</entry>
+<entry name="DESC_LESSER_MAWLEK">Exspuit acidum, unguibusque praedam lacerat.</entry>
+<entry name="NOTE_LESSER_MAWLEK">Si nimium stas eminus, globos ex acido stomachi sui inspuet in te. Aggredere quam celerrime.</entry>
+<!-- MAWLEK_TURRET Mawlurk -->
+<entry name="NAME_MAWLEK_TURRET">Crucifaux Defixus</entry>
+<entry name="DESC_MAWLEK_TURRET">Ingens animal immobile. Sputat invasoribus venenum.</entry>
+<entry name="NOTE_MAWLEK_TURRET">Quomodo haec ineptissima animalia sua crura amiserunt? Stultitia, censeo, perdere potest quidlibet.</entry>
+<!-- MAWLEK Brooding Mawlek -->
+<entry name="NAME_MAWLEK">Crucifaux Praegnans</entry>
+<entry name="DESC_MAWLEK">Animalia tam ferocia quam socialia. A grege disiuncta, saeviunt.</entry>
+<entry name="NOTE_MAWLEK">Saepe audio hoc animal vociferans dum vagor per specus, quamquam numquam revera oculis id aspexi. Quem autem, aut quid vero vocat? Quidquid id est, clamantis voci numquam respondetur.</entry>
+
+
+<!-- PARASITE_BLOB Lightseed -->
+<entry name="NAME_PARASITE_BLOB">Semen Lucis</entry>
+<entry name="DESC_PARASITE_BLOB">Animal corpore unicellulari, infectum morbo. Vagatur sine meta.</entry>
+<entry name="NOTE_PARASITE_BLOB">Annos iam quidam mirus defluit desuper aer. Is aer deinde fit liquidum, quo liquido est facta caro, cui carni datur denique vita. Hanc rem saepe demiratus sum.</entry>
+<!-- ORANGE_BALLOON Infected Balloon -->
+<entry name="NAME_ORANGE_BALLOON">Globulus Morbiger</entry>
+<entry name="DESC_ORANGE_BALLOON">Cellula contagionis. Bestia sine mente est, quae volitat propter subtilem vaporem quo eius venter est plenus.</entry>
+<entry name="NOTE_ORANGE_BALLOON">Illa pestis diffusa per venas emortuas Regni... estne praedita ratione? Producitne animum? Estne vere viva?</entry>
+
+
+<!-- INFECTED_KNIGHT Broken Vessel -->
+<entry name="NAME_INFECTED_KNIGHT">Vas Corruptum</entry>
+<entry name="DESC_INFECTED_KNIGHT">Cadaver corruptum, quod iam morbidus parasitus animat.</entry>
+<entry name="NOTE_INFECTED_KNIGHT">Hanc figuram... Nonne alias quoque eiusdem generis vidi, et quidem plus quam semel? Hi vero civibus Nidisacrensibus videntur valde esse consimiles, attamen aliqua re differunt. Miror unde venerint, hae umbellae vacuae aberrantes.</entry>
+
+
+<!-- HOPPER -->
+<entry name="NAME_HOPPER">Gryllus</entry>
+<entry name="DESC_HOPPER">Insiliunt in praedam, ut eius sucus vitales ebibant per nasum acutum.</entry>
+<entry name="NOTE_HOPPER">Venter huius furunculi est plenus sanguine alieno. Quem si igne calefacias, venter eius contumescere coeperit donec explodatur, ferventibus sucis intus contentis quoquoversus aspersis.</entry>
+<!-- GIANT_HOPPER -->
+<entry name="NAME_GIANT_HOPPER">Locusta</entry>
+<entry name="DESC_GIANT_HOPPER">Saltitant circa mundi fines. Praedam sui ingentis corporis pondere obterunt.</entry>
+<entry name="NOTE_GIANT_HOPPER">Hostes acerbi, praeter staturam agiles. Aut asta procul, aut in crura inter saltus irrumpe.</entry>
+
+
+<!-- GRUB_MIMIC -->
+<entry name="NAME_GRUB_MIMIC">Imitator Tinearum</entry>
+<entry name="DESC_GRUB_MIMIC">Assimulat se specie bestiae innoxiae ad seducendam praedam.</entry>
+<entry name="NOTE_GRUB_MIMIC">Tineam parvam et infirmam se simulantes, praedam ad se illiciunt. Male tamen eis succedit, quod tineas cum video ilico vorem.</entry>
+
+
+<!-- **BEES -->
+<!-- BEE_HATCHLING Hiveling -->
+<entry name="NAME_BEE_HATCHLING">Apicula</entry>
+<entry name="DESC_BEE_HATCHLING">Alvearis minimus incolarum, qui modo simplicissima opera efficit.</entry>
+<entry name="NOTE_BEE_HATCHLING">Quamquam exiguae, tamen industrissimae sunt, et in Alvo frequentes. In earum corpore piloso, aliqui dulcis sucus auricolor continetur. Iuvat hac de causa, in longa venatione, harum reservare nonnullas.</entry>
+<!-- BEE Hive Soldier -->
+<entry name="NAME_BEE">Apis Miles</entry>
+<entry name="DESC_BEE">Defendunt Alveare ab hostibus productis aculeis.</entry>
+<entry name="NOTE_BEE">Saevissimi milites et diligentissimi, usque ad mortem invasores depugnare parati.</entry>
+<!-- **BIG_BEE Hive Guardian -->
+<entry name="NAME_BIG_BEE">Apis Custos</entry>
+<entry name="DESC_BIG_BEE">Defendunt Alveare ab invasoribus, in quos sua ingentia corpora projiciunt.</entry>
+<!-- BAD agrestius -->
+<entry name="NOTE_BIG_BEE">Sicut minores sui generis, nihil nisi suum Alveare usque ad mortem defendere volunt. Quod cum faciunt agrestius, etiam suo Alveari nonnullo sunt detrimento. Utrum id eos pudeat necne, vel si omnino queant huiusmodi res animadvertere, nescio.</entry>
+<!-- HIVE_KNIGHT Hive Knight -->
+<entry name="NAME_HIVE_KNIGHT">Eques Alvearis</entry>
+<entry name="DESC_HIVE_KNIGHT">Defensor fidelissimus Alvearis Reginae. Non volare potest, sed in pugna est maxime metuendus.</entry>
+<entry name="NOTE_HIVE_KNIGHT">Sunt nonnulla animalia, quibus insunt innata quaedam officia et fides, e quibus videlicet sibi inventa est certa fortitudo, tamen sic etiam facta est iis necessaria servitus.</entry>
+
+
+<!-- FOOLS -->
+<!-- COL_SHIELD Shielded Fool -->
+<entry name="NAME_COL_SHIELD">Fatuus Scutatus</entry>
+<entry name="DESC_COL_SHIELD">Bellator qui in Amphitheatro Fatuum pugnat gloriae gratia. Cautim ad hostem incedit, scuto prae se proiecto.</entry>
+<entry name="NOTE_COL_SHIELD">Illud &#39;Amphitheatrum&#39; est locus summe insolitus, ubi alteri pugnant inter se usque ad mortem, dum alteri spectant morituros. Hi mores mihi videntur perquam singulares. Si in eum locum introibis, esto bene cautus.</entry>
+<!-- COL_MINER Sturdy Fool -->
+<entry name="NAME_COL_MINER">Fatuus Robustus</entry>
+<entry name="DESC_COL_MINER">Bellator qui in Amphitheatro Fatuum pugnat gloriae gratia. Hostes caedit Aculeo lunato.</entry>
+<entry name="NOTE_COL_MINER">Tela ab hoc bellatore iacta si retundas, retro in eum versus ea repellas! Utillimum consilium, ubi spatio indigeas quo recedas.</entry>
+<!-- COL_FLYINGSENTRY Winged Fool -->
+<entry name="NAME_COL_FLYINGSENTRY">Fatuus Alatus</entry>
+<entry name="DESC_COL_FLYINGSENTRY">Bellator qui in Amphitheatro Fatuum pugnat gloriae gratia. Volitat prope extra hostis manum, donec occasionem reperit ad inruendum.</entry>
+<entry name="NOTE_COL_FLYINGSENTRY">Quid boni esse sibi censent hi bellatores, in hoc Amphitheatro ita inter se pugnare? An pugnant quod sunt servi, vel quia captivi? An revera sua sponte ibi pugnare volunt?</entry>
+<!-- COL_WORM Heavy Fool -->
+<entry name="NAME_COL_WORM">Fatuus Crassus</entry>
+<entry name="DESC_COL_WORM">Bellator qui in Amphitheatro Fatuum pugnat gloriae gratia. Hostes appetit vehemens.</entry>
+<entry name="NOTE_COL_WORM">Amplus, ingens, in pugna vehemens. Noli inconsulto hunc bellatorem adversari! Namque, contra magnitudinem, celeriter se movere potest. Sub persona occultus, est vultus venustus.</entry>
+<!-- PALE_LURKER Pale Lurker -->
+<entry name="NAME_PALE_LURKER">Alba Furtiva</entry>
+<entry name="DESC_PALE_LURKER">Olim triumphatrix Amphitheatri, iam abducta ab insolita vecordia.</entry>
+<entry name="NOTE_PALE_LURKER">Haec mira bestia videtur nec affici, nec animadvertere quidem noxissimum morbum dilatantem per specus. Ipsa suo Marte videtur insanisse.</entry>
+<!-- LOBSTER_LANCER -->
+<entry name="NAME_LOBSTER_LANCER">Domitrix Deorum</entry>
+<entry name="DESC_LOBSTER_LANCER">Bellatrix veterana Amphitheatri Fatuum. Adhibet in proelio belvam quam domuit.</entry>
+<entry name="NOTE_LOBSTER_LANCER">Sunt aliqui venatores qui bestias domant, quae in venatione eos adiuvent. Idem conatus sum semel, at vix retinere me potui, quin sodalis vires egomet ipse tentarem.</entry>
+
+
+
+<!-- ZOTE -->
+<!-- ZOTE Zote -->
+<entry name="NAME_ZOTE">Zotes</entry>
+<entry name="DESC_ZOTE">Se Equitem esse affirmat, nulla tamen fama cluet. Aculeum gerit ex ligno testaceo, quem nomine appellat &#39;Ensem Letiferam&#39;.</entry>
+<entry name="NOTE_ZOTE">Sunt interdum quaedam animalia tam debilia, tamque infirma, tamque inepta, tamque molesta, ut ea venari non sit operae pretium.</entry>
+<!-- ZOTE_FLYER Winged Zoteling -->
+<entry name="NAME_ZOTE_FLYER">Zotellus Volucer</entry>
+<entry name="DESC_ZOTE_FLYER">Figmenta mentis delirae. Subvenit gravanter domino suo, dum volitat adversus hostes.</entry>
+<entry name="NOTE_ZOTE_FLYER">&quot;Amuletum&quot; inquit timida illa rogans, &quot;emistine, mi dux, quod promiseras mihi?&quot;, ad quae ille explicavit: minoris se id aestimare, vilioris esse pretii quanti mercator petisset. &quot;Quam prudens, mi dux, quamque parcus&quot; illa secum, adsensa.&lt;br&gt;- &#39;Cinereus Dux&#39; Capitulum 136</entry>
+<!-- ZOTE_BALLOON Volatile Zoteling -->
+<entry name="NAME_ZOTE_BALLOON">Zotellus Instabilis</entry>
+<entry name="DESC_ZOTE_BALLOON">Figmenta mentis delirae. Onus vivendi tam moleste fert, ut quam citissime de medio se tollat displosum.</entry>
+<entry name="NOTE_ZOTE_BALLOON">Vagabundus enim erat Cinereus Dux propter naturam, at eum absentem non poterat illa amplius perferre. Itaque virgo commenta est consilium, ne iterum Cinereus Dux eam relinqueret solam. Iam modo opperienda erat sibi optima occasio.&lt;br&gt;- &#39;Cinereus Dux&#39; Capitulum 205</entry>
+<!-- ZOTE_HOPPER Hopping Zoteling -->
+<entry name="NAME_ZOTE_HOPPER">Zotellus Saliens</entry>
+<entry name="DESC_ZOTE_HOPPER">Figmenta mentis delirae. Saltitat circum parum minaciter.</entry>
+<entry name="NOTE_ZOTE_HOPPER">&quot;Quae, an illam uxorem chartarii ais? Vah! Mea Regina, quid perperam te viliori comparas mulieri? Quid nisi flocci sunt ceterae feminae faciundae, mea Venus, prae tua pulchritudine?&quot;&lt;br&gt;Ira tum indignatus erat Cinereus Dux accensus... atque amore.&lt;br&gt;- &#39;Cinereus Dux&#39; Capitulum 178</entry>
+<!-- GREY_PRINCE Grey Prince Zote -->
+<entry name="NAME_GREY_PRINCE">Cinereus Dux Zotes</entry>
+<entry name="DESC_GREY_PRINCE">Figmenta mentis delirae. Caret omnino decore, sed quo saepius perdit, eo fortior fit.</entry>
+<entry name="NOTE_GREY_PRINCE">&quot;Numquid animantium, meum suavium, abesse a te possit pati, quisve te derelinquere, aut male de te ultro possit loqui? Vah, istos vilissimos vermes, quos nihil decet ita tuas dulcissimas memorias obsidere!&quot;His verbis auditis, calori tunc dedit spatium in suo corpore frigus, quem calorem iam dudum nostra virgo visa erat prope esse oblita...&lt;br&gt;- &#39;Cinereus Dux&#39; Capitulum 112</entry>
+
+
+<!-- GHOSTS -->
+<!-- GHOST_XERO Xero -->
+<entry name="NAME_GHOST_XERO">Xero</entry>
+<entry name="DESC_GHOST_XERO">Somnium relictum a bellatore defuncto, qui damnatus fuit laesae maiestatis.</entry>
+<entry name="NOTE_GHOST_XERO">Constitit mea vita ex morte et triumpho. Mors foedata mihi dolente maerore. Animus gravatus pondere memoriae et peccatorum. Satius est mundum vagari, quam gloria affici eaque damnari.&lt;br&gt;- Xero</entry>
+<!-- GHOST_ALADAR Gorb -->
+<entry name="NAME_GHOST_ALADAR">Gorb</entry>
+<entry name="DESC_GHOST_ALADAR">Somnium relictum a bellatore defuncto. Animal permirum, quod suo capaci cerebro, omnem mundi scientiam se apprehendisse fatetur.</entry>
+<entry name="NOTE_GHOST_ALADAR">Ego sum Gorb!&lt;br&gt;- Gorb</entry>
+<!-- GHOST_HU Elder Hu -->
+<entry name="NAME_GHOST_HU">Veter Hu</entry>
+<entry name="DESC_GHOST_HU">Somnium relictum a bellatore defuncto, qui totius regni morbo afflictis assidebat.</entry>
+<entry name="NOTE_GHOST_HU">Quae amisimus memento, dum ne ab eis graveris.&lt;br&gt;- Veter Hu</entry>
+<!-- GHOST_MARMU Marmu -->
+<entry name="NAME_GHOST_MARMU">Marmu</entry>
+<entry name="DESC_GHOST_MARMU">Somnium relictum a bellatrice defuncta, qui Hortos Reginae custodiebat.</entry>
+<entry name="NOTE_GHOST_MARMU">Si aliquid toto corde credas, et oculos claudas... id aliquando revera fiet!&lt;br&gt;- Marmu</entry>
+<!-- GHOST_NOEYES No Eyes-->
+<entry name="NAME_GHOST_NOEYES">Exoculis</entry>
+<entry name="DESC_GHOST_NOEYES">Somnium relictum a bellatrice defuncta, quae inter pestem periit.</entry>
+<entry name="NOTE_GHOST_NOEYES">Adveniunt...&lt;br&gt;Id quod in te est...&lt;br&gt;Eripe illud!&lt;br&gt;- Exoculis</entry>
+<!-- GHOST_GALIEN Galien -->
+<entry name="NAME_GHOST_GALIEN">Galien</entry>
+<entry name="DESC_GHOST_GALIEN">Somnium relictum a bellatore defuncto, qui inter vasta extera regni se exercebat, ut fieret Eques.</entry>
+<entry name="NOTE_GHOST_GALIEN">Sui Regni non solum terram populumque, verum etiam spem somniaque defendit Eques.&lt;br&gt;- Galien</entry>
+<!-- GHOST_MARKOTH Markoth -->
+<entry name="NAME_GHOST_MARKOTH">Markoth</entry>
+<entry name="DESC_GHOST_MARKOTH">Somnium relictum a bellatore defuncto, qui solus ex sua tribu aculeum sumpsit in manu.</entry>
+<entry name="NOTE_GHOST_MARKOTH">Uti coepta tua ad dignissima te adducant.&lt;br&gt;- Markoth</entry>
+
+
+<!-- KING -->
+<!-- PALACE_FLY Wingmould -->
+<entry name="NAME_PALACE_FLY">Volucre</entry>
+<entry name="DESC_PALACE_FLY">Machina volans, quae ex crusta alba exterius, interius atro ex liquore constat.</entry>
+<entry name="NOTE_PALACE_FLY">Rex Nidi Sacri, ut credebant Nidisacrenses, totum mundum creavisse dicitur. At qua de causa? Et is, quales sibi suos cives aestimabat? Comparesne, oblectamenta, an quasi proles? Talis mens mihi prorsus videtur incomprehensibilis.</entry>
+<!-- WHITE_ROYAL Royal Retainer -->
+<entry name="NAME_WHITE_ROYAL">Minister Regius</entry>
+<entry name="DESC_WHITE_ROYAL">Asseclae Regis fidelissimi.</entry>
+<entry name="NOTE_WHITE_ROYAL">Infirmissimi et vilissimi, qui non nisi aliquem circa regem congregati vires sibi acquirunt, cuius inde fiunt quasi dentes, ungues et lacerti.</entry>
+<!-- ROYAL_GUARD Kingsmould -->
+<entry name="NAME_ROYAL_GUARD">Satelles Regius</entry>
+<entry name="DESC_ROYAL_GUARD">Satelles mechanicus Palatii Nidisacrensis, qui suum aculeum ungulatum agitat sollerter. Candida armatura tegit eius fragile corpus.</entry>
+<entry name="NOTE_ROYAL_GUARD">Rex quamvis dicitur esse mortuus iamdudum, verumtamen sua vis et auctoritas etiamnunc haec tempora movent, tanti quidem ut erat momenti et ponderis. Tale animal... quid esset ei quod desideraret?</entry>
+
+
+<!-- SIBLING Sibling -->
+<entry name="NAME_SIBLING">Frater</entry>
+<entry name="DESC_SIBLING">Fragmentum animi relicti.</entry>
+<entry name="NOTE_SIBLING">Sub terris, infra Regnum, aer fit tranquillus, nihilque nisi silentium pertinet locum. Potestne quicquam vivere illic? Si quicquam est, id venabor, quicquid est.</entry>
+<!-- ABYSS_TENDRIL Void Tendrils -->
+<entry name="NAME_ABYSS_TENDRIL">Flagella Inanis</entry>
+<entry name="DESC_ABYSS_TENDRIL">Fragmenta Inanis, quae speciem sibi induerunt acutissimorum flagellorum.</entry>
+<entry name="NOTE_ABYSS_TENDRIL">Cives Nidisacrenses saepe mirabantur utrum exstarent alia regna inferiora, magis Nido Sacro mira et antiqua. Et mira quidem sunt illi mirati. Quapropter facillime distrahi, facillime interfici possunt.</entry>
+
+
+
+<!-- *NAILMASTERS Nailmasters Oro &amp; Mato -->
+<entry name="NAME_NAILMASTERS">Aculeatores Magistri Oro &amp; Mato</entry>
+<entry name="DESC_NAILMASTERS">Fratres in Aculeo, edocuit eos Aculeator Maximus.</entry>
+<!-- TODO poem
+In Aculeo et labore Divi et Fratres,
+Debiles iurando iure qui tuantur,
+Nobis, o Magistri terrarum sacrarum,
+Date auxilium Divom qui petamus!
+- Supplicatio ad Magistros
+-->
+<entry name="NOTE_NAILMASTERS">&quot;Gods by toil and nail bound,&lt;br&gt;Brothers sworn to guard the weak,&lt;br&gt;Masters of the sacred ground,&lt;br&gt;Help Us find the God We seek!&quot;&lt;br&gt;- Prayer to the Masters</entry>
+<!-- *PAINTMASTER Paintmaster Sheo -->
+<entry name="NAME_PAINTMASTER">Pictor Magister Scaeo</entry>
+<entry name="DESC_PAINTMASTER">Sollers et spectatus Aculei Magister. Semper avidus rerum discendarum novarum.</entry>
+<!-- TODO poem
+O summe artifex, ingeniorum omnium Dive,
+Quorum opera aeviterna durabunt,
+Condoce mentes, cordaque nostra,
+Quem divom Nobis primum habeamus!
+- Supplicatio ad Pictorem
+-->
+<entry name="NOTE_PAINTMASTER">&quot;O God inspired, master of arts,&lt;br&gt;Whose works shall eternal endure,&lt;br&gt;Peer beyond Our minds and hearts,&lt;br&gt;Reveal to Us the God most pure!&quot;&lt;br&gt;- Prayer to the Artist</entry>
+<!-- *SAGE_SLY Great Nailsage Sly -->
+<entry name="NAME_SAGE_SLY">Aculeator Maximus Sly</entry>
+<entry name="DESC_SAGE_SLY">Praeclarus quondam eruditus artis aculei, nuperrime factus gnavus mercator.</entry>
+<!-- TODO poem
+Vaferrime Dive sagacum audacum,
+Acutos aculeos et copias redde,
+O summe magister, atque nobis ostende,
+Qui etiam superior, divorum divom!
+- Supplicatio ad Maximum
+-->
+<entry name="NOTE_SAGE_SLY">&quot;Sagely God of the cunning and bold,&lt;br&gt;Sharpen Our nails and show Us the odds,&lt;br&gt;O greatest of masters, We wish to behold,&lt;br&gt;That one still greater, the God of Gods!&quot;&lt;br&gt;- Prayer to the Sage</entry>
+
+
+<!-- HORNET Hornet -->
+<entry name="NAME_HORNET">Hornet</entry>
+<entry name="DESC_HORNET">Sollers protectrix ruinarum Nidisacrensium. Aculeo utitur cum lino.</entry>
+<entry name="NOTE_HORNET">Semel huic pernici bestiolae occurri. Quod eam mihi suculentam praedam fore cogitabam, nimirum in eam aggressus sum, cum subito illa me perculsit aculeo, fugamque cepit confestim. Numne ea quoque est Venatrix...?</entry>
+
+
+<!-- **HOLLOW_SHADE Shade -->
+<!-- BAD?? cf. Jiji -->
+<entry name="NAME_HOLLOW_SHADE">Umbra</entry>
+<entry name="DESC_HOLLOW_SHADE">Imago relicta prioris vitae. Vince eam ut eius potestatem recuperes, integrumque fias.</entry>
+<entry name="NOTE_HOLLOW_SHADE">Cum morimur, maculas in mundo relinquimus atras. Dubito num diutius hoc Regnum harum macularum pondus sustinere possit...</entry>
+<!-- **HOLLOW_KNIGHT Hollow Knight -->
+<!-- BAD? Eques Cassus? Eques Vacuus? Eques Inanis? -->
+<entry name="NAME_HOLLOW_KNIGHT">Eques Cassus</entry>
+<entry name="DESC_HOLLOW_KNIGHT">Vas perfectum, cor pestis quod in suo corpore gestat.</entry>
+<entry name="NOTE_HOLLOW_KNIGHT">O prisce Rex Nidisacrensis... quam desperate tuum regnum servare conatu&#39;s. Et quas aerumnas aliis imposueras... hei, cunctae incassum fuere.</entry>
+<!-- **FINAL_BOSS Radiance -->
+<!-- BAD?? Lux, data oblivioni? Deperdita Lux? Lux, deperdita? -->
+<entry name="NAME_FINAL_BOSS">Lux</entry>
+<entry name="DESC_FINAL_BOSS">Lux, data oblivioni.</entry>
+<entry name="NOTE_FINAL_BOSS">Ipsa lues, ipsa pestis, ipse morbus, qui inquietat cadavera Nidisacrensia... lux eadem, quae ex oculis reclamitat huius deperditi regni. Eius fons qui sit? Non credo id licitum scire mortalibus.</entry>
+
+
+<!-- GRIMM -->
+<!-- *FLAMEBEARER_SMALL Grimmkin Novice -->
+<entry name="NAME_FLAMEBEARER_SMALL">Grimmulus Tiro</entry>
+<entry name="DESC_FLAMEBEARER_SMALL">Socius Gregis Grimm, iunior et festivus. Pro Caerimonia gestat in facula flammam coccineam, quam victus relinquet.</entry>
+<!-- TODO poem
+Umbricolarum petitus ignis aeterne,
+Flagransque flamma ardensque,
+Incubonum accende Lucernam,
+Advocare ad Nostrum Gregem
+-->
+<entry name="NOTE_FLAMEBEARER_SMALL">&quot;Shadows dream of endless fire,&lt;br&gt;Flames devour and embers swoop,&lt;br&gt;One will light the Nightmare Lantern,&lt;br&gt;Call and serve in Grimm&#39;s dread Troupe.&quot;&lt;br&gt;- &#39;The Grimm Troupe&#39;</entry>
+<!-- *FLAMEBEARER_MED Grimmkin Master -->
+<entry name="NAME_FLAMEBEARER_MED">Grimmulus Magister</entry>
+<entry name="DESC_FLAMEBEARER_MED">Socius Gregis Grimm, validus et studiosus. Pro Caerimonia gestat in facula flammam coccineam, quam victus relinquet.</entry>
+<!-- TODO poem
+Lux rutila in obscuris,
+Coccina nox in praeclaris,
+-ate 
+
+-->
+<entry name="NOTE_FLAMEBEARER_MED">&quot;A spark of red lights darkest dream,&lt;br&gt;Scarlet nightmares bright and wild,&lt;br&gt;Visions dance and flames do speak,&lt;br&gt;Burn the father, feed the child.&quot;&lt;br&gt;- &#39;The Grimm Troupe&#39;</entry>
+<!-- *FLAMEBEARER_LARGE Grimmkin Nightmare -->
+<entry name="NAME_FLAMEBEARER_LARGE">Grimmulus Incubo</entry>
+<entry name="DESC_FLAMEBEARER_LARGE">Socius Gregis Grimm torvus et trux. Pro Caerimonia gestat in facula flammam coccineam, quam victus relinquet.</entry>
+<!-- TODO poem
+Salta et morere et aeternum vive,
+O voces vos silentia ferte,
+State pro gregario corde obscuro.
+dum flagrat Incubus Rex.
+-->
+<entry name="NOTE_FLAMEBEARER_LARGE">&quot;Dance and die and live forever,&lt;br&gt;Silent voices shout and sing,&lt;br&gt;Stand before the Troupe&#39;s dark heart,&lt;br&gt;Burn away the Nightmare King.&quot;&lt;br&gt;- &#39;The Grimm Troupe&#39;</entry>
+<!-- *GRIMM Grimm -->
+<entry name="NAME_GRIMM">Grimm</entry>
+<entry name="DESC_GRIMM">Dominus Gregis Scaenici Grimm.</entry>
+<!-- TODO poem -->
+<entry name="NOTE_GRIMM">&quot;Through dream I travel, at lantern&#39;s call,&lt;br&gt;To consume the flames of a kingdom&#39;s fall.&quot;&lt;br&gt;- Grimm</entry>
+<!-- *NIGHTMARE_GRIMM Nightmare King -->
+<entry name="NAME_NIGHTMARE_GRIMM">Incubus Rex</entry>
+<entry name="DESC_NIGHTMARE_GRIMM">Flammae coccinae imago contorta.</entry>
+<!-- TODO poem -->
+<entry name="NOTE_NIGHTMARE_GRIMM">&quot;The expanse of dream in past was split,&lt;br&gt;One realm now must stay apart,&lt;br&gt;Darkest reaches, beating red,&lt;br&gt;Terror of sleep. The Nightmare&#39;s Heart.&quot;&lt;br&gt;- Seer</entry>
+
+
+<!-- *PURE_VESSEL Pure Vessel-->
+<entry name="NAME_PURE_VESSEL">Merum Vas</entry>
+<!-- BAD?? electum / purum -->
+<entry name="DESC_PURE_VESSEL">Vas electum, evectum perfectioni.</entry>
+<!-- TODO poem
+In requie tu sacraque concha,
+Dato Aculeo et nomine Eques,
+Vinctus catenis ovoque et incantu,
+Nobis reclude tuam orantibus Lucem!
+- Supplicatio ad Vas
+-->
+<entry name="NOTE_PURE_VESSEL">&quot;Deepest silence in holy shell,&lt;br&gt;Given nail and named a Knight,&lt;br&gt;Bound by chain and egg and spell,&lt;br&gt;Hear Our plea! Reveal thy Light!&quot;&lt;br&gt;- Prayer to the Vessel</entry>
+
+</entries>

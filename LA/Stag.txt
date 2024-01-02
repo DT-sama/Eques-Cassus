@@ -1,0 +1,60 @@
+<entries>
+<!-- TL note:
+It works, but it's nothing special.
+Since it was one of the first I finished, it probably wants some big corrections here and there.
+But now, it is what it is.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+
+<!--
+Scarabaeus, -i.
+Ultimus
+Vetus
+-->
+
+<entry name="STAG_MEET">Salve, o minute meator. Quam diu istum tinnitum non audivi!&lt;page&gt;Resonavit nunciam per viarum cunicula, ut cieret me ad te.&lt;page&gt;Etiam multa oblitus et confectus senectute, tamen illo sono semper excitabor.&lt;page&gt;Haec cunicula pandunt sese usque ad intimam partem Regni. Si quando tibi erit opus vectari, advoca me modo ad te tintinnabulo isto, et quovis ego te adduxero.</entry>
+
+<entry name="STAG_TRAVEL_1">O minute meator, iamne profiscemur?</entry>
+<entry name="STAG_END_SPEAK">Optasne Scarabaeo vehi? Ascende in illuc suggestum et, signo dato, proficiscemur.</entry>
+
+<entry name="STAG_DREAM">Quam cite iam defatigor, et senescentia crura magis magisque dolere coeperunt. Attamen gaudeo, quod mihi quidem senescere licuit, quando multi non idem potuerunt...</entry>
+
+<!-- BAD?? maneo -->
+<entry name="STAG_CROSSROADS">Reminiscor iam pridem quam vegeta et abundantes fuerint viatorum hae viae. Hae quidem fuerunt eaedem viae, per quas primum adolescens viatores transvexi.&lt;page&gt;Ii iampridem perierunt, sed ego maneo etiamnum. Quin, nunc nos tantum superesse videmur, et illae bestiae immanes.</entry>
+
+<entry name="STAG_GREENPATH">Attat, hic locus longe ab eo tempore mutatu&#39;st, quo novissime eum visissem. Herbae ita in stationem increverunt, ut paene eam totam consumpserint.</entry>
+
+<entry name="STAG_TOWN">Hic locus... Nonne ad summam terram pervenimus? Scio esse oppidum hic. Hortor ut hanc occasionem sumas ad quiescendum.&lt;page&gt;Hoc oppidum quondam fuit viatorum plenum, ultro citroque commeantium, sed id iam silentio teneri videtur.</entry>
+
+<entry name="STAG_RUINS1">Bene memini huius stationis. Mansio usitatissima erat. Merces ab omni Regni parte huc comportabantur.&lt;page&gt;E contrario, haud multae hinc remittebantur.</entry>
+<entry name="STAG_RUINS2">O minute meator, ecce ad Stationem Regis devenimus! Indita, scilicet, a nostro clarissimo Rege Nidisacrensi, cuius ob edictum sunt exstructae nostrae Stationes Scarabaeae.&lt;page&gt;Ipse Rex, quamvis numquam Scarabaeo vectus est, dicitur fuisse illustris quidam et clarissimus, splendidus quidem, adeo ut, magnificae visionis candore, spectantis paene comburerentur oculi.</entry>
+<entry name="STAG_ROYALGARDENS">Ante quam tintinnabulum pulsavisti, huius stationis paene oblitus eram. Cum esset enim praeteritae Reginae dilectissimus recessus, ideoque bene ab eius satellitibus custoditus, cives haud multi huc ventitabant.&lt;page&gt;Quamquam herbae undique excreverunt, adhuc lepidissimus locus mihi esse videtur. Non dubito quin et Regina nostra de hoc esset laeta.</entry>
+
+<!-- BAD?? fuit viatoribus iuxta fines Regni commeantibus conferta mansio usitatissima -->
+<entry name="STAG_FUNGUS">Ahh, quam gaudeo, quod Statio Reginae sit restaurata. Hic enim locus olim, fuit viatoribus iuxta fines Regni commeantibus conferta mansio usitatissima.&lt;page&gt;Laudabile est, te explorantem hunc locum reperisse.</entry>
+<entry name="STAG_DEEPNEST">Oh, minute meator... Ubi sumus? Numquam ad hanc stationem deveni. Locus autem videtur infestus. Suadeo, fac ad tutiorem te adveham locum, et quidem quam cito.</entry>
+<entry name="STAG_FLOWER_WARNING">Iste flos... Pulcherrimus videtur aspectu, sed etiam tenuissimus. Timeo, ne si te veham, pereat.&lt;page&gt;Si ergo vis florem incolumem portare, suadeo ut pedibus eum ad metam conferas.</entry>
+
+<entry name="STAG_REMEMBER_1">Gratias habeo tibi, quod tot stationibus ad operam restitutis, rursus late per Regnum vectitare possum.&lt;page&gt;Quo plures locos attingo, eo plures eorum memorias recordor, quasi et meae mentis sint stationes restitutae.&lt;page&gt;Si perges stationes recuperare, gratias quam maximas tibi acturus ero.</entry>
+<entry name="STAG_REMEMBER_2">Ahh, tot Stationes Scarabaeas restauravisti, ut per totam Regni latitudinem iterum commeare possim. Quot commeatuum et quot viarum videbar oblitus!&lt;page&gt;Inter eas situs, sit Nidus Scarabaeus, mea germana domus, unde ego exortus, ubi alitus, ubi adultus sum. Ubi esset, omnino me oblitum putabam, sed iamiam paene aditum recordatus sum.&lt;page&gt;Si etiam plures stationes renovabis, meque ad eas convocabis, forsitan et meum redinveniam natalem Nidum. Oh, utinam ita possim!</entry>
+<!-- BAD?? -->
+<entry name="STAG_REMEMBER_3">Oh minute meator! Tandem illum inveni! Nidum Scarabaeum, meam germanam domum!&lt;page&gt;Cum mihi, secundum Scarabaeorum officium, tantummodo ad eos locos ad quos vocatus sim ire liceat, nondum eum visi, at si tibi in animo sit eo adire, advectabo te illuc actutum.&lt;page&gt;Et si fors tulerit, ut nemo adfuturus sit qui nos excipiat, tamen ipse Nidus lepidissimo spectaculo erit tibi profecto! Da modo signum, et extemplo illuc nos erimus profecti.</entry>
+
+<entry name="STAG_NEST">Mea antiqua domus... Heu, iam me commonet senectutis provectae.&lt;page&gt;Neque ideo eam repudio. In hac enim, insunt memoriae meorum, quae semper mecum manebunt.</entry>
+<entry name="STAG_HOPE_1">Quid, o minute meator, de mea antiqua domo arbitraris?&lt;page&gt;Pridem, fuit locus concitatus Scarabaeorum itibus atque reditibus, de locis et meatoribus quos offendissent vivaciter inter se sermocinantium.&lt;page&gt;Diutissime iam putavi me eorum esse solum superstitem. Ultimus Scarabaeus.&lt;page&gt;Sed, rursus in Nido meo cum adsum... Aliquid meum animum prehendit. Odor quidam, vel tepor, vel fortasse... quasi praesentia quidem...&lt;page&gt;An fieri possit, ut alii Scarabaei superfuerint nonnulli, qui e Regno in mundum externum evaserint?</entry>
+<entry name="STAG_HOPE_2">Nescio, sed in hoc demum meam spem deponam: fore ut aliquis Scarabaeus etiamnunc vivat, ultra huius regni fines mundum peragrans.&lt;page&gt;Sed has stationes ego non relinquam, dum erunt meatores quibus vectari sit opus.&lt;page&gt;At summae te nunc, quam suspicor, res tenent adipiscendae. Non detinebo. Ego hic ero praesto tibi, donec corpus teneat meum.&lt;page&gt;Et sic paulo diutius, Viis Scarabaeis una fruamur.</entry>
+
+<!-- BAD?? -->
+<entry name="STAG_TISO">Alterum video, qui in illoc sedet subsellio... is mihi nescioquid insuavis habere videtur, sed Statio Scarabaea abnuit neminem.&lt;page&gt;Si volet vehi, impetrabit profecto. Nam publicum Scarabaei officium, meo privato iudicio antecedit.</entry>
+
+<entry name="STAG_TRAM">Istanc tesseram! Nonne illa quidem est ad illum ascendendum foedissimum carrum mechanicum?&lt;page&gt;Exhortor ne umquam ascendas illud vehiculum infandum!&lt;page&gt;Posse machinam eodem munere fungi quo Scarabaei... Vah quam maximam stultitiam!</entry>
+
+<entry name="STAG_HIDDEN">Ah! Quaenam haec statio est, abdita in ima parte mundi?&lt;page&gt;Antequam tintinnabulum audii, ne opinabar quidem Vias Scarabaeas tam alte sese pandere in terram. Rem admodum miram comperisti, o minute meator!&lt;page&gt;Etiam si plane ultimam senectutem adeptus sim, tamen adhuc mihi mundus nova miracula ostendit...</entry>
+
+<entry name="STAG_RESTINGGROUNDS">Requietorium... Meatores huc veniebant, ut rite mortuos suos colerent.&lt;page&gt;Non iam, plane. An forte nunc mortui sese ipsos colunt?</entry>
+<entry name="STAG_EGG_INSPECT">Vacua putamina ovi.</entry>
+
+</entries>

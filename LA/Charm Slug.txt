@@ -1,0 +1,45 @@
+<entries>
+<!-- TL note:
+Was untranslatable for me. I'd basically redo it from scratch.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+
+<!--
+Salubra, -ae
+-->
+
+<entry name="CHARMSLUG_MEET_1">Ooooooooooooohhhhhhh, improvisum adventum! Salve, salve! Veni intro, amabo, mi mellite! Grate et exoptatum te excipio in taberna mea.</entry>
+
+<entry name="CHARMSLUG_MEET_2">Mihi nomen est Salubra, et taberniculam hanc Amuletariam gero. Num pagani foris sunt hortati ut me viseres? Mmm, perbene! Nonne hic pagus est gratissimus? Quam alacer est, plenusque vita!</entry>
+<entry name="CHARMSLUG_MEET_3A">Quid autem dicebam...? Ah recte, de Amuletis! Conspicor vero te iam nonnulla Amuleta sponte tua collegisse. Perbene! Monstrabo ergo si vis meam collectionem tibi, et si quod voles ex meis Amuletum, dono id profecto donabo tibi.</entry>
+<entry name="CHARMSLUG_MEET_3B">Quid autem dicebam...? Ah recte, de Amuletis! Demiror vero te adhuc Amuletis nullis esse ornatum!&lt;page&gt;Amuleta enim sunt pulcherrima, unica et mirifica ornamenta, in se continentia potestates miras et insolitas, per quas incredibilia possunt effici facinora! Vel unum quidem Amuletum convertere tuam vitam radicitus potest!&lt;page&gt;Aspice ergo sis Amuleta mea, et si quod voles, id dono profecto donabo tibi.</entry>
+
+<!-- BAD?? -->
+<entry name="CHARMSLUG_DREAM">...Hui! Hic quam formosus est... Vix me animo possum gerere bono... Nam hic... hui quam divinus est...</entry>
+<!-- BAD?? Hanc quidem solitariam figuram -->
+<entry name="CHARMSLUG_REPEAT">Raro fit ut quisquam meam taberniculam intret, nedum aliquis tam venustus!&lt;page&gt;Ista enim cornua! Istum tuum aculeum. Hanc quidem solitariam figuram! Ooooh. Correpta sum amore.</entry>
+
+<entry name="CHARMSLUG_NOSTOCK">Hui, hui. Iam omnia mea pretiosissima Amuleta de me coemisti! Et em quam pulchram et variam sic coacervasti tibi Amuletorum collectionem! Mmmmm! Sic etiam venustior es factus, ita indutus istis magnificis, coruscantibusque Amuletis!&lt;page&gt;Iam nihil habeo quod tibi vendam, at exopto tamen ut me interdum visas, amabo. Nam visente aliquo tam specioso, certo invidear a toto pago! Mmm hmm!</entry>
+
+
+<entry name="CHARMSLUG_TRUTH">Visne scire qua ex materia sint facta Amuleta? Non soleo id aperire emptoribus, quia tristior res est, at suspicatus quae eorum sit origo, qui tam perspicax videris, certe tu es nonnihil.&lt;page&gt;Sunt vero nonnulli modi quibus Amuletum effectum sit, sed praecipuum est illud, quod ultimum desiderium morientis in crystallinum convertat se potens lepidumque Amuletum.&lt;page&gt;Sunt autem qui hanc rem tristiorem putant, at hac quidem de causa Amuleta mihi videntur pulchriora, neque enim omnia sic sunt creata. Mmhhmm.&lt;page&gt;Puta modo eos, quorum animi in amuleta tua sunt conversi, quasi sit hospitum convivium in loculis tuis, vel crumena tua, vel... quoquo Amuleta contineas in loco.</entry>
+<entry name="CHARMSLUG_COMBO">Gerisne plura Amuleta simul? Quam iucundum est, ita comparare et Amuleta convenire, donec eorum optimam iuncturam reperias!&lt;page&gt;Te moneo: sunt interdum aliqua Amuleta, quae inter sese sunt concordiora. Sic! Mmm! Cum igitur ita concordia sunt inter se Amuleta, etiam clarius faciunt inter se ut niteant, sonusque eorum fit suavior!&lt;page&gt;Quam ob rem, explorato, si vis, varias Amuletorum iuncturas! Mmmmmmm! Et si quam novam et lepidam inveneris, id facito, amabo, me certiorem!</entry>
+
+<entry name="CHARMSLUG_OVERCHARM">Nonne parum decens tibi videtur uno tempore nimia Amuleta gerere simul? Namque, ut saepe fit, quod minus est, satius est! Mmmm!&lt;page&gt;Sic ergo fac: ne fac! Ita, ne velle quidem te pluribus opprimere Amuletis, eorum effectus ne sit forte magis efficax!</entry>
+
+<entry name="CHARMSLUG_BLESSING_1">O mi venuste tabane. Meam tibi refero gratiam, qui largiter tamdiu apud me mercatus, ac quod perquam es formosus, planissime es meritus eam.</entry>
+<entry name="CHARMSLUG_BLESSING_2">Exopto tibi ut, accepta mea gratia, omnia sis nancturus quae desideres! Fac etiam, amabo, ut me, mi venuste tabane, interdum intervisas.</entry>
+
+<!-- UNUSED -->
+<entry name="CHARMSLUG_NOTCH_AVAIL_1">Ooooooooooooohhhhhhh, quot Amuleta iam collegisti, et sane quam venusta! Iam optimus Amuletorum aestimator videris. Certe etiam plura Amuleta simul gerere iam velis. Ecce vide quod tibi vendam, ex re tibi ut siet! Mmm!</entry>
+<!-- UNUSED -->
+<entry name="CHARMSLUG_NOTCH_AVAIL_2">Oooohhhh! Mi venuste tabane! Quam lata est iam facta tua Amuletorum collectio! Nonne autem profuturum sit si Cuneam emas, in quam etiam plura Amuleta inseras? Age sis, ad libitum coemas! Mmmm!</entry>
+<!-- UNUSED -->
+<entry name="CHARMSLUG_NOTCH_AVAIL_3">Oooohhhh! Quam vasta est facta tua Amuletorum collectio! Nonne autem profuturum sit si Cuneam emas, in quam etiam plura Amuleta inseras? Age sis, ad libitum coemas! Mmmm!</entry>
+<!-- UNUSED -->
+<entry name="CHARMSLUG_NOTCH_AVAIL_4">Mmmmmmmmm! Quotienscumque huc revenis, amplior tua Amuletorum collectio videtur! Nonne autem profuturum sit si Cuneam emas, in quam etiam plura Amuleta inseras? Age sis, ad libitum coemas! Mmmm!</entry>
+
+</entries>

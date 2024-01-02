@@ -1,0 +1,97 @@
+<entries>
+<!-- TL note:
+I'm pretty much content with the whole file.
+One of the better characters I've translated.
+
+TL 100%
+Check 99%
+Confidence 90%
+-->
+
+<!--
+Senecio, -onis.
+-->
+
+<!-- INTRO -->
+<entry name="ELDERBUG_INTRO_NORMAL">Salve, o peregrine. Ego solus hic, pro dolor, remaneo, qui tibi salutem impertiam. Hoc oppidum, ut vides, est factum silens.</entry>
+<entry name="ELDERBUG_INTRO_WALKEDBY">Ah! Revertisti huc! Cum primo me praeteriisses, timebam ne forte evanuissem et ego, una cum hoc oppido...</entry>
+<!-- BAD?? me omnino praetergressu&#39;s, neque salutem dixisti -->
+<entry name="ELDERBUG_INTRO_VISITEDCROSSROAD">Ah! Redisti tandem! Cum primo in ruinas descendisses, me omnino praetergressu&#39;s, neque salutem mihi quidem dixisti! Credebam edepol me imagines tandem coepisse videre.&lt;page&gt;Nam, cum nimia utimur solitudine, fit saepe ut a nostra ipsa mente falli coeperimus...</entry>
+<!-- BAD emdash -->
+<entry name="ELDERBUG_INTRO_MAIN">Ceteri oppidani, evanuerunt omnes. Alius ex alio in illunc puteum quisque descendit, profectus in specus, numquam rediturus.&lt;page&gt;Fuit enim sub hoc oppido olim magnum regnum, quod iam dudum lapsum est in ruinam, sed adhuc in infera trahit complures &#8212; opibus, gloria, scientiave illectos, aut quasquas sibi tenebras pollicitas res existimant.&lt;page&gt;Et tu quoque, ut opinor, in illis tenebris desideria appetis tua. Hoc unum ergo te moneo, ut caveas.&lt;page&gt;Funestus est enim is aer, qui spirat illic. Bestias saevitia consumit, viatores memoria spoliantur.&lt;page&gt;Nonnumquam vero hoc mecum voluto, num forte sic nobis sit melius, si spes, somnia, desideria, ea prorsus deseramus universa...</entry>
+
+<entry name="ELDERBUG_DREAM">Descendere in illasce ruinas... Quare? Quando hic vivere multo faciliu&#39;st...</entry>
+
+<!-- Generic -->
+<!-- UNUSED -->
+<entry name="ELDERBUG_GENERIC_1">Inest in te nescioquid singulare. Inter complures quos videram viatores, tu solus es... quasi ego te iam dudum cognorim, quamquam scio me numquam te antehac cognosse...</entry>
+<!-- UNUSED -->
+<entry name="ELDERBUG_GENERIC_2">Esne de via defessus? Quid si in illoc considas subsellio? Quamvis ex ferro factum, scito id ad quiescendum esse sat commodum.&lt;page&gt;Conside ergo hic parumper, et fac ut, ante quam rursus in ruinas descendas, mentem animumque colligas, quidque agas prudenter excogites.&lt;page&gt;Et ego enim, adesse aliquem quicum loquar valde gaudeo. Tametsi haud quaquam tu videare loquax...</entry>
+
+<entry name="ELDERBUG_TOWN_GREET_3">Esne de via defessus? Quid si in illoc considas subsellio? Quamvis ex ferro factum, scito id ad quiescendum esse sat commodum.&lt;page&gt;Conside ergo hic parumper, et fac ut, ante quam rursus in ruinas descendas, mentem animumque colligas, quidque agas prudenter excogites.&lt;page&gt;Et ego enim, adesse aliquem quicum loquar valde gaudeo. Tametsi haud quaquam tu videare loquax...</entry>
+<!-- UNUSED -->
+<entry name="ELDERBUG_TOWN_GREET_4">Si amicos meos infra inveneris, admoneto eos mei, Senecionis sui miselli, huius vetuli dolores patientis a tergo, quem hic superne vigilare deseruerunt. O me miserum!...&lt;page&gt;Ego enimvero optime me habeo, sed sic eis paulum sollicitatis, effecerit ut facilius ut huc revertantur persuadeas. Siquidem etiamnunc vivunt spirantque.</entry>
+
+<entry name="ELDERBUG_HISTORY_1">Multi huc venerunt, ea spe inducti, ut desideria sua consequi possent.&lt;page&gt;Nidus Sacer, olim fuit eius nomen. Regnum omnium summum, optimum, maximum habebatur, affluens divitiis et arcanis.&lt;page&gt;Nunc vero nihil aliud est nisi perniciosissimus locus, monstrorum atque insania refertus.&lt;page&gt;Sed, eheu, cuilibet rei aliquando, ut opinor, evanescendum est.</entry>
+<entry name="ELDERBUG_HISTORY_2">Timeo, o peregrine, ne nimis displiceat te oppidulum nostrum. Quamquam nunc tenetur silentio, quondam fuit locus longe iucundior.&lt;page&gt;Ingressus in regnum interdictus est iam pridem, post, quantum scio, aliquam magnam calamitatem. Plurimas portas occluserunt, sed hic puteus manet etiamnunc, reconsus aditus in Regnum.&lt;page&gt;Complures ergo in Regni ruinas per eum irrepserunt in annos, peregrini, praedones, viatores.&lt;page&gt;Et quidem paucissimi ex eo revertuntur. An forte id quod optabant invenerunt?...&lt;page&gt;Vah, non sum tam fatuus qui hoc credam. Omnes profecto devoratos evasisse oportet! Namque innumeris periculis ille locus est creber.</entry>
+
+
+<!-- UNUSED -->
+<entry name="ELDERBUG_STAG_STATION_GREET">Inest in te nescioquid singulare. Iamiam tempora immutantur.</entry>
+<entry name="ELDERBUG_DUNG">Num quid est hic... odor? Quidam fetidus odor invadit oppidum nostrum.&lt;page&gt;Pro fetor! Nostro oppidulo, credas mihi, non solitum est tam fetide olere!</entry>
+
+<!-- FLOWER -->
+<entry name="ELDERBUG_FLOWER_REQUEST">Hem? Quid est istuc? Oh! Quem florem pulchrum!&lt;page&gt;Ne tu, edepol, quam subtile in carpendis floribus habes iudicium. Quo tam tenuem florem fers?&lt;page&gt;Mane... Num tu...? Ohh! Num hic flos est... Donum? Mihine? Mihine flosculum tam tenuem delicatumque donabis?</entry>
+<entry name="ELDERBUG_FLOWER_REREQUEST">Etiam istunc florem tenes... An mutavisti consilium? Mihine tam tenuem flosculum trades?</entry>
+<entry name="ELDERBUG_FLOWER_ACCEPT">Ah! Itane vero, dabis? Papae... Nescio omnino quid dicam nisi... Gratias tibi ago!&lt;page&gt;Censebam me frustra viatoribus identidem porrexisse consilia, nec gratias ab ullo fuisse umquam accepturum, verum ecce tamen bonus iuvenis viator, qui mea verba toto corde acceperas, gratias demum mihi relaturus!&lt;page&gt;Et quam lepido quidem dono! Ahh. Iam mundus suos mihi videtur reciperare colores.&lt;page&gt;Gratias maximas, mi parvule amice, tibi ago. Te rursum in itinere profecto, ego maximam huic flori curam adhibebo, sic ut, te reverso, ambo eius una fruamur pulchritudine.</entry>
+<entry name="ELDERBUG_FLOWER_DECLINE">Eheu... ignoscas mihi obsecro. En, me stultum... Nescio unde ratu&#39; sim, tam grate te ac misericorditer in hunc senem fuisse facturum...&lt;page&gt;Heu perditam benignitatem, heu humanitatem, heu benivolentiam, heu gratam benefactorum memoriam!...</entry>
+<entry name="ELDERBUG_FLOWER_GENERIC">Hic flos quem dedisti mihi... cum animi quopiam afficior angore, florem hunc aspicio et tui memini.&lt;page&gt;Quidni in subsellio assidas iuxta, et hic quiescas paulisper? Et fruamur una hoc flore, donec rursus proficiscare.</entry>
+
+<entry name="ELDERBUG_DREAM_FLOWER">Oh, quam candida sunt huius floris folia... Viden&#39; etiam tu?... Ubicumque tu es?...&lt;page&gt;Fortasse non tam mala sunt et desideria...</entry>
+
+
+<!-- Returning -->
+<entry name="ELDERBUG_MAP_SHOP_OPEN">Duo iuvenes coniuges domicilium collocarunt sibi iuxta stationem. Nunc videntur tabernam itinerariam curare, quam viatorum, ut tu, maxime interesse existimo.&lt;page&gt;Uxor autem sane quam est alta. Hortatus igitur sum ut ampliorem domum occuparent, at ii se illanc sibi malle dixerunt.&lt;page&gt;Itaque uxor, quotienscumque per ianuam ingreditur domum, submisso capite introit... Heu! Ego vero id pati non possem.</entry>
+<!-- BAD? -->
+<entry name="ELDERBUG_SHOPKEEP_RETURNED">Oh, rem inexpectatam! Tabernarius revertit. Is modo intro quasi inerravit in domum. Volebam vero de suis subterraneis peregrinationibus percontari... At ipse fere nihil meminisse ait! An tantummodo probe de itinere confectus est?&lt;page&gt;Ceterum, si apud eum mercari tua interfuerit, hoc te moneo: quoniam nemo adest praeter eum qui in eadem mercatura versatur, magnam pecuniam ab emptoribus auferre consuetu&#39;st, pretiis ab iis exigendis ad voluntatem suam quam maximis.&lt;page&gt;O miseros emptores, o sceleratum mercatorem!</entry>
+<!-- BAD? -->
+<entry name="ELDERBUG_BRETTA_RETURNED">Oh, rem necopinatam! Etiam illa mitissima virgo ad nos rediit!&lt;page&gt;Ego vero, neque futurum ut superstiteret arbitrabar.&lt;page&gt;Ea suum servatorem maximi aestimare videtur, quem vero, huc reversa, cum dilaudare occepit, diu quidem non desiit &#8212; quidam amplus, nobilis, fortissimus heros.&lt;page&gt;Ille forte, me dormiente, oppidum nostrum praeteriit. Pro! Volebam enimvero cognoscere tantum heroem.</entry>
+<!-- BAD? quando illud quidem -->
+<entry name="ELDERBUG_STAG_STATION_REOPENED">Oh, insperatam rem! Hanc Stationem Scarabaeam ad operationem restitutam! Quandoquidem illud aedificium iam ante me natum obsolescebat!&lt;page&gt;Hanc magnam stationem per omne regnum habere canales, fama est mihi saepe audita. Ego autem ascendere vereor!&lt;page&gt;Namque hic adesse sat gaudeo.</entry>
+
+<!-- Hints -->
+<!-- UNUSED -->
+<entry name="ELDERBUG_GOSSIP_HINT">Infra nos panditur terra summe vasta. Si rectam viam amiseris, fac redeas ad me locutum. Nam fieri potest, ut aliquid forte habeam narrandum, quod auxilio tibi esse possit.&lt;page&gt;Quid? Suspicatu&#39;n ruinas a me omnino esse alienas? Immo, et si ipse explorando sum inexpertus, tamen, compluribus viatorum fabulis auditis, loci haud ignoro naturam.&lt;page&gt;Certe et tu, confectis istis ruinarum negotiis, magnificas fabulas habebis, quas mihi narres. Aut ita, aut enim mortuus eris! Fateor tamen, in Nido Sacro, saepius hoc accidere quam illud.</entry>
+
+<entry name="ELDERBUG_HINT_GREENPATH">Quondam, putabam regnum infra oppidum constare tantummodo ex saxis lapidibusque, sed viatores alia ferunt.&lt;page&gt;Ii enim narrant, esse revera necopinatam in Nido Sacro locorum varietatem, atque exstare iuxta Tramites illos, amoenissimam regionem virentem.&lt;page&gt;Ego vero &quot;quin,&quot; inquii, &quot;etiam circa oppidulum nostrum complura crescunt ista amoena virentia&quot;, attamen illa, fateor, multum eorum animos non sunt visa permovere.</entry>
+
+<!-- BAD? comparent? faciant? arripiant? -->
+<!-- BAD?? siquidem? at si? -->
+<entry name="ELDERBUG_HINT_CITY_OF_TEARS">Urbs maxima Nidi Sacri, ea quidem&#39;st quae plurimos allicit viatores, videlicet eo consilio ut, ex urbe locuplete thesauris, magnam sibi praedam comparent.&lt;page&gt;Urbs vero in medio regno ipsa esse sita narratur, cum autem portae urbis sint occlusae, aditus esse difficilis.&lt;page&gt;Siquidem quis, vel minima eius urbis thesaurorum parte arrepta, vivus illinc evadat, et bene dives evaserit factus.&lt;page&gt;Attamen haud multos offendi, pro dolor, quibus id consilii non male cesserit. Quod ipsum est indicii, quam periculosae sint eius loci viae.</entry>
+
+<entry name="ELDERBUG_HINT_FUNGAL_WASTES">Narratur, quamquam haud bene scio, infra herbosas speluncas, exstare silvam fungorum, quae quondam domus fuit generis alicuius animalium placidorum semibestiarum et semiplantarum.&lt;page&gt;Esset amoenus locus, nisi unum: acerrimo fetore totus locus perfusu&#39;st!</entry>
+<!-- BAD? Quam tristis profecto ille debet esse locus! quam tristis debet esse ille locus! -->
+<entry name="ELDERBUG_HINT_RESTING_GROUNDS">Nidum Sacrum ferunt tot habere sepulcra, ut longam cuncta speluncarum seriem implerint. Has vero esse alicubi super urbem. Quam tristis profecto ille debet esse loci!&lt;page&gt;Sed vah, quamvis mediocrior, mihi hic quidem satisfacit locus. Quondam enim etiam fossorem habebamus! Ipse vero nequaquam malus erat, hercle, sed iam mortuus est.&lt;page&gt;Neque vero in Nido quidem Sacro is est mortuus, modo in fossam cecidit ex qua ascendere nequiit.&lt;page&gt;Postridie eius diei, vae mihi, cadaver inveni egomet. Et postea, quod mihi maxime fuit incommodo, ipse sepulcrorum curam agere debui.</entry>
+<!-- BAD?? succrescunt -->
+<!-- BAD? Multi Pulveriae viatores -->
+<!-- BAD? illecti? allecti? inducti? adducti? -->
+<!-- BAD? eum montem versus -->
+<entry name="ELDERBUG_HINT_CRYSTAL_PEAK">Vidistin&#39; illas altissimas rupes, quae sunt ultra oppidi sepulcretum? Eae vero sunt modo radices etiam altioris montis.&lt;page&gt;Quo in monte sunt crystallifodinae, machinae fossoriae, et varia metalla pretiosa quae in eo succrescunt. Multi Pulveriae viatores, his copiis illecti, eum montem versus itineribus contendunt.</entry>
+
+<!-- BAD? pertinere -->
+<entry name="ELDERBUG_HINT_ANCIENT_BASIN">Nostin&#39; speluncas etiam infra urbem pertinere? Cum vero perpauci sunt qui eum locum attigerint, tantummodo exigua ad me notitia eius loci pervenit.&lt;page&gt;Qui quidem redierunt, narrant exstare ibi vetustissima aedificia, et vias perinde in lapide infossas, quasi natura saxa se ita conformarint.</entry>
+
+<!-- this section is still rather bad -->
+<!-- Places -->
+<!-- BAD Adistine -->
+<!-- BAD? emdash -->
+<entry name="ELDERBUG_TEMPLE_VISITED">Adistine ad illud templum? Aedificium mirabile est, quod audivi &#8212; quippe ipse adire ausim nequaquam.&lt;page&gt;Audentiores inter nos, qui illuc ierant orandi causa, rettulerunt se, intra templum, magnam ibi sensisse quandam animi tranquillitatem, sed haud multo post, eo commeare desisterunt. Numquid accidit illic?</entry>
+<entry name="ELDERBUG_CROSSROADS_INFECTED">Eheu... Puteus iuxta oppidum, aliquem malum, acrumque odorem obolere coepit. Dira antehac arbitrabar illa infera, nunc vero mihi prorsus videntur foeda. Quaqua lue illa ruina polluta&#39;st, credo iam crevisse gravissimam.</entry>
+<!-- BAD?? -->
+<!-- BAD Adistine -->
+<entry name="ELDERBUG_MINES_LIFT">Illud veterrimum scansorium mechanicum, quo usque pertendat, forte rogaris. Usque ad metalla antiqua, credo, quae ecfossa in monte sunt.&lt;page&gt;Adistine iam illuc? Increscuntne vere illic, ut aiunt, undique loci crystalli? Quidam enim oppidanus quondam aliquot eorum huc rettulerat. Ego vero eiusmodi res nauci facio.&lt;page&gt;Nam ne edi quidem possunt, nec commodiora sunt pulvino. Quid ergo utili&#39;st crystallus?</entry>
+<entry name="ELDERBUG_JIJI_DOOR">Heus viator, quid narras? Ego vero aliquid habeo tibi narrandum.&lt;page&gt;Quamvis non soleo oppidi sepulcretum visere, ieram tamen ad amicae defunctae visendum sepulcrum.&lt;page&gt;Dum illic inter sepulchra ambulabam, ecce audio repente insolitam cantilenam, et quidem quam terribilem!&lt;page&gt;Quis eam caneret, circumspiciens perquiro et... em tibi duo oculos micantes intueor, enormes et foedissimos, me rursus respicientes de quodam obscurissimo specu!&lt;page&gt;Ego enim perterritus, quasi nihil vidissem simulans, confestim me in oppidulum nostrum rettuli. Et meae amicae, hei, paulo longius opperiendum esse videtur...</entry>
+<!-- BAD -->
+<entry name="ELDERBUG_KINGS_PASS">Plurimi viatores, ut Pulveriam deveniant, semitas circa rupes transeunt, quae, post Regni occasum, iam deviae calles verius dici possunt, at pridem non tam impervio fuerunt itineri.&lt;page&gt;Tunc enim in monte erat altera via, qua via facilior transitus fiebat. Pons autem, qui ceteras vias ad eam iungebat, corruit iampridem, et eo ponte omisso, adde etiam quandam magnam portam impedimento.&lt;page&gt;Nec vero multum de hoc queror, quando multos viatores in tam parvulo oppidulo, vix hospitio recipere possimus.&lt;page&gt;Et enim, ne velim quidem tantam peregrinantium turbam venire, ultro citroque per oppidum palari. Namque mihi, haec tranquillitas satis placet.</entry>
+<entry name="ELDERBUG_BLACK_EGG_OPENED">Magna vox exaudita&#39;st e puteo, quae tanto fragore in caput meum intonavit, ut ilico obstupuerim, attonitus metu.&lt;page&gt;Dixerim eam fere vagitum fuisse alicuius belvae morientis, verumtamen illa vox, quam ferae, audiebatur mihi, dicam quasi, nescio... divinior fortasse? Numquidnam accidit illic, o parve viator?&lt;page&gt;Immo. Noli dicere, precor. Si quid malum est mox ibi eventurum, ego eius rei nescium me mavolo.</entry>
+</entries>

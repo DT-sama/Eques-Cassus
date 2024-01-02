@@ -1,0 +1,87 @@
+<entries>
+<!-- TL note:
+There are not a few things suspicious in here, that, if they work, make for a pretty nice effect.
+The farther into the file you go, the worse the Latin becomes. Overall one of the better files.
+Now definitely one of the worst.
+
+TL 100%
+Check 99%
+Confidence 80%
+-->
+
+<!--
+Cornifer, -i.
+-->
+
+<!-- Generic -->
+<entry name="CORNIFER_MEET">Quid? Oh, salve, bone viator. Advenisne etiam tu huc, ad has veteres amoenas explorandas ruinas? Noli sis nimium de me curare.&lt;page&gt;Ego quoque locis explorandis studeo quam maxume. Quid enim dulcius est, quam viam quam amiseras redivenire? Fortuna nobis favet ambobus.&lt;page&gt;Quaestus causa, quos exploravi locorum chartas describo, et nunc huius sum regionis depicturus tabellam. Velisne ergo emere huius exemplar?</entry>
+
+<entry name="CORNIFER_INTRO_1">Proh, sed nondum meum nomen introduxi, an non? Me paenitet. Sed cum nimium temporis solus tecum degas, solitum est dedisci urbane conversari.</entry>
+<entry name="CORNIFER_INTRO_2">Nomen mihi est Cornifer, et inde a pueritia semper me mundi explorandi studium tenet. Quin, et simul atque ex ovo exclusus fuerim, continuo aliquo aberravi, relictis fratribus, sororibus, et misella mea matre!&lt;page&gt;Qua de causa, ubi primum potui, cum uxore emigravi Pulveriam. Exsistit enim hic propinquum, regnum immensum quod libere explorare possum. Qui tandem hoc non alliciar?&lt;page&gt;Sed iam nimium te moror. Si fors ita tulerit, rursus alter in alterum inciderimus. Sed usque ad id tempus, caveto et bene valeto!</entry>
+
+<entry name="CORNIFER_PROMPT">Emesne huius loci tabellam?</entry>
+<!-- BAD? -->
+<entry name="CORNIFER_NOT_ENOUGH">Non tibi sufficit Geum? Sollicitus ne sis. Et dono hanc tibi daturus fui, nisi uxorem sic iratam facerem. Namque, ut aiunt, &quot;Cibus omnis ex Geo factu&#39;st&quot;.</entry>
+<entry name="CORNIFER_AGAIN">Hem? Mutastine consilium, ut tabulam emas?</entry>
+<entry name="CORNIFER_REFUSE">Nonne ergo vis? Causam intellego. Nam, explorare sine chartis, iter per ignotos specus reperire... Nihil his rebus animae salubrius puto. Igitur, fortassis alias in nostro itinere rursus congrediemur.</entry>
+
+<!-- BAD Vendit etiam quas tabulas locorum pictas confeci -->
+<!-- BAD Quotiens enim cumque alicuius loci tabulam perficio -->
+<entry name="CORNIFER_ISELDA">Charta scilicet est utilis plurimum, sed sola charta ubi sis indicare non potest. Si igitur nimis ad aberrandum pronu&#39;s, quidni emas acum magneticam, quae situm tuum in charta ostendat, a mea uxore Iselda?&lt;page&gt;Recens enim, itinerariam tabernam aperuit Pulveriae, in qua merces viatoribus, ut tu, utilissimae veneunt. Vendit etiam locorum tabulas a me pictas.&lt;page&gt;Quotienscumque enim alicuius loci tabulam perficio, redeo statim exploratu ad eam, quae me redeunte semper fit laetissima.</entry>
+<entry name="CARD">Ignosce mihi, quod non te sum opperitus! Si erravisti via, quidni venias Pulveriam ad tabernulam nostram, et tabulam pictam emas huius loci? Pretium quam modicissimum faxo tibi!&lt;br&gt;                                                             - Cornifer</entry>
+
+<entry name="DREAM">... Imaginem mundi in chartis depingere. Oh, quod gaudium... Utinam idem gaudium mecum sentiret Iselda...</entry>
+
+<!-- Places -->
+<entry name="CROSSROADS_GREET">Salve iterum! Etiam tu iter per has amoenissimas vias inventuru&#39;s? Finge modo animo, quales in florentis regni aetate hae semitae visae fuerint, tum frequentissimae meatoribus et quasi vita concitatae! Utinam tunc temporis nunc esset, ut tales eas ego quoque experirer!&lt;page&gt;Ah, ceterum, oportet te interrogem: visne chartam huius loci emere?</entry>
+<entry name="CROSSROADS_BOUGHT">Heus, quid de charta mea arbitraris? Etsi quam potui eam compleverim, nulla charta umquam vere completa dici potest.&lt;page&gt;Si vis chartam tute implere, suadeo ut pennam saltem, ceteraque quae in itinere usui esse possunt, ab uxoris taberna emas, quam nuper aperuimus Pulveriae.</entry>
+
+<entry name="GREENPATH_GREET">Quantopere a Tramitum specie hic locus distat! Locus humidus, lepidus, vegetus, cuius semitae mirificis in modis convolvuntur.&lt;page&gt;Etiam chartam insequentis loci pingere conatus eram, tamen incolae sunt visi aliquantulo molestiores.</entry>
+<entry name="GREENPATH_BOUGHT">Dum huc descendebam, occurri alteri viatrici. Quam cum salutatum aggressus sum, illa ne respexit quidem me.&lt;page&gt;Ea profecto non magna chartarum fautrix videtur, secus ac nos.</entry>
+
+<!-- BAD? -->
+<!-- exterritum? exterreri? -->
+<!-- procul dubio in mea iuventa ... -->
+<entry name="FUNGAL_WASTES_GREET">Ahh parve mi amice, ad tempus tu me offendis. Chartam harum cavernarum propemodum confeci.&lt;page&gt;Quoniam incolae vehementer ab alienigenis videntur aversi, proinde tu quam poteris ab his avertas adhortor.&lt;page&gt;Ulteriore autem in loco, quod prope exterritum me fecit, sunt quaedam exilia atque mirifica animalia, quae intelligentia esse videntur.&lt;page&gt;In mea iuventa, procul dubio in eorum speluncas fuerim ausurus intrare, senescente tamen corpore non iam ita perferrem, si illa in me simul aggredirentur una.</entry>
+<entry name="FUNGAL_WASTES_BOUGHT">Hae cavernae redolent acerrimum odorem, et mihi quidem, ut suspicor, acriorem. Nam meae nares sagacissimae sunt olfaciendo, tu vero ne ullo quidem organo ad olfaciendum praeditus videris.&lt;page&gt;An odores tu ne percipere quidem potes?</entry>
+
+<!-- BAD? -->
+<entry name="CITY_GREET">Quantopere hic locus differt ab illarum speluncarum specie! Etiam si tenuis imber submaestum hunc locum reddit, eius aedificia nihilo sunt minus magnifica visu.&lt;page&gt;Describere locum tam densum haud facile factu erit, verumtamen eo quidem iucundius.&lt;page&gt;Numquid vis huius exemplar emere?</entry>
+<entry name="CITY_BOUGHT">Quantum iter perfecimus, dum ad hunc sublimem locum perveniremus... Prius quam hinc domum revertar, libeat munusculum aliquod comparare Iseldae.</entry>
+
+<!-- BAD Hac ex parte, huc est quam in extremum audeam extendere meum iter -->
+<!-- BAD nam non plane indicare quam extensa sit regio, mali chartarii esse existimo -->
+<entry name="CLIFFS_GREET">Fructusne es hoc aere bono? Appropinquamus enim finibus Nidi Sacri, et illi desolatae planitiei qua regnum circumdatum&#39;st.&lt;page&gt;Hac ex parte, huc est demum quam in extremum meum iter extendere audeo, tamen hoc spatium amplissimum, ab angustis cavernis redeunti, fateor, mihi valde iuvit.&lt;page&gt;Ecce autem pinxi chartulam huius regionis. Prope adumbratio est tamen, quam praecipue tabulae definiendae causa pinxi: nam minus accurate indicare quam extensa sit aliqua regio, mali chartarii esse puto.</entry>
+<entry name="CLIFFS_BOUGHT">Super has rupes, nactus sum aliquem insolitum. Eius domus non procul hinc abest.&lt;page&gt;Visus est ingenti corporis statura, et valde in Aculeo peritus. Fateor, te cum illo plus communis habere, quam ille mecum.</entry>
+
+<entry name="MINES_GREET">Venisne ascensum montem? Fabulas audivi de eius cacumine. Mihi autem magis arduus ascensus videtur, quam ut ipse experiar.</entry>
+<entry name="MINES_BOUGHT">Incaute dum intus ambulabam, a crystallo laesus sum. Sunt enim mordacissimi, et undique loci increscunt. Si intro adire audes, bene cautus esto.</entry>
+
+<!-- BAD?? -->
+<entry name="FOG_CANYON_GREET">Hui! Si cetera loca in Nido Sacro sunt admodum insolita, illi specus oppido quam sunt miri.&lt;page&gt;Vidistine enim illam portam atram quae est inferius? Vel appropinquare formido. Qua de causa, eam omnino vitandam censui.&lt;page&gt;At vero ita fors tulit, ut alterum aditum reperirem, tametsi paulum ab aqua acida mea concha sit ambusta.</entry>
+<!-- BAD?? -->
+<entry name="FOG_CANYON_BOUGHT">Est, sub hoc loco propinquum, magnum aedificium, eminens in medio quodam lacu. Intrare conatus, id comperi illorum viscidorum, pellucidorumque animalium paene esse factum cubile.&lt;page&gt;Eheu. Et non modo sunt aspectu turpia et deformia, verum etiam artibus suis ita percutiunt, quasi parvi fulminis ictu.</entry>
+
+<!-- BAD qui possit illa absona rudisque speluncarum irregularitas, cum tali consona concinnaque regularitate umquam comparari -->
+<entry name="WATERWAYS_GREET">Ehem! Nonne sunt hi ductus magnifici? Ita mihi videntur, quasi iucundissimus canalium labyrinthus!&lt;page&gt;Vix enim potuerim mihi meliorem locum ad explorandum optare. Unusquisque loculus ad regulam normamque confectus... qui enim possint illae absonae rudesque irregulares speluncae, tali venustae concinnaeque regularitati umquam comparari?&lt;page&gt;At tamen, vae fungis, nares ultro me commonent, adesse Deserta Fungina propinqua, quam ob rem, meum canalicium iter iam vergit ad metam. Et huic chartae, hic finem facio.</entry>
+<entry name="WATERWAYS_BOUGHT">Credo hos canales loculosque, receptaculum fuisse urbis omnium purgamentorum. Metuebam igitur ne aliquem foedissimum fetorem redolerent, contigerat vero ut constantes imbres eos expurgarint.</entry>
+
+<entry name="OUTSKIRTS_GREET">Nonne placidus tibi videtur, hic locus? Huc illuc locos explorabam, donec paulisper conquiescendum esse censui.&lt;page&gt;Amoenus et serenus est hinc visus urbis conspectus, etsi incolae nihilo sunt minus feroces.</entry>
+<entry name="OUTSKIRTS_BOUGHT">Cum hunc murum aspicio, verisimile mihi videtur, noluisse cives in ulteriorem specum aedificari. Quam mirum, quidnam eos deterruit?</entry>
+
+<entry name="ROYAL_GARDENS_GREET">Audistin&#39; quicquam de Regina Nidi Sacri? Dicitur haec amoena virecta, eius pergratum fuisse tranquillissimumque recessum.&lt;page&gt;Nunc autem hic versantur hostilia, et herbae locum sibi subegerunt.&lt;page&gt;Sed quamquam inhospita regio nunc est, tamen iucundum fuit eam explorare. Vin&#39; videre quod comperi?</entry>
+<!-- BAD? -->
+<entry name="ROYAL_GARDENS_BOUGHT">Est etiam, interiore in horto, Statio Scarabaea. Et ibi quidem constitissem, nisi quis occlusisse ostium videretur.</entry>
+
+<!-- BAD? -->
+<entry name="ABYSS_GREET">Sane veteres, hi specus. Nonne sentis magnum pondus regni de supero onerantis? Sane quam grave est!&lt;page&gt;Haud multos credo tam alte descendisse. Inter primores sumus exploratores, nos uterque. Aut saltem qui videntur ex historia recenti.</entry>
+<entry name="ABYSS_BOUGHT">Longum est iter hinc domum. Equidem hic paulisper quiescam.&lt;page&gt;Non nimio tamen, ne uxor de me fiat sollicita!</entry>
+
+
+<entry name="CORNIFER_MEET_DP">Ss-salve. Ego sum Cornifer. C-chartas itinerarias pingo. In animo erat inferioris quoque pingere chartam loci, s-sed, hei debili mihi, is conatus visus est mihi esse periculosior.&lt;page&gt;Formidulosisimis enim bestiis undique obsessus est, semitae ita in ambages panduntur, ut quasi anfractus cuiusdam obscuri labyrinthi videantur. Quamvis explorare callere me dicam, eheu, i-iam procul hinc nunc abesse velim.&lt;page&gt;Nisi bene paratus es, exhortor tibi ne illuc descendas. At siquidem descendere audes, vin&#39; m-meam chartulam emere?</entry>
+<entry name="DEEPNEST_GREET">H-hic locus me perterret. Undique loci formidulosissimis bestiis obsessus est, et semitae ita se pandunt in ambages et anfractus, ut quasi quidam obscurus labyrinthus videatur.&lt;page&gt;Nisi bene paratus es, exhortor tibi ne illuc descendas. At vero si descendere audes, vin&#39; m-meam chartulam emere?</entry>
+<entry name="CORNIFER_NOT_ENOUGH_DP">N-nonne tibi satis est Geum?</entry>
+<entry name="CORNIFER_AGAIN_DP">V-vin&#39; igitur emere chartam?</entry>
+<entry name="CORNIFER_REFUSE_DP">N-non vis igitur emere chartam?</entry>
+<entry name="DEEPNEST_BOUGHT">Q-q-quam horribilem foveam ferarum bestiarum. Magna opera erit opus, ut me abdam ab hac atra cavea. C-credo igitur hic me diutiuscule occultabo.</entry>
+</entries>

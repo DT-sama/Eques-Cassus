@@ -1,0 +1,48 @@
+<entries>
+<!-- TL note:
+Not entirely content with this yet. I wanted her to feel somewhat laconic.
+Also, she's a bit intense. I get it, though.
+
+TL 100%
+Check 99%
+Confidence 80%
+-->
+
+<!--
+Hornet, indecl.
+-->
+
+<entry name="HORNET_GREENPATH">Noli propius ad me accedere, larva. Animadverteram te surrepentem, meque insequi.&lt;page&gt;Hoc regnum perditum... adoritur iam magna calamitas. Aer id fore portendit...&lt;page&gt;Scio quid tu sis. Quid agas. Id non sinam.</entry>
+
+<entry name="HORNET_FOUNTAIN_1">Iterum in te incidi, o larvula.&lt;page&gt;Raro me fallit opinio, verum prave de te aestimavi. Sed iam comperi quod verum est.&lt;page&gt;Tu enim, ultra Regni fines es intuitus. Tua, est ex duplici inanitate exorta fortitudo.&lt;page&gt;Quam ob rem haud mirum est, te huc usque devenisse, ad cor huius mundi. Nunc demum cognosces, quale sacrificium hunc mundum teneat.</entry>
+<!-- BAD? -->
+<entry name="HORNET_FOUNTAIN_2">Si cognito illo facinore, nihilo tu Nidum Sacrum conservare audebis minus, petes illud Sepulcrum Cinereum, eumque symbolum, quem alicui, qualis tu, is locus tribuat.</entry>
+
+<entry name="HORNET_INSPECT_IK">Exuviae viatoris, iamdudum emortui.</entry>
+
+
+<entry name="HORNET_OUTSKIRTS_1">Ergo veritatem illam absconditam exquiris. At scito, eam haudquaquam posse animum infirmum tolerare.</entry>
+<entry name="HORNET_OUTSKIRTS_2">Ostende ergo te illam quidem posse pati, maestam veritatem.&lt;page&gt;Sed cave, quia aculeum non retinebo. Hic enim est aculeus letalis, neque quicquam me mortis misereret imbecilli.&lt;page&gt;Ostende igitur mihi, te esse huius regni facinora praeterita accepturum, eiusque onera futura posse sufferre.</entry>
+<entry name="HORNET_OUTSKIRTS_DEFEAT">...Quam fortis es...&lt;page&gt;Vinces, si audebis. At stringesne etiamtunc aculeum, cum cognoveris quae sua tragica origo, quique tu sis agnosces?...&lt;page&gt;Age ergo, o Larva Nidi Sacri! I porro, inure te insigni Regio, et Rex denique appellare.</entry>
+
+
+<entry name="HORNET_ABYSS_ASCENT_01">Larva. Video te in incunabula tua obisse, eorumque esse amictum umbris.&lt;page&gt;Etsi nostrae vires simili sunt exortae ex loco, ea tamen pars tui, ista inanitas, est qua re sum carens...&lt;page&gt;... Et in qua, omnem spem demum deponere cogor.&lt;page&gt;Asperrima prae te patefacta&#39;st via, cuius in fine, dabitur tibi optandi potestas:&lt;page&gt;Salvum servare hunc mundum, an adire usque ad viscera pestis.</entry>
+<entry name="HORNET_ABYSS_REPEAT">Ego quidem magis ancipitem velim viam praeoptes, sed utrum ad exitum ducamur, omnino ex tuo pendet arbitrio.</entry>
+<entry name="HORNET_ABYSS_DREAM">...Ita se obiecit inani, et incolumis revertit. Possitne is tam vastas tenebras inter se conciliare?...</entry>
+
+<!-- BAD? Et enim debitum grave est... quod misericorditer eius obitum perpessa, sua quoque pro parte ad futura spectans, sic fortasse incipere potuerim erga eam dissolvere -->
+<entry name="HORNET_SPIDER_TOWN_01">Itaque Belvam cecidisti... et ad illum fatalem finem tendis.&lt;page&gt;Miseret... Quamquam tibi non obstitissem, tamen aequo animo id pati non potui.&lt;page&gt;Quid? Quamvis acerbam me forte putaveris, tamen non adeo obtusum meum cor est, ut talia non flerem...&lt;page&gt;Nemo suam eligit matrem, aut quali in mundo nascamur. At quamvis crudelis sit hic mundus, tamen grata est mihi vita, haec quam mater donavit mihi.&lt;page&gt;Etenim debitum grave est... quod debitum, misericorditer eius obitum perpessa, sua quoque pro parte ad futura spectans, sic fortasse incipere potuerim erga eam dissolvere.</entry>
+<entry name="HORNET_SPIDER_TOWN_REPEAT">Mitte me, larva. Linque me solam parumper, antequam hic thalamus aeternum fiat delubrum.</entry>
+<entry name="HORNET_SPIDER_TOWN_DREAM">...Mater... Ignosce meam inertiam... sed fortasse erit alius modus...</entry>
+
+
+<entry name="HORNET_DOOR_UNOPENED">Admiror te, o larvula, qui etiam exitu huius mundi gravatus, tamen ita perseveras.&lt;page&gt;Rescindere vincula Somniatorum, id vix posse fieri credebam, verum tu etiam inane in te insitum es amplexus... plane mirabile est.</entry>
+
+<!-- BAD -->
+<entry name="HORNET_PRE_FINAL_BATTLE">Via patefacta&#39;st. Intus, te manet exitus alteruter.&lt;page&gt;Ego non subsequar. Nam illuc tali tantum conceditur accessus, quali genere es tu. Si intrarem et ego, sua vincula me absumerent.&lt;page&gt;At noli metuere. Quamquam vitam pro tua meam non prodidero, si opportunitas obtigerit, quantum potero tibi auxilium feram.</entry>
+<entry name="HORNET_PRE_FINAL_BATTLE_REPEAT">Larva Nidi Sacri, tu illam potestatem tenes, eligendi exitus alterutri. Succedesne nostrum a scelere exortum fratrem, an superabis eum?</entry>
+<entry name="HORNET_PRE_FINAL_BATTLE_DREAM">...Poteritne consequi tantam rem? Voletne?</entry>
+
+<entry name="HORNET_FINAL_BOSS">Age! Elige, ante quam hunc interscindatur filum.&lt;page&gt;Conserva hunc mundum, aut ito in viscera pestis.</entry>
+
+</entries>

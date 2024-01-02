@@ -1,0 +1,234 @@
+<entries>
+<!-- TL Note:
+File not touched since time immemorial.
+-->
+
+<!-- BAD quam mox goes over length -->
+<!-- TODO check quam mox fix -->
+<entry name="MAP_SHOP_CLOSED">Ad omnem itinerariam necessitatem.&lt;br&gt;  Aperiemus quam mox.&lt;br&gt;                                                       - Iselda &amp; Cornifer, coniuges.</entry>
+<entry name="DUNG_DEF_SIGN">Qui in pugna honorem demonstraverit, ei hunc lucum licitum est intrare.&lt;br&gt;                                                             - Defensor</entry>
+
+
+<entry name="DREAM_MINES_ROBOT">FODI...FODI...FRANGE...FODI...LEVA...FODI...FODI...FODI...&lt;br&gt;FRANGE...PARE...FODI...LEVA...FODI...MITTE...&lt;br&gt;MITTE...FODI...LEVA...FODI...FRANGE...PARE...FODI...&lt;page&gt;FODI...FODI...LEVA...SEQUERE...PARE...SEQUERE...PARE...&lt;br&gt;FRANGE...FRANGE...PARE...FRANGE...PARE...FRANGE...&lt;br&gt;FRANGE...FRANGE...FRANGE...FRANGE...FRANGE...FRANGE...</entry>
+
+<entry name="JOURNAL_CENTIPEDE">Cadaver Garipedae.</entry>
+<entry name="LURIAN_JOURNAL">Vocatus aeterna quiete, ultima verba haec conscribo.&lt;br&gt;Non iam tutus hanc urbem, perpetuum tutabor eam.&lt;br&gt;In Regem, in cives, in Nidum Sacrum, meum incedo ad somnum aeternum.</entry>
+<entry name="JOURNAL_ZAP_BUGS">Arca cicindelis plena.</entry>
+<entry name="JOURNAL_GOAM">Cadaver Goae in lapidem mutatum, et in saxum insertum.</entry>
+<entry name="JOURNAL_TENDRILS">Imago conformata Abyssi.</entry>
+<entry name="JOURNAL_FAT_MOSS_CULTIST">Cadaver Muscosi Errabundi, contagione victi.</entry>
+
+<!-- TAB -->
+<!-- Howling Cliffs -->
+<entry name="CLIFF_TAB_02">O Superi, exaudite nostra verba!&lt;br&gt;&lt;br&gt;Hae planities pandunt sese in perpetuum sceleratae. Nihil extra eas insuper exstat.&lt;br&gt;Qui hanc vastitatem obire cupiunt, ii eam mentem, quam ab Regno nostro gratam acceperant, relinquunto.</entry>
+
+<!-- BAD?? nobis licet / nos decet -->
+<entry name="TUT_TAB_01">O Superi, exaudite nostra verba!&lt;br&gt;Vi vos nobis praestatis. Colligitote animum vestrum, et mirabilia effeceritis, qualia nos decet concupiscere tantum.</entry>
+<entry name="TUT_TAB_02">O Superi, exaudite nostra verba!&lt;br&gt;Ultra hunc locum, intrabitis terram Regis et Creatoris.&lt;br&gt;Ingredimino, nostrasque leges observatote.&lt;br&gt;&lt;page&gt;Tuemino ultimam et unicam civitatem, idque regnum aeternum...&lt;br&gt;&lt;br&gt;... qui nuncupatur Nidus Sacer.</entry>
+<!-- BAD?? pote est goes too long / remove vestram? -->
+<entry name="TUT_TAB_03">O Superi, exaudite nostra verba!&lt;br&gt;Ne in terra nostra occulite vestram speciem. Sinite gaudeamus maiestate vestra, quia hoc regnum solum parem vestri gignere pote est.</entry>
+
+
+<!-- Forgotten Crossroads -->
+<!-- BAD?? escunt goes too long (fixed?) -->
+<entry name="PILGRIM_TAB_01">Via Peregrina&lt;br&gt;O Nidi Sacri peregrinatores, descendite per virentia saltus perque fungina lucum, usque ad huius regni intimam urbem.&lt;br&gt;Ibi tandem exaudita desideria, et a falsis vera internota escunt.</entry>
+<entry name="PILGRIM_TAB_02">Hic finitur Via Peregrina.&lt;br&gt;Intima Nidi Sacri prae oculis ecce adest Urbs.&lt;br&gt;Accedite, et communicabitur vobiscum eius gloria.</entry>
+
+<entry name="SENSE_TAB_01">O Vas. Etiam corpore vinctum, mente cognosces statum mundi.&lt;br&gt;&lt;br&gt;Revertatur in integrum Nidus Sacer.</entry>
+
+<!-- BAD?? -->
+<entry name="GREEN_TABLET_01">Ex musco frondibusque est tracta nostra vita.&lt;br&gt;Neque nos perire quimus dum crescent in via.</entry>
+<entry name="GREEN_TABLET_02">Qui Albi Regis aberraverit semitis, is incurret in leges Unni.</entry>
+<!-- BAD?? first line too long -->
+<entry name="GREEN_TABLET_03">Mens maior olim cum somniasset frondes, hos simul coniecerat specus.&lt;br&gt;In unaquaque viti et frutice omni, Unni se enodat nobis voluntas.</entry>
+<entry name="GREEN_TABLET_05">A somniis in has ambulavimus Pueri Virides terras.&lt;br&gt;Hic nunc opperiemur, donec ad reditum vocabimur.</entry>
+<entry name="GREEN_TABLET_06">O occulte Unn, tuo nunc auxilio indigemus.&lt;br&gt;Qui absque te languemus.&lt;br&gt;Et absque te nostra folia marcescunt.</entry>
+<entry name="GREEN_TABLET_07">Album animans specubus potitus est illis, qui quondam nostri fuere.&lt;br&gt;Benignum ut apparet, tamen desiderium non nostrum habet commune.&lt;br&gt;Caveat qui inerret eo.</entry>
+
+<entry name="FUNG_TAB_01">Cautim oboediemus voluntati Draconis.&lt;br&gt;Cuius nos defendat prudentia.&lt;br&gt;Iugentur inter se Fata et Futura.</entry>
+<entry name="FUNG_TAB_02">Vae illis.&lt;br&gt;Animis occlusis. Captis in solitudine mentibus.&lt;br&gt;Vana sunt notionis imago, eadem verba quae ipsam describunt.&lt;br&gt;</entry>
+<entry name="FUNG_TAB_03">Vires in universa unitate.&lt;br&gt;Vires in universa mente.&lt;br&gt;In singulo quoque, qui nostras transeat vias,&lt;br&gt;miseranda dissimilitudo.</entry>
+<entry name="FUNG_TAB_04">Hoc termino arcentur illa torquentia animalia scabentia.&lt;br&gt;Et mortuus eorum dux, quondam nobilissimo genere.&lt;br&gt;Et vincta eorum mater, et illa vulgarissima bestia.&lt;br&gt;Quibuscum nulla sit umquam nobis pax.</entry>
+
+<entry name="MANTIS_PLAQUE_01">O peregrini moriendi cupidi, salvere vos iubemus.&lt;br&gt;Nostris citam in unguibus, vestram exoptatam offendetis necem.</entry>
+<entry name="MANTIS_PLAQUE_02">Manent indutiae.&lt;br&gt;Nostra pergit vigilia.&lt;br&gt;Bestiae prohibentur.</entry>
+
+<entry name="RUIN_TAB_01">Interclusae hae magnae portae sunto.&lt;br&gt;Neu quis introeat.&lt;br&gt;Neu quis exeat.</entry>
+<!-- UNUSED -->
+<entry name="RUIN_TAB_02">O praeterite rex, nunc iam tua ope indigemus. Pervadit insania. Defuit Vas. Reditum imploramus tuum.</entry>
+
+<!-- BAD -->
+<entry name="RUINS_MARISSA_POSTER">Marissa Cantrix&lt;br&gt;Suavissima vox quae leniant sollicitudines mitigetque animas vexatas.</entry>
+<entry name="RUINS_FOUNTAIN">In Memoriam Equitis Cassi&lt;br&gt; In Ovo Nigro qui est intus sopitus, procul quod est situm superius.&lt;br&gt; Cuius per sacrificium, Regnum Nidi Sacri in aevom durabit perenne.</entry>
+
+<!-- BAD?? -->
+<entry name="MAGE_COMP_03">Monumentum Abanum&lt;br&gt;Quantopere nos mente refraenamur!&lt;br&gt;Quomodo his tandem liberemur habenis?&lt;br&gt;Possumusne revera tantum adipisci in animum imperium?</entry>
+<!-- UNUSED -->
+<entry name="MAGE_COMP_02">Monumentum Belanum&lt;br&gt;Ad Animum temperandum, opus est mente conformata,&lt;br&gt;Quod perpauci videntur perferre.&lt;br&gt;Itiner ad scientiam, est peccatorum refertum.</entry>
+<!-- BAD? -->
+<entry name="MAGE_COMP_01">Monumentum Cendanum&lt;br&gt;Memento perditorum,&lt;br&gt;Quorum aucti ob studia,&lt;br&gt;
+Non iam nos superabit ulla mentis affectio.&lt;br&gt;</entry>
+
+<!-- BAD? -->
+<entry name="ARCHIVE_01">-ID-LVTEVM-ABA-ABESE-EXTER-OVI-O-PORTAM-CONTINERE&lt;br&gt;LUX-EM-VAS-EM-OVM-EM-VCLM-ID-RESCINDE&lt;br&gt;EXTERIOR-O-VCLM-INTVS-SOMNIATOR-INTEXT-ABSOLVTVM&lt;br&gt;CONTINET-LVX-ID-SOMNIVM-CH-ABA-MINVIT-CONTINERE-</entry>
+<entry name="ARCHIVE_02">-LVXREX-EM-AVGET-SIMILE-FLVX-COGITANS-ENS&lt;br&gt;PRILVX-EM-ESENTIA-EM-SOMNIVM-EM-MINUIT&lt;br&gt;O-NONCOGITANS-ABA-LVXREX-CH-PRILVX-GENVS-O-CH&lt;br&gt;FLVXCOGITAT-ABA-SOMNIVM-NECONTINEAT-ID-MINVIT-EXITIVM-</entry>
+<entry name="ARCHIVE_03">-OB-ABSENTIAM-ID-ABVNDARE-OVI-EXTER-O-INTER-&lt;br&gt;POSIT-IN-ABESSE-ID-INANE-LIQVID-SVBSTANTIA-O-&lt;br&gt;TEX-ABSENS-INTER-O-OVI-EXTER-ID-MATER&lt;br&gt;PAR-CH-INANE-VAS-ABESSE-OMNE-EXTER-CONTINERE-</entry>
+
+<!-- BAD? -->
+<entry name="ABYSS_TUT_TAB_01">O Superi, exaudite nostra verba.&lt;br&gt;Vas merum ascendit.&lt;br&gt;Ultra sunt sita, peperisse nostrum dedecus ac pudor.&lt;br&gt;Non iam in eum locum intro eatur.</entry>
+<entry name="WISHING_WELL_INSPECT">Veri ministri est omnia agere Regni sui gratia.&lt;br&gt;Sine liberet te onere Nidisacrensis Albus Rex.</entry>
+
+<entry name="WP_WORKSHOP_01">O INANE, tua est opposita potestas.&lt;br&gt;At ea quoque aeterna tua&#39;st, potestas quae ipsum deneget Tempus.&lt;br&gt;O INANE, in catenas tu cojicere.</entry>
+<entry name="WP_THRONE_01">Nulla congener quae coardeat lux. Unum erit quod super tenebras eluceat lumen.&lt;br&gt;Draco facula fit, expandentibus mentibus, qui cedantur, qui dedantur.&lt;br&gt;Promittitur aeternitas, exsecrata pro pignore prole.</entry>
+
+<!-- TODO poem -->
+<!--
+Viam profitemur Magni Nuntii, qui veniat praenuntiare Aetatis finem.
+rest is poem
+-->
+<entry name="MR_MUSH_RIDDLE_TAB_NORMAL">We speak the path of the Master Herald, he who would signal an Age&#39;s end.&lt;br&gt; &lt;page&gt;Spawn of self, their minds unite,&lt;br&gt;Aside the source of acid blight,&lt;br&gt; &lt;page&gt;Aglow in darkest, winding depths,&lt;br&gt;Winds all howl above fossilstone steps,&lt;br&gt; &lt;page&gt;Monarchflys in airs set still,&lt;br&gt;To Root&#39;s domain and snail once shrill,&lt;br&gt; &lt;page&gt;Path of Wyrm, at new lands entered,&lt;br&gt;There journeys end. The kingdom ventured.&lt;br&gt; </entry>
+
+
+
+
+<entry name="DASH_MASTER_STATUE">...Currere citius... Currere longius... Currere sedulo...</entry>
+<entry name="MOTH_STATUE">...Memento... Lucis...</entry>
+
+<entry name="ABYSS_BLUE_STONE">Lapis caeruleo colore, in ara positus.</entry>
+
+<entry name="FAT_GRUB_KING">Laetus... laetus... laetus!!!</entry>
+
+<entry name="GIRAFFE_CORPSE">...Obsecro... Non cibum...</entry>
+<entry name="MIDWIFE_FOOD_CORPSE">...Laeta... dentes?..</entry>
+<!-- UNUSED -->
+<entry name="ANCIENT_SPIDER_CORPSE">Reliquiae bestiae antiquae.</entry>
+
+<entry name="DREAM_DUMMY">...Fortiores... Fratres...</entry>
+<entry name="DREAM_PLANT_GREENPATH">...Perdita viridia...&lt;page&gt;...Semitae increscunt...&lt;page&gt;...Somnia oblivioni...</entry>
+<entry name="DREAM_PLANT_SHAMAN">...Intentio Animi...&lt;page&gt;...Convoluta intentio...&lt;page&gt;...Aversae Vires...</entry>
+<entry name="DREAM_PLANT_ABYSS_01">...Regnum superius...&lt;page&gt;...Domus inferius...&lt;page&gt;...Famulorum via...</entry>
+<entry name="DREAM_PLANT_REST_GLADE">...Sacrae memoriae...&lt;page&gt;...Animae honoratae...</entry>
+<entry name="DREAM_PLANT_MINES">...Lux refracta....&lt;page&gt;...Vis contenta...</entry>
+<entry name="DREAM_PLANT_CITY">...Multa pollicita...&lt;page&gt;...Animae serviles...&lt;page&gt;...Animus tortus...</entry>
+<entry name="DREAM_PLANT_QUEEN_GARDEN">...Amoenae frondes...&lt;page&gt;...Alba radix...</entry>
+<entry name="DREAM_PLANT_01">...Sacrae memoriae...&lt;page&gt;...Animae honoratae...</entry>
+<entry name="DREAM_PLANT_DEEPNEST">...Nidus vivit...&lt;page&gt;...Regina dormit...&lt;page&gt;...Belva...</entry>
+<entry name="DREAM_PLANT_KING_EDGE">...Sacrum sepulcrum...&lt;page&gt;...Cinerea tellus...&lt;page&gt;...Exordium regni...</entry>
+<entry name="DREAM_PLANT_CROSS">...Contortae viae...&lt;page&gt;...Meantium multitudo...&lt;page&gt;...Vas devinctum...</entry>
+<entry name="DREAM_PLANT_FUNGUS_FOG">...Nebulosae cavernae...&lt;page&gt;...Semina noxia...&lt;page&gt;...Magister...</entry>
+<entry name="DREAM_PLANT_REST_MAIN">...Mortuorum memento...&lt;page&gt;...Papilionis paenitentia...&lt;page&gt;...Reverenda somnia...</entry>
+<entry name="DREAM_PLANT_FUNGUS_MANTIS">...Gloriosi milites...&lt;page&gt;...honore praediti...</entry>
+<entry name="DREAM_PLANT_CLIFFS">...Desertum vastum...&lt;page&gt;...Sine vita...</entry>
+<entry name="DREAM_PLANT_HIVE">...Fortis tribus...&lt;page&gt;...Lucis consocia...</entry>
+
+
+
+<entry name="BELIEVE_MOTH">Tu, qui rimare recondita somnii... Ausculta mihi. Hoc in fano sunt repositae alterius mundi sententiae.&lt;page&gt;Etiam si tibi videantur insuetae, memento eas devenisse de mentibus a nostris diversis, coiunctis in unum ignotissimum propositum.&lt;page&gt;Crederene an dubitare... Optio tua&#39;st.</entry>
+<entry name="BELIEVE_MOTH_02">Quanta pernicies... Itane credentes colas?&lt;page&gt;Eorum aenigmata scirpique, quamvis videantur nobis absurdi, vel inanes, vel ridiculi...&lt;page&gt;Nisi ea crederent ipsi... Quid de nobis fiat?</entry>
+<entry name="BELIEVE_MOTH_REPEAT">Crederene an dubitare... Optio tua&#39;st.</entry>
+<entry name="BELIEVE_MOTH_DREAM">Ubi complures voces in unum congregantur convicium, ibi sunt eventura aut dira aut mira...</entry>
+
+
+<entry name="ABYSS_MAWLEK_ROYAL">...Meum...</entry>
+<entry name="MISSING_PALACE_CORPSES">...Quo abisti?... Care Rex...</entry>
+<entry name="NAILSMITH_ANCIENT">...Perfectus...</entry>
+<entry name="LOVE_KEY_CORPSE">Nimis... una... Fimus... unum...</entry>
+
+
+<entry name="LIGHTHOUSE_CORPSE">...Exstingui?... Non potest...&lt;page&gt;O Rex. Parce mihi... Aequora me vocant...</entry>
+
+<entry name="CROSSROADS_WELL_CORPSE">...Domum....</entry>
+<entry name="BEAST_DEN_CORPSE_01">...Requiem...</entry>
+<entry name="SARCOPHAGUS_01">...Sine ut requiescam...</entry>
+<entry name="GARDEN_CORPSE_01">...Aberro...</entry>
+<entry name="ASH_TENT_CORPSE_01">...Cinere... captus...</entry>
+<entry name="CITY_GATE_CORPSE_01">...Defende...</entry>
+<entry name="APARTMENT_ROYAL_01">...Fames...</entry>
+<entry name="APARTMENT_ROYAL_02">...Sapit... Amarum...</entry>
+<entry name="ELEV_ROYAL_01">...Fugam...</entry>
+<entry name="MUMMY_CORPSE_01">...Ob... scurum...</entry>
+<entry name="CLIFFS_NAIL_CORPSE">...Fortis...</entry>
+<entry name="INFECTED_GUARD">...Nitor...</entry>
+
+<entry name="HIGHER_BEING_CORPSE">...Sine rege... Sine mente... Liber...</entry>
+
+<entry name="SHADE_BEAST_01">...Inane... Vires... Disiunctae...</entry>
+<entry name="SHADE_BEAST_02">...Dominus Umbrarum...</entry>
+
+<entry name="COL_CORPSE_ACID_01">...Fatui...</entry>
+<entry name="COL_CORPSE_ACID_02">...Victor?...</entry>
+<entry name="COL_CORPSE_ACID_03">...Non... Vincar?...</entry>
+<entry name="GLAD_SPA">...Cur me molestat?..</entry>
+<entry name="GLAD_DUNGEON">...Sumusne nos omnes Fatui?...</entry>
+<entry name="GLAD_OUTSKIRTS_01">...Sum validior... quam ut hic moriar...</entry>
+
+<entry name="MOSS_FAT_MOUND_01">...Lux...</entry>
+<entry name="MOSS_FAT_MOUND_02">...Candor...</entry>
+<entry name="FUNG_GUARD_01">...Fessus...</entry>
+<entry name="FUNG_GUARD_02">...Lassus...</entry>
+<entry name="FUNG_FOG_CORPSES_01">...Aberro...</entry>
+<entry name="FUNG_CORPSE_TRAPPED">...Captatus...</entry>
+<entry name="FUNG_CORPSE_PRISON">...Parce mihi...</entry>
+<entry name="FUNG_CORPSE_01">...Nebulae...</entry>
+<entry name="FUNG_SHROOM_DREAM">Albe Draco... Quid prosit praedicere ineluctabile letum?</entry>
+
+<entry name="SPIDER_COCOON_01">...Non amici...</entry>
+<entry name="SPIDER_COCOON_02">...Sunt mentiti...</entry>
+<entry name="LOOM_SPIDER_01">...Herrah...</entry>
+<entry name="LOOM_SPIDER_02">...Puella Regia...</entry>
+<entry name="LOOM_SPIDER_03">...Custodendi gratia...</entry>
+<entry name="LOOM_SPIDER_04">...Pacta condicione...</entry>
+
+<entry name="TRAM_01">...Reverentia... Adhibenda...</entry>
+<entry name="TRAM_02">...Lassus...</entry>
+<entry name="TRAM_WORKER_01">...Construi non potuit...</entry>
+<entry name="TRAM_WORKER_02">...hic nidus nos repudiat...</entry>
+<entry name="TRAM_WORKER_03">...Rex mi. Defui tibi...</entry>
+<entry name="MIMIC_CORPSE_01">...Mortuusne eras?...</entry>
+<entry name="MIMIC_CORPSE_02">...Sicut ego...</entry>
+<entry name="MIMIC_CORPSE_03">...Frater...</entry>
+<entry name="MIMIC_CORPSE_04">...Vultum meum...</entry>
+<entry name="MIMIC_CORPSE_05">...Falsum...</entry>
+<entry name="MIMIC_CORPSE_06">...Redi...</entry>
+<entry name="MIMIC_CORPSE_08">...Cur?...</entry>
+<entry name="MIMIC_CORPSE_07">...Carissimus...</entry>
+<entry name="MIMIC_CORPSE_09">...Noli abire...</entry>
+<entry name="MIMIC_CORPSE_10">...Cur?...</entry>
+<entry name="MIMIC_CORPSE_11">...Non...</entry>
+<entry name="MIMIC_CORPSE_12">...Desiderio eras...</entry>
+
+<entry name="LEG_EATER_CORPSE_01">...Geum...</entry>
+<entry name="LEG_EATER_CORPSE_02">...Cur?...</entry>
+
+<entry name="WATCHER_SPIRE_CORPSE_01">...Domine... Langueo...</entry>
+<entry name="WATCHER_SPIRE_CORPSE_02">...Vigilare... Non amplius...</entry>
+
+<entry name="HATCHLING_QUEEN_CORPSE">...Gignito...</entry>
+
+<entry name="BATHHOUSE_CORPSE">...Marissa...</entry>
+<entry name="TISO_CORPSE">...Quare?..</entry>
+<entry name="DUNG_DEF_SLEEP1">...Isma... Quam fortis es... Doce me...</entry>
+<entry name="DUSK_KNIGHT_CORPSE">Cadaver albore armatum.</entry>
+
+<entry name="SCREAM_ALTAR">...Nostrae voces... rursus... conclamabunt...</entry>
+
+<entry name="WHITE_CORPSE_01">...O perdite rex, tua ope indigemus...</entry>
+<entry name="WHITE_CORPSE_02">...Precor, redeas...</entry>
+<entry name="WHITE_CORPSE_03">...pervadit insania...</entry>
+<entry name="WHITE_KNIGHT_CORPSE">Conservato...</entry>
+
+<entry name="KING_WORKSHOP_MOULD">...OBSEQUERE...</entry>
+<entry name="KING_IDOL_CORPSE_01">...Rex mi...</entry>
+<entry name="KING_IDOL_CORPSE_02">...Servator...</entry>
+<entry name="KING_FINAL_WORDS">...Nullum pretium nimis magnum...&lt;page&gt;...</entry>
+
+<entry name="GRUB_BOTTLE_DREAM">...Domum...</entry>
+
+<entry name="ISMA_DREAM">...Ogrim... tempus deest...</entry>
+
+<entry name="TUK_CORPSE_DREAM">...Adiuva... Invenire...</entry>
+<entry name="DUSK_KNIGHT_DREAM">unused</entry>
+
+<!-- UNUSED probably -->
+<entry name="RANDOM_POEM_STUFF">In wilds beyond they speak your name with reverence and regret,For none could tame our savage souls yet you the challenge met,Under palest watch, you taught, you changed. Base instincts were redeemed,A world you gave to bug and beast as they had never dreamed.                                                          - Excerpt from Ode to Hallownest by Monomon the TeacherOur cherished dreams you granted and delivered more,But in dismay you found too late our desires had no end,What cost to tame our savagery? You gave your all and then gave more.Yet still desires lay unquenched, more dreams remained, your energies spent.Amongst it sprang a dreadful scourge,that forced return our aggressive urge,and turned us back to beasts or husks,Our souls consumed by light above.Within your corpse can still be heard the plaintiff cries of one,Who took our pain, and loss, and dreams inside itself to...Through it&#39; pain we found a truth that must now be confessed,For nothing can contain such things but perfect emptiness.</entry>
+</entries>

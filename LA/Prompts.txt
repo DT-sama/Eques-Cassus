@@ -1,0 +1,254 @@
+<entries>
+<entry name="YES">Sic</entry>
+<entry name="NO">Non</entry>
+<entry name="SHOP">EME / VENDE</entry>
+<entry name="ENTER">INTRA</entry>
+<entry name="TRADE">MERCARE</entry> <!-- where? -->
+<entry name="EXIT">EXI</entry>
+<entry name="WATCH">SPECTA</entry>
+<entry name="SIT">CONSIDE</entry>
+<entry name="REST">QUIESCE</entry>
+<entry name="INSPECT">INSPICE</entry>
+<entry name="ASCEND">ASCENDE</entry>
+<entry name="DESCEND">DESCENDE</entry>
+<entry name="LISTEN">AUSCULTA</entry>
+<entry name="TRAVEL">PROFICISCERE</entry>
+<entry name="CHALLENGE">TEMPTA</entry> <!-- where? -->
+<entry name="ACCEPT">APPROBA</entry> <!-- where? -->
+
+<entry name="BUTTON_DESC_HOLD">Retine</entry>
+<entry name="BUTTON_DESC_HOLD_FOCUS">Retine</entry>
+<entry name="BUTTON_DESC_RELEASE">Remitte</entry>
+<entry name="BUTTON_DESC_TAP">Preme</entry>
+<entry name="BUTTON_DESC_PRESS">Preme</entry>
+<entry name="BUTTON_DESC_WALLJUMP">Preme</entry>
+<entry name="BUTTON_DESC_NONE"> </entry>
+
+<entry name="PROMPT_DASH">Prorue</entry>
+<entry name="PROMPT_SUPERDASH">Provola</entry>
+<entry name="PROMPT_ATTACK">Impetum</entry>
+<entry name="PROMPT_FOCUS">Animum Collige</entry>
+<entry name="PROMPT_FOCUS_EXPLAINER1A">Extrahe Animum feriendis hostibus.</entry>
+<entry name="PROMPT_FOCUS_EXPLAINER1B">Cum Animum satis ab hostibus collegeris,</entry>
+<entry name="PROMPT_FOCUS_EXPLAINER2">ut vulnera sanes Animo collecto.</entry>
+<entry name="PROMPT_JUMP">Saltum</entry>
+<entry name="PROMPT_QUICKMAP">Aspice Chartam</entry>
+<entry name="PROMPT_LOOK_DOWN">Specta Deorsum</entry>
+<!-- BAD?? Tracta? Inspecta? -->
+<entry name="PROMPT_INTERACT">Tracta</entry>
+<entry name="PROMPT_DREAMNAIL">Aculeum Somniorum</entry>
+<entry name="PROMPT_FIREBALL">Animam Ultricem</entry>
+<entry name="PROMPT_MAP_BLACKEGG">Templum Ovi Nigri chartae est additum</entry>
+
+<entry name="CHARM_REMINDER">Ut induas te Amuleto, conside in subsellio, et verte ad Tabulam q.e. &quot;Amuleta&quot;.</entry>
+
+<!-- BAD? -->
+<entry name="RUINS_SHAMAN_1">Figura ad machinam annexa.&lt;br&gt;Inspectasne?</entry>
+
+<!-- GEO & Give/Take -->
+<!-- for this section, future tense, present, or a mix? when? -->
+<entry name="NOT_ENOUGH_GEO">Non satis Geum habes.</entry>
+<entry name="GEO_RELIEVE">Iaciesne in fontem omne tuum Geum?</entry>
+
+<entry name="BANKER_ACCOUNT">Dabisne Geum ad aperiendam tabellam?</entry>
+<entry name="ELDERBUG_FLOWER">Tradesne Florem Tenuem?</entry>
+
+<entry name="NAILSMITH_UPGRADE_1">Solvesne mercedem ad acuendum Aculeum?</entry>
+<entry name="NAILSMITH_UPGRADE_2">Tradesne Aes Album et Geum ad acuendum Aculeum?</entry>
+<entry name="NAILSMITH_UPGRADE_3">Tradesne Aera Alba II et Geum ad acuendum Aculeum?</entry>
+<entry name="NAILSMITH_UPGRADE_4">Tradesne Aera Alba III et Geum ad acuendum Aculeum?</entry>
+
+<entry name="NAILMASTER_FREE">Discesne huius magistri Artem Aculei?</entry>
+<entry name="NAILMASTER_PAY">Discesne pro mercede huius magistri Artem Aculei?</entry>
+
+<entry name="LEGEATER_SOMETHING">Pendesne Geum ut aliquid exquisitum videas?</entry>
+<entry name="TUK_RANCIDEGG">Emesne cibum?</entry>
+
+<entry name="JIJI_OFFER">Donasne Ovum Fetidum Jiji?</entry>
+<entry name="JINN_OFFER">Donasne Ovum Fetidum Jinn?</entry>
+<entry name="XUN_OFFER">Accipisne donum?</entry>
+<entry name="HUNTER_REWARD">Accipisne praemium?</entry>
+
+<!-- BAD? -->
+<entry name="TOLLBOOTH_STAG">Machina tributaria, caelata imagine scarabaei. Solvesne tributum? </entry>
+<entry name="TOLLBOOTH_LIFT">Machina tributaria, caelata imagine scansorii. Solvesne tributum? </entry>
+<entry name="TOLLBOOTH_GATE">Machina tributaria, caelata imagine portae. Solvesne tributum? </entry>
+<entry name="TOLLBOOTH_BENCH">Machina tributaria, caelata imagine subsellii. Solvesne tributum? </entry>
+
+<!-- BAD? -->
+<entry name="TRIAL_UNLOCK_BRONZE">Aperiesne pro tributo Certamen Duellatorum?</entry>
+<entry name="TRIAL_UNLOCK_SILVER">Aperiesne pro tributo Certamen Victorum?</entry>
+<entry name="TRIAL_UNLOCK_GOLD">Aperiesne pro tributo Certamen Fatuum?</entry>
+<entry name="TRIAL_BOARD_BRONZE">Certamen Duellatorum. Pugna pro Geo atque Cuneo Amuleti I.&lt;br&gt;Dasne signum ad periclitandum?</entry>
+<entry name="TRIAL_BOARD_SILVER">Certamen Victorum. Pugna pro Geo ac quodam metallo raro.&lt;br&gt;Dasne signum ad periclitandum?</entry>
+<entry name="TRIAL_BOARD_GOLD">Certamen Fatuum. Pugna pro Geo... et ad Fatui nominis gloriam.&lt;br&gt;Dasne signum ad periclitandum?</entry>
+
+<!-- BAD?? -->
+<entry name="GHOST_CHALLENGE">Provocasne ad pugnam Duellatoris Somnium?</entry>
+<entry name="CHARM_TUTE_TITLE">Amuletum Cepisti</entry>
+<entry name="CHARM_TUTE_SUB">Ut potestatem Amuleti suscites, indue id tibi.</entry>
+
+<!-- GET -->
+<entry name="NO_MAP">Chartam huius loci non habes.</entry>
+
+<entry name="GET_MAP_1">Acquisisti Chartam</entry>
+<entry name="GET_MAP_2">ut tabulam loci ubi sis adspicias</entry>
+<entry name="GET_MAP_3">In Tabula q.e. &quot;Loca&quot;, reperias etiam tabulam pictam omnium regionum Nidi Sacri.</entry>
+
+<entry name="COLLECTOR_MAP">Charta Collectoris</entry>
+<entry name="GET_COLLECTOR_MAP">Situs Tineolarum captivarum ostendet.</entry>
+
+<entry name="GET_JOURNAL_1">ad Tabulas aperiendas, deinde verte ad Tabulam q.e. &quot;Diurna&quot;.</entry>
+<entry name="GET_JOURNAL_2">Caede plures hostes ut novas notas addas Diurnis, idque quod est inscriptum planius enodes.</entry>
+
+<entry name="GET_ACIDARMOUR_1">Repelletur aqua acida.</entry>
+<entry name="GET_ACIDARMOUR_2">Ut in aqua acida nates inustus.</entry>
+
+<entry name="GET_DASH_1">ut prorumpas.</entry>
+<entry name="GET_DASH_2">Hoc pallio amictus, pernix per terram aeremque proruere poteris.</entry>
+<entry name="GET_SHADOWDASH_1">ut umbris amictus proruptum facias.</entry>
+<entry name="GET_SHADOWDASH_2">Hoc pallio amictus, sine vulnere ruendo per impetus hostium perrumpes.</entry>
+<entry name="GET_SUPERDASH_1">dum humi stas aut haeres parieti, ut vires colligas crystalli.</entry>
+<entry name="GET_SUPERDASH_2">Remitte dein clavem, ut provoles in aerem.</entry>
+
+<!-- BAD? -->
+<entry name="GET_WALLJUMP_1">dum parieti adhaeres, ut ex ea salias.</entry>
+<!-- BAD?? -->
+<entry name="GET_WALLJUMP_2">Ex alia in aliam saltu insilito parietes, ut novas regiones aperias.</entry>
+<entry name="GET_DOUBLEJUMP_1">in aere suspensus, ut ictum des alarum.</entry>
+<entry name="GET_DOUBLEJUMP_2">His alis aetheriis usus, hostium impetus vitabis, novasque vias comperies.</entry>
+
+<entry name="GET_FIREBALL_1">ut Animam mittas.</entry>
+<!-- BAD? -->
+<entry name="GET_FIREBALL_2">Cantus magici Animum insument.&lt;br&gt;Extrahe Animum ab hostibus feriendis.</entry>
+<!-- BAD? -->
+<entry name="GET_FIREBALL2_1">ut Animam vehementiorem mittas.</entry>
+<!-- BAD? -->
+<entry name="GET_FIREBALL2_2">Hic cantus est fortior quam prior, sed tantundem Animi consumit.</entry>
+
+<entry name="GET_QUAKE_1">Retine clavem &quot;Deorsum&quot; ut magna vi solum percutias.</entry>
+<entry name="GET_QUAKE_2">Cantus magici Animum insument.&lt;br&gt;Extrahe Animum ab hostibus feriendis.</entry>
+<entry name="GET_QUAKE2_1">Retine clavem &quot;Deorsum&quot; ut magna vi solum percutias.</entry>
+<entry name="GET_QUAKE2_2">Cantus magici Animum insument.&lt;br&gt;Extrahe Animum ab hostibus feriendis.</entry>
+
+<entry name="GET_SCREAM_1">Retine clavem &quot;Sursum&quot; ut Animas invoces.</entry>
+<entry name="GET_SCREAM_2">Cantus magici Animum insument.&lt;br&gt;Extrahe Animum ab hostibus feriendis.</entry>
+<entry name="GET_SCREAM2_1">Retine clavem &quot;Sursum&quot; ut Umbras evoces.</entry>
+<entry name="GET_SCREAM2_2">Cantus magici Animum insument.&lt;br&gt;Extrahe Animum ab hostibus feriendis.</entry>
+
+<entry name="GET_GSLASH_1">ut vires colligas in Aculeo.</entry>
+<entry name="GET_GSLASH_2">Remitte dein clavem, clavibus &quot;Sursum&quot; &quot;Deorsum&quot;ve non pressis, ut Caesum Grande efficias.</entry>
+<entry name="GET_CYCLONE_1">ut vires colligas in Aculeo.</entry>
+<entry name="GET_CYCLONE_2">Remitte dein clavem, pressis clavibus &quot;Sursum&quot; &quot;Deorsum&quot;ve, ut Aculei Vorticem efficias.</entry>
+<entry name="GET_DSLASH_1">ut vires colligas in Aculeo.</entry>
+<entry name="GET_DSLASH_2">Remitte dein clavem in proruptu, ut Ictum Impulsum efficias.</entry>
+
+<entry name="GET_DREAMNAIL_1">ut vires colligas, aculeoque caedas.</entry>
+<entry name="GET_DREAMNAIL_2">Intercide spatium inter somnum ac vigiliam.</entry>
+<entry name="GET_DREAMNAILUPGRADE_1">ut vires colligas, aculeoque caedas.</entry>
+<entry name="GET_DREAMNAILUPGRADE_2">Aculeus Somniorum est iam plene excitatus. Etiam occlusissimae mentes aperientur tibi.</entry>
+
+<entry name="GET_DREAMGATE_1">Preme clavem &quot;Deorsum&quot; Aculeo Somniorum stricto, ut Portam Somniorum aperias.</entry>
+<entry name="GET_DREAMGATE_2">Preme clavem &quot;Sursum&quot; Aculeo Somniorum stricto, ut ad Portam Somniorum redeas.</entry>
+
+<!-- BAD? -->
+<entry name="GET_KINGSBRAND_1">Nidus Sacer novum regem sibi asciscet.</entry>
+<entry name="GET_KINGSBRAND_2">Portae Regni patefient.</entry>
+<!-- BAD? -->
+<entry name="GET_HUNTERMARK_1">Insigne decoris Veri Venatoris.</entry>
+<entry name="GET_HUNTERMARK_2">Hoc insigne in Diurnis Venatoris reponetur.</entry>
+
+<!-- Taken the -->
+<entry name="GET_ITEM_INTRO1">Accepisti: </entry>
+<!-- Consumed the -->
+<entry name="GET_ITEM_INTRO2">Sumpsisti: </entry>
+<!-- Mastered the -->
+<entry name="GET_ITEM_INTRO3">Perdidicisti: </entry>
+<!-- Marked by -->
+<entry name="GET_ITEM_INTRO4">Dono accepisti: </entry>
+<!-- Collected the -->
+<entry name="GET_ITEM_INTRO5">Collegisti: </entry>
+<!-- Consumed -->
+<entry name="GET_ITEM_INTRO6">Consumpsisti: </entry>
+<!-- Absorbed the -->
+<entry name="GET_ITEM_INTRO7">Absorpsisti: </entry>
+<!-- Received -->
+<entry name="GET_ITEM_INTRO8">Recepisti: </entry>
+
+<entry name="NAME_BLESSING">Gratia Salubrae</entry>
+<entry name="GET_BLESSING_1">Gratia de Salubra accepta, Amuletorum Fautrice.</entry>
+<entry name="GET_BLESSING_2">Beati sunt ii, quibus favet Venus.</entry>
+
+<!-- KEY etc -->
+<entry name="BATH_HOUSE_NOKEY">Ianua cum rudi claustello.</entry>
+<entry name="BATH_HOUSE_KEY">Ianua cum rudi claustello.&lt;br&gt;Inseresne Clavem Rudem?</entry>
+<entry name="WATERWAY_DOOR_NOKEY">Aliquod machinamentum cum rudi claustello.</entry>
+<entry name="WATERWAY_DOOR_KEY">Aliquod machinamentum cum rudi claustello.&lt;br&gt;Inseresne Clavem Rudem?</entry>
+<entry name="JIJI_DOOR_NOKEY">Ianua lapidea cum rudi claustello.</entry>
+<entry name="JIJI_DOOR_KEY">Ianua lapidea cum rudi claustello.&lt;br&gt;Inseresne Clavem Rudem?</entry>
+
+<entry name="MAGE_DOOR_NOKEY">Ianua adornata ex metallo fulgente, cui est aliquod claustellum.</entry>
+<entry name="MAGE_DOOR_KEY">Ianua adornata ex metallo fulgente.&lt;br&gt;Inseresne Clavem Ornatam?</entry>
+
+<entry name="LOVE_DOOR_NOKEY">Ianua clausa, mollicula materia referta.</entry>
+<entry name="LOVE_DOOR_KEY">Ianua clausa, mollicula materia referta.&lt;br&gt;Inseresne Clavem Amoris?</entry>
+
+<entry name="TRAM_CALL_NOPASS">Aliquod machinamentum, cum foramine ad tesseram inserendam apto.</entry>
+<entry name="TRAM_CALL">Aliquod machinamentum cum foramine ad tesseram inserendam apto.&lt;br&gt;Inseresne Tesseram Carri?</entry>
+<entry name="TRAM_DOOR_NOPASS">Ianua cum aliquo foramine.</entry>
+<entry name="TRAM_DOOR">Ianua cum aliquo foramine.&lt;br&gt;Inseresne Tesseram Carri?</entry>
+<entry name="TRAM_CONSOLE">Premesne illum clavum fulgentem?</entry>
+
+<entry name="CITY_GATE_NOKEY">Magna militis effigies, cuius in pectore est aliquod foramen.</entry>
+<entry name="CITY_GATE_KEY">Magna militis effigies, cuius in pectore est aliquod foramen.&lt;br&gt;Inseresne Urbis Insigne?</entry>
+
+
+<entry name=" ">Ianua clausa est.&lt;br&gt;Inseresne Clavem Insolitam?</entry>
+<entry name="ABYSS_DOOR_NOBRAND">Hic textus deletus est, quare maximi momenti fuit hunc quoque in latinum convertere, idque feci, quia, ut supra dixi, maxime oportuit.</entry>
+
+<entry name="FOUNTAIN_PLAQUE_TOP">IN MEMORIAM</entry>
+<entry name="FOUNTAIN_PLAQUE_MAIN">EQVITIS CASSI</entry>
+<entry name="FOUNTAIN_PLAQUE_DESC">Eo in Antro Obscuro sopiti, quod procul hinc abest.&lt;br&gt;Cuius per sacrificium, Regnum Nidi Sacri in aevom durabit perenne.</entry>
+
+<!-- TODO
+Carissimum Diarium,&lt;br&gt;
+quam iucunda est mea vita.
+signa reparare,
+insignia sarcire...
+rumpant ea
+Haud scio interdum, an non sit quisquam in Nido Sacro
+qui quam ego sit felicior.
+
+Isn&#39;t life just the most beautiful thing.
+Fixing signs, mending posts, let them break, I say!
+I&#39;m a better mender for all that repairing.
+&lt;page&gt;
+I sometimes doubt there&#39;s a single bug in Hallownest happier than me.
+
+***
+Salvum sis, Meum Diarium,&lt;br&gt;
+
+Not long now till the next Menderbash!
+For a stealthy types, we&#39;re a riotous bunch when we get together.
+&lt;page&gt;
+And Mender Berri kept flashing me that smile!
+Might be time to muster my courage and act on it.
+&lt;page&gt;
+I love my home and my life, but sharing it with another, why that&#39;d be the Berri on top!
+
+***
+Sartor Suo Carissimo Diario Sal.,&lt;br&gt;
+
+Someone&#39;s gone and broke my favourite sign!
+Right there at the top of the crossroads.
+Keeps happening too!
+&lt;page&gt;
+But you know, I just can&#39;t get mad about it.
+I should be thanking them really!
+More chances to fix that beautiful, complex sign.
+&lt;page&gt;
+And I&#39;ve stocked up on spare parts, so I&#39;ve no fear it&#39;ll ever stay broken for long.
+
+-->
+<entry name="MENDER_DIARY">Dear Dear Diary,&lt;br&gt;Isn&#39;t life just the most beautiful thing. Fixing signs, mending posts, let them break, I say! I&#39;m a better mender for all that repairing.&lt;page&gt;I sometimes doubt there&#39;s a single bug in Hallownest happier than me.&lt;page&gt;Hello Again Diary,&lt;br&gt;Not long now till the next Menderbash! For a stealthy types, we&#39;re a riotous bunch when we get together.&lt;page&gt;And Mender Berri kept flashing me that smile! Might be time to muster my courage and act on it.&lt;page&gt;I love my home and my life, but sharing it with another, why that&#39;d be the Berri on top!&lt;page&gt;My Lovely Diary,&lt;br&gt;Someone&#39;s gone and broke my favourite sign! Right there at the top of the crossroads. Keeps happening too!&lt;page&gt;But you know, I just can&#39;t get mad about it. I should be thanking them really! More chances to fix that beautiful, complex sign.&lt;page&gt;And I&#39;ve stocked up on spare parts, so I&#39;ve no fear it&#39;ll ever stay broken for long.</entry>
+</entries>

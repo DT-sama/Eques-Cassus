@@ -1,0 +1,587 @@
+<entries>
+<entry name="LOADING">Operatur...</entry> <!-- MainMenu -->
+<entry name="PROFILE_LOADING">Operatur...</entry> <!-- MainMenu -->
+<entry name="PROFILE_CORRUPTED">Tabella Corrupta</entry> <!-- MainMenu -->
+
+<entry name="SAVE_WARNING">Ludus interdum data conservabit iniussu.&lt;br&gt;Ubi haec nota in margine erit ostenta, noli sis interrumpere ludum.</entry> <!-- General -->
+<entry name="DESC_LANG">Commuta linguam in Titulo</entry>
+
+<entry name="PROMPT_ASCEND_GG">ASCENDE</entry>
+<entry name="MODE_GODSGLORY">Divipetens</entry>
+<entry name="MODE_GODSGLORY_DESC">Appete Divos Nidi Sacri.</entry>
+
+<entry name="GODHOME_SUPER"></entry>
+<entry name="GODHOME_MAIN">Aedes Divina</entry>
+<entry name="GODHOME_SUB"></entry>
+
+<entry name="NAILSMITH_CORPSE">...Purus...</entry>
+
+<!-- Markers --> <!-- UI -->
+<entry name="CTRL_MARKERS">Notae</entry>
+<entry name="CTRL_MARKER_PLACE">Pone</entry>
+<entry name="CTRL_MARKER_CHANGE">Muta</entry>
+<entry name="CTRL_MARKER_REMOVE">Tolle</entry>
+
+<entry name="MARKER_Y_NAME">Nota Circuli</entry>
+<entry name="MARKER_Y_DESC">Haec est merx nova quam vendito, quibus quorumlibet locorum in chartis notam imponere possis!&lt;br&gt;&lt;br&gt;Cum hunc colorem placidum video, de thesauris subterraneis cogito quaerendis...</entry>
+<entry name="MARKER_W_NAME">Nota Coruscans</entry>
+<entry name="MARKER_W_DESC">Haec est merx nova quam vendito, quibus quorumlibet locorum in chartis notam imponere possis!&lt;br&gt;&lt;br&gt;Rara est qua materia hae notae sunt confectae, ideoque paulo maiore pretio veneunt.</entry>
+<entry name="MARKER_B_NAME">Nota Scarabaei</entry>
+<entry name="MARKER_B_DESC">Haec est merx nova quam vendito, quibus quorumlibet locorum in chartis notam imponere possis!&lt;br&gt;&lt;br&gt;Nonne autem hic color lenissimu&#39;st?</entry>
+<entry name="MARKER_R_NAME">Nota Conchae</entry>
+<entry name="MARKER_R_DESC">Haec est merx nova quam vendito, quibus quorumlibet locorum in chartis notam imponere possis!&lt;br&gt;&lt;br&gt;Quidni hoc flagranti colore, acerrima proelia quae superasti designas?</entry>
+
+<!-- UI -->
+<entry name="UI_BEGIN">INCOHA</entry>
+
+<entry name="UI_MENU_STYLE">Genus Menu:</entry>
+<entry name="UI_MENU_STYLE_CLASSIC">Classicum</entry>
+<entry name="UI_MENU_STYLE_INFECTED">Pollutum</entry>
+<entry name="UI_MENU_STYLE_SHADE">Inane</entry>
+<entry name="UI_MENU_STYLE_ETERNAL">Supplicium Aeternum</entry>
+<entry name="UI_MENU_STYLE_STEEL">Anima Ferrea</entry>
+<entry name="UI_MENU_STYLE_MODERN">Liquor Vitae</entry>
+<entry name="UI_MENU_STYLE_HD">Somnia Recondita</entry>
+<entry name="UI_MENU_STYLE_GRIMM">Grex Scaenicus Grimm</entry>
+<entry name="UI_MENU_STYLE_GG">Divipotens</entry>
+<entry name="UI_MENUSTYLE_VOIDHEART">Cor Inanis</entry>
+
+<entry name="UI_MENU_ACHIEVEMENTS_ALT">Tropaea</entry> <!-- MainMenu -->
+<entry name="UI_MENU_ACHIEVEMENTS_PS4">Tropaea</entry> <!-- MainMenu -->
+<entry name="UI_MENU_ACHIEVEMENTS_XB1">Tropaea</entry> <!-- MainMenu -->
+
+<entry name="GG1ACHIEVE_TITLE">Fraternitas</entry> <!-- Achievements -->
+<entry name="GG1ACHIEVE_TEXT">Supera Aram Magistri</entry> <!-- Achievements -->
+<entry name="GG2ACHIEVE_TITLE">Inspiratio</entry> <!-- Achievements -->
+<entry name="GG2ACHIEVE_TEXT">Supera Aram Artificis</entry> <!-- Achievements -->
+<entry name="GG3ACHIEVE_TITLE">Focus</entry> <!-- Achievements -->
+<entry name="GG3ACHIEVE_TEXT">Supera Aram Prudentis</entry> <!-- Achievements -->
+<entry name="GG4ACHIEVE_TITLE">Animus &amp; Umbra</entry> <!-- Achievements -->
+<entry name="GG4ACHIEVE_TEXT">Supera Aram Equitis</entry> <!-- Achievements -->
+<entry name="GG5ACHIEVE_TITLE">Maximum Opus</entry> <!-- Achievements -->
+<entry name="GG5ACHIEVE_TEXT">Consequere perfectionem ludi 112%, atque ludum fini.</entry> <!-- Achievements -->
+
+<entry name="ENDING_D_TITLE">Embrace the Void</entry> <!-- Achievements -->
+<entry name="ENDING_D_TEXT">Ascend the Pantheon of Hallownest and take your place at its peak</entry> <!-- Achievements -->
+
+<entry name="UI_MENU_RUMBLE">Vibratio Gubernaculi</entry> <!-- MainMenu -->
+<entry name="UI_MENU_RUMBLE_XB1">Vibratio Gubernaculi</entry> <!-- MainMenu -->
+<entry name="UI_MENU_RUMBLE_PS4">Vibratio Gubernaculi</entry> <!-- MainMenu -->
+
+<entry name="MOH_MED">Medium</entry> <!-- MainMenu -->
+<entry name="MOH_HIGH">Maximum</entry> <!-- MainMenu -->
+
+<!-- TODO: find these -->
+<entry name="MODAL_NO_SAVE">Continue playing without a user?&lt;br&gt;Your progress will not be saved</entry>
+<entry name="MODAL_ENGAGE_CONTROLLER">Press any button to start</entry>
+<entry name="MODAL_CONNECT_CONTROLLER_PROMPT">Connect a controller to continue</entry>
+<entry name="MODAL_CONNECT_CONTROLLER_PROMPT_PS4">Connect a controller to continue</entry>
+<entry name="OPTIONS_CONTROLLER_PS4">Controller</entry>
+<entry name="SCREEN_GAMEPAD_PS4">Controller</entry>
+<entry name="SCREEN_GAMEPAD_REMAP_PS4">Remap Controller</entry>
+<entry name="OPEN_CONTROLLER_PS4">Controller Recommended</entry>
+<entry name="CONTROL_PROMPT_PS4">Use of a controller is highly recommended</entry>
+<entry name="CTRL_NONE_PS4">No controller connected</entry>
+<entry name="CTRL_DETACHED_PS4">No controller connected</entry>
+<entry name="CTRL_NO_ACTIVE_PS4">No Active Controller</entry>
+<entry name="CTRL_NO_ACTIVE_DESC_PS4">Press a button on the controller or connect a new controller to activate</entry>
+<entry name="GAME_CONTROLLER_RUMBLE_XB1">Vibration</entry>
+<entry name="GAME_CONTROLLER_RUMBLE_PS4">Vibration</entry>
+<entry name="GAME_NATIVE_INPUT_PS4">Native Controller Input</entry>
+<entry name="DESC_NATIVE_INPUT_PS4">Activate if experiencing controller issues. Requires restart of game.</entry>
+
+<entry name="PS4_ACHIEVE_GRIMM_END_TITLE">Nightmare&#39;s End</entry>
+<entry name="PS4_ACHIEVE_GRIMM_END_TEXT">Complete the tale of the Grimm Troupe</entry>
+<entry name="PS4_ACHIEVE_ENDING_TEXT">Defeat the Hollow Knight and complete the game.</entry>
+<entry name="ACHIEVEMENTS_BASE_SET_TITLE">Hollow Knight Achievements</entry>
+<entry name="ACHIEVEMENTS_BASE_SET_TEXT">Achievements for Hollow Knight.</entry>
+<entry name="MAIN_SWITCH_USER">Switch User</entry>
+<entry name="DESC_NATIVE_ACHIEVEMENTS_SWITCH">Show in-game messages when completing a quest.</entry>
+<entry name="TROPHIES_BASE_SET_TITLE">Hollow Knight Trophies</entry>
+<entry name="TROPHIES_BASE_SET_TEXT">Trophies for Hollow Knight</entry>
+<entry name="PLATINUM_TITLE">Heart of Hallownest</entry>
+<entry name="PLATINUM_DESC">Acquire all other trophies</entry>
+
+<entry name="VIDEO_SHADERS">Blur Quality:</entry>
+<entry name="GAME_NATIVE_ACHIEVEMENTS_SWITCH">Show Quests:</entry>
+
+<!-- do I want to translate this -->
+<entry name="UI_MENU_EXTRA_LB_TITLE">Liquor Vitae - Details</entry>
+<entry name="UI_MENU_EXTRA_LB_DESC">MAJOR UPDATE&lt;br&gt;&lt;br&gt;ORIGINAL RELEASE DATE: March 2018&lt;br&gt;&lt;br&gt;DESCRIPTION: Hollow Knight is refreshed and refined alongside its console debut.&lt;br&gt;&lt;br&gt;A Kingdom Rebalanced - Hallownest’s many denizens receive countless tweaks and changes.&lt;br&gt;&lt;br&gt;New Boss Fight - Challenge the ferocious knight-protector of an ancient queen.&lt;br&gt;&lt;br&gt;Bosses Upgraded - Some smarter, some harder, one receiving a suite of new moves.&lt;br&gt;&lt;br&gt;Map Markers - An extra tool in your cartographic journeys. Place them anywhere on your maps to remember a point of interest, a difficult foe or an item just out of reach.</entry>
+<entry name="UI_MENU_EXTRA_HD_TITLE">Somnia Celata - Details</entry>
+<entry name="UI_MENU_EXTRA_HD_DESC">FREE CONTENT PACK 01&lt;br&gt;&lt;br&gt;ORIGINAL RELEASE DATE: August 2017&lt;br&gt;&lt;br&gt;DESCRIPTION: The dreams of Hallownest take shape.&lt;br&gt;&lt;br&gt;2 New Bosses - Leap into battle with mighty new foes.&lt;br&gt;&lt;br&gt;2 New Tracks - Stirring boss themes for each giant encounter.&lt;br&gt;&lt;br&gt;New Upgrade - Dream Gate. Discover a whole new method of traversing Hallownest.&lt;br&gt;&lt;br&gt;A New Stag Station Uncovered - One station was walled away, hidden from bugs and forgotten by stags, until now. </entry>
+<entry name="UI_MENU_EXTRA_GT_TITLE">Grex Scaenicus Grimm - Details</entry>
+<entry name="UI_MENU_EXTRA_GT_DESC">FREE CONTENT PACK 02&lt;br&gt;&lt;br&gt;ORIGINAL RELEASE DATE: Halloween 2017&lt;br&gt;&lt;br&gt;DESCRIPTION: Take part in a twisted ritual that stretches the breadth of the kingdom and bestows the player with a powerful new ally.&lt;br&gt;&lt;br&gt;New Boss Fights - Face off against a dark master and a twisted scarlet spectre.&lt;br&gt;&lt;br&gt;New Charms - 4 new charms granting unique new aids and abilities.&lt;br&gt;&lt;br&gt;New Enemies - Devilish rivals to test your nail and spells against.&lt;br&gt;&lt;br&gt;New Friends - Befriend a whole new bunch of weirdos, including one who offers a very special service for dedicated players.&lt;br&gt;&lt;br&gt;New Music - Spooky and spine tingling tracks by Christopher Larkin.&lt;br&gt;&lt;br&gt;</entry>
+<entry name="UI_MENU_EXTRA_GG_TITLE">Divipotens - Details</entry>
+<entry name="UI_MENU_EXTRA_GG_DESC">FREE CONTENT PACK 03&lt;br&gt;&lt;br&gt;ORIGINAL RELEASE DATE: August 2018&lt;br&gt;&lt;br&gt;DESCRIPTION: Take your place amongst the Gods in an epic celebration of Hallownest&#39;s Glory and the final chapter of the Knight&#39;s journey.&lt;br&gt;&lt;br&gt;New Character and Quest - The Divipetens arrives. Break her chains and aid her in an ancient duty.&lt;br&gt;&lt;br&gt;New Boss Fights - Hallownest&#39;s greatest warriors raise their blades.&lt;br&gt;&lt;br&gt;New Game Mode - Long requested and a classic for the genre. Complete the Godseeker&#39;s quest to unlock the new mode.&lt;br&gt;&lt;br&gt;New Music - All new soaring boss tracks and giant remixes of beloved classics.</entry>
+
+<entry name="UI_BINDINGS_TITLE">VINCULA</entry>
+<entry name="UI_BINDING_NAIL">ACULEUS</entry>
+<entry name="UI_BINDING_HEART">CONCHA</entry>
+<entry name="UI_BINDING_SOUL">ANIMUS</entry>
+<entry name="UI_BINDING_CHARMS">AMULETA</entry>
+
+<!-- Pantheon of the Master -->
+<entry name="UI_CHALLENGE_TITLE_SUPER_1">ARA</entry>
+<entry name="UI_CHALLENGE_TITLE_MAIN_1">MAGISTRI</entry>
+<entry name="UI_CHALLENGE_DESC_1">Appete Divos Aculei et Conchae</entry>
+<!-- Pantheon of the Artist -->
+<entry name="UI_CHALLENGE_TITLE_SUPER_2">ARA</entry>
+<entry name="UI_CHALLENGE_TITLE_MAIN_2">ARTIFICIS</entry>
+<entry name="UI_CHALLENGE_DESC_2">Appete Divum Artificii</entry>
+<!-- Pantheon of the Sage -->
+<entry name="UI_CHALLENGE_TITLE_SUPER_3">ARA</entry>
+<entry name="UI_CHALLENGE_TITLE_MAIN_3">MAXIMI</entry>
+<entry name="UI_CHALLENGE_DESC_3">Appete Divum Divitiarum et Potestatis</entry>
+<!-- Pantheon of the Knight -->
+<entry name="UI_CHALLENGE_TITLE_SUPER_4">ARA</entry>
+<entry name="UI_CHALLENGE_TITLE_MAIN_4">EQUITIS</entry>
+<entry name="UI_CHALLENGE_DESC_4">Appete Divum Merum</entry>
+<!-- Pantheon of Hallownest -->
+<entry name="UI_CHALLENGE_TITLE_SUPER_5">ARA</entry>
+<entry name="UI_CHALLENGE_TITLE_MAIN_5">NIDI SACRI</entry>
+<entry name="UI_CHALLENGE_DESC_5">Appete Regni Perditam Lucem</entry>
+
+<entry name="CHALLENGE_UI_LEVEL1">ANTISTES</entry>
+<entry name="CHALLENGE_UI_LEVEL2">EXCELSUS</entry>
+<entry name="CHALLENGE_UI_LEVEL3">LUCIPOTENS</entry>
+
+
+<!-- Items -->
+<entry name="NAME_VOID_IDOL_1">Simulacrum Inanis</entry> <!-- Journal -->
+<entry name="DESC_VOID_IDOL_1">Effigies arte confecta, aetatis quam Nidus Sacer antiquioris. Continet stillam liquoris Abyssi.</entry>
+<entry name="NOTE_VOID_IDOL_1">&quot;Sive divinitus instincti sive insanitate compulsi, videntur antiqui non dominos, imperia, viresve consuesse venerari, sed ipsam obscuritatem.&quot;&lt;br&gt;- Lemm</entry> <!-- Journal -->
+<entry name="NAME_VOID_IDOL_2">Simulacrum Inanis</entry> <!-- Journal -->
+<entry name="DESC_VOID_IDOL_2">Effigies arte confecta, aetatis quam Nidus Sacer antiquioris. Intus rebullitur liquor Abyssi.</entry>
+<entry name="NOTE_VOID_IDOL_2">&quot;Sive divinitus instincti sive insanitate compulsi, videntur antiqui non dominos, imperia, viresve consuesse venerari, sed ipsam obscuritatem.&quot;&lt;br&gt;- Lemm</entry> <!-- Journal -->
+<entry name="NAME_VOID_IDOL_3">Simulacrum Inanis</entry> <!-- Journal -->
+<entry name="DESC_VOID_IDOL_3">Effigies arte confecta, aetatis Nido Sacro antiquioris, cuius spirae in unam contorquentur. Plena est liquore Abyssi, iam immoto.</entry> <!-- Journal -->
+<entry name="NOTE_VOID_IDOL_3">&quot;Sive divinitus instincti sive insanitate compulsi, videntur antiqui non dominos, imperia, viresve consuesse venerari, sed ipsam obscuritatem.&quot;&lt;br&gt;- Lemm</entry> <!-- Journal -->
+
+<entry name="NAME_GODSEEKER_MASK">Larva Veterata</entry> <!-- Journal -->
+<entry name="DESC_GODSEEKER_MASK">Mirifica persona ex quadam terra sine divis, tradita usque ad nos per tempus. Tali forma conficta esse videtur, ut gerentis cogitationes in cristam cogantur.</entry> <!-- Journal -->
+<entry name="NOTE_GODSEEKER_MASK">&quot;O Di fulgurum et impluvii! Cur ita vestros fideles deseruistis servos? Quinam patiantur nostrae mentes hanc solitudinem? Qui Deus iam remanet, qui misero nos hoc liberet silentio?&quot;&lt;br&gt;- Lamenta Divipetentium</entry> <!-- Journal -->
+
+<entry name="INV_NAME_GODFINDER">Echus Dei</entry>
+<entry name="INV_DESC_GODFINDER">Instrumentum quod in animis magnae potestatis resonat.&lt;br&gt;&lt;br&gt;Enitet clare cum hostes potentes vinces.</entry>
+<entry name="GET_GODFINDER_1">Instrumentum quod in animis magnae potestatis viribus resonat.</entry>
+<entry name="GET_GODFINDER_2">Appete Divos Nidi Sacri. Admodulare te ad concentum eorum potestatis. Per eorum vires, ascendes.</entry>
+
+<!-- can these be found elsewhere? -->
+<entry name="INV_DESC_FLOWER_QG">Taken from the Queen&#39;s Gardens. It glows faintly with pale light.&lt;br&gt;&lt;br&gt;The flower is very fragile and will be destroyed if you take damage or ride the Stagways.</entry>
+<entry name="INV_DESC_FLOWER_BROKEN_QG">Taken from the Queen&#39;s Gardens. It has been destroyed and is now worthless.</entry>
+<entry name="ELDERBUG_FLOWER">Give the Delicate Flower?</entry>
+<entry name="QUEEN_FLOWER">Ah, what precious gift it offers, though alas I shan&#39;t accept.&lt;page&gt;Not of me that flower, nor of this kingdom. Far it travelled to reach this place, brought by one beloved, fair knight of lands serene.&lt;page&gt;There is rare power hidden in those frail petals.&lt;page&gt;To hold it so close, one must surely be unaware of its nature...</entry>
+<entry name="AMELITIA_FLOWER">What a curious specimen. Hah! Though even its pure aura is no match for the light of our dear King.&lt;page&gt;Keep your faint flora, bug. I&#39;ve enough of my own to tend and surely you&#39;d agree that mine are far finer.</entry>
+
+<!-- Journal -->
+<entry name="NAME_PALE_LURKER">Alba Furtiva</entry> <!-- Journal -->
+<entry name="DESC_PALE_LURKER">Olim triumphatrix Amphitheatri, iam a quadam insolita insania seducta.</entry> <!-- Journal -->
+<entry name="NOTE_PALE_LURKER">Haec mira bestia videtur nec affici, nec animadvertere quidem noxissimum morbum dilatantem per specus. Ipsa suo Marte videtur insanisse.</entry> <!-- Journal -->
+<entry name="LURKER_1">Rex! Meus!</entry> <!-- Enemy Dreams -->
+<entry name="LURKER_2">Mea causa! Tua causa! Regis causa!</entry> <!-- Enemy Dreams -->
+<entry name="LURKER_3">Clavis! Thesaurus! Abi, abi!</entry> <!-- Enemy Dreams -->
+
+
+<!-- Bosses -->
+<!-- TODO: maintain consistency in names with other files -->
+<!-- Mantis Lords -->
+<!-- Sisters of Battle -->
+<entry name="NAME_MANTIS_LORD_V">Sorores Bellicae</entry>
+<entry name="GG_S_MANTIS_LORD_V">Nobiles Divae Triplices Proelii</entry>
+<entry name="GG_S_MANTISLORDS">Nobiles Divae Sorores Proelii</entry>
+<entry name="GG_LOCKED_DESC_MANTISLORDS">Pagum bellatorum tutamur</entry>
+<entry name="SISTERS_SUPER"></entry> <!-- Titles -->
+<entry name="SISTERS_MAIN">Sorores</entry> <!-- Titles -->
+<entry name="SISTERS_SUB">Bellicae</entry> <!-- Titles -->
+
+<!-- Traitor Lord -->
+<entry name="GG_S_TRAITORLORD">Perfidus Divus Irae</entry>
+<entry name="GG_LOCKED_DESC_TRAITORLORD">Hortos falsae maiestatis confoedo</entry>
+
+<!-- Nosk -->
+<entry name="NAME_NOSK_HORNET">Nosk Alatus</entry>
+<entry name="GG_S_NOSK">Versiformis Divus Sine Vultu</entry>
+<entry name="GG_LOCKED_DESC_NOSK">In latibulo praedatorum exspecto</entry>
+<entry name="GG_S_NOSK_HORNET">Divus fallax qui speciem protectricis gerit</entry>
+
+<!-- Hollow Knight -->
+<!-- Pure Vessel -->
+<entry name="NAME_HK_PRIME">Merum Vas</entry>
+<entry name="HK_PRIME_MAIN">Merum Vas</entry>
+<entry name="GG_S_HK">Lucipotens Divus Inanis</entry>
+<entry name="GG_LOCKED_DESC_HK">Divus inanis qui in summis Altaribus manet</entry>
+<entry name="NAME_PURE_VESSEL">Merum Vas</entry> <!-- Journal -->
+<entry name="DESC_PURE_VESSEL">Chosen vessel, raised and trained to prime form.</entry> <!-- Journal -->
+<entry name="NOTE_PURE_VESSEL">&quot;Deepest silence in holy shell,&lt;br&gt;Given nail and named a Knight,&lt;br&gt;Bound by chain and egg and spell,&lt;br&gt;Hear Our plea! Reveal thy Light!&quot;&lt;br&gt;- Prayer to the Vessel</entry> <!-- Journal -->
+<entry name="PURE_VESSEL_1">Noli cogitare...</entry> <!-- Enemy Dreams -->
+<entry name="PURE_VESSEL_2">Noli loqui...</entry> <!-- Enemy Dreams -->
+<entry name="PURE_VESSEL_3">Noli sperare...</entry> <!-- Enemy Dreams -->
+<entry name="PURE_VESSEL_4">Noli...</entry> <!-- Enemy Dreams -->
+<entry name="PURE_VESSEL_5">...</entry> <!-- Enemy Dreams -->
+
+<!-- BAD? civis insectus -->
+<entry name="KNIGHT_STATUE_1">Non insectum, nec bestia, nec divus.</entry>
+<entry name="KNIGHT_STATUE_2">Inditum Forma Inane.</entry>
+<entry name="KNIGHT_STATUE_3">In Unum Intentum Inane.</entry>
+
+<!-- Sly -->
+<entry name="NAME_SLY">Aculeator Maximus Sly</entry>
+<entry name="GG_S_SLY">Vafer Divus Lucri</entry>
+<entry name="GG_LOCKED_DESC_SLY">In summis Altaribus te opperior</entry>
+<entry name="NAME_SAGE_SLY">Aculeator Maximus Sly</entry> <!-- Journal -->
+<entry name="NOTE_SAGE_SLY">&quot;Sagely God of the cunning and bold,&lt;br&gt;Sharpen Our nails and show Us the odds,&lt;br&gt;O greatest of masters, We wish to behold,&lt;br&gt;That one still greater, the God of Gods!&quot;&lt;br&gt;- Prayer to the Sage</entry> <!-- Journal -->
+<entry name="DESC_SAGE_SLY">Legendary sage of the nail arts and, recently, merchant of some success.</entry> <!-- Journal -->
+<entry name="SLY_1">Dreams of glory...</entry> <!-- Enemy Dreams -->
+<entry name="SLY_2">Point your nail at the thing you seek!</entry> <!-- Enemy Dreams -->
+<entry name="SLY_3">Remember... you are brothers...</entry> <!-- Enemy Dreams -->
+<entry name="SLY_BOSS_SUPER"></entry> <!-- Titles -->
+<entry name="SLY_BOSS_MAIN">Sly</entry> <!-- Titles -->
+<entry name="SLY_BOSS_SUB">Aculeator Maximus</entry> <!-- Titles -->
+
+<!-- Nailmasters -->
+<entry name="NAME_PAINTMASTER">Pictor Magister Scaeo</entry>
+<entry name="GG_S_PAINTMASTER">Ingeniosus Divus Artificum</entry>
+<entry name="GG_LOCKED_DESC_PAINTMASTER">In summis Altaribus meas artes excolo</entry>
+<entry name="GG_S_NAILPAINT">Ingeniosus Divus Artificum</entry>
+<entry name="GG_LOCKED_DESC_NAILPAINT">In summis Altaribus te opperior</entry>
+<entry name="NAME_PAINTMASTER_JOURNAL">Pictor Magister Scaeo</entry> <!-- Journal -->
+<entry name="DESC_PAINTMASTER">Skilled and respected master of the nail. Always eager to learn new things.</entry> <!-- Journal -->
+<entry name="NOTE_PAINTMASTER">&quot;O God inspired, master of arts,&lt;br&gt;Whose works shall eternal endure,&lt;br&gt;Peer beyond Our minds and hearts,&lt;br&gt;Reveal to Us the God most pure!&quot;&lt;br&gt;- Prayer to the Artist</entry> <!-- Journal -->
+<entry name="SHEO_1">It&#39;s the greatest power, isn&#39;t it?</entry>
+<entry name="SHEO_2">Are we all seeking something different?</entry>
+<entry name="SHEO_3">What is a god, if not an artist?</entry>
+
+<entry name="PAINTMASTER_SUPER">Pictor Magister</entry> <!-- Titles -->
+<entry name="PAINTMASTER_MAIN">Scaeo</entry> <!-- Titles -->
+<entry name="PAINTMASTER_SUB"></entry> <!-- Titles -->
+
+<entry name="NAME_NAILMASTERS">Oro &amp; Mato</entry>
+<entry name="GG_S_NAILMASTER">Fideles Divi Fratres Aculei</entry>
+<entry name="GG_LOCKED_DESC_NAILMASTERS">In summis Altaribus una sumus</entry>
+<entry name="GG_LOCKED_DESC_NAILMASTER">In summis Altaribus una sumus</entry>
+<entry name="NAME_NAILMASTERS_JOURNAL">Aculeatores Magistri Oro &amp; Mato</entry> <!-- Journal -->
+<entry name="DESC_NAILMASTERS">Brothers of the nail, trained in combat by the Great Nailsage.</entry> <!-- Journal -->
+<entry name="NOTE_NAILMASTERS">&quot;Gods by toil and nail bound,&lt;br&gt;Brothers sworn to guard the weak,&lt;br&gt;Masters of the sacred ground,&lt;br&gt;Help Us find the God We seek!&quot;&lt;br&gt;- Prayer to the Masters</entry> <!-- Journal -->
+
+<entry name="TEMP_NM_SUPER">Fratres</entry> <!-- Titles -->
+<entry name="TEMP_NM_MAIN">Oro &amp; Mato</entry> <!-- Titles -->
+<entry name="TEMP_NM_SUB"></entry> <!-- Titles -->
+
+<entry name="ORO_1">Whatever it takes... I&#39;ll prove myself!</entry>
+<entry name="ORO_2">My path is mine alone...</entry>
+<!-- BAD?? in rebus huiusmodi -->
+<entry name="ORO_FLOWER">Quid ad me iste molliculus flos? Censen&#39; decere discipulum humi quisquilias iactare magistri in domo? An dono tu mihi florem fucatum hunc praebes?&lt;page&gt;At mihi nulla est utilitas in rebus huiusmodi. Aufer hunc tecum, aut foras ad vermes eum iecero.</entry>
+
+<entry name="MATO_1">Brothers always fight together!</entry>
+<entry name="MATO_2">Don&#39;t leave me behind!</entry>
+
+<!-- Grimm -->
+<entry name="GG_S_GRIM">Itinerans Divus Histrionum</entry>
+<entry name="GG_S_NIGHTMARE_KING">Insomniae Divus</entry>
+<entry name="GG_LOCKED_DESC_GRIM">Lumen lucernae accensum opperior</entry>
+<entry name="GRIMM_GG_1">How grand a stage! </entry>
+<entry name="GRIMM_GG_2">A charming ritual... a pleasure! </entry>
+<entry name="GRIMM_GG_3">An honour, Seeker, to attend your call!</entry>
+<entry name="NIGHTMARE_GRIMM_GG_1">Gods... bound by ritual...</entry>
+<entry name="NIGHTMARE_GRIMM_GG_2">Deepest power... the Heart...</entry>
+<entry name="NIGHTMARE_GRIMM_GG_3">Scattered lands... Nightmare binds all...</entry>
+<entry name="GRIMM_REMINDER_1">...The child...</entry>
+
+<!-- Hornet -->
+<entry name="NAME_HORNET_1">Hornet Custos</entry>
+<entry name="NAME_HORNET_2">Hornet Vigil</entry>
+<entry name="GG_S_HORNET">Protectrix Diva Terrae Cadentis</entry>
+<entry name="GG_LOCKED_DESC_HORNET">Vias virentes cineraceaque sepulcra custodio</entry>
+<entry name="HORNET_GG_1">Do you haunt my dreams... Or I yours?</entry>
+<entry name="HORNET_GG_2">Little Ghost... What dreams we share...</entry>
+<entry name="HORNET_GG_3">...Do they watch us struggle?..</entry>
+
+<!-- Hive Knight -->
+<entry name="NAME_HIVE_KNIGHT">Eques Alvearis</entry> <!-- Journal -->
+<entry name="GG_S_HIVEKNIGHT">Vigilans Divus Officii</entry>
+<entry name="GG_LOCKED_DESC_HIVEKNIGHT">Cor alvearis nostrae Reginae defendo</entry>
+<entry name="DESC_HIVE_KNIGHT">Defensor fidelissimus Alvearis Reginae. Non volare potest, sed in pugna maxime est metuendus.</entry> <!-- Journal -->
+<entry name="NOTE_HIVE_KNIGHT">Sunt quaedam animalia, quibus insunt innata quaepiam officia et fides, e quibus certe inventa est sibi certa fortitudo, tamen sic etiam iis facta est necessaria servitus.</entry> <!-- Journal -->
+<entry name="HIVE_KNIGHT_1">Spectasne tu me?</entry>
+<entry name="HIVE_KNIGHT_2">Confide mihi!</entry>
+<entry name="HIVE_KNIGHT_3">Cum evigiles... Alvus noster...</entry>
+
+<entry name="HIVE_KNIGHT_MAIN">Eques</entry> <!-- Titles -->
+<entry name="HIVE_KNIGHT_SUB">Alvearis</entry> <!-- Titles -->
+
+<entry name="HIVEQUEEN_EXTRA">My Knight... At last you are freed.</entry>
+
+<!-- Crystal Guardian -->
+<!-- Enraged Guardian -->
+<entry name="NAME_MEGA_BEAM_MINER_1">Custos Crystalli</entry>
+<entry name="NAME_MEGA_BEAM_MINER_2">Custos Furens</entry>
+<entry name="GG_S_MEGABEAMMINER">Fulgidus Divus Avaritiae</entry>
+<entry name="GG_LOCKED_DESC_MEGABEAMMINER">Inter crystallos machinasque conquiesco</entry>
+<entry name="ENRAGED_GUARDIAN_SUPER"></entry>
+<entry name="ENRAGED_GUARDIAN_MAIN">Custos</entry>
+<entry name="ENRAGED_GUARDIAN_SUB">Furens</entry>
+
+<!-- Ummu -->
+<entry name="GG_S_UMMU">Verendus Divus Sapientiae</entry>
+<entry name="GG_LOCKED_DESC_UMMU">Penitus in archivo submersus quiesco</entry>
+
+<!-- Soul Warrior -->
+<!-- Soul Master --> 
+<!-- Soul Tyrant -->
+<entry name="MAGE_KNIGHT_SUPER"></entry>
+<entry name="MAGE_KNIGHT_MAIN">Miles</entry>
+<entry name="MAGE_KNIGHT_SUB">Animi</entry>
+<entry name="GG_S_MAGEKNIGHT">Inquietans Divus Sacrarii</entry>
+<entry name="GG_LOCKED_DESC_MAGEKNIGHT">Aulas sacrarii inquieto</entry>
+<entry name="GG_S_SOULMASTER">Cupidus Divus Animi</entry>
+<entry name="GG_LOCKED_DESC_SOULMASTER">Sacrarium rego immortalis</entry>
+
+<entry name="NAME_SOUL_TYRANT">Tyrannus Animi</entry>
+<entry name="GG_S_SOUL_TYRANT">Furens Divus Mortalitatis</entry>
+
+
+<!-- Ghosts -->
+<entry name="GG_S_GHOST_HU">Somnigena Divus Itineris et Prudentiae</entry>
+<entry name="GG_LOCKED_DESC_GHOST_HU">Somnio in vastitate sopitus</entry>
+<entry name="GG_S_GHOST_NOEYES">Somnigena Diva Timoris et Levaminis</entry>
+<entry name="GG_LOCKED_DESC_GHOST_NOEYES">Somnio in fano silente sopita</entry>
+<entry name="GG_S_GHOST_MARMU">Somnigena Diva Vireti</entry>
+<entry name="GG_LOCKED_DESC_GHOST_MARMU">Somnio patienter in horto sopita</entry>
+<entry name="GG_S_GHOST_MARKOTH">Somnigena Divus Meditationis et Solitudinis</entry>
+<entry name="GG_LOCKED_DESC_GHOST_MARKOTH">Somnio in limite mundi sopitus</entry>
+<entry name="GG_S_GHOST_GALIEN">Somnigena Divus Honoris et Virtutis</entry>
+<entry name="GG_LOCKED_DESC_GHOST_GALIEN">Somnio in tenebris, circumdatus praedatoribus, sopitus</entry>
+<entry name="GG_S_GHOST_GORB">Somnigena Divus Ulterior</entry>
+<entry name="GG_LOCKED_DESC_GHOST_GORB">Somnio in ventoso cacumine sopitus</entry>
+<entry name="GG_S_GHOST_XERO">Somnigena Divus Fidei et Perfidiae</entry>
+<entry name="GG_LOCKED_DESC_GHOST_XERO">Somnio inter tranquilla sepulcra sopitus</entry>
+
+<!-- Dung Defender -->
+<entry name="GG_S_DUNGDEF">Benignus Divus Decoris et Honoris</entry>
+<entry name="GG_LOCKED_DESC_DUNGDEF">Aquaeductus Regni protego</entry>
+
+<entry name="DUNG_UNDERGROUND_1">Ah, vigilas nunc, et bene quidem requietus!&lt;page&gt;Improviso cum evigilavi, te vidi hic dormientem, sed ubicumque vis quiescere, ibi profecto licet conquiescas.&lt;page&gt;Ut enim Rex regnum suum, ita ego meam domum dedo indigentibus. Mane quamdiu voles, nam hic est commoditas, tepor, suavisque humiditas.</entry> <!-- Minor NPC -->
+<entry name="DUNG_UNDERGROUND_2">Hic specus profecto procul videtur distare ab illa urbanissima aula regia, nihilo tamen minus clare reminiscor consociorum meorum, atque nostri illustrissimi Regis.&lt;page&gt;Domus Alba erat locus magnificus, frequens illius aetatis valentissimis heroibus. Ahh! Et cum te video, unum ferme eorum video! Procul dubio facillime inter eos numereris.</entry> <!-- Minor NPC -->
+<entry name="DUNG_UNDERGROUND_DREAM">Numnam Magnus Ordo Equitum Nidisacrensis simul mecum periet? Quomodo sit huiusmodi res posteris tradenda?</entry> <!-- Minor NPC -->
+
+<entry name="DIVINE_DUNG_CHARM">Ahhhh, iste odor! Quam acrem, quamque virilem! At non idem odor est, quo tam vocor.&lt;page&gt;Alius est odor quem tandem cupio. Carus. Tener... Fragilis. Ahh! Afferto mi. Indue id prae me!</entry>
+
+<!-- Broken Vessel -->
+<!-- Lost Kin -->
+<entry name="NAME_LOST_KIN">Germanus Perditus</entry>
+<entry name="GG_S_LOST_KIN">Derelictus Divus Abyssi</entry>
+<entry name="GG_S_BROKENVESSEL">Corruptum inanis Divi Vas</entry>
+<entry name="GG_LOCKED_DESC_BROKENVESSEL">In specibus imi mundi quiesco</entry>
+
+<!-- Zote -->
+<entry name="GG_S_ZOTE">Inter Nidisacrenses Divos, Impostor</entry>
+<entry name="GG_S_MIGHTYZOTE">Falsus Divus Solitudine Ortus</entry>
+<entry name="GG_LOCKED_DESC_MIGHTYZOTE">Reginae meae in suis somniis servio</entry>
+<entry name="ETERNAL_ORDEAL_SUPER">Supplicium</entry>
+<entry name="ETERNAL_ORDEAL">Aeternum</entry>
+
+<!-- Mega Moss -->
+<entry name="GG_S_MEGAMOSS">Irrequietus Divus Gregum</entry>
+<entry name="GG_LOCKED_DESC_MEGAMOSS">In viis virentibus una venamur</entry>
+<entry name="MEGA_MOSS_SUPER">Massive</entry>
+<entry name="MEGA_MOSS_MAIN">Moss Charger</entry>
+<entry name="MEGA_MOSS_SUB"></entry>
+
+<!-- False Knight -->
+<!-- Failed Champion -->
+<entry name="NAME_FAILED_CHAMPION">Vindex Defectus</entry>
+<entry name="GG_S_FAILED_CHAMPION">Funestus Divus Doloris</entry>
+<entry name="GG_S_FKNIGHT">Iracundus Divus Afflictorum</entry>
+<entry name="GG_LOCKED_DESC_FKNIGHT">In corde tramitum debiles defendo</entry>
+
+<!-- Etc -->
+<entry name="GG_S_FLUKEMUM">Illecebrosa Diva Procreandi</entry>
+<entry name="GG_LOCKED_DESC_FLUKEMUM">In labyrintho ductuum maneo</entry>
+<entry name="GG_S_WATCHERKNIGHTS">Vigiles Divi Turris</entry>
+<entry name="GG_LOCKED_DESC_WATCHERKNIGHTS">Turris fastigium tutantes cubamus</entry>
+<!-- TODO -->
+<entry name="GG_S_LOBSTERLANCER">Valens Diva Arenae</entry>
+<entry name="GG_LOCKED_DESC_LOBSTERLANCER">In amphitheatro, hasta destricta, exspecto</entry>
+<entry name="GG_S_MAWLEK">Solitarius Divus Nidi</entry>
+<entry name="GG_LOCKED_DESC_MAWLEK">Occulta viis et tramitibus, nemine respondente conclamo</entry>
+<entry name="GG_S_COLLECTOR">Iucundus Divus Tutator</entry>
+<entry name="GG_LOCKED_DESC_COLLECTOR">In perditae turris fastigio latesco</entry>
+
+<!-- TODO -->
+<entry name="GG_S_BIGBEES">Amabiles Divae Fidei et Devotionis</entry>
+<entry name="GG_LOCKED_DESC_BIGBEES">In insolito amphitheatro una vinculatae sumus</entry>
+<entry name="OBLOBBLES_SUPER"></entry>
+<entry name="OBLOBBLES_MAIN">Oblobbles</entry>
+<entry name="OBLOBBLES_SUB"></entry>
+
+<entry name="GG_S_BIGBUZZ">Noxius Divus Regionum</entry>
+<entry name="GG_LOCKED_DESC_BIGBUZZ">Terram viridem custodio</entry>
+<entry name="VENGEFLY_SUPER">Vengefly</entry>
+<entry name="VENGEFLY_MAIN">King</entry>
+<entry name="VENGEFLY_SUB"></entry>
+
+<entry name="GG_S_GRUZ">Somniculosa Diva Fecunditatis</entry>
+<entry name="GG_LOCKED_DESC_GRUZ">Inter vias contortas quiesco</entry>
+
+
+
+<entry name="STORMLAND_SUPER">Terra</entry> <!-- Map Zones -->
+<entry name="STORMLAND_MAIN">Tempestatum</entry> <!-- Map Zones -->
+<entry name="STORMLAND_SUB"></entry> <!-- Map Zones -->
+
+
+<!-- Radiance -->
+<entry name="ABSOLUTE_RADIANCE_SUPER">SVPREMA</entry>
+<entry name="ABSOLUTE_RADIANCE_MAIN">LVX</entry>
+<entry name="GG_S_RADIANCE">Oblitterata Diva Lucis</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_RADIANCE_STATUE">Vae! Tu, macula pusilla! Victoriam es adeptus, quamvis modo in aliquod simulacrum illius divorum omnium supremi splendoris. Egregiam tamen demonstravisti proeliis fortitudinem.&lt;br&gt;&lt;page&gt;At numnam te putas, in suum summum statum, factam somnii mentiumque potentem, hanc in certamine possis vincere Deam, quae omnibus aliis antecellit diis? Nos vero non item!</entry>
+
+
+
+<!-- Etc -->
+<entry name="GG_SUMMARY_TITLE">Concilium Deorum</entry>
+<entry name="GG_UNLOCK_TITLE">Modus Divipetens</entry>
+
+<entry name="GODSEEKER_SUPER"></entry>
+<entry name="GODSEEKER_MAIN">Divipetens</entry>
+<entry name="GODSEEKER_SUB"></entry>
+
+<entry name="GODSEEKER_GGMODE_INTRO">O Sanctissime! O Divinissime! O Deum Omnium Deus! Qui ad Nos revenis ad temptandas tuas vires, contra infimos illos, miserrimos imbecillos, quos nihil decet apud te nisi perpetuam servitutem servire.&lt;br&gt;&lt;page&gt;Concede Nobis ad tuam submitti magnificentiam et gloriam, prostratis impotentibus vermiculis, quamlibet rem Nostram daturis, vel brevi tuam reverendam potestatem iterum conspiciendi gratia!</entry>
+
+<!-- BAD? resonare -->
+<entry name="GODSEEKER_WATERWAYS_DAZED">Sanctae... terrae... divos... resonare...</entry>
+<entry name="GODSEEKER_WATERWAYS_AWAKE_NO_GODFINDER">O humile animal. Conspicisne tu eum? Lucentem ac splendentem, hunc Nostrum Echum Dei?&lt;page&gt;Tu vero eum concupis. Deperis quidem huius concupiscentia! Accipe ergo, quoniam eius usus iam Nobis exolevit. Non iam eo est Nobis opus.</entry>
+<!-- BAD?? -->
+<entry name="GODSEEKER_WATERWAYS_AWAKE_GODFINDER">Id instrumentum quod tenes. Id auxilio ut sit est factum petentibus, adnexum nostrae menti.&lt;page&gt;Summum bonum est tibi tale instrumentum accepisse, atque periculum nobis, quod id sinamus diverti.&lt;page&gt;In eo enim nostrae mentis magna pars nuda est, quapropter nostrae in te id accipe indicium fidei.&lt;page&gt;Scrutare hanc terram, et in animos magnae potestatis imperium obtineto: eius potestas tunc respondebit.</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_WATERWAYS_AWAKE_1">O humile animal. Excitavistine tu nos?&lt;page&gt;Renatum, hoc Regnum. Hi Divi, consoni et devicti, in mentibus lucentes. Splendidi. Nitentes.&lt;page&gt;...At quid hoc? Crevitne etiam Nostra forma? Tam ingens? Immo. Immensa. Magnifica. Somnus, diutinus ad quem eramus coacti, tamen concha ex eo confecta firma&#39;st... Quam firma&#39;st!&lt;page&gt;Admiraris tu quidem. Nos profecto ut Divos habes, intuitus ita. Ridiculum, et insipiens. At enim prae oculis tuis, tanta est enormitas, sic, et pulchritudo...</entry>
+<entry name="GODSEEKER_WATERWAYS_AWAKE_REPEAT">Nidus Sacer... vel etiam in ruinis, gloriosa est terra Deorum.&lt;page&gt;Numquam. Numquam, inquam! Divi hi numquam perient!</entry>
+<!-- BAD explora indaga -->
+<entry name="GODSEEKER_WATERWAYS_AWAKE_2">At quid te huc adducit, o humillime animal? Fides? Metusne? An tu quoque Divos petis?&lt;page&gt;Eccum. Cor huius Regni. Hic Nos auscultamus eos, at nonnulli adhuc distantes sunt, Divos. Ii sunt e suo somno solvendi.&lt;page&gt;Cape hunc Echum Dei, Deosque petitum ito! Explora! Ut possint suam viam invenire. Consoni menti. Consoni domo.&lt;page&gt;Praemium. Praemium huic operae sit, concedi in hac terra morari. Et commoratum, intueri. Intueri quidem Nostram magnificam concham, Nostramque inexsuperabilem pulchritudinem!</entry>
+<entry name="GODSEEKER_WATERWAYS_AWAKE_3">Di. O Di! Vestra natura, ignota. Imperscrutabilis. Vel etiam Nobis, qui studemus, petentibus!&lt;page&gt;
+Conformamus ergo ad divinum concentum Nosmetipsos, ut vestram gloriam arripiamus, participesque simus vestrae immortalitati. Vestro incognoscibili splendori.&lt;page&gt;Nidus Sacer. Regnum beatum Dis, et Dis quidem veris. In hoc enim Regno, circumdato labefactatis falsis Divis, in hoc quidem Regno veri manent Divi...</entry>
+<entry name="GODSEEKER_WATERWAYS_AWAKE_3_REPEAT">Nidus Sacer. Regnum beatum Dis, et Dis quidem veris. In hoc enim Regno, circumdato labefactatis falsis Divis, in hoc quidem Regno veri manent Divi...</entry>
+<!-- BAD? Concinuisti cum huius terrae compluribus Divis -->
+<entry name="GODSEEKER_WATERWAYS_AWAKE_ALLGODS">O humile animal. Sublime, mirumque tu humile animal. O, Divorum omnium tu dilectissimum oblectamentum! Impleta est Nostra mens potentiis huius regni. Opulentis. Nitidis. Claris.&lt;page&gt;Consonum te fecisti huius terrae compluribus Divis. Quanta enim potestas in te. An vero Perfectio ista&#39;st? Quae vel nostrae quidem conchae sit gloriosissimae compar...</entry>
+<!-- BAD? Et Nostra sic manebit -->
+<entry name="GODSEEKER_WATERWAYS_WHITEFLOWER">Praebesne hostiam? Etiam, ut videtur. Hostiam obtulisti Nobis. Rarus flos, tenuis et purus. Non tamen Deus. Nihil in hoc inest divini. Tamen...&lt;page&gt;Quid tu, humile animal, vis pro hoc? Corium Nostrum, durum et praelucidum, ut patiamur ut tangas? Faciem Nostram, venustam et larvula tectam, ut intueare sinamus? Mira quidem postulas nunc!&lt;page&gt;Immo. Minime haec! Flagitat nimium istud animalculum. Haec quidem nunc Nostra&#39;st. Et Nostra sic manebit. Itidem et Nostra mysteria talia, ut oportet, manebunt.</entry>
+<!-- BAD assimulant / qui se assimulant multiformes -->
+<entry name="GODSEEKER_WATERWAYS_WHITEFLOWER_REPEAT">Di. Quot formas assimulant. Quid tum hic flos? Eorum fragmentum? Putamina? An alicuius rei grandioris reliquiae?&lt;page&gt;Minime. Nihil inauditur. Siquid hic canit... Id Nos non audimus.</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_WATERWAYS_WORLD_TUNE_EXTRA">Concentus.. quod difficile opus. Numquam perfectum. Nos, inferiores, Nostram quisque ad mundum copulamur potentiam. Persequere quod damus... Divos auscultato. Resona. Assona. Concine concinne!</entry>
+
+<!-- BAD? sonis tui repentis -->
+<!-- BAD? assonare cupimus/studemus -->
+<entry name="GODSEEKER_ENGINE">Quid tu, miserabilis, irrepsisti haec ad altaria? Qui sonis tui repentis nobis perturbas potiores, illos quidem divinos ad quos Nos assonamus!&lt;page&gt;An vero consulto tu nostrum sacrum deturbas propositum? Ad tantumne invidia te compulit scelus?&lt;page&gt;Oramus Nos Deos omnes huius Regni ut perduint te, deleant te, oblitterent te, funditusque te evertant!</entry>
+<!-- BAD?? causis a mortalibus ignotis -->
+<entry name="GODSEEKER_ENGINE_2">O, utinam Di istam molestam maculam pusillam perduint quam cito! Ne tu quam Nostram patientiam temptas, vermicule, cum istum aculeum vibras immundum in Deos!&lt;page&gt;Non quidem tu indiges fortuna, pusille, quod Di horum altarium, causis mortalibus ignotis, vivo etiamnunc tibi potestatem faciunt sui!&lt;page&gt;At ii profecto supplicium iam comparant divinum tuum, ultra omnem mortalem imaginationem cruentius. Cave malo, si sapis! Cave malo!</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_3">Etiam perseveras, sceleste! Quid consilii est tui, haec altaria foedare praesentia tua? An gloria est quam petis, inanissume?&lt;page&gt;Nostrum propositum minus intelligis. Per proelia sacrosancta ad concentum divorum Nos informamur.&lt;page&gt;Et sic ii Nos adducunt superius! Et sic superius, superius, et etiam superius! Donec per divinam animi intentionem, communionem Nos adipiscemur cum illa magna potestate, in corde huius Regni sopita...</entry>
+<entry name="GODSEEKER_ENGINE_REPEAT">I porro, incede, miserrume, ut te perdant divi!</entry>
+<entry name="GODSEEKER_ENGINE_REPEAT_2">Ne hic manseris, ignavissume! I porro, et poenas divinas quas meres dato!</entry>
+<!-- BAD ritum attunement -->
+<entry name="GODSEEKER_ENGINE_REPEAT_3">An non intelligis Nostra verba? Non interimare ab horum altarium Divo? Non Nos sinas procedere sacerrimum ritum?</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_DREAM">O Divi Nidi Sacri, ostendite Nobis vestram potentiam! Ad quam conformemus Nos et sursus ascendamus!</entry>
+<!-- BAD?? an tuas vires modo temptas per lusum? -->
+<entry name="GODSEEKER_ENGINE_REVISIT">Cur revertisti ad haec altaria, quorum fastigium pridem ascendisti?&lt;page&gt;Hocine modo appropinques ad Divos? An tuas vires modo temptas per lusum?</entry>
+
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_GGMODE">O Deum Omnium Deus! Quam plane, quam manifeste, talis concha exigua tuam pollentiam et inexorabilem gloriam hau possit obtegere!&lt;page&gt;Pro, pudor pudorum, quod veritas apertissima nos fefellit! Sume supplicium de nobis, o Vorator! Opprime nos! Pluant in nos aculei, verberibus dignos Nos miserabiles flagella! Grate divinam nostrae temeritatis accipimus mercedem!</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_DREAM_GGMODE">Omnia Nostra dedamus tibi. Nostram concham. Nostram mentem. Nihil sumus prae te nisi infimum mancipium, o gloriosissime Deum Omnium Deus!</entry>
+<!-- BAD? desiderium desideriorum -->
+<entry name="GODSEEKER_ENGINE_REPEAT_GGMODE">Castiga Nostram concham, o Deum Omnium Deus! Combure ad cineres Nostrum fragile vilissimumque corpus! Adveniat tuam iram! O desiderium desideriorum!</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_REVISIT_GGMODE">O Deum Omnium Deus, quae omni ceterae divinitati antestas, et quasi viles mortales reliquos divos prae te facis! Vere tu es quam petimus. Nostri anuli resonant plene tuo splendore.</entry>
+
+<!-- BAD? iniuria iniuriarum -->
+<entry name="GODSEEKER_ENGINE_T5">Iniuria iniuriarum! Ne in summis quidem altaribus remotis, te vitare quimus.&lt;page&gt;O parve aculeator, Animi vorax, quid es tu? Esne nuntius Deorum... an aliquid singularius?&lt;page&gt;Non iam obstiterimus tibi, persevera in proeliis tuis. Nos attente auscultabimus...</entry>
+<!-- BAD? caerimonia -->
+<entry name="GODSEEKER_ENGINE_REPEAT_T5">Persevera in proeliis tuis, peregrine, et in caerimonia tua. Nos attente auscultabimus...</entry>
+
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_ROOT">O malum, o miseriam! Haec magnifica Dea, quam facile a nostro concentu se occultat!&lt;page&gt;At Nobis, qui serviendis divis petendis exsistimus, cur Diva haec taliter obsistit? Quomodo a Nobis se occultat? Quorsum ita minorem se facit sua sponte?</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_ROOT_REPEAT">O summa maiestas, oramus ut ostendas te Nobis! Oh, quanto Nostra mens minor est facta, tui indigens!...</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_ROOT_DREAM">Alba mater... Vix ausimus opinari. Ad tuum conspectum venire Nos hau verisimile est.... at sonos tuos! An te unam Illorum fatentur?</entry>
+
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_PRIME">Reverere, o miser. Verere Dei, cui appropinquas grandi et terribili!&lt;page&gt;Tametsi mortali corpore vincto et foedato, gloria purissimae eius formae manet, horum altarium domini. Per eius infinitam potentiam, Nos attinebimus etiam maiorem, illam Deorum Omnium Dei!&lt;page&gt;Tene, o miserabilis, parem arbitrare huius Dei? Tuamne sui existimas imaginem consimilem? At quidem consimili assimulas te specie, nec non insueto resonat sono animum tuum...&lt;page&gt;Heu, nefas! Qualem ad impietatem tu, scelerate, Nostram mentem inducis! Apage te! Precamur ut inanitatis Deus te comprimat perpetuo!</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_PRIME_DREAM">O vinculis constricte, cuius silentium nostras aures exsurdat. Stulte nos metuebamus te, cuius tuam solam ob providentiam, quem petimus Nos inveniemus, intus qui sopitus est Deum...</entry>
+<entry name="GODSEEKER_ENGINE_PRIME_REPEAT">Tu nullus est Deus! Apage, simulator! Tace!</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_PRIME_REVISIT">Redis ad aculeos micandos contra Vas merum. Qua de causa, miramur.&lt;page&gt;Sicine per proelium accedas ad Deos? Desiderasne etiam tu ad concentum conformari Divorum? An aliud est desiderium quod intus conservas?</entry>
+
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_WYRM">Quamvis iamdiu excessisset, eius candorem etiam clare percipimus, qui in hoc solio consedisset, potentissimi Divi... Et enim onuste hoc Regnum suo pondere gravatur.&lt;page&gt;Vel sola enim vestigia eius potestatis Nos ad Nidum Sacrum adduxerunt. Quam clare enituisse oportet suo tempore in oculis mortalibus!</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_WYRM_DREAM">O Divine Rex, qui tuam figuram redegisti comparem nostrae miserabilis... cur tam magnificam deposuisti speciem?&lt;page&gt;Certe enim, tua pristina magnificentia etiam maiorem suscitavisset venerationem!</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_WYRM_REPEAT">Divus tam pollens... atque oblitteratus omnino. Qui potuit fieri?</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_UNN">O Dive Sopite, prope non sentimus tuam praesentiam inter reliqua viridia. Quam olim possidebas potentiam, vanescit inter tempora et concentum...</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_UNN_DREAM">O Dive Sopite, ut te videremus ut quondam fuisti, in terra somnio religioneque, dederemus etiam mentem Nostram...</entry>
+<!-- BAD? -->
+<entry name="GODSEEKER_ENGINE_UNN_REPEAT">Quam spectabilem magnitudinem, etiam in suo obitu. O si doceres nos modum, quo tam ingentes crescamus...</entry>
+
+
+<entry name="GODSEEKER_WASTE_SUPER"></entry>
+<entry name="GODSEEKER_WASTE_MAIN">Congeries</entry>
+<entry name="GODSEEKER_WASTE_SUB"></entry>
+
+
+<entry name="GODSEEKER_COFFIN_NOKEY">Chrysalis, occlusa rudi claustello.</entry>
+<entry name="GODSEEKER_COFFIN_KEY">Chrysalis, occlusa rudi claustello.&lt;br&gt;Inseresne Clavem Rudem?</entry>
+
+<entry name="ATRIUM_ENTER_TEXT">Opprobrium! Probrum, scelus, nefas!&lt;br&gt;&lt;page&gt;Tu, foedissime! Tu, animal vilissime! Tu, pusillorum pusillissime!&lt;br&gt;&lt;page&gt;Quo iure huc tibi ingressio est, in domum Deum? Hinc, iubeo, te discedere et abire! Apage te!</entry>
+<entry name="ATRIUM_NPC_DREAM_1">...Nostra mens, sicut oceanus...</entry>
+<entry name="ATRIUM_NPC_DREAM_2">O petitor divorum...</entry>
+<entry name="ATRIUM_NPC_DREAM_3">...Accine...</entry>
+<entry name="ATRIUM_NPC_DREAM_4">...Pons...</entry>
+<entry name="ATRIUM_NPC_DREAM_5">Appete... potestatem...</entry>
+
+<!-- BAD? ad concentum informamur -->
+<entry name="PANTHEON_ENTER_0">O miserrume et nequissime! Sanxisti modo exitium tuum!&lt;br&gt;&lt;page&gt;Per sacra proelia Nos ad concentum informamur huius Regni potentissimorum animorum. Hanc portam transgressus, Divos hoc Regnum qui incolunt lacessisti omnes!&lt;br&gt;&lt;page&gt;Putasne te parem horum altarium, vel eorum dominorum? Educ ergo aculeum tuum, fatue fatuorum, et tuam ob superbiam ad supplicium damnare!</entry>
+<!-- BAD ritum -->
+<entry name="PANTHEON_ENTER_1">O ingratissima labes! Ex eorum infinita misericordia, Di permiserunt tibi ut ex primis altaribus vivus videlicet evaderes, sed quid ultro perseveras in temptandam eorum potestatem?&lt;br&gt;&lt;page&gt;Esto, pessum te ipsum dato, ut Nos pergamus nostrum ritum, intentis animis ut ad altiora Nostras mentes efferamus!</entry>
+<!-- BAD perge porro -->
+<entry name="PANTHEON_ENTER_2">Infima belva! Caecissime vermis! Etiam Divos lacessis? Quo nutu divino perstas in eorum conspectu, ubi nemo resistit alter?&lt;br&gt;&lt;page&gt;Fiat ergo, pugna et perge luctari. Nos avidi exspectamus interitum tuum!</entry>
+<!-- BAD adcinemus canemus -->
+<entry name="PANTHEON_ENTER_3">O Divi Nidi Sacri, benigne qui portas ad summa altarium aperitis! Propinquior fit vestra vox, et resonantia vestra ad altiora Nos ducit!&lt;br&gt;&lt;page&gt;Orabimus, Canemus Nos vobiscum, donec illa divinae lucis favilla e profundissimis elucebit tenebris obscuris!</entry>
+
+
+<entry name="GG_UNLOCK_BODY">Provoca Divos Nidi Sacri ad proelium. Sedem in eorum fastigio acquire.</entry>
+<entry name="GG_UNLOCK_INSPECT">Instrumentum resonans, ex concha factum.</entry>
+<entry name="GG_UNLOCK_TALK">....Di Nostri futuri. Petemus vos Devoti...</entry>
+<entry name="GG_UNLOCK_TALK_REPEAT">Ducant nos hi venti ad vos, o di cari...</entry>
+<entry name="GG_UNLOCK_TALK_DREAM">Qui di, qui nos a silentio servent nostrae mentis?</entry>
+<entry name="GG_UNLOCK_FINAL_TALK">Barbare! Lacessitor! Qui has sacras memorias ingredere contumeliose? Apage te! Abi!</entry>
+
+
+<!-- Fluke Hermit -->
+<entry name="FLUKE_HERMIT_PRAY">Gla! Wualala!&lt;page&gt;Mater! Ma-mater! Gla gla gla! Sorores... crescite crescite crescite!&lt;page&gt;Gla gla... Mater... &lt;br&gt;Egone... Mater...? Gla gla...</entry>
+<entry name="FLUKE_HERMIT_PRAY_REPEAT">Gla gla... Mater... &lt;br&gt;Egone... Mater...? Gla gla...</entry>
+<entry name="FLUKE_HERMIT_IDLE_1">Gla gla... Crescite, crescite... Bene umidae...</entry>
+<entry name="FLUKE_HERMIT_IDLE_2">Quem clamorem... Gla gla... Quem timorem... Hic manete, gla...</entry>
+<entry name="FLUKE_HERMIT_IDLE_3">Gla gla... Thesaurum mittit Mater... Capite...</entry>
+<entry name="FLUKE_HERMIT_IDLE_4">Tutae, gla... Parvae Sorores... Gla gla...</entry>
+<entry name="FLUKE_HERMIT_IDLE_5">Fortiores... Gla gla... Maiores... Mater...</entry>
+<entry name="FLUKE_HERMIT_PEERING">Gla! Gla! Mira res... latescit... opperiturne? Gla gla!&lt;page&gt;Thesaurus Matris... horrificus nimis, gla. Abi, gla gla!</entry>
+<entry name="FLUKE_HERMIT_PEERING_DREAM">Videtne me? Olfacitne me? Ohhh, Mater!</entry>
+<entry name="FLUKE_HERMIT_DREAM">Lux Matris... irata... iracunda...</entry>
+<entry name="FLUKE_HERMIT_SUPER">Sentina</entry>
+<entry name="FLUKE_HERMIT_MAIN">Eremita</entry>
+<entry name="FLUKE_HERMIT_SUB"></entry>
+
+<entry name="NAME_FAT_FLUKE">Flukemunga</entry>
+<entry name="DESC_FAT_FLUKE">Aged fluke, grown fat on the rich refuse found in the pipes below the capital.</entry>
+<entry name="NOTE_FAT_FLUKE">When predators are too successful the surplus food they eat becomes soft bulk wrapped around their bodies. Still, these creatures at least seem to make good use of their additional weight.</entry>
+
+
+</entries>

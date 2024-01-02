@@ -1,0 +1,323 @@
+<entries>
+<!-- TL Note:
+Names mostly fine, descriptions bad.
+
+TL 99%
+Check 20%
+Confidence 0%
+-->
+<entry name="ACH_TITLE_TEST">This is a test achievement title</entry>
+<entry name="ACH_TEXT_TEST">This is a test achievement description</entry>
+<entry name="HIDDEN_ACHIEVEMENT_TITLE">Secret</entry>
+<entry name="HIDDEN_ACHIEVEMENT">This achievement is hidden</entry>
+
+
+
+<!-- CHARM -->
+<!-- Charmed -->
+<!-- Acquire your first Charm. -->
+<entry name="CHARMED_TITLE">Ornatus</entry>
+<entry name="CHARMED_TEXT">Acquire primum Amuletum.</entry>
+<!-- Enchanted -->
+<!-- Acquire half of Hallownest's Charms. -->
+<entry name="ENCHANTED_TITLE">Incantatus</entry>
+<entry name="ENCHANTED_TEXT">Acquire dimidiam partem omnium Amuletorum.</entry>
+<!-- Blessed -->
+<!-- Acquire all Charms and receive Salubra's Blessing. -->
+<entry name="BLESSED_TITLE">Gratiosus</entry>
+<entry name="BLESSED_TEXT">Acquire cuncta Amuleta, atque Gratiam accipe Salubrae.</entry>
+
+<!-- MASK -->
+<!-- Protected -->
+<!-- Acquire 4 Mask Shards. -->
+<entry name="PROTECTED_TITLE">Personatus</entry>
+<entry name="PROTECTED_TEXT">Acquire Fragmenta Larvae 4.</entry>
+<!-- Masked -->
+<!-- Acquire all Mask Shards. -->
+<entry name="MASKED_TITLE">Larvatus</entry>
+<entry name="MASKED_TEXT">Acquire omnia Fragmenta Larvae.</entry>
+
+<!-- VESSEL -->
+<!-- Soulful -->
+<!-- Acquire 3 Vessel Fragments. -->
+<entry name="SOULFUL_TITLE">Animatus</entry>
+<entry name="SOULFUL_TEXT">Acquire Fragmenta Vasis 3.</entry>
+<!-- Worldsoul -->
+<!-- Acquire all Vessel Fragments. -->
+<entry name="WORLDSOUL_TITLE">Anima Mundi</entry>
+<entry name="WORLDSOUL_TEXT">Acquire omnia Fragmenta Vasis.</entry>
+
+<!-- GRUBS -->
+<!-- Grubfriend -->
+<!-- Rescue half of the imprisoned grubs. -->
+<entry name="GRUBFRIEND_TITLE">Amicus Tinearum</entry>
+<entry name="GRUBFRIEND_TEXT">Serva dimidiam partem Tineolarum captivarum.</entry>
+<!-- Metamorphosis -->
+<!-- Rescue all of the imprisoned grubs. -->
+<entry name="METAMORPHOSIS_TITLE">Metamorphosis</entry>
+<entry name="METAMORPHOSIS_TEXT">Serva omnem Tineolam captivam.</entry>
+
+<!-- STATIONS -->
+<!-- Connection -->
+<!-- Open half of Hallownest's Stag Stations. -->
+<entry name="STAG_STATION_HALF_TITLE">Connexio</entry>
+<entry name="STAG_STATION_HALF_TEXT">Restaura omnium Nidi Sacri Stationum Scarabaearum partem dimidiam.</entry>
+<!-- Hope -->
+<!-- Open all of Hallownest's Stag Stations and discover the Stag Nest. -->
+<entry name="STAG_STATION_ALL_TITLE">Spes</entry>
+<entry name="STAG_STATION_ALL_TEXT">Omnibus Stationibus Scarabaeis Nidi Sacri restauratis, comperi Nidum Scarabaeum.</entry>
+
+<!-- ESSENCE -->
+<!-- Attunement -->
+<!-- Collect 600 Essence. -->
+<entry name="ATTUNEMENT_TITLE">Accentus</entry>
+<entry name="ATTUNEMENT_TEXT">Collige 600 particulas Substantiae.</entry>
+<!-- Awakening -->
+<!-- Collect 1800 Essence and awaken the Dream Nail. -->
+<entry name="AWAKENING_TITLE">Accensus</entry>
+<entry name="AWAKENING_TEXT">1800 particulis Substantiae collectis, excita Aculeum Somniorum.</entry>
+<!-- Ascension -->
+<!-- Collect 2400 Essence and hear the Seer's final words. -->
+<entry name="ASCENSION_TITLE">Ascensus</entry>
+<entry name="ASCENSION_TEXT">2400 particulis Substantiae collectis, exaudi Sagae ultima verba.</entry>
+
+
+<!-- NPCS -->
+<!-- Neglect -->
+<!-- Leave Zote to die. -->
+<entry name="NEGLECT_TITLE">Neglectus</entry>
+<entry name="NEGLECT_TEXT">Mitte ad mortem certam Zotem.</entry>
+<!-- Witness -->
+<!-- Spend a final moment with Quirrel. -->
+<!-- BAD?? Testis? Testimonium? -->
+<entry name="QUIRREL_EPILOGUE_TITLE">Testamentum</entry>
+<entry name="QUIRREL_EPILOGUE_TEXT">Adsiste ultimae horae Quirrel.</entry>
+<!-- Purity -->
+<!-- Slay the Nailsmith with the Pure Nail. -->
+<entry name="NAILSMITH_KILL_TITLE">Perfectio</entry>
+<entry name="NAILSMITH_KILL_TEXT">Caede Fabrum Aculearium Aculeo Perfecto.</entry>
+<!-- Happy Couple -->
+<!-- Allow the Nailsmith to find a new calling. -->
+<entry name="NAILSMITH_SPARE_TITLE">Felices Duo</entry>
+<entry name="NAILSMITH_SPARE_TEXT">Concede Fabro Aculeario invenire novum artificium.</entry>
+<!-- Solace -->
+<!-- Bring peace to the Grey Mourner. -->
+<entry name="MOURNER_TITLE">Consolatio</entry>
+<entry name="MOURNER_TEXT">Affer solatium Cinereae Lugenti.</entry>
+
+
+<!-- Void -->
+<!-- Remember the past and unite the Abyss. -->
+<entry name="VOID_TITLE">Inane</entry>
+<entry name="VOID_TEXT">Recordare praeterita, et unum fi cum Abysso.</entry>
+
+<!-- Teacher -->
+<!-- Destroy Monomon the Teacher. -->
+<entry name="TEACHER_TITLE">Erudita</entry>
+<entry name="TEACHER_TEXT">Interime Eruditam Monomonem.</entry>
+<!-- Watcher -->
+<!-- Destroy Lurien the Watcher. -->
+<entry name="WATCHER_TITLE">Custos</entry>
+<entry name="WATCHER_TEXT">Interime Custodem Lurienum.</entry>
+<!-- Beast -->
+<!-- Destroy Herrah the Beast. -->
+<entry name="BEAST_TITLE">Belva</entry>
+<entry name="BEAST_TEXT">Interime Belvam Herram.</entry>
+
+
+<!-- BOSSES -->
+<!-- Falsehood -->
+<!-- Defeat the False Knight -->
+<entry name="FK_DEFEAT_TITLE">Mendacium</entry>
+<entry name="FK_DEFEAT_TEXT">Vince Equitem Falsum.</entry>
+<!-- Strength -->
+<!-- Defeat the Failed Champion -->
+<entry name="DREAM_FK_TITLE">Vires</entry>
+<entry name="DREAM_FK_TEXT">Vince Vindicem Defectum.</entry>
+
+<!-- Test of Resolve -->
+<!-- Defeat Hornet in Greenpath. -->
+<entry name="HORNET_1_TITLE">Periclitatio Constantiae</entry>
+<entry name="HORNET_1_TEXT">Vince Hornet in Via Viridi.</entry>
+<!-- Proof of Resolve -->
+<!-- Defeat Hornet in Kingdom's Edge. -->
+<entry name="HORNET_2_TITLE">Demonstratio Constantiae</entry>
+<entry name="HORNET_2_TEXT">Vince Hornet in Regni Finibus.</entry>
+
+<!-- Illumination -->
+<!-- Defeat the Soul Master. -->
+<entry name="SOUL_MASTER_DEFEAT_TITLE">Illuminatio</entry>
+<entry name="SOUL_MASTER_DEFEAT_TEXT">Vince Dominum Animi.</entry>
+<!-- Mortality -->
+<!-- Defeat the Soul Tyrant. -->
+<entry name="DREAM_SOUL_MASTER_DEFEAT_TITLE">Mortalitas</entry>
+<entry name="DREAM_SOUL_MASTER_DEFEAT_TEXT">Vince Tyrannum Animi.</entry>
+
+<!-- Release -->
+<!-- Defeat the Broken Vessel. -->
+<entry name="BROKEN_VESSEL_TITLE">Remissio</entry>
+<entry name="BROKEN_VESSEL_TEXT">Vince Vas Corruptum.</entry>
+<!-- Peace -->
+<!-- Defeat the Lost Kin. -->
+<entry name="DREAM_BROKEN_VESSEL_TITLE">Pax</entry>
+<entry name="DREAM_BROKEN_VESSEL_TEXT">Vince Germanum Perditum.</entry>
+
+<!-- Honour -->
+<!-- Defeat the Dung Defender. -->
+<entry name="DUNG_DEFENDER_TITLE">Honor</entry>
+<entry name="DUNG_DEFENDER_TEXT">Vince Defensorem Stercorarium.</entry>
+<!-- Memory -->
+<!-- Defeat White Defender. -->
+<entry name="WHITE_DEFENDER_TITLE">Memoria</entry>
+<entry name="WHITE_DEFENDER_TEXT">Vince Defensorem Album.</entry>
+
+<entry name="WHITE_DEFENDER2_TITLE">Amicitia</entry>
+<entry name="WHITE_DEFENDER2_TEXT">Obtine locum in somniis Defensoris Albi</entry>
+
+<!-- Respect -->
+<!-- Defeat the Mantis Lords. -->
+<!-- BAD?? Dignitas? -->
+<entry name="MANTIS_LORDS_TITLE">Honos et Decus</entry>
+<entry name="MANTIS_LORDS_TEXT">Vince Dominas Mantidum.</entry>
+<!-- Execution -->
+<!-- Defeat the Traitor Lord -->
+<entry name="TRAITOR_LORD_TITLE">Poena Capitis</entry>
+<entry name="TRAITOR_LORD_TEXT">Vince Dominum Perfidum.</entry>
+
+<!-- Obsession -->
+<!-- Defeat the Collector -->
+<entry name="COLLECTOR_TITLE">Collector</entry>
+<entry name="COLLECTOR_TEXT">Vince Collectorem.</entry>
+
+<!-- Warrior -->
+<!-- Complete the Trial of the Warrior. -->
+<entry name="COLOSSEUM_1_TITLE">Duellator</entry>
+<entry name="COLOSSEUM_1_TEXT">Supera Certamen Duellatorum.</entry>
+<!-- Conqueror -->
+<!-- Complete the Trial of the Conqueror. -->
+<entry name="COLOSSEUM_2_TITLE">Victor</entry>
+<entry name="COLOSSEUM_2_TEXT">Supera Certamen Victorum.</entry>
+<!-- Fool -->
+<!-- Complete the Trial of the Fool. -->
+<entry name="COLOSSEUM_3_TITLE">Fatuus</entry>
+<entry name="COLOSSEUM_3_TEXT">Supera Certamen Fatuum.</entry>
+
+<!-- Rivalry -->
+<!-- Defeat Zote in the Colosseum of Fools. -->
+<!-- BAD?? Rivalitas? -->
+<entry name="ZOTE_TITLE">Aemulatio</entry>
+<entry name="ZOTE_TEXT">Vince Zotem in Amphitheatro Fatuum.</entry>
+
+<!-- Dark Romance -->
+<!-- Defeat Grey Prince Zote. -->
+<entry name="GREY_PRINCE_TITLE">Obscurus Amor</entry>
+<entry name="GREY_PRINCE_TEXT">Vince Ducem Cinereum Zotem.</entry>
+<entry name="GREY_PRINCE2_TITLE">Veritas, Pulchritudo, Odium</entry>
+<entry name="GREY_PRINCE2_TEXT">Vince Aram Cinerei Ducis.</entry>
+
+<!-- Grand Performance -->
+<!-- Defeat Troupe Leader Grimm. -->
+<entry name="GRIMM_TITLE">Fabula Peracta</entry>
+<entry name="GRIMM_TEXT">Vince Dominum Gregis Grimm.</entry>
+<!-- Ritual -->
+<!-- Defeat the Nightmare King and complete the Ritual. -->
+<entry name="NIGHTMARE_GRIMM_TITLE">Caerimonia</entry>
+<entry name="NIGHTMARE_GRIMM_TEXT">Vince Incubum Regem, atque Caerimoniam suam perage.</entry>
+<!-- Banishment -->
+<!-- Banish the Grimm Troupe from Hallownest. -->
+<entry name="BANISHMENT_TITLE">Exsilium</entry>
+<entry name="BANISHMENT_TEXT">Expelle e Nido Sacro Gregem Scaenicum Grimm.</entry>
+
+
+
+<!-- COMPLETION -->
+<!-- Cartographer -->
+<!-- Acquire a map of each area. -->
+<entry name="MAP_TITLE">Chartarius</entry>
+<entry name="MAP_TEXT">Acquire chartam uniuscuiusque regionis.</entry>
+
+<!-- Keen Hunter -->
+<!-- Record all of Hallownest's creatures in the Hunter's Journal. -->
+<entry name="HUNTER_1_TITLE">Probus Venator</entry>
+<entry name="HUNTER_1_TEXT">Describe in Diurnis Venatoris omnem bestiam Nidisacrensem.</entry>
+<!-- True Hunter -->
+<!-- Receive the Hunter's Mark. -->
+<entry name="HUNTER_2_TITLE">Verus Venator</entry>
+<entry name="HUNTER_2_TEXT">Accipe Cornu Venatoris.</entry>
+
+<!-- Speedrun 1 -->
+<!-- Complete the game in under 10 hours. -->
+<entry name="SPEEDRUN_1_TITLE">Certamen Celeritatis I</entry>
+<entry name="SPEEDRUN_1_TEXT">Ludum perfice intra 10 horas.</entry>
+<!-- Speedrun 2 -->
+<!-- Complete the game in under 5 hours. -->
+<entry name="SPEEDRUN_2_TITLE">Certamen Celeritatis II</entry>
+<entry name="SPEEDRUN_2_TEXT">Ludum perfice intra 5 horas.</entry>
+<!-- Speed Completion -->
+<!-- Achieve 100% game completion and finish the game in under 20 hours. -->
+<entry name="SPEED_COMPLETION_TITLE">Celerrima Completio</entry>
+<entry name="SPEED_COMPLETION_TEXT">Ludum ad gradum 100% completum perfice intra 20 horas.</entry>
+
+<!-- Completion -->
+<!-- Achieve 100% game completion and finish the game. -->
+<entry name="COMPLETION_TITLE">Magnum Opus</entry>
+<entry name="COMPLETION_TEXT">Ludum ad gradum 100% completum perfice.</entry>
+<!-- Pure Completion -->
+<!-- Achieve 112% game completion and finish the game. -->
+<entry name="COMPLETIONGG_TITLE">Maximum Opus</entry>
+<entry name="COMPLETIONGG_TEXT">Ludum ad gradum 112% completum perfice.</entry>
+
+<!-- Steel Soul -->
+<!-- Finish the game in Steel Soul mode. -->
+<!-- BAD?? Animus Ferreus? -->
+<entry name="STEELSOUL_TITLE">Anima Ferrea</entry>
+<entry name="STEELSOUL_TEXT">Ludum perfice in Modo q.e. &quot;Anima Ferrea&quot;.</entry>
+<!-- Steel Heart -->
+<!-- Achieve 100% game completion and finish the game in Steel Soul mode. -->
+<!-- BAD?? Cor Ferreum? -->
+<entry name="STEELSOUL_COMPLETION_TITLE">Cor Ferreum</entry>
+<entry name="STEELSOUL_COMPLETION_TEXT">Ludum ad gradum 100% completum perfice in Modo q.e. &quot;Anima Ferrea&quot;.</entry>
+
+
+<!-- PANTHEON -->
+<!-- Brotherhood -->
+<!-- Complete the Pantheon of the Master. -->
+<entry name="PANTHEON1_TITLE">Fraternitas</entry>
+<entry name="PANTHEON1_TEXT">Supera Aram Magistri.</entry>
+<!-- Inspiration -->
+<!-- Complete the Pantheon of the Artist. -->
+<entry name="PANTHEON2_TITLE">Inspiratio</entry>
+<entry name="PANTHEON2_TEXT">Supera Aram Artificis.</entry>
+<!-- Focus -->
+<!-- Complete the Pantheon of the Sage. -->
+<entry name="PANTHEON3_TITLE">Intentio</entry>
+<entry name="PANTHEON3_TEXT">Supera Aram Prudentis.</entry>
+<!-- Soul &amp; Shade -->
+<!-- Complete the Pantheon of the Knight. -->
+<entry name="PANTHEON4_TITLE">Animus &amp; Umbra</entry>
+<entry name="PANTHEON4_TEXT">Supera Aram Equitis.</entry>
+
+<!-- ENDINGS -->
+<!-- The Hollow Knight -->
+<!-- Defeat the Hollow Knight and become the Vessel. -->
+<entry name="ENDING_A_TITLE">Eques Cassus</entry>
+<entry name="ENDING_A_TEXT">Depelle Equitem Cassum, atque fi novum Vas.</entry>
+<!-- Sealed Siblings -->
+<!-- Defeat the Hollow Knight with Hornet by your side. -->
+<!-- BAD -->
+<entry name="ENDING_B_TITLE">Fratres Devincti</entry>
+<entry name="ENDING_B_TEXT">Devince Equitem Cassum, una cum Hornet.</entry>
+<!-- Dream No More -->
+<!-- Defeat the Radiance and consume the light. -->
+<entry name="ENDING_C_TITLE">Desine Somniare</entry>
+<entry name="ENDING_C_TEXT">Devince Lucem Excelsam, eiusque splendorem consume.</entry>
+<!-- Embrace the Void -->
+<!-- Ascend the Pantheon of Hallownest and take your place at its peak. -->
+<entry name="ENDINGD_TITLE">Amplectere Inane</entry>
+<entry name="ENDINGD_TEXT">Ascende Altaria Nidi Sacri, tuumque locum occupa in eorum fastigio.</entry>
+<!-- Passing of the Age -->
+<!-- Aid the Herald in moving on. -->
+<!-- BAD -->
+<entry name="MR_MUSHROOM_TITLE">Transitus Aevi</entry>
+<entry name="MR_MUSHROOM_TEXT">Adiuva Caduceatori procedere.</entry>
+</entries>

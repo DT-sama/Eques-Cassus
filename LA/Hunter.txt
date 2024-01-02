@@ -1,0 +1,30 @@
+<entries>
+<!-- TL note:
+The translation is suspicious, but I wanted to give it an animalistic feel.
+It needs better word choices more than anything.
+It needs nothing because it's done now.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+
+<!--
+Venator, -oris.
+-->
+
+<entry name="HUNTER_MEET">O parva bestiola... sine metu ad me accedis. Esne tu quoque venator?&lt;page&gt;Te quoque impellit natura appetere, occidere, comprehendere?&lt;page&gt;Accipe ergo! Commentaria mea sunt. Auxilio tibi erunt. Principio profecto erunt ad legendum difficilia, at venatione factus peritior, gradatim mea verba animo comprehendes.&lt;page&gt;Ito ergo usque ad radices huius terrae, et caedito eius quamque bestiam, teque demum Venatoris insigne esse meritum demonstra.</entry>
+
+<entry name="HUNTER_CONVO_1">O bestiola! Nonnullas cecidisse bestias videris, at nunc demum coepta venatio&#39;st.&lt;page&gt;Noli demorari, et descende usque ad ventrem huius mundi, et bestias quasquas inveneris venator!</entry>
+<entry name="HUNTER_CONVO_2">Ahhh... vel visu id cognoram, plane te esse praeditum indole venatica. Nidi Sacri quaeque bestia prae te cadet.&lt;page&gt;Noli desistere nunc, o parva bestiola, et plures bestias comperito, aggreditor, occidito.</entry>
+<entry name="HUNTER_CONVO_3">Ah ha! Vide quam crescunt diurna tua! Restant autem venandae tibi hae paucae bestiae rarae tantum.&lt;page&gt;Rimator reliquum regnum. Diurna perficito. Praemium tuum de me mereto...</entry>
+
+<entry name="HUNTER_ENTRIES_COMPLETED">Omnes ergo huius terrae bestias comperisti. Probe! Igitur, unum restat tibi, o parva bestiola.&lt;page&gt;Perge eas venari, donec commentarios meos totos intellegas! Tunc demum, venatorem atque sodalem te asciscam, et praemium de me meritus eris.</entry>
+<entry name="HUNTER_COMPLETE">Ista diurna... cedo adspiciam!&lt;page&gt;Io Venator! Diurna Venatoris sunt completa!&lt;page&gt;Itaque verum te exhibuisti venatorem, caedendi magistrum, et magno cum gaudio nunc praemium tibi pro merito dabo...</entry>
+<entry name="COMPLETE_REPEAT">Itaque verum te exhibuisti venatorem, caedendi magistrum, et magno cum gaudio nunc praemium tibi pro merito dabo...</entry>
+
+<entry name="GOT_MARK">Nunc meum signum geris, et rarissimae meae tribus te agnovi. O Venator, nihil iam habeo, quod tibi dem.</entry>
+<entry name="GOT_REVISIT">O Venator. Hucine redis? Iam bene meritus de me es. Ego hic opperiar, usque ad meum iterum venandi tempus.&lt;page&gt;Nam verus Venator nullam habet sedem, ad nullum pertinet regnum, et avidu&#39;st proximae venandae praedae.&lt;page&gt;Nunc meum signum geris, at nunc quidem coepta venatio&#39;st. Nam id insigne fiet pars tui, et inseret se in imo tuo corde, et ista venandi aviditas... Ea numquam te relinquet.</entry>
+
+<entry name="HUNTER_DREAM">Etiam fortior est quam ego... Nescitne? An etiam me aliquando rediet venaturus? Utinam conetur.</entry>
+</entries>

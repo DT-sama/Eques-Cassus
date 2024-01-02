@@ -1,0 +1,133 @@
+<entries>
+<entry name="NONE"></entry>
+<entry name="TEST_AREA">Area Experimenti</entry>
+
+<!-- Dirtmouth -->
+<entry name="TOWN">Pulveria</entry>
+<!-- King's Pass -->
+<entry name="KINGS_PASS">Semita Regis</entry>
+
+<!-- Forgotten Crossroads -->
+<entry name="CROSSROADS">Tramites Relicti</entry>
+<!-- Infected Crossroads -->
+<!-- Ancestral Mound -->
+<entry name="SHAMAN_TEMPLE">Pristina Delubra</entry>
+<!-- Temple of the Black Egg -->
+<entry name="FINAL_BOSS">Ovum Nigrum</entry>
+
+<!-- Greenpath -->
+<entry name="GREEN_PATH">Via Viridis</entry>
+<!-- Lake of Unn -->
+<entry name="ACID_LAKE">Lacus Unni</entry>
+<!-- Stone Sanctuary -->
+<entry name="NOEYES_TEMPLE">Sanctuarium Lapidis</entry>
+
+
+<!-- Fungal Wastes -->
+<entry name="WASTES">Deserta Fungina</entry>
+<!-- Fungal Core -->
+<!-- Mantis Village -->
+<entry name="MANTIS_VILLAGE">Pagus Mantidum</entry>
+<!-- Queen's Station -->
+<entry name="QUEENS_STATION">Statio Reginae</entry>
+
+<!-- Howling Cliffs -->
+<entry name="CLIFFS">Rupes Stridentes</entry>
+<!-- Joni's Repose -->
+<entry name="JONI_GRAVE">Sepulchrum Joni</entry>
+<!-- Stag Nest -->
+
+
+<!-- City of Tears -->
+<entry name="CITY">Urbs Lachrymarum</entry>
+<!-- King's Station -->
+<entry name="KINGS_STATION">Statio Regis</entry>
+<!-- Pleasure House -->
+<!-- Soul Sanctum -->
+<entry name="MAGE_TOWER">Sacrarium Animi</entry>
+<entry name="SOUL_SOCIETY">Sacrarium Animi</entry>
+<!-- Tower of Love -->
+<entry name="LOVE_TOWER">Turris Amoris</entry>
+<!-- Watcher's Spire -->
+<entry name="LURIENS_TOWER">Turris Custodis</entry>
+
+<!-- Royal Waterways -->
+<entry name="WATERWAYS">Aquaeductus Regales</entry>
+<!-- Isma's Grove -->
+<entry name="ISMAS_GROVE">Lucus Ismae</entry>
+<!-- Junk Pit -->
+<entry name="GODSEEKER_WASTE">Congeries</entry>
+
+
+<!-- Resting Grounds -->
+<entry name="RESTING_GROUNDS">Requietorium</entry>
+<!-- Blue Lake -->
+<entry name="BLUE_LAKE">Lacus Caeruleus</entry>
+<!-- Shrine of Believers -->
+<!-- Spirits' Glade -->
+<entry name="GLADE">Nemora Manium</entry>
+
+<!-- Queen's Gardens -->
+<entry name="ROYAL_GARDENS">Horti Reginae</entry>
+
+
+<!-- Fog Canyon -->
+<entry name="FOG_CANYON">Fauces Caliginum</entry>
+<!-- Overgrown Mound -->
+<entry name="OVERGROWN_MOUND">Tumulus Ingens</entry>
+<!-- Teacher's Archive -->
+<entry name="MONOMON_ARCHIVE">Archivum Eruditae</entry>
+
+<!-- Kingdom's Edge -->
+<entry name="OUTSKIRTS">Regni Fines</entry>
+<!-- Cast-Off Shell -->
+<entry name="WYRMSKIN">Putamina</entry>
+
+
+<!-- Crystal Peaks -->
+<entry name="MINES">Mons Crystalli</entry>
+<!-- Crystalised Mound -->
+<entry name="CRYSTAL_MOUND">Moles Crystallina</entry>
+<!-- Hallownest's Crown -->
+<entry name="PEAK">Nidi Sacri Fastigium</entry>
+
+<!-- Colosseum of Fools -->
+<entry name="COLOSSEUM">Amphitheatrum Fatuum</entry>
+<!-- The Hive -->
+<entry name="HIVE">Alveare</entry>
+
+
+<!-- Ancient Basin -->
+<entry name="ABYSS">Prisca Lacuna</entry>
+<!-- Palace Grounds -->
+<entry name="PALACE_GROUNDS">Regalia</entry> <!-- BAD -->
+<entry name="ROYAL_QUARTER">Regalia</entry>
+<!-- Hidden Station -->
+
+<!-- White Palace -->
+<entry name="WHITE_PALACE">Domus Alba</entry>
+<!-- Path of Pain -->
+
+<!-- Deepnest -->
+<entry name="DEEPNEST">Nidus Inferus</entry>
+<!-- Beast's Den -->
+<entry name="BEASTS_DEN">Antrum Belvae</entry>
+<!-- Failed Tramway -->
+<entry name="RUINED_TRAMWAY">Carrus Derelictus</entry>
+<entry name="TRAM_LOWER">Carruca Inferior</entry>
+<entry name="TRAM_UPPER">Carruca Superior</entry>
+<!-- Distant Village -->
+<entry name="DISTANT_VILLAGE">Pagus Remotus</entry>
+<!-- Weavers' Den -->
+
+<!-- The Abyss -->
+<entry name="ABYSS_DEEP">Abyssus</entry>
+
+
+<!-- Godhome -->
+<entry name="GODS_GLORY">Aedes Divina</entry>
+
+<entry name="DREAM_WORLD">Regnum Somniorum</entry>
+
+<entry name="BONE_FOREST">Silva Ossium</entry> <!-- UNUSED -->
+</entries>

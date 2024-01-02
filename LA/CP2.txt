@@ -1,0 +1,251 @@
+<entries>
+<!-- TL note:
+It has been done.
+
+TL 95%
+Check 20%
+Confidence 10%
+-->
+
+<entry name="PLAQUE_WARN">Ad secreta aperienda, durissimum erit tibi patiendum tormentum.</entry>
+<entry name="PROMPT_FRAGILE_HEART">Tradesne hoc Amuletum, Fragile Cor?</entry>
+<entry name="PROMPT_FRAGILE_GREED">Tradesne hoc Amuletum, Fragile Cornu?</entry>
+<entry name="PROMPT_FRAGILE_STRENGTH">Tradesne hoc Amuletum, Fragile Robur?</entry>
+<entry name="UI_CHARM_LOST">Amuletum Amissum</entry>
+
+<!-- ELDERBUG -->
+<!-- TL note:
+More stuff.
+
+TL 100%
+Check 50%
+Confidence 40%
+-->
+<entry name="ELDERBUG_GRIMM">Vae misero mihi! Aspice illoc! Quid mali et funesti est nam, quod meo modo in oppidulo apparuit?&lt;page&gt;Hei, ut iam male formido. Ignorabo id omnino.</entry>
+<!-- BAD?? -->
+<entry name="ELDERBUG_GRIMM_DREAM">Vah! Curnam isti scelerati advenae, in nostrum tranquillum oppidulum invadentes, sint mihi umquam ferendi? Eheu, ita mihi interdum fieri videtur, quasi mundus totus molestiis ut me afficeret coniurarit.</entry>
+<!-- BAD? -->
+<entry name="ELDERBUG_NYMM">Hahahae! Ita est, abite, apage! Nunc tandem, cum illi taeterrimi bacchantes discesserint, oppidulum nostrum tranquillum ut erat reversum est, sic ut placet mihi.&lt;page&gt;Et etiam novum oppidanum acquisivimus! Vide enim, ecce hunc inveni, paulum confuse circumerrantem iuxta oppidi limites. Ait autem se loco procul remoto huc devenisse, at parum plus hac re meminisse de se.&lt;page&gt;Sed quisquis is est, etiam bonus fidicen esse videtur, quod valde oppidulo nostro iuvet. Nam, fateor, diutissime est cum nihil nisi ventum increpentem nostrae aures haberent auscultandum. Suo ergo auxilio, simul cum novo amico, etiam novos sonos nacti sumus!</entry>
+<entry name="ELDERBUG_TROUPE_LEFT">Hahahae! Ita est, abite, apage! Nunc tandem, cum illi taeterrimi bacchantes discesserint, oppidulum nostrum tranquillum ut erat reversum est, sic ut placet mihi.&lt;page&gt;Iam affatim mihi esse videtur vel unum interdum devorti ad oppidum advenam, nedum cum istis tentoriis ex nihilo exsistentibus, intolerabili musica, personis foedissimis... num qui sint hae res seni ferendae, ut ego?</entry>
+<!-- BAD? putabam -->
+<entry name="ELDERBUG_BRETTA_LEAVE">Oh, illam virginem! Quin, modo ea constitit et, paucis verbis ad salutationem adhibitis, ad rupes versus profecta&#39;st.&lt;page&gt;Neque facile est iter quod sibi statuit conficere. Nescio a quo sibi tantam animi fortitudinem repentino reppererit.&lt;page&gt;Censebam enim eam esse timidiore natura, eiusdem generis atque ego... Fefellit me vero. Hem! Vocentur sane ad itinera omnes, at ego me hinc non amovero!</entry>
+
+<!-- BRETTA -->
+<!-- TL note:
+Just more purple prose.
+
+TL 100%
+Check 99%
+Confidence 80%
+-->
+<entry name="BRETTA_MZOTE_01">Cineree Dux, verba tua, num... iteras nunc ea?</entry>
+<!-- BAD?? cur tua statura iam... videtur esse minor -->
+<entry name="BRETTA_MZOTE_02">Cineree Dux, cur statura iam... videris minor? Numne tua vestis tam sordida et lacera erat...?</entry>
+<entry name="BRETTA_DIARY_LEAVE">                          Virginis Susceptum&lt;page&gt;Deminuto igitur suo Duce Cinereo, comperto Albo Servatore esse belvam ferocem, nunc demum nostra Virgo quae esset veritas compererat.&lt;page&gt;Non enim ultro venturus consors suus erat, ad virginem dum veniret nostram mansuram sedentem. Minime vero, immo conquirendus erat virgini ille, amor suus, et a solitudine solvendus sui.&lt;page&gt;Sic ergo ingressa&#39;st virgo itiner, per ancipites fatorum vias, amore protecta, conductaque amore, usque suo pedetemptim dum fatali exoptato appropinquaret amanti.</entry>
+
+<!-- ISELDA -->
+<!-- TL note:
+Ehh.
+
+TL 100%
+Check 90%
+Confidence 80%
+-->
+<entry name="ISELDA_GRIMM">Vidistine illos peregrinos, qui recens sua tentoria iuxta oppidum posuerunt?&lt;page&gt;Primo, fateor, mihi eorum non displicuit adventus, quod iamdudum nihil in oppido eveniebat novi. Postea tamen aliquid... infausti ex iis sentire coepi. Nonne id sentis etiam tu?&lt;page&gt;Monui ergo Corniferum ne alloquatur eos, quoniam et corde et mente is saepius est nimis ingenuus.</entry>
+<entry name="ISELDA_NYMM">Aliquis speciosus nuperrime in oppidum devenit. Ego vero cavere soleo ab istis musicis, quod solent esse superbi, nimisque amatores sui.&lt;page&gt;Hic autem visus est probus... nam saltem Geum a me nondum mendicatu&#39;st, ut spero rem mansuram.</entry>
+
+<!-- SLY -->
+<!-- TL note:
+Eh.
+
+TL 100%
+Check 99%
+Confidence 95%
+-->
+<entry name="SLY_GRIMM">Aliquid de advenis qui in oppidum recens advenerunt audivi, et ex eo quidem quod audii, ii summe insoliti esse videntur.&lt;page&gt;Quidnam est iis negotii in hoc oppidulo? Credo autem te non nescire.&lt;page&gt;Hoc nihil ad me sane, sed hortor ut caveas bene ab eorum promissis. Ut aculeum apud te teneas, si mea verba satis intelligis.</entry>
+<entry name="SLY_NYMM">Alius advenit advena, qui convicia subinde in foro facere coepit. Quin, id quod est peius, is nullum possidet Geum! Nihil nisi illas stridulas fides habet.&lt;page&gt;Vae mihi, curnam semper pauperes sunt qui in hoc oppidum devertunt?</entry>
+
+<!-- QUEEN -->
+<!-- TL note:
+
+TL 100%
+Check 99%
+Confidence 95%
+-->
+<entry name="QUEEN_GRIMMCHILD">Ah, istud comes animal. Parum caute feceris, si eum habueris pro amico, quamvis sit inter vos quaedam generis, ut dicam, affinitas. Affinitas quidem, quam dicamus remotam, at vero quae verbis vix queatur comprehendi.&lt;page&gt;Quoniam id nunc haeret tibi... Tu eorum iam in Caerimonia videris consumptus, illius quidem coccineae gentis.&lt;page&gt;Quale ad miserrumum tempus ii apud nostras ruinas descendunt. Auxilium ferto, si vis, propagantibus illis, dum ne gravioris sis operis oblitus, quod hoc regnum te obsecrat et implorat.</entry>
+<entry name="QUEEN_GRIMMCHILD_FULL">Oculi comitis istius igne ardent quodam familiari... Prospere ergo cedit illi coccineo cordi, et ironice quidem, quod mea prole est usus ut aleret suam.&lt;page&gt;Novi iam te, coccinum animal, quaque forma futurus sis. Fiat, esto tu unus et omnis, dominus et gens, at numquam tam alienum haec terra regem feret.</entry>
+
+<!-- MIDWIFE_WEAVERSONG -->
+<!-- TL note:
+
+TL 100%
+Check 50%
+Confidence 0%
+-->
+<entry name="MIDWIFE_WEAVERSONG">Ohhhh.. Heehee. Rimatus videris textorum latibula! Audax es, quippe qui illud Amuletum surrupuisti.&lt;page&gt;Mirabilia fecerunt olim textores suis telis; fabulas, scuta, carmina. Nostrae historiae magna pars ex suis fusis intexta est. Tui quoque parvuli amici sunt eorum ingenii testamento... heehee.&lt;page&gt;Oh! Ignosce mihi. Modo murmurare meum ventrem sensi. Mane parumper. Ne amoveas quaeso...</entry>
+<entry name="MIDWIFE_WEAVERSONG_DREAM">Quoniam locuples es factus textoriis amicis, noli credere te iam optate excipi in mea mente! Apage! Apage! Apage!</entry>
+
+<!-- LEG_EATER -->
+<!-- TL note:
+More weirdness.
+
+TL 100%
+Check 70%
+Confidence 40%
+-->
+<entry name="LEG_EATER_GOLD1">Euauux... Euaaauuuxxx?!&lt;page&gt;Amuletum meum! Quid ei fecisti?! Odor... differt. Mirum, sed bonum. Perbonum!&lt;page&gt;Hic odor... alloquitur me. Aliquis, alicubi... perbene.</entry>
+<entry name="LEG_EATER_GOLD3">Euauux... Euaaauuuxxx!! Euaauuxx!&lt;page&gt;Ista amuleta... iste odor! Quantus odor! Volo... eum volo!&lt;page&gt;Scio ubi es nunc. Supra me. Multo supra me, sed scio quo eam. Veniam! Noli aufugere me!</entry>
+<entry name="LEG_EATER_GOLD_REPEAT">Scio ubi es nunc. Supra me. Multo supra me, sed scio quo eam. Veniam! Noli aufugere me!</entry>
+
+<!-- JIJI -->
+<!-- TL note:
+I forgot how is he supposed to speak.
+
+TL 100%
+Check 90%
+Confidence 90%
+-->
+<entry name="JIJI_GRIMM">Hmm. Hospes ferox modo in propinquis videtur accessisse. Vocastine tu eum? Censeo eius odorem esse... sollicitantem.&lt;page&gt;Eius enim est odor locorum remotorum, vel mihi quidem ignotorum.&lt;page&gt;Si se suum verum aspectum occulere posse tibi suspitio est, recte quidem suspicaris. Namque ii falsas species anteferunt veris, et in formis amicti sunt tantummodo visis in somnis.&lt;page&gt;Cave istos. Nam et si iis opem ferre aliquid iuvet tibi, quis scit quae facinora id forte pepererit?</entry>
+
+<!-- DIVINE -->
+<!-- TL Note:
+Yeah.
+
+TL 100%
+Check 20%
+Confidence 10%
+-->
+<entry name="DIVINE_MEET">Aaaaaaaaahhhhhhhh!&lt;page&gt;Tune nos invocasti? Invocasti nos tu quidem, et advenimus. Advenimus quidem!&lt;page&gt;Sed tu non metuere videris. Cur tandem vocasti nos?&lt;page&gt;Ahhh, immo. Flocci id facio. Ne praedices, amabo.&lt;page&gt;Venimus tandem, et nunc aliquid olfacio. Aliquid in profundo... Id volo, cupio id mecastor!</entry>
+<entry name="DIVINE_CONVO_1">Complures redoles odores, sed tute ipse nullum odorem oles. Quam insolitam bestiolam...</entry>
+
+<entry name="DIVINE_NOTENOUGH">Geum, tu... quare? Cur non Geum habes?</entry>
+
+<entry name="DIVINE_DREAM">Tenebrae cum flammis... quod magnificum spectaculum gignent...</entry>
+<!-- BAD -->
+<entry name="DIVINE_DREAM_LEGEATER">O, exquisitissimas res quas umquam cognovi! Ahhhhh!&lt;page&gt;Semper mecum eam portabo... hanc carissimam memoriam tui! Carissimos hos sapores et odores!</entry>
+
+<entry name="DIVINE_REOFFER">Donum vis profecto. Avide! Da si vis Geum mihi, et bonum donum referam tibi...</entry>
+<entry name="DIVINE_OFFER_2">Num quid vis? Alterum donum...? Quam cupidus tu es donorum! O pulchelle miselle. Da mihi Geum tuum, et donum tibi referam quod vis.</entry>
+<entry name="PROMPT_DIVINE_GIFT">Pendesque Geum pro dono?</entry>
+<entry name="DIVINE_GIFT_REFUSE">Eeuuauxx! Me ergo repudias!</entry>
+<!-- BAD -->
+<entry name="DIVINE_RECEIVED_GIFT">Valde te, avidissime, illoc delectat, an non? Donum tuum. Fortunatus es, qui talem odorem tecum fers!&lt;page&gt;Eeeuuaaauuxxx!</entry>
+
+<!-- BAD?? reticere -->
+<entry name="DIVINE_HAS_CHARM">Istum odorem! Eeuuaux! An aliquid exquisitum mihi forte occultas? Noli, amabo te, istuc reticere mihi!&lt;page&gt;Praebe id, amabo... cedo! Indue id, eia, prae me!</entry>
+<entry name="DIVINE_CHARM_EQUIPPED">Aaaaaaaaahhhhhhhh!&lt;page&gt;O istud Amuletum... perpulchrum! Suavissimum! O mi pulchelle, amabo te, ut istuc videam. Ostende mihi, amabo, istud Amuletum! </entry>
+<!-- BAD? made for me -->
+<entry name="DIVINE_CHARM_EQUIPPED_2">Aaaaahhhhhhh! Hunc odorem! Alterum donum, quasi factum mea sola gratia. Da id mihi, amabo!</entry>
+<entry name="DIVINE_GIVE">Ahhhhhhhhhh! Ahhhh!&lt;page&gt;O quam suave! Quem odorem... qualem odorem! Ahhh!</entry>
+<entry name="DIVINE_REFUSE">Eeuuaux! Quare?!&lt;page&gt;O mi pulchelle, noli ita in me esse crudelem. Ostende sis illud mihi! Istuc quidem exquisitum aliquid quod cupio... Et cuius odore meae totae implentur nares!</entry>
+<entry name="DIVINE_EAT">Aaaahhhhhhhhhhhh! Quam suave! Quam dulce! Optimum, perfectum, et solum meum! Ahhhhhh!</entry>
+<entry name="DIVINE_EATEN">O quam pulchrum et dulce... Ahhhhhh!&lt;page&gt;Probus es, pulchelle mi. Suavissimu&#39;s quidem, qui tale donum mihi fers!</entry>
+<entry name="DIVINE_EATEN2">Is qui hoc donum fecit... Aahhh, estne is infra? Itane vero?&lt;page&gt;Optimum donum est. Dulcissimum! Suavissimum quidem!</entry>
+<entry name="DIVINE_EATEN3">Numquid me vis, mi pulchelle? Num donum quod dederas vis remitti?&lt;page&gt;Eeuuuaux! Immanem et crudelem, siquidem ita est! Ut dono aliquid alicui dedisti, perpetuum id tibi perditum habe!</entry>
+<entry name="DIVINE_EATEN4">Donum? Tibine? Fu, quam cupidus es!&lt;page&gt;Sed... aliquid tibi monstrare possum, mi pulchelle, si gratiosus eris mihi. Amabo te, facias gratissimum mihi unum.&lt;page&gt;Geum tuum... da id cunctum mihi. Da mihi Geum omne tuum, et donum aliquod tibi praebebo optimum.</entry>
+<entry name="DIVINE_ALL_EATEN">Ahhhhh. Quam pulchra et unica dona. Quam lepida quidem!&lt;page&gt;Iam parata sum. Paratissima sum quidem!&lt;page&gt;Et tu, odorem meum... feresne usque tecum?</entry>
+
+<!-- BAD? -->
+<entry name="DIVINE_GRIMM_DEPARTED">Ahhh! Itane ergo Ritus effectus est? Et Erus... abiitne noster? Itane? Verone serio?&lt;page&gt;Ahhh, sed mihi adhuc remanendum est. Est enim etiamnum quod agam. Dona, illa quidem pulcherrima! Aaaahh. Ea volo. Erus profecto assentiatur mihi.</entry>
+<!-- BAD?? nunc demum / iam tandem -->
+<entry name="DIVINE_FINAL">Ultimum donum! Ahhhhhhhh!&lt;page&gt;Mihi gratissimum fuit. Bonum, quam bonum... Optimum quidem!&lt;page&gt;Euaaauux!! Euaauux! Nunc demum, et ego Erum sequi possum...</entry>
+<entry name="DIVINE_FINAL_REPEAT">Satis est. Affatim! Admodum iam istis donis sum gavisa.&lt;page&gt;Aaaaahhhhhhhhhhhhhhhhh! Nunc demum, Erum sequi possum...</entry>
+
+<!-- IGOR -->
+<!-- TL note:
+Mrmm.
+Only poetry remains.
+
+TL 80%
+Check 70%
+Confidence 50%
+-->
+<entry name="IGOR_MEET">Mutmut. Tune evocavisti nos?&lt;page&gt;Alloquere Erum.</entry>
+<entry name="IGOR_SPEAK">...Mutmut.&lt;page&gt;Alloquere Erum.</entry>
+<entry name="IGOR_FLAME">Ignis. Appete eum.&lt;page&gt;Eri causa. Stirpis causa. Mutmut.</entry>
+<entry name="IGOR_DREAM">When flame burns bright inside one&#39;s mind&lt;br&gt;Kin heed the call &#39;cross lands and time.</entry>
+
+<entry name="IGOR_FINAL">...Mutmut.&lt;page&gt;Bene. Puer iam ardet igni.&lt;page&gt;Erus... te exspectat. Mutmut.</entry>
+
+<!-- BRUMM -->
+<!-- TL note:
+Not bad I guess.
+
+TL 100%
+Check 60%
+Confidence 40%
+-->
+<entry name="BRUMM_DEEPNEST_1">Mutmut. Venisti tandem.&lt;page&gt;Ignis rutilus quem in hoc Regno demortuo collegi. Accipe eum... Eri causa. Actus finalis causa.&lt;page&gt;Sic tandem rursus agetur Ritus noster. Et nos modo ita habemur, quasi notae musicae in aliquo antiquissimo carmine. Ego quidem et tu. Mutmut.</entry>
+<!-- BAD? compescere -->
+<!-- BAD?? noster ubi Erus suis oculis nos coccinis cernere non potest. -->
+<!-- BAD?? verum carmen non licet appellare/appellari -->
+<entry name="BRUMM_DEEPNEST_NF_1">Mutmut. Venisti tandem.&lt;page&gt;Ignem collegisti, igitur tempus Ritus absolvendi est propinquum. Iam modo ad Erum redire debes...&lt;page&gt;Ita est, sicut semper erat. Nos modo ita habemur, quasi notae musicae in aliquo antiquissimo carmine. Ego quidem et tu. Mutmut.&lt;page&gt;Tamen... Plane non fortuito nos hic convenimus, hoc in obscurissimo, extremo mundi loco, noster ubi Erus suis oculis nos coccinis cernere non potest.&lt;page&gt;Mutmut. Carmen quod numquam finitur... verum carmen dici non potest.&lt;page&gt;Tu partes capis Caerimoniae, verum tamen nullum dominum te tenere sentio. Itane vero? Itaque ergo id fieri potest, ut nos una illam flammam lividam aspellamus, et tandem hoc regnum defunctum requiescere in pace sinamus.&lt;page&gt;Si compescere vis illud carmen infinitum... Mutmut, conveni mecum ubi coeperit...</entry>
+<entry name="BRUMM_DEEPNEST_2">Perpetua carmina servitutis et sacrificii. Ritus causa. Gregis causa. Eri causa.&lt;page&gt;Etiam hic puer quidem in vinclis natu&#39;st quae videri non possunt. Mutmut.</entry>
+<entry name="BRUMM_DEEPNEST_3">Itaque servimus... Sicut semper erat. Nonne?&lt;page&gt;Cape ergo ignem, quoniam causa est cur ades.</entry>
+<entry name="BRUMM_DEEPNEST_4">Factum est... tamen...&lt;page&gt;Plane non fortuito nos hic convenimus, hoc in obscurissimo, extremissimo mundi loco, noster ubi Erus suis oculis nos coccinis cernere non potest.&lt;page&gt;Mutmut. Carmen quod numquam finitur... verum carmen dici non potest.&lt;page&gt;Tu partes capis Caerimoniae, verum tamen nullum te Erum tenere sentio. Itane vero? Itaque ergo fieri potest, ut nos una illam flammam lividam aspellamus, et tandem hoc regnum defunctum requiescere in pace sinamus.&lt;page&gt;Si compescere vis illud carmen infinitum... Mutmut, conveni mecum ubi coeperit...&lt;page&gt;At si redire ad Erum, Ritumque peragere nostrum consilii est... Mutmut. Dum id tua ex voluntate feceris, nulla simultas erga te habebitur.</entry>
+<entry name="BRUMM_DEEPNEST_REPEAT">Si compescere vis illud carmen infinitum, conveni mecum ubi coeperit...&lt;page&gt;At si redire ad Erum, Ritumque peragere nostrum consilii est... Mutmut. Dum id tua ex voluntate feceris, nulla simultas erga te habebitur.</entry>
+<entry name="BRUMM_DREAM_DEEPNEST">Ita est. Modo receptacula sumus ignis. At... itane eramus semper vacui?</entry>
+
+<entry name="BRUMM_LANTERN">Itaque huc usque es me secutus, Ritus ubi coeperat. Praebesne ergo mihi auxilium, ut eum dirimamus?&lt;page&gt;Dolet vero mihi contra Erum facere, sed haec nostra messis... polluit ea hoc regnum obscurum et tranquillum. Nunc semel, nostrum Ritum velim defieri.&lt;page&gt;Mrmm.. Nunc! Destruamus illam ancoram, et Erum expellamus. Ne bis huc revertatur!</entry>
+<entry name="BRUMM_LANTERN_DREAM">Ere... num tu quoque es servus? Siquidem ita est, frangamus una vincula nostra!</entry>
+<entry name="BRUMM_REMINDER">Visne videre Erum? Revertere cum puero ignibus pleno, et apparebit.</entry>
+
+<!-- NYMM -->
+<!-- TL note:
+Worse than it should be.
+
+TL 100%
+Check 0%
+Confidence 0%
+-->
+<entry name="NYMM_MEET">Ah. Salve! Salve! Ego novissime in oppidum adveni, quamobrem gaudeo, in tam tristi loco, tandem vultum amicabilem videre.&lt;page&gt;Licet ille senex me gratissime exceperit, tamen nihilosetius hunc locum mihi videtur tristitia tenere, seu cum hoc vento, seu quia fuscus, vel quod ruinosus... Spero igitur fore ut mea musica magis festivum hunc locum reddat et laetiorem.&lt;page&gt;Et cum tu nunc ades, commodo habitu et eleganti, oppidum iam clarescit mihi.&lt;page&gt;Antequam ad negotium tuum redeas, ecce habeo tibi munusculum, quo celebremus nostram novam inventam amicitiam. Id nullo ex usu est mihi, credo autem id condecere tibi.&lt;page&gt;Quaeso, tu fruere eo, et spero nos alias circum oppidum iterum visuros.</entry>
+<!-- BAD Quamquam autem hoc est carmen quod cognovi quam iucundissimum, fateor tamen aliquantulum id esse inter tristiora -->
+<entry name="NYMM_REPEAT">Mi care amice, fruerisne mea musica? Quamquam autem hoc est carmen quod cognovi quam iucundissimum, fateor tamen aliquantulum id esse inter tristiora.&lt;page&gt;Scito tamen me id canere iucundo corde. Hoc enim in oppido cum adsum, tecum quidem meo optimo comite, videor mihi mire, summopere contentus.</entry>
+<entry name="NYMM_DREAM">Hmm...Cur ego huc adveni? Et quam longe sum peregrinatus... ut unde venerim obliviscerer?</entry>
+
+<entry name="NYMM_BRUMM_CHARM">Ahh. Pulchre! Gaudeo quod meum munusculum dignum gerendi existimavisti, et hui, quam venuste id convenit tibi!&lt;page&gt;Vere loquar. Nescio unde id nanctus sim, sed quotiens id aspicio, memoria me commonet aliquid, vel aliquem, cuius oblitus esse videor iamdiu, longe quidem perditum.&lt;page&gt;Verbis id plane explicare non queo, sed id est quasi mirum aliquod desiderium alicuius rei quae numquam vere acciderit.&lt;page&gt;Id autem non est usui mihi, itaque gaudeo quod tu saltem sis fructus eo.</entry>
+<entry name="NYMM_FINAL">Care mi amice, clamor subito ex inferis exauditus est horribilis, quem ne meum quidem carmen posset occulere. Dolorisne erat ejulatus, an iracundiae? Equidem peracutos censeo in his rebus me sensus habere.&lt;page&gt;Si rursum illuc es profecturus, hortor tibi tutus ut sis. Namque aegerrime perferrem, si amitteretur mihi sodalicium tuum.</entry>
+
+<!-- GRIMM -->
+<!-- TL note:
+I wish it was more Plautine, so I'll probably move some words around in the future after cramming more Plautus in my head.
+I can't find a nice translation for 'kin'. Maybe stirps is fine.
+
+TL 100%
+Check 50%
+Confidence 30%
+-->
+<entry name="GRIMM_MEET1">Tu ergo eras, qui nos vocavisti.</entry>
+<entry name="GRIMM_MEET2">Salve, o mi sodalis. Nomine ego sum Grimm, et huius histrionici sum dominus gregis.&lt;page&gt;Lucerna iam accensa est, tibique paruimus invocanti. Et quod splendidum tu nobis elegisti proscaenium, hoc quidem corrosum regnum vermibus et radici, optabilissimum locum, ubi tandem nostram agamus caerimoniam!&lt;page&gt;Et tu quidem, sodalis mi. Tuae partes non sunt dum peractae.</entry>
+
+<entry name="GRIMM_ACCEPT">Ut accensa est lucerna, tuae tunc partes sunt datae, pacto conscripto puniceo in igne.&lt;page&gt;Cupide exspectamus dum coeperis, at primum, lumina apparare oportebit.</entry>
+
+<!-- BAD? -->
+<entry name="GRIMM_RITUAL_COMPLETE">Propagatur per has terras iam nostra gens, dum eam substantiam metunt, generis quae nostri est propria... ille ignis somniorum.&lt;page&gt;Tu quaeres meos; eorum ceperis ignem, et ad me huc reverteris. Tum demum fecerimus miracula.&lt;page&gt;Sed noli, o puer, cuiusquam esse sollicitus rei, quoniam in hoc non solus eris incepto. Comes tibi eccum meus puer erit, qui usque te conducet ad ignem, eiusque in se continebit ardentis substantiam intus.&lt;page&gt;Hic pupus, sicut tu, gravissimas agebit partes, quoniam absque eo, nostra stirps non se ostendet tibi.</entry>
+
+<entry name="GRIMM_LEVELUP_1">Ardentem sentio, ignem quem contulisti.</entry>
+<entry name="GRIMM_LEVELUP_2">Optimum quidem exordium. Ecce murmurat aer iam vocibus exspectantium.&lt;page&gt;O puer, probe huc usque fecisti. Ardeat volo etiam clarior tuus ignis!</entry>
+<!-- BAD? -->
+<entry name="GRIMM_LEVELUP_3">Pulchre quidem. Crescit iam noster puer, ex iuveni ignavi in comitem mortiferum. Et haec terra periculosa, eius quoque auxilium excipimus.&lt;page&gt;Ne vero neglegas nostram alacrem saltationem, quoniam continuabitur quidem! Acquire modo illam dispersam rutilam flagrantem substantiam.&lt;page&gt;Cum puer plenus erit igni, revertere huc ad proscaenium hoc, et tandem nostra fabula agetur.</entry>
+
+<entry name="GRIMM_BATTLE_1">Mirabile. Mirabile quidem! Advenit mea stirps, et tempus ecce adest.</entry>
+<entry name="GRIMM_BATTLE_2">Hic ignis flagrans... bene promissa Caerimoniae geret.</entry>
+<!-- BAD? -->
+<entry name="GRIMM_BATTLE_3">Salta mecum, mi sodalis. Exspectant nunc spectatores. Ostende te meritum primarum partium!</entry>
+
+<entry name="GRIMM_DEFEAT_1">Sophos, mi sodalis. Vide iam, quam plaudunt tibi spectatores! Quam quidem diu tali spectaculo fructi non erant!</entry>
+<entry name="GRIMM_DEFEAT_2">Em vide! Puer noster quam creverit, alitus et fortis iam factus a nostra ferventi saltatione!&lt;page&gt;Vos ambo, scio, multis in tragoediis et triumphis partes ceperitis una.&lt;page&gt;Itaque ergo Caerimonia nostra suum accedit ad finem. Nunc quidem semitam cernis, quam semitam nobis collustras igne collecto. Cognita hac re, pergesne tamen nostrum gerere morem?&lt;page&gt;Coccinos oculos in te vertemus assidue... sodalis.</entry>
+<!-- BAD? -->
+<entry name="GRIMM_DEFEAT_3">Adi in tenebras. Ultimas, age, colligito Regni favillas. Denique revertere huc, et saltationis nostrae facta erit finis.</entry>
+
+<entry name="GRIMM_DREAM">Pulchre! Vel etiam reiectum istud receptaculum tantum obtinet robur.&lt;page&gt;Affabre confectum, mi care Draco, et optimum mihi instrumentum ad propagandum cor Grimm.</entry>
+
+
+
+<entry name="GRIMMSYCOPHANT_INSPECT">Magnum cadaver.</entry>
+<entry name="GRIMMSYCOPHANT_DREAM">Ere... meum officium.... procul a te... procul a stirpe. Perdolet mihi.</entry>
+<entry name="GRIMMSTEED_DREAM_1">Terra nova. Ab ultima diversa. Quot etiam novas viserimus?</entry>
+<entry name="GRIMMSTEED_DREAM_2">Iter est longum et obscurum, at lux Eri nos ducet.</entry>
+<entry name="MOTHSTONE_DREAM">Cura te ipsum... Quia ultimus es nostrum...</entry>
+
+</entries>

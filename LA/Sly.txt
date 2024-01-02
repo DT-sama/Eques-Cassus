@@ -1,0 +1,48 @@
+<entries>
+<!-- TL note:
+Needs a lot of polish. Needs to sound more solemn when talking about nails.
+So it stays.
+
+TL 100%
+Check 99%
+Confidence 90%
+-->
+
+<!--
+Sly, indecl.
+Aculeator Maximus
+-->
+
+<entry name="SLY_RESCUE_1">...attatatae, Oro, tu, stolide.... numquid clavam... Aculeum putas?...&lt;page&gt;...Esmy... quo usque descendemus...</entry>
+
+<entry name="SLY_RESCUE_2">Oh! Quid?! Quis es tu?!&lt;page&gt;... Nunc intelligo. Hic vetus pagus... Aliquid singulare me in somno vidisse oportet, ut me huc usque adduceret! Nisi me expergefecisses, dubito me umquam fuisse evigilaturum.</entry>
+<entry name="SLY_RESCUE_3">Sly vocor, et Pulveriae dies conterere soleo. Et cum hae ruinae mecum nullopere congruant, melius sit ut ad oppidum statim revertar.&lt;page&gt;Et si tu quoque illuc revertere, venito si vis apud me, qui bene ob bonum factum tibi gratias rettulero.</entry>
+<entry name="SLY_RESCUE_REPEAT">Pergis ergo explorare? Quam audax es! Nam hi specus temerarios exploratores devoraverunt complures. Tibi autem est iste aculeus, quem, cum te video, plane perite stringere videris.</entry>
+<entry name="SLY_DREAM_RUINS">...Geum. Geum. Totus mundus est Geum. Nullus est aculeus qui Gei vi antecellat...</entry>
+
+<entry name="SLY_SHOP_INTRO">Heus, salve! Pro certo sciebam, nos quam mox esse iterum conventuros. Sed quid ais? Quid opinaris de mea taberna? Satin&#39; commoda videtur, an non? Hic meas res vendo vetustas viatoribus, velut tibi.&lt;page&gt;Si in animo&#39;st in infera proficisci, nonnullas merces habeo, quae tibi prodesse possunt.</entry>
+
+<entry name="SLY_GENERIC">Vacatne crumena? Si tibi est opus Geo, proficiscere modo in ruinas parumper venatum. At cave nimis aberres somniculose de via, quia non ego subvenero tibi.</entry>
+<entry name="SLY_GENERIC_NM">O Magister Aculeator, ut procedunt itinera tua? Scio tempore te etiam fortiorem futurum.&lt;page&gt;Si meos discipulos, id est tuos consocios offenderis, commoneto eos, me eorum semper carissime conservare memoriam, et idcirco eis huc ad me venire decere, et a vetere magistro aliquid coemere.</entry>
+
+<entry name="SLY_NOSTOCK_1">Attat, numquid adhuc vis mercari? Numnam oneratu&#39;s nummis? Displicet vero, sed quae vendere statueram de me iam omnia coemisti. Nihil mihi quod vendam reliquum&#39;st!&lt;page&gt;Verumtamen, credo alias esse merces mihi, in conclavi inferiore conditas, sed eius clavem amisi iamdudum.&lt;page&gt;Igitur, nihil iam habeo tibi mercatui! Agedum, discede nunc, sine frui nummulis quos dedisti mihi.</entry>
+<entry name="SLY_NOSTOCK_2">Etiam redis? An non audisti te iam omnia de me coemisse? Nihil habeo tibi.&lt;page&gt;An potius ad illum tu, furcifer, volebas subrepere, scilicet ad meum permagnum acervum Georum? At id iam meum est! Iure enim sumus mercati.</entry>
+
+<entry name="SLY_MAPPER">Apparet vicinos tabernam itinerariam nuper aperuisse. Non malum erit, credo, nonnullos mihi habere adversarios in mercatura.&lt;page&gt;Fortasse mihi quoque vendere chartas incipere oporteat... an id nimis hosticum putas? Immo. In mundo Geum, omnia licent.</entry>
+
+<entry name="SLY_NAILART">Heia, numquid est tibi? Nescioquid in statu tuo differt...&lt;page&gt;Ecce! Quomodo aculeum destringas! Ergo, Artem Aculei didicisti...&lt;page&gt;Pulchre. Quid facturus sis isto studio, intente exspectabo.</entry>
+<!-- BAD?? -->
+<entry name="SLY_NAIL_HONED">Apparet novum Aculeum te comparasse tibi, et multo quidem meliorem quam priorem.&lt;page&gt;Immo quid hoc? Hic est idem aculeus... sed aliquis eum exacuisse videtur! Et affabre quidem...&lt;page&gt;Aculeus enim quasi nostra corporis pars habetur, idemque instrumentum est, quo mundum circa nos informamus. Itaque maximae est nobis curae, Aculei nostri quantum possumus exacutam eius aciem conservare.&lt;page&gt;...Vah, sed quid vana memoro. Ignosce mihi cassa loquenti. Loquamur potius de Geo.</entry>
+
+<entry name="SLY_DREAM_STORE">...Ubicumque estis... Quodcumque agitis... Ita exopto, vosmet ut bene habeatis...</entry>
+
+<entry name="SLY_KEY">Quid est istud? Quin, haec est clavis meae cellae promptuariae! Numquam sperabam me eam recuperaturum.&lt;page&gt;Num in crystallifodina eam repperisti? Mirum hoc. Nescio quomodo eo usque pervenerit.&lt;page&gt;Verum benigne tu, sane, eam reddis ad me. Gratum est. Nunc, quoniam possum conclave inferius aperire, quas merces raras diu ibi conditas habeo, eas nunc tibi vendere potero.&lt;page&gt;Et hae quidem res, quamvis paululum obsoletae, immo inveteratae, tanti valent etiam nunc quanti suo tempore valebant. Optima quidem merx est! Adspice sodes...</entry>
+<entry name="SLY_KEY_2">Quid est istud? Quin, haec est clavis meae cellae promptuariae! Numquam sperabam me eam recuperaturum.&lt;page&gt;Num in crystallifodina eam repperisti? Mirum hoc. Nescio quomodo eo usque pervenerit.&lt;page&gt;VerVerum benigne tu, sane, eam reddis ad me. Gratum est. Nunc, quoniam possum conclave inferius aperire, quas merces raras diu ibi conditas habeo, eas nunc tibi vendere potero.&lt;page&gt;Et hae quidem res, quamvis paululum obsoletae, immo inveteratae, tanti valent etiam nunc quanti suo tempore valebant. Optima quidem merx est! Adspice sodes...</entry>
+
+<entry name="SLY_BASEMENT_1">...Itaque, alius nostris se adiungit.</entry>
+<entry name="SLY_BASEMENT_2">Donum tibi praebeo, o duellator. Difficile est mihi mercatori id tibi tradere gratuito.&lt;page&gt;At Aculeatorem Maximum decet me tuam sollertiam asciscere, qui meorum ceterorum discipulorum Aculei perdidicisti Artes. Ita ergo aequum est, ut moris est nostrorum, ut tu quoque hoc insigne geras.</entry>
+<entry name="SLY_BASEMENT_3">Summo cum honore te hoc induito, o Magister Aculeator, quia nemo post te erit, qui eodem decoretur.</entry>
+<entry name="SLY_BASEMENT_REPEAT">Ilicet, o Magister Aculeator. Nihil iam habeo, quod tibi dem...&lt;page&gt;Aut saltem non sine pretio. Mox supra rediero, avidus, ut semper, tradendarum pro nummulis mercium.</entry>
+<entry name="SLY_DREAM_BASEMENT">...Haec arma expolita... At certe proelium Georum est crudelius.</entry>
+
+</entries>

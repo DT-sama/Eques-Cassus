@@ -1,0 +1,172 @@
+<entries>
+<!-- TL Note:
+The descriptions are from a year ago so they're bad. The names too, but less bad.
+
+-->
+<entry name="LOADING">Operatur...</entry>
+
+<entry name="OPEN_CONTROLLER">Suaditur usus gubernaculi</entry>
+
+<entry name="NAV_BACK">Redi</entry>
+<entry name="NAV_RESET">Restaura</entry>
+<entry name="NAV_APPLY_TRUE">Applica</entry>
+<entry name="NAV_APPLY">Redi</entry>
+<entry name="NAV_DONE">Finem</entry>
+<entry name="NAV_YES">Sic</entry>
+<entry name="NAV_NO">Non</entry>
+
+<entry name="PAUSE_OPTIONS">Optiones</entry>
+<entry name="PAUSE_CONTINUE">Perge</entry>
+<entry name="PAUSE_MAIN">ad Titulum</entry>
+
+<entry name="MODAL_QUIT_TO_MENU">Redisne ad Titulum?</entry>
+
+<!-- MAIN -->
+<entry name="MAIN_START">Lude</entry>
+<entry name="MAIN_OPTIONS">Optiones</entry>
+<entry name="MAIN_SWITCH_USER">Utentem Commuta</entry>
+<entry name="MAIN_ACHIEVEMENTS">Tropaea</entry>
+<entry name="MAIN_EXTRAS">Cetera</entry>
+<entry name="MAIN_QUIT">Exi Ludo</entry>
+
+<!-- OPTIONS -->
+<entry name="SCREEN_OPTIONS">Optiones</entry>
+<entry name="OPTIONS_VIDEO">Visualia</entry>
+<entry name="OPTIONS_AUDIO">Auditoria</entry>
+<entry name="OPTIONS_GAME">Lusoria</entry>
+<entry name="OPTIONS_CONTROLLER">Gubernaculum</entry>
+<entry name="OPTIONS_KEYBOARD">Claviatura</entry>
+<entry name="OPTIONS_CREDITS">Gratias agimus...</entry>
+
+<!-- VIDEO -->
+<entry name="SCREEN_VIDEO">Visualia</entry>
+<entry name="VIDEO_BRIGHTNESS">Claritudo</entry>
+<entry name="VIDEO_FULLSCREEN">Toto Speculo:</entry>
+<entry name="VID_OPT_BORDERLESS">Sine Margine</entry>
+<entry name="VIDEO_RESOLUTION">Dimensiones:</entry>
+<entry name="VIDEO_SHADERS">Qualitas Blur:</entry>
+<entry name="DESC_SHADERS">Imminue hoc, quo praestantius in peioribus machinis ludus operetur.</entry>
+<entry name="VIDEO_VSYNC">V-Sync:</entry>
+<entry name="DESC_VSYNC">Adhibe hoc, ut liquidius ludus operetur. Iuvat praecipue ubi vitium speculi fiat q.e. &quot;screen tearing.&quot;</entry>
+<entry name="VIDEO_PARTICLES">Effectus Particularum:</entry>
+<entry name="DESC_PARTICLES">Imminue hoc, quo praestantius in peioribus machinis ludus operetur.</entry>
+<entry name="VIDEO_DISPLAY">Speculum:</entry>
+<entry name="VIDEO_FRAME_CAP">Maximum Framerate:</entry>
+<entry name="DESC_FRAME_CAP">Praestitue maximum framerate, quo ludus constantius operetur.</entry>
+<entry name="VIDEO_OVERSCAN">Dimensio Speculi</entry>
+
+<entry name="BRIGHT_SLIDER">Claritudo</entry>
+<entry name="BRIGHT_INSTRUCT">Moderare claritudinem speculi ad id quod optatum est.</entry>
+
+<!-- AUDIO -->
+<entry name="SCREEN_AUDIO">Auditoria</entry>
+<entry name="AUDIO_MASTER_VOL">Magnitudo Totalis:</entry>
+<entry name="AUDIO_SOUND_VOL">Magnitudo Sonorum:</entry>
+<entry name="AUDIO_MUSIC_VOL">Magnitudo Musicae:</entry>
+
+<!-- GAME -->
+<entry name="SCREEN_GAME">Lusoria</entry>
+<entry name="GAME_BACKER_NAMES">Nomina Creditorum:</entry>
+<entry name="DESC_BACKER_NAMES">Ostende nomina creditorum Kickstarter iuxta contributa eorum.</entry>
+
+<entry name="GAME_LANGUAGE">Lingua:</entry>
+<entry name="DESC_LANG">Commuta linguam in Titulo.</entry>
+<entry name="GAME_CONTROLLER_RUMBLE">Vibratio Gubernaculi</entry>
+<entry name="GAME_NATIVE_ACHIEVEMENTS">Ostende Tropaea:</entry>
+<entry name="DESC_NATIVE_ACHIEVEMENTS">Quotienscumque novum tropaeum obtinueris, ostendetur nuntius in ludo.</entry>
+<entry name="GAME_NATIVE_INPUT">Gubernaculi Input Nativum</entry>
+<entry name="DESC_NATIVE_INPUT">Institue hoc, ubi minus gubernaculum operetur. Ludum interrumpi necesse erit.</entry>
+
+<entry name="SCREEN_KEYBOARD">Claviatura</entry>
+<entry name="KEYBOARD_NONE">Nihil</entry>
+<entry name="KEYBOARD_UNMAPPED">Nulla</entry>
+<entry name="KEYBOARD_PRESSKEY">Preme Novam Clavem</entry>
+
+<!-- GAMEPAD -->
+<entry name="SCREEN_GAMEPAD">Gubernaculum</entry>
+
+<entry name="BUTTON_UP">Sursum</entry>
+<entry name="BUTTON_DOWN">Deorsum</entry>
+<entry name="BUTTON_RIGHT">Dextra</entry>
+<entry name="BUTTON_LEFT">Sinistra</entry>
+<entry name="BUTTON_MAP">Chartam</entry>
+<entry name="BUTTON_PAUSE">Siste Ludum</entry>
+<entry name="BUTTON_LOOK">Suspice / Despice</entry>
+<entry name="BUTTON_JUMP">Saltum</entry>
+<entry name="BUTTON_MOVE">Ambula</entry>
+<entry name="BUTTON_DASH">Prorue</entry>
+<entry name="BUTTON_SUPER_DASH">Provola</entry>
+<entry name="BUTTON_ATTACK">Impetum</entry>
+<entry name="BUTTON_INVENTORY">Inventarium</entry> <!-- ? -->
+<entry name="BUTTON_QCAST">Cantum Rapidum</entry>
+<entry name="BUTTON_CAST">Collige / Cantum</entry>
+<entry name="BUTTON_DREAM_NAIL">Aculeum Somniorum</entry>
+<entry name="BUTTON_EMPTY">-</entry>
+
+<!-- EXTRAS -->
+<entry name="SCREEN_GAMEPAD_REMAP">Instrue Gubernaculum</entry>
+
+<entry name="SCREEN_EXTRAS">Cetera</entry>
+<entry name="EXTRAS_CREDITS">Gratias agimus...</entry>
+
+<entry name="SCREEN_SAVE_PROFILES">Elige Tabellam</entry>
+<entry name="PROFILE_NEW_GAME">Novam Tabellam Aperi</entry>
+<entry name="PROFILE_CLEAR_BUTTON">Hanc Tabellam Dele</entry>
+<entry name="PROFILE_CORRUPTED">Tabella Corrupta</entry>
+<entry name="PROFILE_CLEAR_PROMPT">Delesne Hanc Tabellam?</entry>
+<entry name="PROFILE_LOADING">Operatur...</entry>
+
+<entry name="SCREEN_ACHIEVEMENTS">Tropaea</entry>
+<entry name="UI_MENU_ACHIEVEMENTS_XB1">Tropaea XBOX-One</entry>
+<entry name="UI_MENU_ACHIEVEMENTS_PS4">Tropaea PS4</entry>
+<entry name="ACHIEVEMENTS_BASE_SET_TITLE">Tropaea Equitis Cassi</entry>
+<entry name="ACHIEVEMENTS_BASE_SET_TEXT">Tropaea Equitis Cassi.</entry>
+
+<entry name="MODAL_QUIT_GAME">Exisne a Ludo?</entry>
+<entry name="MODAL_PROGRESS">Progressus erunt conservati.</entry>
+<entry name="MODAL_ENGAGE_CONTROLLER">Preme clavem ut incipias.</entry>
+<entry name="MODAL_KEEP_RES">Conservabisne Has Dimensiones?</entry>
+<entry name="MODAL_CONNECT_CONTROLLER_PROMPT">Connecte gubernaculum ut pergas.</entry>
+
+<entry name="MOH_HIGH">Maximum</entry>
+<entry name="MOH_MED">Medium</entry>
+<entry name="MOH_LOW">Minimum</entry>
+<entry name="MOH_NORMAL">Normale</entry>
+<entry name="MOH_ON">ON</entry>
+<entry name="MOH_OFF">OFF</entry>
+
+<entry name="MODE_SELECT">Modus</entry>
+<entry name="MODE_NORMAL">Communis</entry>
+<entry name="NORMAL_MODE_TEXT">Communis ludendi modus.</entry>
+<entry name="MODE_STEEL">Anima Ferrea</entry>
+<!-- BAD? -->
+<entry name="STEEL_MODE_TEXT">Non revivisces post mortem. Semel tantum morieris.</entry>
+
+<entry name="PROFILE_DEFEATED">Victus</entry>
+<entry name="TEXT_SKIP_PROMPT">Preme clavem quamlibet ut omittas.</entry>
+
+<entry name="CTRL_REMAP">Claviaturam Refice</entry>
+<entry name="CTRL_PRESSBUTTON">Preme Novam Clavem</entry>
+<entry name="CTRL_UNMAPPED">Nulla</entry>
+<entry name="CTRL_NO_ACTIVE">Nullum Gubernaculum Connexum</entry>
+<entry name="CTRL_NO_ACTIVE_DESC">Ut gubernaculum excites, preme aliquam clavem, aut adnecte novum.</entry>
+<entry name="CTRL_NONE">Nullum gubernaculum connexum</entry>
+<entry name="CTRL_DETACHED">Nullum gubernaculum connexum</entry>
+
+<entry name="OS_SLIDER">Scala</entry>
+<!-- BAD? -->
+<entry name="OS_INSTRUCT">Moderare scalam donec quadra margines speculi attigant.</entry>
+
+<!-- LANG -->
+<entry name="LANG_KO">한국어</entry>
+<entry name="LANG_PT">Português (Brasil)</entry>
+<entry name="LANG_DE">Deutsch</entry>
+<entry name="LANG_RU">Русский</entry>
+<entry name="LANG_JA">日本語</entry>
+<entry name="LANG_ZH">简体中文</entry>
+<entry name="LANG_EN">English</entry>
+<entry name="LANG_IT">Italiano</entry>
+<entry name="LANG_ES">Español</entry>
+<entry name="LANG_FR">Français</entry>
+<entry name="LANG_LA">Sermo Latinus</entry>
+</entries>

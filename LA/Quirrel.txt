@@ -1,0 +1,93 @@
+<entries>
+<!-- TL note:
+Now it's a lot better but still needs work.
+Nope, it's like this forever now.
+
+TL 100%
+Check 99%
+Confidence 95%
+-->
+
+<!--
+Quirrel, indecl.
+-->
+<!-- BAD?? tandem -->
+<entry name="QUIRREL_MEET_TEMPLE">Heus tu, salve! Volup est in his tramitibus desertis, alterum tandem invenire viatorem.&lt;page&gt;Quamquam exigua statura, forti animo te esse perspicuum&#39;st.</entry>
+<!-- BAD?? Hoc enim regnum antiquissimum est uber obscuris secretis et denudandis arcanis -->
+<entry name="QUIRREL_MEET_TEMPLE_B">Nomen mihi est Quirrel, et maximopere regionibus huiusmodi incognitis studeo explorandis.&lt;page&gt;Hoc enim regnum antiquissimum est uber obscuris secretis et denudandis arcanis, quorum praecipuum, ecce ante oculos nostros manifestum est.</entry>
+<entry name="QUIRREL_MEET_TEMPLE_C">Hoc enim in templo, in medio sito antiquissimo perdito regno, ecce tibi magnum quoddam inest ovum lapideum, idcirco etiam visum singularius, quod tepidum tactu esse videatur.&lt;page&gt;Quid fiat si id aperiatur? Haec caelatura quid est?...&lt;page&gt;Res maxime in obscuro est... Et quisnam scit, siquae etiam obscuriores sint occultae inferius...</entry>
+
+<entry name="QUIRREL_TEMPLE_1">Quamdiu ad hunc locum adducebar... Quot enim fabulas, mirabiles tum terribiles, audii, ut non iam me retinere potuerim, quin tandem eas res egomet experirer.&lt;page&gt;Et ecce, vide, hic mundus ut me salutat, paene e morte renatus!&lt;page&gt;Saeviunt iam belvae, et terra quatit. Aer spissu&#39;st. Quidnam accidit hic?</entry>
+<entry name="QUIRREL_TEMPLE_2">Unused</entry>
+<entry name="QUIRREL_TEMPLE_3">Unused</entry>
+<entry name="QUIRREL_TEMPLE_4">Si in ruinas tendis, iste aculeus obsoletus vix operi suppeditabit tibi. At circumspice modo!&lt;page&gt;Quot enim sunt circa nos, multo quoque melius armati, qui ante in has ruinas conati irrumpere, suam quisque offenderunt necem?&lt;page&gt;Ecquem ergo censes queriturum, si exploratoris alter surripuerit explorator armamenta? Quin, immo factum misericorditer est: quid enim condecet mortuos, etiam istis rebus gravari?</entry>
+<entry name="QUIRREL_TEMPLE_5">Esne ingressus per oppidum superius? Quem locum tristem illunc, quot autem sub eo miracula latescunt!&lt;page&gt;Hac quidem de causa credo, omnes deorsum esse profectos oppidanos. Ecquis enim tantis illecebris repugnet?</entry>
+<entry name="QUIRREL_TEMPLE_6">Mirabile...</entry>
+<entry name="DREAM_EGGTEMPLE">Quid est hoc quod sentio? A quo attrahor, atqui etiam repellor...&lt;page&gt;Et quid illa caelamina, quae si intueor, quaedam mihi menti offunditur caligo...</entry>
+
+<!-- BAD? -->
+<entry name="QUIRREL_GREENPATH_1">Oh, salve! Uterque procul a via aberrasse videmur.&lt;page&gt;Haud credere id potui, illos tramites fatiscentes, ad tam viridem, vegetumque perducere locum!&lt;page&gt;Haec aedicula, ut arbitror, aliquod sacellum esse oportet antiquum, sed cui sit dicatum, tempori id perditum esse videtur.&lt;page&gt;Etiam locus placidus est, ad quietem capiendam opportunus.</entry>
+<!-- BAD?? Congredi advorsum volebam salutatum, sed non nisi primum aculeum exacuam meum, ne non sine iniuria procedat congressus. -->
+<entry name="QUIRREL_GREENPATH_2">Aliquem modo offendi insolitum, intente lacum qui intuebatur.&lt;page&gt;Congredi advorsum volebam salutatum, sed non nisi primum aculeum exacuam meum, ne non sine iniuria res procedat.</entry>
+<entry name="QUIRREL_GREENPATH_3">Istum aculeum non mediocre telum esse censeo, sed plane obsoletus est.&lt;page&gt;Licet commode tibi profuerit superius, tamen parum profecerit, opinor, ad pericula inferius oppugnanda.</entry>
+<entry name="QUIRREL_GREENPATH_REPEAT">Nidus Sacer, qui locus dignior audentibus exploratoribus sicut nos? Nusquam enim scies, unde periculum improviso adoriri possit.&lt;page&gt;Hoc quidem in loco, aut promptus, aut mortuus eris.</entry>
+
+<entry name="QUIRREL_RUINS_1">Prae nobis, ecce manifestum est caput totius regni. Locus maestus, ubi vero secreta et arcana huius mundi latent.&lt;page&gt;Quamquam et ego huc valde attrahebar, nunc tamen descensum subvereor.&lt;page&gt;Estne autem id vere metus, an aliud est quod me retinet?</entry>
+<!-- BAD At, si ita lapis steterit tamdiu, sine dubio non nostra causa corruet nunc -->
+<!-- BAD? locum imbrium cadentium -->
+<entry name="QUIRREL_RUINS_2">Haec urbs aedificata esse videtur in aliquo enormi specu, cuius de pumicoso lapide decidunt continenter hi imbres.&lt;page&gt;Oportet ergo, censeo, alicubi supra hunc locum esse ingens corpus aquae. At vero, si ita lapis steterit tamdiu, sine dubio non nostra causa corruat nunc.&lt;page&gt;Ante quam ab hoc regno discedam, locum de quo imbres decidunt conspicere velim. Quod magnificum spectaculum sit!</entry>
+<!-- BAD?? Non faciles erunt hostes oppugnatui, qui hanc urbem obsidunt -->
+<entry name="QUIRREL_RUINS_3">Si despicias deorsum, inter densissimas imbres, conspiciuntur vacui vigiles urbani, excubiis suis iamdudum fungentes perpetuis.&lt;page&gt;Cave illos, mi brevis amice, quorum corpora vacua certe suam non dedidicerunt militarem disciplinam. Non faciles erunt hostes oppugnatui, qui hanc urbem obsidunt.</entry>
+<!-- BAD?? -->
+<entry name="QUIRREL_RUINS_4">Nonne hic est locus tranquillus? Et quam lepidus est hic sonus, imbrium leniter vitrum tundentium!</entry>
+<entry name="DREAM_CITY">Nidi Sacri cor et caput... Etiam in hac maesta specie, magnificum est.</entry>
+
+<!-- BAD?? Tempus igitur idoneum, ut parvam interea faciamus moram -->
+<entry name="QUIRREL_QUEENSTATION_01">Incredibile hoc. Quis enim exspectarit, post illum caliginosum descensum, tantam offendere Stationem Scarabaeam?&lt;page&gt;Quales autem habeamus antiquos cives Nidisacrenses, qui talia tam fero in loco aedificarint aedificia?&lt;page&gt;Neque ferae adhuc ad hunc locum devenisse videntur. Tempus igitur idoneum, ut parvam interea faciamus moram.</entry>
+<!-- BAD?? quidem -->
+<entry name="QUIRREL_QUEENSTATION_02">Finge modo in animo, qualis fuerit hic locus in tempore maximi Regni. Turbas viatorum, ultro citroque Regnum commeantium. Sonos tintinnabulorum. Stationes a multitudine concitatas, quasi factas quidem vivas.&lt;page&gt;Nunc vero nos tantum sumus, qui vel cognoscere hanc possimus.&lt;page&gt;At non malum, sane, id censeo, nos Regni spectaculis frui, vel si specie obsolescenti.</entry>
+<entry name="QUIRREL_QUEENSTATION_REPEAT">Audisne, quamvis tenuem, etiamnunc tintinnabulorum tinnitum?</entry>
+<!-- BAD?? -->
+<entry name="DREAM_QUEENSTATION">Etiam hi magni Scarabaei verebantur Regem. Qualis is fuerit oportet, ut tantum cultum sui suscitaret!</entry>
+
+<!-- BAD?? conficere? perficere? -->
+<entry name="QUIRREL_MINES_1">Ahh, conspice modo hoc: quid putas, nonne id spectaculum amoenum est?&lt;page&gt;Non autem demiror, te iter per hos fulgidos specus conficere potuisse.&lt;page&gt;In te enim percipio magnas vires latere. Et quidem plane verendas, nisi tantula esses statura.</entry>
+<!-- BAD? -->
+<entry name="QUIRREL_MINES_2">Miseretne te illorum fossorum, qui etiamnunc in metallo perpetuum laborant?&lt;page&gt;Vel etiam mente ablata, eorum industria etiamnunc perseverat.&lt;page&gt;Aes autem illud crystallinum, aliquam vim continere rumor est, licet minorem quam Animi vires quibus utebatur populus Nidisacrensis, idcirco tamen multo minus periculosam.&lt;page&gt;... Mirum quanta mihi notitia sit rerum tam antiquarum. Unde ego tantam scientiam rerum sum nactus...?</entry>
+<entry name="QUIRREL_MINES_3">Hinc a superiore loco, vix cerni potest lux illius miseri oppiduli. Dubito vero conscios oppidanos, quam late mundus quem circum se adspiciunt extendatur.</entry>
+<entry name="QUIRREL_MINES_4">Quam parvum videtur...</entry>
+<!-- BAD? -->
+<entry name="DREAM_MINES">Horum ventorum solitarius clamor... Suffugium lapidis desuper tegentis mihi est potius solatium.</entry>
+
+<entry name="QUIRREL_SPA">Heus, salve! Nonne grata est, inter saevitiam bestiarum, haec commoditas?&lt;page&gt;At non est dubium quin hic quoque sit locus infestus. Nam imo in fundo, quod audivi, sit pagus aliqui, cuius populus numquam asciverat auctoritatem Regis Nidisacrensis.</entry>
+<!-- BAD?? proficiunt? prosunt? -->
+<entry name="QUIRREL_SPA_REPEAT">Heus age, oblectare mecum his aquis! Hae calidae aquae thermae valde ad defessa mea crura proficiunt.</entry>
+<entry name="DREAM_SPA">Hic quoque eundem pagum quaerit atque ego, qui in corde Nidi Sacri est. Quare idem iter contendamus, demiror.</entry>
+
+<!-- BAD? diffisi? diffidentes? -->
+<!-- BAD? -->
+<entry name="QUIRREL_MANTIS_01">Heus tu, iterum! Offendistine iam incolas huius pagi?&lt;page&gt;Advenis perquam diffisi videntur... aut affatim quidem.&lt;page&gt;Non autem rudes idcirco eos puto, hercle, quippe qui morbum qui cetera animantia consumpsit... ii probe eum restitisse videntur. Non enim suam perdiderunt rationem, neque suum honorem, neque autem duriores suos mores.&lt;page&gt;At audi modo verba mea. Si tibi est consilii reginas eius pagi provocare ad pugnam, iste aculeus hebes, mihi crede, parum tibi profecerit.&lt;page&gt;Proin tu ito modo ad urbem propinquam, antiquum illud Nidisacrense caput. Ibi enim fertur Faber quidam Aculearius habitare, qui tibi faciat ob rem.</entry>
+<entry name="DREAM_MANTIS_VILLAGE">... Quis me docuit de illo Fabro Aculeario? Non memini. At prope vultum quoque illius reminiscor... </entry>
+<entry name="QUIRREL_MANTIS_REPEAT">Iter meum ad illam urbem tendit. Si quaeres Fabrum Aculearium, haud multum intererit tempus, donec rursus te videbo.</entry>
+
+<entry name="QUIRREL_FOGCANYON_A">Oh, quam miraculis abundat hoc regnum! Ecce enim aedificium supra acidum lacum exstructum.&lt;page&gt;Sed quamvis mira sit eius species, tamen aliquid summopere familiare mihi in eo inesse videtur. Aliquid in meo animo penitus quod insidet, quod discernere non queo...&lt;page&gt;Censebam me huc contulisse exploratoriam cupidinem, verum videor ab alia re ignota esse adductus.&lt;page&gt;Hoc ipsum aedificium me advocabat.</entry>
+<entry name="QUIRREL_FOGCANYON_B">Id me vocat... Audeamne intrare?</entry>
+
+<entry name="DREAM_SLUGSHRINE">Ille lacus... aliquid sacrum quondam conquievit in eo...&lt;page&gt;... Itane vero, quievitne quicquam in illoc? Curnam id sciam?</entry>
+<entry name="DREAM_LAKE">Unam fere aetatem vixisse, de qua tam parum meminerim...&lt;page&gt;An fortasse sic, ita tragoediarum oblitum, iterum miracula mundi spectantem esse satiu&#39;st?</entry>
+
+<entry name="QUIRREL_TEACHER_1A">Quid est, te quoque illa advocavit? Haud mirum est igitur, nos simul huc devenisse.&lt;page&gt;Tametsi plerumque rerum oblitus sum, praeclare quam huius loci commemini.&lt;page&gt;In his enim aedibus, voluerat Erudita omnem scientiam Regni conferri, atque harum in intimo conclavi, perpetuae suum requietis selegerat locum.</entry>
+<entry name="QUIRREL_TEACHER_1B">Illa enim, ad Regnum conservandum Nidisacrense, ante quam ultro dedidisset suam vitam ut vinculum fieret, hunc locum praemunivit.&lt;page&gt;Et, quamvis memoria me fallit, scio pro certo me in ea re interfuisse.</entry>
+<entry name="QUIRREL_TEACHER_1C">Et nunc iterum huc vocor ab illa, ad easdem munitiones demoliendas. Ita quidem, ut tibi sit auxilio.</entry>
+<entry name="QUIRREL_TEACHER_2">Noli igitur haesitare, quoniam id optavit ipsa, neque ego.&lt;page&gt;Quid facturus sis agnovit, et obsisti nevult tibi.</entry>
+<entry name="QUIRREL_TEACHER_3">Itaque Domina de vita decessit, et una secum fert vinculum suum.&lt;page&gt;Grave est opus quod moliris. Sed et expertus ego qua virtute sis, et eandem probata Domina, confidimus tibi facturo.&lt;page&gt;I tu porro, sine requiescam paulisper. Hoc enim magno opere peracto, deprehendit iam me aetas provecta.</entry>
+<entry name="QUIRREL_TEACHER_HESITATE">Quid demorare? Scilicet optima res est clementia, sed idem tu et ipsa consentitis, hoc facinus esse patrandum. Bono animo es, sodalis.</entry>
+
+<entry name="QUIRREL_NODREAMNAIL">Attamen mens eius etiamnunc praeclusa est tibi, namque illa adhuc firmissima permanet munitio.&lt;page&gt;Si vinculum volumus perfringi, quomodo mentes aperiamus comperto est opus. Id genus instrumenti certe alicubi exsistat, at in meis dumtaxat itineribus, nusquam ullum invenire potui.&lt;page&gt;Fama autem fertur, regni papiliones per spatium inter mortem ac somnium posse ambulare. Quid si eas anquiras?</entry>
+
+<entry name="DREAM_ARCHIVE_ENTRANCE">...Quis es tu, qui huc me adducis? </entry>
+<entry name="DREAM_ARCHIVE_INTERIOR">Exitum huius regni a tantula bestiola pendere...</entry>
+
+<entry name="QUIRREL_EPILOGUE_A">Iterum in me incidis, o mi brevis amice. Nunc tandem, mihi est pax.&lt;page&gt;Bis quoque hunc mundum expertus, quamvis prima harum notitia mihi munere adempta, pergrate tamen alteram accepi datam hanc mihi facultatem, ut huius mundi pulchritudinem ex integro cognoscere potuerim.&lt;page&gt;Nidus Sacer, is est locus perquam latissimus, et mirabilissimus, set quotquot miracula inveni, nullum tam mirabile miraculum offendi, quam tu es.&lt;page&gt;Hahae. Et his quoque blandimentis, responsum mihi est austero silentio. Hoc vero placet.&lt;page&gt;Magnopere mihi placet.</entry>
+<entry name="QUIRREL_EPILOGUE_B">... Mirabile est...</entry>
+</entries>

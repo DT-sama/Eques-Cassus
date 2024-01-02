@@ -1,0 +1,70 @@
+<entries>
+<!-- TL note:
+Not too bad, not too good. It strained my conversational skills for sure.
+
+TL 100%
+Check 95%
+Confidence 80%
+-->
+
+<!--
+Lemm, indecl.
+Antiquarius
+-->
+<entry name="RELICDEALER_SHOP_INTRO">Heus. Quaeritasne merces raras? Apage ergo te a me! Nam quae ego mihimet collegi, nemini sum partiturus.&lt;page&gt;Sin vero aliquid antiqui inveneris in itinere tuo, mihique id vendere voles, aequum pro eo pretium fecero tibi.</entry>
+
+<entry name="RELICDEALER_CONVO_1">Noli tangere mea antiqua! Non, inquam, veneunt meae res.&lt;page&gt;Sed, si quid antiqui in itinere tuo invenisti quod mihi vendere vis, aequum pretium pro eo tibi faciam. Accededum ad mensam, dein mercabimur.</entry>
+
+<entry name="RELICDEALER_NO_RELICS">Hem. Nullas tu mi ferre videris reliquias antiquas. Siquas in itinere tuo quas mihi vendas inveneris, aequo pro pretio eas emero de te.</entry>
+<entry name="RELICDEALER_NO_RELICS_2">Nihilne mihi fers antiqui? Si quid inveneris, quanti aequum est id emam de te.</entry>
+
+
+<entry name="RELICDEALER_DREAM">Quam mira est species huius pueri... attamen nescioquare videtur familiaris...</entry>
+
+<entry name="RELICDEALER_TALK">In rebus huius regni compertis antiquissimis, intexta est quaedam historia iamdudum perdita, quam paucissimi aperire videntur studere. E contrario, plurimi ad spoliandas ruinas adveniunt rapinis suis.&lt;page&gt;Vah! Perdantur isti fures et praedones nequam!</entry>
+<entry name="RELICDEALER_TALK_REPEAT">Collocuti sumus affatim. Nunc mihi curae sunt tergendae reliquiae, antiquaeque tabulae interpretandae. Apage! Non enim spectaculo&#39;st hic locus, velut aliquod museum.</entry>
+<entry name="RELICDEALER_TALK_2">Admirarisne meam tabernam? Iure quidem eam occupavi.&lt;page&gt;Nam nemo erat vivus, cum huc advenerim, praeter me qui turrim obtineret. Si ergo domicilium in urbe quaeris, abi alias, satius si in alio prorsus aedificio.&lt;page&gt;Namque non ego huc adveni cupidus vicinorum, sed antiquarum rerum.</entry>
+
+
+<entry name="RELICDEALER_NAILSMITH">Cum aculeum tuum ita obsoletum aspicio, quasi una ex meis reliquiis videtur!&lt;page&gt;Non quia de armis mea quicquam intersit, sed profore tibi credo, si Fabrum petas illum Aculearium.&lt;page&gt;Casam is habet in urbis fine extremo sitam, non multo procul hinc. Rogato eum, et concinne is aculei tui restituet aciem... si quidem ei videbitur.</entry>
+
+<entry name="RELICDEALER_DOOR">Exi foras ambulatum, ut meditarer. Redibo quam mox. Si quid erit opus mercato, reperies me in Foro Fontano.</entry>
+<entry name="RELICDEALER_FOUNTAIN">Oh? Quid agis tu sub hoc imbre maxumo?&lt;page&gt;Nonne autem magnificus est, hic fons? Et sane etiam nobis magnificentior videatur, ni ita pluviis mergamur.&lt;page&gt;Ille Eques, ut apparet, aliquis magni momenti fuit, quem etiam ipsam vitam condonasse pro Regni salute, hoc signum infaustum commemorat factum.&lt;page&gt;Certe aliqua acerba morte oppetisse oportet, tamen id quod sectabatur nihilominus assecutus esse videtur.&lt;page&gt;In omnibus reliquiis antiquis quas collegi, ne unum quidem indicium usquam invenire potui, quis ille fuerit, quidve fecerit, aut quid eo factum sit.</entry>
+<entry name="RELICDEALER_FOUNTAIN_REPEAT">Mox redibo ad tabernam. Nam si longius hic cunctabor, vere edepol imbribus raptus in Aquaeductus demersus fuero.&lt;page&gt;Veni et tu, si libet. Immo, si reliquias fers. Nolo nimio garrire.</entry>
+<entry name="RELICDEALER_DREAM_FOUNTAIN">...Quis es, o eques ignote?... Cur nusquam facta est tua mentio nisi in hoc fonte?...</entry>
+
+<entry name="RELICDEALER_DUNG">Fi! Num quid tibi gressio&#39;st huc, in meam lepidam taberniculam, tam fetide redolenti?!&lt;page&gt;Hae reliquiae affatim iam sunt perpessae tempora, quid istunc fetorem his afficere lucri&#39;st? Quin aufer te hinc ad Aquaeductus, aut undecumque veneris!</entry>
+
+
+<!-- JOURNAL -->
+<entry name="RELICDEALER_JOURNAL_1">Quid est hoc, an est Libellus Viatoris?&lt;page&gt;Quamvis sint facili repertu, tamen semper oblector horum lectione atque interpretatione.&lt;page&gt;Si eos pellegas, infelicem fabulam texunt. Hau secunda videlicet est sors eorum, qui per ruinas Nidisacrenses constituunt proficisci.</entry>
+<entry name="RELICDEALER_JOURNAL_2">Alter Libellus Viatoris?&lt;page&gt;Credes fortasse me minoris eos facere quanti aequum est, at et iis specus abundant, neque credo quemquam te inventurum, qui pluris istos aestiment.</entry>
+<entry name="RELICDEALER_JOURNAL_3">Quid affers, aliumne Libellum Viatoris? Quin, adde modo eum in aggerem cum ceteris.&lt;page&gt;Nescio vero quando potis ero eos interpretari, quandoquidem diversis in linguis cum qui exploraverunt has speluncas eos scripsissent, longum et arduum est opus interpretandi.</entry>
+<entry name="RELICDEALER_JOURNAL_4">Etiam Libellus Viatoris?&lt;page&gt;Pergis edepol pergere istos reperire. Num quot cadavera per itinera tua offendis? Immo, isto tuo aculeo, miror ni eidem numero nonnulla etiam tutemet addideris.</entry>
+<entry name="RELICDEALER_JOURNAL_5">An alium fers Libellum Viatoris?&lt;page&gt;Hi commentarii hoc praecipue a ceteris differunt, quod sunt in lapide inscripti secundum quendam morem antiquum, qui mos egregie sua inscripta conservat.&lt;page&gt;Occidente autem Regno, cives scribere in lapide destiterunt, atque in quoddam genus chartae coeperunt, ex araneis telis intextae.&lt;page&gt;Quod enimvero est nobis magno incommodo, quod nunc ab humiditate huius turris ita eorum scripta sunt contrita, ut paene ea legere non iam possimus.</entry>
+<entry name="RELICDEALER_JOURNAL_6">Quid est istoc, an Libellus Viatoris est?&lt;page&gt;Audistin&#39; illud adagium de libellis lapideis?&lt;page&gt;Si periculum propinquum est, atque retunsus est aculeus,&lt;br&gt;lapideos modo libellos in os impingito hostium.&lt;page&gt;Hahahae! Nonne perridiculum&#39;st? At haut falso dictum est. Nam hi libelli sunt sat ponderosi.</entry>
+<entry name="RELICDEALER_JOURNAL_7">Quid istuc? An etiam alius est iste Libellus Viatoris?&lt;page&gt;Cum tot libellos iam possideam viatorum, si eos omnes interpretabor, profecto insignis edepol fiam inter studiosos mortuorum Nidisacrensium.</entry>
+<entry name="RELICDEALER_JOURNAL_8">Etiam Libellus Viatoris?&lt;page&gt;Vix credibile est, te vere tot collegisse. Num totum regnum perquisitum habuisti, ut tot libellos invenires?</entry>
+
+<!-- SEAL -->
+<entry name="RELICDEALER_SEAL_1">Quid fers, an id Insigne Nidisacrense est? Hau malam quidem rem fers.&lt;page&gt;Nostin&#39; Magnum Ordinem Equitum Nidisacrensium? Collegium erat eximiorum quinque Equitum Nidisacrensium nobilissimorum, quorum saepe mentio in Regni annalibus facta est.&lt;page&gt;Cum vero de singulis Equitibus nulla usquam, quod compererim, supersit mentio, nominum ac vultuum eorum memoria esse videtur oblitterata.&lt;page&gt;Et ii quidem vixerunt iam pridem. Maximi ponderis sit, siquis qui qualesve fuerint Equites comperiat.</entry>
+<entry name="RELICDEALER_SEAL_2">Alterum Insigne Nidisacrense fers? Cedo mi.&lt;page&gt;Heu. Haec colligere haud indignor, sane, tamen haud multum est, quod ab unoquoque insigni possit comperiri novi.&lt;page&gt;Sed, quod sunt fabre confecta, nihil miri est, sicui ea colligere libeat, eorum pulchritudinis fruendae gratia.</entry>
+<entry name="RELICDEALER_SEAL_3">Aliud Insigne Nidisacrense? Cedo istuc. Num quid aliud habes mihi? Sin nihil, quin confer temet alio?</entry>
+<entry name="RELICDEALER_SEAL_4">Hem, etiam Insigne Nidisacrense?&lt;page&gt;Quidam autem me monuerunt, iuxta urbis portas esse aliquam statuam, ad figuram cuiusdam equitis exsculptam ignoti, qui fortasse unus fuit ex Magno Ordine Nidisacrensi eques.&lt;page&gt;Irem vero egomet ut eam inspicerem, nisi clausae essent portae. Non enim profecto id itineris volo, illud quidem inter perniciosissimos lemures, experiri mihi.</entry>
+<entry name="RELICDEALER_SEAL_5">Ecce autem aliud Insigne Nidisacrense.&lt;page&gt;Hei! Abundabit mox istis profecto taberna mea. Quis enim arbitratus esset, tam multa eorum superesse? Numnam maioris ea feci tibi, quae tam mediocria facis repertu?</entry>
+<entry name="RELICDEALER_SEAL_6">Etiam Insigne Nidisacrense fers? Cedodum.</entry>
+<entry name="RELICDEALER_SEAL_7">Eccillud Insigne Nidisacrense.&lt;page&gt;Tu profecto es omnium quos cognovi industrissimus collector. Nam si ita pergas, nullum omnino in mea taberna manebit spatium vacuum!</entry>
+
+<!-- IDOL -->
+<entry name="RELICDEALER_IDOL_1">Quid hoc, an Simulacrum Regis est?&lt;page&gt;Rex Nidisacrensis, quem cives antiquitus inter divos habebant,  umbratiliorem egisse vitam fama est satis vulgata. Igitur Regis cultum, ut vulgus coleret, coluisse videntur cives per haec multa simulacra.&lt;page&gt;Quae quidem tali subtili artificio ficta videntur, ut raro his temporibus in artifice quoquam possit inveniri.</entry>
+<entry name="RELICDEALER_IDOL_2">Fersne mihi Simulacrum Regis?&lt;page&gt;Si inspicias, cernere potes in quoque simulacro nonnullam speciei differentiam. Sunt enim quibusdam caelaturis obsignata, quarum ad cognoscendam significationem, magna opera fore usus videtur.&lt;page&gt;Eas vero caelaturas, factas esse arbitror singillatim ad possessoris arbitrium, sic ut, unicuique civi, fierent haec simulacra quasi privata Regis auctoritatis et potestatis monumenta.</entry>
+<entry name="RELICDEALER_IDOL_3">An aliud Simulacrum Regis est?&lt;page&gt;Visistine autem spolia domus regiae? Ea sunt sub urbe sita, in infimis Regni fundamentis.&lt;page&gt;Certe illud aedificium tunc magno fuisse miraculo oportet, sed iam nullum ibi restat vestigium.&lt;page&gt;Quod factum mihi summe mirum videtur, quod ne indicium quidem ullius commissi proelii ibi usquam invenitur, quasi aedes omnino evanuerint in auras.</entry>
+<entry name="RELICDEALER_IDOL_4">Quid istoc fers, aliud Simulacrum Regis?&lt;page&gt;Saepe miror, qualis fuerit Regis vera species. Nam in imaginibus, saepissime magna quadam fulgenti figura pictus est, atque capiti indutus cornigera corona.&lt;page&gt;In his vero, suam speciem Regem puto amplificasse nonnihil. Quippe quod rex qui desideret coli ut deum, vitia quaecumque habeat velit profecto celare, ne vulgari a vulgo videatur aspectu.</entry>
+<entry name="RELICDEALER_IDOL_5">Etiam Simulacrum Regis?&lt;page&gt;Vae, sic putabor a collegis meis cultor quidam Regis Nidisacrensis esse factus!&lt;page&gt;Vah! Num quas nugas nugor. Invidebor ab his magnopere. Ferto mihi plura!</entry>
+
+<!-- EGG -->
+<entry name="RELICDEALER_EGG_1">En, an Ovum Arcanum est istuc? Haec vero est res admodum vetus. Hoc genus reliquiarum meo negotio concitat maximum studium, ideo quod ex iis maximam possumus, quamquam difficile est eam recludere, rerum praeteritarum cognoscere notitiam.&lt;page&gt;Una autem res apertissime intellegitur: Nidus Sacer quamvis affirmetur omnium prima, manifestum est tamen aliam ante eum exstitisse hoc in loco quandam antiquam civitatem.&lt;page&gt;Horumque unumquodque ovum, illius nobis perditae aetatis commonet clare et commemorat.</entry>
+<entry name="RELICDEALER_EGG_2">Hui, alterum Ovum Arcanum fers.&lt;page&gt;Rarissimo fit ut quisquam duo possideat eorum. Sane quam invisuri erunt mei collegae, quamquam ob id crumena mihi est admodum facta levior.&lt;page&gt;Haec ova, ut dixeram antehac, sunt maximum indicium eius temporis quod ante Nidum Sacrum fuit, at non unicum tamen illius aetatis monumentum.&lt;page&gt;Illae enim, siquam inveneras, statuae quae intus continent animum, eae quoque, quamvis minori quam ovorum, sunt nobis antiquioris aetatis testimonio.</entry>
+<entry name="RELICDEALER_EGG_3">Etiam tertium Ovum Arcanum fers? Ehem, explorator tu sane es egregius, qui tot reperire quisti.&lt;page&gt;Ovi est forma ad tegendum aptissima. In Nido quidem Sacro, uti solemus tabulis lapideis, in quas litteras inscribimus. Haec ova tamen longe sunt ideo tutiora, quod scripta conservant interius.&lt;page&gt;Veritus nequid ovum laederem, stratum exterius tantum adhuc inspicere quivi, sed etiam plane manifestum est, in tempore praeterito, strata quoque interiora potuisse aliquo pacto legi.&lt;page&gt;Utinam quam mox eorum interpretandi modum comperiam!</entry>
+<entry name="RELICDEALER_EGG_4">Quin, etiam quartum Ovum Arcanum mihi affers! Vix hoc credere possum. Nusquam inveni quemquam tam callidum Regni thesaurorum reperiendorum quam te.&lt;page&gt;Numqua mira ovorum cernendorum facultate es praeditus tu? An vero ova haec ad te aliquo pacto sunt attracta? Nam socii mei ita praedicant saepe, cuique ovo inesse voluntatem aliquam, aut quod suum quodque ovum quaerat possessorem, vel repudiet.&lt;page&gt;Si vere ita est, subtilior res est quam ut ipse credam. Saepius enim, fateor, in hoc falluntur antiquarii, quod fabulas suas pro vero negligenter accipiunt.</entry>
+</entries>

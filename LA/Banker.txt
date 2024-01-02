@@ -1,0 +1,48 @@
+<entries>
+<!-- TL note:
+The translation is serviceable, although I don't like the wording here and there. Could be better. One of the firsts.
+
+TL 100%
+Check 85%
+Confidence 50%
+-->
+
+<!--
+Millibella, -ae
+Argentaria
+Fur
+-->
+
+<entry name="BANKER_GREET">Chaere, o mi care! Estne in animo res pecuniarias agere?</entry>
+<entry name="BANKER_FAREWELL">Vide ut valeas.</entry>
+
+<!-- UNUSED -->
+<entry name="BANKER_CANCEL">Mutavistine consilium? Iterum sis huc reveni.</entry>
+<!-- UNUSED -->
+<entry name="BANKER_DEPOSIT">Optime, o mi care! Pecunia tua in tuto erit apud me. </entry>
+<!-- UNUSED -->
+<entry name="BANKER_WITHDRAW">Gratias tibi ago. Caveto ne in unam rem totum absumas!</entry>
+
+<entry name="BANKER_MEET">Chaere, o mi care. Tabernam modo occludebam, meque mox fugae datura fui, cum tu advenisti. Ego argentariam hanc curo.&lt;page&gt;Amittere enim Geum est incommodum terribile, quod modo maius fit damnum, si omne tute tecum portas.&lt;page&gt;In cella vero argentaria mea, Geum tuum erit multo tutius, quippe quod diu cum argentariam hanc administro, ne nummum quidem umquam amisi!&lt;page&gt;Velisne igitur aperire tabellam apud me?</entry>
+
+<entry name="BANKER_REMEET">Visne igitur aperire tabellam apud me argentariam? Amittere Geum est terribile incommodum.&lt;page&gt;Multo securior eris per periculosa tua itinera, sciens Geum tuum esse tuto apud me.</entry>
+
+<entry name="BANKER_DREAM">Illae thermae... oh quam velim ad eas redire... Quam nunc illae aquae calidae meam dolentem concham iuvarent...</entry>
+
+<entry name="BANKER_BALANCE_ZERO">Oimoi... N--nihil iam reliqui habeo... E-et tu, certe, abituru&#39;s modo, an non?&lt;page&gt;E-e-etiam assentior... Nunc abire optimum&#39;st...</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">...C-c-credo me paurumper hic conquieturam. Etiam, parumper nunc quiescere optimum&#39;st.</entry>
+
+<entry name="BANKER_ACCT_OPEN">O qua prudentia&#39;s! Nunc malevolae bestiae quotiens te obtruncabunt, scies Geum tuum esse tuto in mea conch... immo, in mea cella!&lt;page&gt;Age vero, res agamus argentarias nunc.</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">Manedum. Istud Geum non sufficit, ut tabellam aperiamus. Collige saltem 100 Geum, tum redito huc actutum, et tabellam aperiemus.</entry>
+<entry name="BANKER_ACCT_DECLINE">Scio. Perdifficile est dimittere proprium peculium. Hic autem ero, si quando eris mutati consilii.</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">Etiam non vis? Noli ita esse cunctabundus. Audax esto, et aude audacter. Sic vero augebis pecuniam tuam.</entry>
+
+<!-- BAD? -->
+<entry name="BANKER_SPA_MEET">O...oimoi, ch-chaere iterum, o mi c-care. N-numquid agis tu hic?&lt;page&gt;An tuam pecuniam petis? E-ecce, ego... o me miseram.&lt;page&gt;Dolet hoc fateri, sed... periit. Expensa est, cuncta.&lt;page&gt;Nam, vide, administrare tabernam argentariam haud parvi est impendii, quam ob rem magna mihi necesse fuit ex te exigere tributa pro tabella.&lt;page&gt;Et id omne iure quidem feci, mecastor, et legitime, ut decet bonam argentariam... ah ha hae... hae.&lt;page&gt;Sed nunc...au...gratum mihi facis, quod me visis, quodque nunc certe id es mihi ignosciturus. Si enim me solam parumper relinquas, mox finem huic faciam, et thermae totae tuae erunt.</entry>
+<!-- BAD -->
+<entry name="BANKER_SPA_GREET">Quid? Oh... re-redisti. Censebam, cum abisses, me te numquam iterum vis... heu... uram esse...&lt;page&gt;Sed... hau.. tuum Geum. Scito, mihi quoque haud facile fuisse decretum. Ita enim adeo, ut argentaria omnino desierim.</entry>
+<!-- BAD -->
+<entry name="BANKER_SPA_REPEAT">...N-ne inter nos sit ulla inimicitia.</entry>
+<entry name="BANKER_DREAM_SPA">Vae mihi... Apage te a me, abi modo, o terribilis bestiola...</entry>
+
+</entries>

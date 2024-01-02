@@ -1,0 +1,44 @@
+<entries>
+<!-- TL note:
+Needs reiteration but I'm glad it's over.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+<!--
+Sacerdos Limax
+-->
+
+<!-- BAD?? -->
+<entry name="SHAMAN_MEET">Oho! Quis es tu, qui ita erepis ex tenebris? Babae, quem aspectum truculentum! Inanitam faciem, et ferentem aculeum mortiferum!&lt;page&gt;Num quae gravissimae res ad haec Nidisacrensia spolia te adduxerunt? Immo, ne eloquere. Venis vero fortasse ad me, quia meone indiges auxilio?&lt;page&gt;Quin, ne plura dixeris, mi bone. Ecce quod petis, munusculum meum. Cantus est magicus et atrox, quem egomet confeci. Quem quidem maximopere ex re tibi futurum censeo! Ohohoe!</entry>
+
+<entry name="SHAMAN_SUMMONED_1">Solve metum. Confide mihi! Istic cantus iam tuus est, prehende eum modo! Ohohoho, nec sine illoc, crede mihi, multum progressus facere valebis.</entry>
+<entry name="SHAMAN_SUMMONED_2">Oho, tandem redisti! Non placuit meum donum tibi? Abieras nam sine verbo!&lt;page&gt;Attamen fortasse audentior es quam credis! Age vero, cape quod tuum est!</entry>
+
+<!-- BAD? nempe non ut cantus donati mihi quicquam debitum exsolvas -->
+<entry name="SHAMAN_TRAPPED_1">Oho? Tandem experrectus es! Ignosce mihi, monitum te oportuit, quid ille cantus faceret. Equidem observabam te dum dormiebas, sed ego quoque videor obdormisse! Ohohohoe!&lt;page&gt;Nunc cum ambo vigilamus, aliquid a te velim postulare... Nempe non ut doni mihi quicquam debitum exsolvas, minime edepol, verum ad referendas gratias novo amico.&lt;page&gt;Est enim immanis et taeterrima bestia, quae meo templo est potita, idque quasi latibulum suum fecit. Quam superbiam!&lt;page&gt;Gratissimum sit mihi, si tu in templum proficiscare, meaque causa si eam interficias. Quamvis testa eius sit admodum dura, usus magico cantu quem tibi dedi, perfacile eam superabis! Gratias tibi ago pro auxilio, mi bone! Ohohohohohohoe!</entry>
+<entry name="SHAMAN_TRAPPED_2">Numquid vis? Hancine portam? Ohohoe! Haec non se aperiet, donec bestiam interfeceris. Nonne res permira est?&lt;page&gt;At noli desperare tamen, quoniam manes maiorum meorum procul dubio te tuebuntur.</entry>
+<!-- alioqui -->
+<entry name="SHAMAN_KILLED_BLOCKER_1">Oho! Itaque bestia interfecta&#39;st!&lt;page&gt;O misellam! Quam valde te veritam esse oportet. Et quondam tam mansueta fuit, priusquam illi spiritus cavernarum pestiferi, eam incenderet prisca quadam inveterata iracundia.&lt;page&gt;Nihilominus, id quod faciendum erat perfecisti, et probe quidem. Ob id, gratias tibi ago! Et procul dubio, uterque scimus, non successisses sine mei cantus auxilio... Ohohoe!</entry>
+<entry name="SHAMAN_KILLED_BLOCKER_2">Oho! Ecce redis! Observabam te dum dormiebas, at ego quoque in custodela sum visus indormire. Cum denique e somno solutus sum, ecce iam aliquo aberraras! Ohohoe!&lt;page&gt;Enimvero, a te aliquid postulare volebam... Est enim immanis bestia quae meo templo potita est...&lt;page&gt;...Oho? Iamne eam interfecisti? Papae! Babae! Tatae! At idem hoc erat quod ex te petere volebam!&lt;page&gt;O mi optime, gratissimum hoc fecisti mihi! Ohohohoe!</entry>
+
+<entry name="SHAMAN_OPEN_GATE">Et em vide! Inter nos iam porta aperitur! Ohohoe! Nam, ut opinor, iam sat cupidus es abeundi. Ergo vale, et confide! Quicquid est quod petis... te inveniet! Ohohohoe!</entry>
+<entry name="SHAMAN_OPENED_GATE">Quid stas adhuc? Paenitet vero, sed nihil aliud est quod a me accipias. Attamen laudo pertinaciam! Ohohohohoe!</entry>
+<entry name="SHAMAN_RETURN">Oho! Quamobrem rursus ad me tu te confers, o parva umbella? An modo de via aberrasti? Sine cura esto mei. Ego hic iam commode me habeo. Ohohohoe!</entry>
+
+
+<entry name="SHAMAN_FIREBALL2">Ohoe, quid hoc rei est? Meum ultoricium donum in te aliquantum immutatum percipio, et mirum quidem in modum.&lt;page&gt;Ohohohohoe! Mirabile est, bone mi! Tua indoles cum meo cantu se admiscuisse videtur!&lt;page&gt;Magnum fontem virium oportet sis nactus, ut tantopere id immutaveris.</entry>
+
+<entry name="SHAMAN_QUAKE">Aho! Quid est ista nova vis, quam ex te effluentem percipio? Vis quidem tam pollens, ut saxa infra nos diffringat. Utilis ergo, si velis in profundissimum descedere tellurem.&lt;page&gt;Etiam avunculus meus, ista vi erat praeditus. Et ferocissimo quoque animo! Ohohohoe! Quam infelicem iuncturam.</entry>
+<entry name="SHAMAN_QUAKE2">Bone mi, mi bone. Aliam novam vim de te profluere sentio. Numnam materteram meam offendisti?&lt;page&gt;Ea iuxta illum Montem Crystalli habitat. Anus vero memorabilissima figura. Si possem de hoc loco discedere, ego quoque eam visere vellem.</entry>
+
+<!-- BAD?? Ea non tam dando larga atque liberalis est -->
+<entry name="SHAMAN_SCREAM">Apparet te cantum surrupuisse a mea consobrina. Tatae, tu adulator!&lt;page&gt;Ea non tam dando larga atque liberalis est quam ego, sed suavissimam vocem habet! Haud mirum est igitur, quod cantus eius tali sonora vi videtur constare.</entry>
+<entry name="SHAMAN_SCREAM2">Quid cum isto clamore? Ooohh, adeo mutatus est... ut omnis limacea ars eum non capiat.&lt;page&gt;Undecumque has vires reppereris, earum fons meae genti sit omnino visus alienus.</entry>
+
+<entry name="SHAMAN_DREAM">Etiam in somniis potes inspectare aliorum?... Quam insolitum! Ohohohohoe!</entry>
+<entry name="SHAMAN_FUNG">Cadaver herbis unctum.</entry>
+<entry name="SHAMAN_FUNG_DREAM">...Audi... me...</entry>
+<entry name="SHAMAN_CRYSTAL_DREAM">...Libera... me...</entry>
+</entries>

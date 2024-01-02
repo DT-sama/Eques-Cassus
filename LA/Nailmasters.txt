@@ -1,0 +1,95 @@
+<entries>
+<!-- TL note:
+Sorely needs recheck.
+
+TL 100%
+Check 95%
+Confidence 85%
+-->
+
+<!-- ORO -->
+<!-- TL note:
+TL 100%
+Check 95%
+Confidence 85%
+-->
+<!--
+Oro, -onis.
+Aculeator Magister
+-->
+<entry name="ORO_MEET">Hem! Quomodo invenisti tu me, hic ubi mundus finitur?&lt;page&gt;Scio quare advenias ad me. Nempe ad meam Artem Aculei ediscendam, illius praeclari Aculeatoris Magistri Oronis.&lt;page&gt;Ita enim praecepit Aculeator Maximus, dignissumum quemque qui aculeum capiat, ego ut eum suscipiam discipulum.&lt;page&gt;Nihil autem praecepit quin pro disciplina poscerem mercedem.&lt;page&gt;Si ergo aculeandi artem a me vis doceri, age numera Geum!</entry>
+
+<entry name="ORO_ART">Quid tandem, viator? Exsolvesne mercedem quam postulavi, an sine doctrina ab hoc loco discedes?</entry>
+<entry name="ORO_REFUSE">Aiebat saepe magister meus, &quot;numquam discent ii, qui suam sapientiam non impertiunt.&quot;&lt;page&gt;Pro &quot;sapientiam&quot; pone &quot;pecuniam&quot;, et illud tandem cognosces, ego de re quid censeam. Apage!</entry>
+
+<entry name="ORO_TAUGHT">Hem! Fateor, haud improbus es discipulus.&lt;page&gt;Quantam enim sollertiam in aculeo, quantumque studium in adipiscendum robur... Quasi unus meorum fratrum videris.&lt;page&gt;Iam te edocui id omne quod poteram. I nunc, viator, et solitudini me relinque.</entry>
+<entry name="ORO_BOW">Iam te edocui id omne quod poteram. I nunc, viator, et solitudini me relinque.</entry>
+
+<entry name="ORO_GREET">Redis ad me, quamquam inexspectatus.&lt;page&gt;Licet discipulo apud magistrum commorari, at non diutius quam necesse est.</entry>
+<entry name="ORO_REPEAT">Requiesce vero hic si libet, at non diutius quam necesse est.</entry>
+<entry name="ORO_DREAM">Mato, mi frater, solus in illa domo in cacumine mundi... adhucine me inimicum habes?&lt;page&gt;Si quando audire voles, quare hanc optaverim viam... id narrabo tibi.</entry>
+
+<entry name="ORO_MATO">Ista Ars Aculei, Caesum Grande... Num illam te docuit frater meus Mato?&lt;page&gt;Is insolitas notiones habet fidei et honoris. Difficilem ergo et severum oportet eum tibi fuisse magistrum.&lt;page&gt;Num ullam mei nominis fecit is mentionem tibi? Quod si fecerit, referto ei patienter etiamnum exspectandum. Diutiuscule enim volo ut exspectet, antequam quod vult ei dem.</entry>
+<entry name="ORO_SHEO">Cum meo fratre Scaeone exercitatus videris. Quam fortunatus es.&lt;page&gt;Is enim, discipulorum Aculeatoris Maximi erat fortissimus, longe quidem habilior quam ego aut Mato. Dilectissimus erat et fratri et magistro.&lt;page&gt;Semper autem aliquantum solitarius, verum tamen nequaquam incommodus erat.&lt;page&gt;Cum postremum collocuti sumus, dixit se aliquid omnino novi velle sibi addiscere. Demiror, utrum eius inceptum successerit.</entry>
+<entry name="ORO_SLY">Istud amuletum quod geris... Constat te Aculeatorem Maximum plurimi aestimavisse, ut tanto te afficeret honore.&lt;page&gt;Sed non idcirco te invidebo, quoniam id bene meritus es.&lt;page&gt;Et forsitan, quod te in tuo itinere adiuverim, simul facinus meum sic redimere, tametsi paululum, potuerim....</entry>
+
+
+<!-- MATO -->
+<!-- TL note:
+TL 100%
+Check 95%
+Confidence 80%
+-->
+<!--
+Mato, -onis.
+Aculeator Magister
+-->
+<entry name="MATO_MEET">Heus tu, salvus sis. Sentiebam enimvero quendam appropinquantem animum pugnacem.&lt;page&gt;Haud dubium est, te multa pericula et multos hostes superasse, dum meum sacellum in summo mundi fastigio invenires.&lt;page&gt;Ne quid dicas, obsecro! Ego, Mato, Aculeator Magister, ab illo Aculeatore Maximo in Aculeandi Arte edoctus, ascisco iam te discipulum! Age, incipiamus nunciam!</entry>
+
+<entry name="MATO_ART">Ah, vel in oculis quidem tuis perspicio, te ad meam Artem Aculei esse paratum discendam! Age vero, incipiamusne?</entry>
+<entry name="MATO_REFUSE">O discipule mi, quid haeres? An parum dignum te arbitraris, qui meam Artem ediscas?&lt;page&gt;Ne desperaveris, discipule! Et hic quidem magister tuus sic quondam eram ut tu, de meis viribus incertus. Morare hic sis apud me, et meditare parumper, donec paratus eris, et tandem incipiemus.</entry>
+
+<entry name="MATO_TAUGHT">Tuam formam... Egregie! Nunc tandem scio quid magister meus cogitaverit, cum suam doctrinam nobis tradidisset.&lt;page&gt;
+Spero te non impudenter dictum putes, si fatear me quasi filium iam te habere. Ita vero! Ut meam Artem Aculei exsequi te vidi, sensi tunc animas nostras perpetuo fieri coniunctas!&lt;page&gt;O quam tu sic me honoras, discipule... Gratiam habeo tibi.</entry>
+<entry name="MATO_BOW">Quam tu sic me honoras, discipule... Gratiam habeo tibi.</entry>
+
+<entry name="MATO_GREET">O discipule mi, exoptatus tu ad tuum veterem magistrum venis, haud merentem tantam tuam observantiam.&lt;page&gt;Asside sodes. Semper acceptus eris, si quando mecum voles meditari.</entry>
+<entry name="MATO_REPEAT">Ante quam discedas, requiesce parumper et mecum meditare. Semper enim gaudeo te visente.</entry>
+<entry name="MATO_DREAM">O Scaeo, frater... quid agis tu in illo viride regno spinarum, quam domum appellas?&lt;page&gt;Quotienscumque aculeum meum destringo, reminiscor tui...&lt;page&gt;Cum oculos claudis, nonne recordaris etiam temporis illius, quod una degebamus cum Orone fratre et nostro magistro? Oh, quam exopto ut ita facias...</entry>
+
+<!-- BAD?? Hm -->
+<entry name="MATO_ORO">Ista Ars Aculei, Impetus Impulsus... didicistine eam a meo fratre Orone?&lt;page&gt;Si ita est, adhuc vivus est. Hm. Neque sum oblitus adhuc debitorum eius, neque umquam obliviscar.&lt;page&gt;At noli nimis de hac re curare. Gaudeo, o discipule, quod altero cum Aculeatore magistro exercitatus, te fortiorem facere potuisti.</entry>
+<entry name="MATO_SHEO">Ah! Igitur meus frater Scaeo te docuit suam Artem Aculei, Caesum Grande! Quam fortunatus es, qui cum illo te exercere potuisti!&lt;page&gt;Scaeo enim et ego, cum condiscipuli eramus Aculeatoris Maximi, eramus amicissimi. Saepe is aiebat, se voluisse aculeum seponere, novisque se dedere rebus.&lt;page&gt;Gaudeo ergo eum consilium mutavisse, atque adhuc dignissimum nomen Aculeatoris Magistri gerere nobiscum!</entry>
+<entry name="MATO_SLY">Istuc amuletum...! Num id...?! Nemo nisi Aculeator Maximus istud tibi tradere potuisset!&lt;page&gt;Summum honorem accepisti, mi discipule. Meos quidem longe superavisti. Equidem Aculeatorem Maximum non visere constitui, donec praecepta sua edidicero perfecte.&lt;page&gt;Sed si eum viseris, quaeso... dicito ei eum in perpetuum mihi esse in gratia.</entry>
+
+<!-- SHEO -->
+<!-- TL note:
+TL 100%
+Check 90%
+Confidence 80%
+-->
+<!--
+Scaeo, -onis.
+Aculeator Magister
+-->
+<entry name="SHEO_MEET">Ehem! Numquis advenit hospes? Quare huc irrepis, o puer? An forte tu quoque, ut ego, res novas explorare desideras?&lt;page&gt;Nomen Scaeo est mihi, et in priore vita fui Aculeator Magister. Sic, unum illud me tenebat tunc, per aculeum fieri fortiorem.&lt;page&gt;Illi tunc me devoveram arti, illi tunc mihi oportere arbitrabar meam totam dedere vitam, donec tempore coepi sentire secus. Iam alias adducor ad artes et res, novas quidem, quae porro me pergere impellunt.&lt;page&gt;Itaque solus hic meam aetatem iam dego, deposito pro peniculo aculeo, rerum fingendarum cunctas disciturus artes. Pictura, sculptura... hoc est iam id genus artificii, quod delectamento est mihi maxumo.&lt;page&gt;Mmm. An vero alterum tu Scaeonem, illum Aculeatorem Magistrum, ex me petebas? Artem nempe disciturus Aculei? Heu, id ergo si cupis, impetrabis...</entry>
+
+
+<entry name="SHEO_ART">Aliquid in statu tuo... Nondum aculeatoris viam deposuisse videris. Possum, si velis, aliquid te docere...</entry>
+<entry name="SHEO_REFUSE">Oh? Num te quoque pigere aculei onus coepit? Intellego hoc. Remane sis hic mecum, et demus tandem utrumque nostrum elegantioribus artibus.</entry>
+
+<entry name="SHEO_TAUGHT">Igitur! Quid ais, meum opus, nonne commovet te?&lt;page&gt;Stringere aculeum, vel stringere peniculum... quid vero hoc differt ab illo?&lt;page&gt;Incidimus enim utroque in mundum, ut in mundum introspicere possimus.&lt;page&gt;Nunc vero, nihil aliud est mihi, quod te possim docere. Perge porro in id iter, quod tu solus scis. Ac bene tibi vertat fortuna.</entry>
+
+<entry name="SHEO_GREET">Huc usque te iterum contulerunt itinera tua. Numquid didicisti novi? Quibus rebus es auctus?&lt;page&gt;Egone ut valeam? Equidem etiamnunc per penicillum aliquid conor amplecti... at id quid sit omnino, fatear, adhuc ignoro...</entry>
+<entry name="SHEO_REPEAT">Penicillos quotvis habeo, et pigmenta quoque. Si quando aculeum rejicies, exoptatum apud me te excepero.</entry>
+<entry name="SHEO_DREAM">Oro, o frater... quid impulit te latere in extremo illo cineroso sepulcro?&lt;page&gt;Superbia fuit, an metus, an forte pudor? Si adeo cruciaris, fortasse et tibi est iste deponendus aculeus, et nova ars invenienda, quae leniat animum tuum.</entry>
+
+<!-- BAD?? Hmm -->
+<entry name="SHEO_ORO">Itaque offendisti meum fratrem Oronem, et impetrasti ut te eius Artem Aculei doceret. Hmm.&lt;page&gt;Quandiu eum non viso. Miror si mutatus sit. Semper autem aliqua re vexabatur, sed numquam comperi quare.&lt;page&gt;At quicquid intererit inter nos, semper tamen erimus fratres. Spero, tradita demum sua disciplina, fore ut aliquam tandem sibi sit nactus tranquillitatem animi.</entry>
+<entry name="SHEO_MATO">Haec Ars Aculei, Aculei Vortex... Ea semper erat dilectissima Matonis, fratris mei.&lt;page&gt;Certe is pergavisus est, quod discipulum te habere potuit. Semper enim sperabat se posteris quondam traditurum suam doctrinam aculeatoribus.&lt;page&gt;Non ipse autem erat optimus discipulorum, sed propter industriam suam et lenitatem, is unicus erat inter nos. Ego quoque igitur gaudeo, quia quod desiderabat tandem est adeptus. Docere alios...</entry>
+<entry name="SHEO_SLY">Istuc Amuletum! Is solus, Aculeator noster Maximus, id tibi tradere potuit...&lt;page&gt;Quam validus es factus, o mi discipule... Paene ita me moves, ut aculeum iterum sustollam.&lt;page&gt;At non id faciam, in hanc quidem viam pergam, liberalibus artibus deditus. Nam si quando viserit Aculeator Maximus me, id ei ostendere volo, quam longe sim progressus.</entry>
+
+<!-- BAD?? Hic quidem improviso ad meam casam accesserat errabunde, animo autem ipse abiectissimo -->
+<entry name="SHEO_NAILSMITH">Ehem! Vide modo qui ad nos se adiunxit! Nonne iam iucundissima videmur amicorum turba?&lt;page&gt;Hic autem improviso ambulavit errabundus ad meam domum, animo ipse visus abiectissimo, atque novum sibi quaerens studendum artificium.&lt;page&gt;Postea, parumper inter nos collocuti, communem amorem comperimus artis fingendi et creandi. Itaque nunc nos ambo una his artibus studemus!&lt;page&gt;Bonum est habere sodales, ignorabam vero quam misera fuerit mihi illa solitudo. Sic autem, quasi rursus cum fratribus equidem mihi videor! Quin, mane etiam tu sodes nobiscum!</entry>
+<entry name="SHEO_REPEAT_MODEL">Tempore et subtilitate est opus, ad has efficiendas effigies. Et operae quidem plane pretium est, quoniam possumus prae oculis nostris videre magnos Equites Nidisacrenses quasi factos redivivos.&lt;page&gt;Horum omnium mihi semper dilectissimus fuit valentissimus Hegemol. Namque quam ingens erat! Attamen mitiore erat animo, quam e statura putes.&lt;page&gt;Ceteri quoque Equites erant memorabilissimi, profecto. Ferocissima illa Dryya, comissima Isma, aenigmatica Ze&#39;mer, et... hem... alter ille quidem.</entry>
+</entries>

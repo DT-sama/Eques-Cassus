@@ -1,0 +1,560 @@
+<entries>
+<!-- TL note:
+The worst file.
+
+TL 80%
+Check 40%
+Confidence 25%
+-->
+
+<entry name="BLANK_TEST"></entry>
+
+
+<!-- BRETTA -->
+<!-- TL note:
+Was hard. I like to believe that I managed to imitate the feeling of purple prose of the diary entries rather well, though.
+It is what it is. No regerts.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+<entry name="BRETTA_RESCUE_1">Eheu... amabo... nolite relinquere me hic!&lt;page&gt;Num mei... estis obliti...? Credibile est... nam omnes obliviscuntur mei...</entry>
+<entry name="BRETTA_RESCUE_2">Oh?! Quis es tu?&lt;page&gt;Tuus vultus... tu... quam es...</entry>
+<entry name="BRETTA_RESCUE_3">I-ignosce mihi. Via erravi, neque unde huc advenerim scio.&lt;page&gt;Ego... venistine me servatum? Mene, Brettam, ut serves, eam quidem puellam quam omnes... ignorant omnino?</entry>
+<entry name="BRETTA_RESCUE_4">Ignosce mihi, quotienscumque tuum vultum adspicio, ego vix... ne credere quidem possum, te huc usque advenisse, ut me servares. Non enim credebam quemquam me sic...&lt;page&gt;Ignosce mihi... Immo, gratias tibi ago. Immo vero, ego... mihi nunc redeundum est. Ad oppidum quidem. Ita vero, domum redeam oportet...</entry>
+<entry name="BRETTA_RESCUE_5">G... Gratias tibi ago.</entry>
+
+<entry name="BRETTA_DIARY_1">                         Candidus Servator&lt;br&gt;In tenebris concitata e somno tenuissima virgo, sollicitu commota, quempiamque anquirens portenta manu, lacerantium dolore excepta ab asperrimo undique sentium, desperata cadit.&lt;page&gt;Aquae horribiles debullire deorsum acidissimae fontes. Quid malum eo usque contulerat illam taeterrimi loci? Quae sibi tandem spes redeundi?&lt;page&gt;Sic metuentem, spe quaque demissa, e tenebris micans, refulgensque procul, lux adfuit, qui eam servare venit. Transiluit inustus aquas, lacerantia ense secat, ad virginem dum accedit.&lt;page&gt;Propinqui iam apparet sua nobilissima forma, eburneaque capitis cornigera cuspis. Tendit exin manum virgini, firmo quidem quam levat amplexu...</entry>
+<entry name="BRETTA_DIARY_2">                         De Servatoris mei Reditu&lt;br&gt;Diutissime cum Fortuna diremerat eos, oppidum illud, au, calidum quondam gratumque sibi, iam frigido taetroque videbatur infectum maerore, qui constrictam se maeror iam in sua conchula tenebat.&lt;br&gt;At subito, quasi sensisset flentem amasiam suam, is rediit. Reverterat ad nostram virginem Servator suus. Altus. Clarus. Lucidis cornuis, oculisque obscurissimis micantibus, qui eam solam exoptantes intuebantur.&lt;page&gt;Appropinquavit tum virgini, propinque ut sederet, silens. In eo demum temporis puncto, ne unum quidem verbum fatu&#39;st uter.&lt;page&gt;Angi virgini concham, intorquere ungues sibi. Non inter se intuiti, neque alter tetigerat alteram, sed tantummodo inter silentium, amor...</entry>
+<entry name="BRETTA_DIARY_3">                         Servator in Tenebris&lt;br&gt;Inquieta nostram turbabant somnia virginem. Servatoris post abitum sui, solus ventus, heu, iam frigidus erat comes, qui in foras ingemebat. Cor metu repente impleri suum...&lt;page&gt;At adorta improviso, pax: aderat aliquis.&lt;page&gt;Aspicere noluit, ne movere quidem se, ne quid motus qui advenerat aspelleret: Novit enim quis fuerit, qui eam pacem tulerat animo suo.&lt;page&gt;Ille erat, Candidus suus Servator, factus iam Defensor, iuxta eam stans, firmissimus, et perfectus...</entry>
+<entry name="BRETTA_DIARY_4">                         Cinereus Dux&lt;br&gt;Anhelitum is ducens, strenue cum pugnatum est, unus erat ille, qui a cavea victor emersit. Unus erat cui gloria et triumphus, teste devicti excorporato quod in manu obtinebat adversarii caput.&lt;br&gt;Candidus ille Servator, qui diu habebatur heros, verum immanis belva fuit: hoc verus denuntiavit heros, hic Cinereus Dux.&lt;br&gt;Honeste et humiliter suum professu&#39;st propositum: reperire suam, protegere illam, cineream virginem, tenebrosam suam coniugem...</entry>
+<entry name="BRETTA_DIARY_ZOTE">                         Cinereus Dux&lt;br&gt;Anhelitum is ducens, strenue cum pugnatum est, unus erat ille, qui a cavea victor emersit. Unus erat cui gloria et triumphus, teste victi excorporato quod in manu obtinebat adversarii caput.&lt;br&gt;Candidus ille Servator, qui diu habebatur heros, verum immanis belva fuit: hoc verus denuntiavit heros, hic Cinereus Dux.&lt;br&gt;Honeste et humiliter suum professu&#39;st propositum: reperire suam, protegere illam, cineream virginem, tenebrosam suam coniugem...</entry>
+
+<entry name="BRETTA_DREAM_DAZED">... O fulguream speciem... O clarissimum nitorem...</entry>
+<entry name="BRETTA_DREAM_BENCH">Iuxta me... meus servator adest... </entry>
+<entry name="BRETTA_DREAM_BED">O Candide Viator... ne erubescas... amabo... nam friget foris... hic tibi commodu&#39;st lectus et mollis...</entry>
+<entry name="BRETTA_DREAM_ZOTE">O Heros mi... Quam venustus es tu...</entry>
+
+<entry name="BRETTA_ZOTE">O Cineree Dux... Quam tenebrosus es... Quam austerus...</entry>
+
+<!-- MINER -->
+<!-- TL note:
+Poetry, the horror.
+Whatever you see here, is just a placeholder for the sake of vocab.
+
+TL 40%
+Check 0%
+Confidence 0%
+-->
+<entry name="MINER_MEET_1">
+Ohhh, sepeliamus matrem meam,
+pallidam et exilem et esanguem.
+sepelias quoque patrem meum,
+clausis oculis, seratis.
+sepeliantur etiam sorores,
+binas unum in parvum sepulcrum.
+sepelias age denique me,
+----
+
+<!-- song here -->
+Ohhh, bury my mother, pale and slight,&lt;br&gt;bury my father with his eyes shut tight!&lt;br&gt;Bury my sisters two by two,&lt;br&gt;and then when you&#39;re done, let&#39;s bury me toooo!</entry>
+<entry name="MINER_MEET_1_B">Ha ha hae, cognovistine hoc carmen? In d-deliciis id est mihi! At aliud carmen canere possimus, si vis. Incipe tu, et eg subsequar te. Fidem habeo te p-p-pulcherrime canturum! Ha ha hae!&lt;page&gt;Quid igitur huc usque advenisti? Si ut dives fias, circumspice modo, quam hi specus abundant divitiis! S-s-satis sunt omnibus quaerentibus, s-si modo capiant sibi dolabellam et effodiant! Hahae!</entry>
+<entry name="MINER_MEET_REPEAT">
+Ohhh, sepeliatur etiam eques,
+aculeum qui tenet defractum,
+sepelias... v-vatem... coronam...?
+reliquos versus oblita sum, ha ha hae!
+carmen reliquum modo murmurabo.
+
+<!-- rest of this song is below -->
+Ohhh, bury the knight with her broken nail,&lt;br&gt;bury the... p-priest... something about a crown...?&lt;br&gt;I c-can&#39;t remember the rest of that one, ha ha ha! Maybe I&#39;ll just hum it.</entry>
+
+<entry name="MINER_EARLY_1">Oh, salve tu iterum! Quid festinas adhuc? Quin mecum hic m-mane? Ingentes enim insunt in his saxis divitiae, operam dare volentibus!&lt;page&gt;Hi crystalli m-m-magni veneunt, at credo equidem aliquid etiam maioris pretii altius in saxa latere!&lt;page&gt;TPaene id olfacio! Ha ha hae!</entry>
+<entry name="MINER_EARLY_1_B">Si vis te ad operam adiungere, pars operae superest ambobus! Sin autem ef-f-ffodere non vis, asside et cantemus una! Ha ha hae!</entry>
+<entry name="MINER_EARLY_2">
+Ohhh, sepeliatur etiam eques,
+aculeum qui tenet defractum,
+sepeliatur domina, pallida et venusta,
+sepeliatur vates, vesti sua contrita,
+sepeliatur denique miser,
+qui coronam suggerit auream.
+
+<!-- song here -->
+Ohh, bury the knight with her broken nail,&lt;br&gt;bury the lady, lovely and pale!&lt;br&gt;Bury the priest in his tattered gown,&lt;br&gt;then bury the beggar with his shining croooown!</entry>
+<entry name="MINER_EARLY_2_B">Ha ha hae! Nonne mih... miraris? Etiam alterum versum recordata sum! Nam haud hic mihi tempore indigetur cogitandi, dum laboro. Fortasse etiam c-carmen meum componere possim!</entry>
+<entry name="MINER_EARLY_3">Quamquam magna est opera, non curo. Hic, etiam insomnis operam dare possum. Namque mihi iucundum est!&lt;page&gt;Et tu quidem, interdum me visis! Id gaudeo... hahae... Laetor enim quod meae vocis sonum diligas!</entry>
+<entry name="MINER_INFECTED">
+Sepeliatur meum corpus...
+operiatur mea concha,
+in tenebris?
+Attamen ego hic remaneo...
+opperiar usque...dum dilucescat lux iterum
+
+<!-- song here -->
+...Bury my body... c-cover my shell,&lt;br&gt;What meaning in darkness? Yet here I remain...&lt;br&gt;I&#39;ll wait here forever...till light blooms again...</entry>
+<entry name="MINER_INFECTED_REPEAT">...Sepeli... corpus... operi... concha,&lt;br&gt;Tenebrae. No meaning... PERICULUM... Attamen, remaneo...&lt;br&gt;LVX.... iterum...</entry>
+
+<entry name="MINER_DREAM_1">O quam proxime sum... Canite, o crystalli! Pergite canere dum vos invenio!&lt;page&gt;Susurrate, o crystalli! Paene iam quod dicitis accipio!</entry>
+<entry name="MINER_DREAM_2">... quo usque... CAEDE... quo usque... PERICULUM... quo usque... CAEDE... quo usque... VACUUM ILLUM CADE...&lt;page&gt;...quo usque... mihi fodiendum...?</entry>
+
+
+<!-- TISO -->
+<!-- TL note:
+This one needs a rewrite. It was one of the first I ever did.
+I want him too to be laconic and no-nonsense.
+It's mostly fine now.
+Done now.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+<entry name="TISO_TOWN_GREET">O pallide puer. Facile istum aculeum geris. Si vis certare, nemo quicum strenue contendas hoc in pulverulentulo loco tibi validus adest pugnator.&lt;page&gt;Cognovi vero, infra hunc locum, esse arenas aliquas pugnatorum. Ibi una certabimus, et vires tuas temptabo.&lt;page&gt;Ego quidem mox proficiscar eo. Veni et tu, si audes.</entry>
+
+<entry name="TISO_TOWN_REPEAT">Nidus Sacer... Quales in eius ruinis opperiuntur pugnatores?</entry>
+<!-- BAD?? hic et nunc, ilico -->
+<!-- BAD?? at nimis miseranda mors sit, miserabilis, abiecta mors -->
+<entry name="TISO_DREAM_TOWN">Hic plane me metuit. Ilico hunc interimere possim, at nimis miseranda mors sit.</entry>
+
+<entry name="TISO_BENCH_GREET">Heus, pallide puer. Num vehere illo Scarabaeo? Pro pudor! Nihil decet gloriosum pugnatorem tanta commoditate frui. Ipse se suo Marte ad pugnam conferre debet.</entry>
+<entry name="TISO_BENCH_REPEAT">Mitte me. Arena&#39;st quam quaero. Nimium iam in his tramitibus tempus contrivi.</entry>
+<entry name="TISO_DREAM_BENCH">Hi scarabaei... si modo vellent pugnare, forent formidabiles pugnatores. Ne essent tam mites ac serviles...</entry>
+
+<entry name="TISO_LAKE_GREET">Vah, quem locum tranquillum! Violentia mihi est opus, et cruentis proeliis. Haec tranquillitas mihi prorsum taedio&#39;st.</entry>
+<entry name="TISO_LAKE_REPEAT">Quantam quietem... Quantum taedium...</entry>
+<entry name="TISO_DREAM_LAKE">Locus ille me vocat. Forsan ultra hunc lacum...?</entry>
+
+<!-- BAD?? Licet sint paucissimi mei pares -->
+<entry name="TISO_COLOSSEUM">O pallide puer. Tandem eum invenisti, hunc locum perfectum. Equidem parumper quiesco, quia mox in pugnam ingrediar.&lt;page&gt;Licet sint paucissimi mei pares, spero tamen laturam hanc arenam id cruentum certamen quod quaero.</entry>
+<entry name="TISO_COLOSSEUM_REPEAT">Devincam omnes. Et te quoque. Pugnam quam serissimam pugnavero.</entry>
+<entry name="TISO_DREAM_COLOSSEUM">...Tandem certamen perfectum inveni. Praegusto iam meam appetitam victoriam...</entry>
+
+<entry name="TISO_SHIELD">Putasne pro tegmento hoc clipeum me gerere? At scito, in eo occultatum est aliquid letale. Opta ne umquam quid sit comperias.</entry>
+
+
+<!-- CLOTH -->
+<!-- TL note:
+I don't like it much.
+
+TL 100%
+Check 85%
+Confidence 60%
+-->
+<entry name="CLOTH_FUNG_MEET">Ehem! Parvae bestiolae parva vestigia. Heus tu, audax viator videris tu quidem, itaque multum habemus commune.&lt;page&gt;Quaerisne loca periculosa? Laetare, quia nactus es.&lt;page&gt;Animal enim longo collo modo me monebat, versari inferius tribum quandam praeditam indole bellica. Bene, inquam, gestiunt enim mei pugni serissimam pugnam pugnare.</entry>
+<entry name="CLOTH_FUNG_GREET">H-Heus. Ego non latebam nunc. Modo quiescebam, antequam rursus proficiscerer.&lt;page&gt;Nam certe etiam saeviores incidero in belvas, quamobrem nunc est mihi vires colligendum.</entry>
+<entry name="CLOTH_FUNG_REPEAT">Cautus esto, o mi sodalis. Si vixeris, ego rursus te videbo.</entry>
+<entry name="CLOTH_FUNG_DREAM">Num maius opus molior quam valeo? Etiam haec fungina animalia paene me interfecerant, atque etiam saeviores bestiae inferius opperiuntur.&lt;page&gt;Vae mihi, et meae vanae audaciae! Utinam istam inanem gloriam dimitterem, et ab hoc parvo bellatore peterem auxilium...</entry>
+
+<entry name="CLOTH_DEEPNEST_MEET">Salve, parva bestiola. Viator audax videris, tu quidem. Eandem me appellem, nisi territa hoc loco, immeritam me arbitrer tanto nomine cluere...</entry>
+<entry name="CLOTH_DEEPNEST_GREET">Abundat hic locus hostilibus animalculis, quae mordent, urunt, scabunt. Hic meas vires temptare volebam, at nunc audaciam me reliquit, restantque modo mihi corporis dolor et lassitudo.</entry>
+<entry name="CLOTH_DEEPNEST_DREAM">Oh, malam miseriam! Bestiolae quibus infestus est hic locus, heu quam terribiles sunt, cum sua crura quatiunt, dentibusque frendunt!&lt;page&gt;Non hoc quidem erat quod mihi expetebam exitium.</entry>
+<!-- BAD? -->
+<entry name="CLOTH_DEEPNEST_REPEAT">Quietem capio dum possum, dein locum minus infestum quaesitum proficiscar. Minime velim me in hoc nido mori.</entry>
+
+<entry name="CLOTH_TRAMWAY_MEET">Attat! O parva bestiola, solusne illas bestias oppugnavisti?&lt;page&gt;Ego non fugiebam profecto, modo optimam opportunitatem opperiebar ad appetendum!...Immo... Nolo tantum proloqui mendacium... Fugiebam vero.&lt;page&gt;Fugiebam enim ab illis bestiis, quae me insequebantur. Haut scio, nisi mihi subvenisses, nunc viveremne necne.&lt;page&gt;Alii, propter meam magnam staturam, me plane censent aliquam esse oportere praevalidam pugnatricem, at illae bestiae quibus abundat hoc regnum, quid si eae sunt me validiores?...&lt;page&gt;...</entry>
+<entry name="CLOTH_TRAMWAY_GREET">Amice mi, an solus illas bestias oppugnavisti?&lt;page&gt;Hoc fateri me pudet, sed... ego aufugiebam. Fugiebam enim ab illis bestiis quae me insequebantur. Haut scio, nisi mihi subvenisses, nunc viveremne necne.&lt;page&gt;Alii, propter meam magnam staturam, me plane censent aliquam esse oportere praevalidam pugnatricem, at illae bestiae quibus abundat hoc regnum, quid si eae sunt me validiores?...</entry>
+<entry name="CLOTH_TRAMWAY_SAVED">Iam satis superque est! Exemplum tuum exin subsequar, uti fortitudinem reperiam!&lt;page&gt;Qui tam valide in pugnam is. Qui nullum ante hostem ostendis metum. Mihi quoque ita gerere me oportet.</entry>
+<entry name="CLOTH_TRAMWAY_DREAM_SAD">Si unum hoc potui, fugere ab hoste, qualis vero sum pugnatrix?..</entry>
+<entry name="CLOTH_TRAMWAY_DREAM_HAPPY">Oh, bonam fortunam! Hic temperi subvenit mihi. Idque quam callide et sollerter!&lt;page&gt;Eximium mihi modo demonstravit exemplum pugnatrici, e quo quantum possum discere debeo.</entry>
+<entry name="CLOTH_TRAMWAY_REPEAT">Optate exspecto dum iterum te videro, o mi parve servator. Tunc demum praevalidam me factam reperies pugnatricem, quae par sit audentiae tuae.</entry>
+
+<entry name="CLOTH_QG_GREET">Ahhh parve bellator. An etiam tu advenisti huc, ad eam quidem temptandam, quae hunc lucum incolit, infidam tribum?&lt;page&gt;Quondam eos equidem provocare ausura fui nequaquam, sed iam praeclare ostendisti mihi quod verum et honestum est: oppugnadum esse metum, ne vincamur ab eo.&lt;page&gt;Si uterque postea vixerimus, narremus sodes ambo periclitationes nostras!</entry>
+<entry name="CLOTH_QG_DREAM">Tempus adest! Iam metus exsolvam. Nola quoque laetaretur.</entry>
+<entry name="CLOTH_QG_REPEAT">Vivito, amice mi. Nam quicquid est quod quaeris illic, invadentes illa tribus nos non feret amice.</entry>
+
+<entry name="CLOTH_TOWN_GREET">Ah! Parve bellator. Gaudeo quod salvum te rursus video. O quam tu mihi animos addidisti! Iamiam profectura sum ad alios locos, aliosque adversandos adversarios.&lt;page&gt;Sed ante quam in illas rupes ascendere coner, et ultra in planities postea pertendam, hoc oppidulum tranquillum videtur mihi optima mansio.</entry>
+<entry name="CLOTH_TOWN_REPEAT">Mox discessura sum. Arenae desertae ultra regni fines sunt admodum periculosae, ad quas superandas erit opus totis meis viribus.&lt;page&gt;Ergo, antequam proficiscar, oportet requiescam.</entry>
+<entry name="CLOTH_TOWN_DREAM">Nola, mox venero ad te. Quot in his ruinis validiores opperiuntur adversari, at nemodum me adduxit ad te...</entry>
+
+<entry name="CLOTH_GHOST">Hui! Quae prae illac acerrima pugna inter valentissimos bellatores dicatur? Quam vehemens, et quam quidem strenue pugnatum est! Nihil est quod ultra desiderarem.&lt;page&gt;Gratias tibi ago, o mi amice. Quamquam parvus es, tamen virtute tu es longe me maior. Alias te videbo, hoc firmiter credo.</entry>
+<entry name="CLOTH_GHOST_REPEAT">Iamiam hinc proficiscar. Nola enim me exspectat, neque quicquam mihi in his locis iam remanet negotii. Modo hic paulisper commorari volo.</entry>
+
+<!-- BIGCAT -->
+<!-- TL note:
+This one reads pretty much like a well-spoken animal.
+
+TL 100%
+Check 99%
+Confidence 95%
+-->
+<entry name="BIGCAT_INTRO">Ohrum... Parvum animal. Alte ascendis. Quaerisne notitiam huius terrae?&lt;page&gt;Hic cinereus locus est sepulcrum Draconis. Dicitur is huc venisse ad moriendum. At quid tam antiquae bestiae est mors? Transmutatio, ut puto.&lt;page&gt;Ex illa transmutatione, puto factum huius regni exordium.</entry>
+<entry name="BIGCAT_REPEAT">Humpph... Abiturusne es? Ad quietem ego, etsi saepius difficile&#39;st his temporibus dormire.</entry>
+<entry name="BIGCAT_DREAM">Velim ne mentem aperias. Quia molestat. Insolens est.</entry>
+
+<entry name="BIGCAT_TALK_01">Hi cineres cadentes sunt revera putamina. Cadaveris quidem Draconis tabescentis. In perpetuum. Uhrumm... Quam tranquillum. At triste.&lt;page&gt;Illis absentibus, iam mundus est factus minor.</entry>
+<entry name="BIGCAT_TALK_02">Ne te hoc fallat. Non ego quisquam sum draco... Ohrum... Multo sum minor, ego. Et nimia habens membra. Neque itidem futura praesentio, ut illa veterruma animalia.</entry>
+<entry name="BIGCAT_TALK_03">Ad tranquillam mihi quiescendi huc ascendi sedem, procul ab animalibus infera sputantibus. Ohrummph... Ita. Sursum. Procul mentibus simplicibus, luci perditis.&lt;page&gt;Eorum est diversum unitatis genus. A Dracone institutum respuentium ordinem.&lt;page&gt;Ego illecebram lucis resisto, unitatem pollicitae mentium orbarum cogitatione... atque ad infimam naturam redactarum... Ohrrum...</entry>
+<entry name="BIGCAT_TAIL_HIT">Numquis agitat meam caudam? Turbat somnum, at vero non molestum reor...Ohr...Ohr...Ohrumm.</entry>
+
+<entry name="BIGCAT_KING_BRAND">Parvum animal... Oh hmm... Insigne Draconis geris. Quaerisne res novas? An ruinas has servare conabere?&lt;page&gt; Tua est optio. Semper minimum est animal quod opera molitur maxima.</entry>
+<!-- BAD?? -->
+<entry name="BIGCAT_SHADECHARM">Ohhhrummmm... Parvum animal... Supra Draconem etiam crescis. Oh, qualem rerum coniunctionem in uno animali. Quam potestatem antidhac invisam. An quoque ipsam naturam repugnes? An etiam eam vincere vales?</entry>
+
+<!-- LEGEATER -->
+<!-- TL note:
+I guess this one being weird is the point anyway.
+So it is done.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+<entry name="LEGEATER_MEET">Noli surrepere. Te olfacio.&lt;page&gt;Hm... habesne multum Geum?&lt;page&gt;Da mihi Geum, et aliquid exquisitum ostendam tibi.</entry>
+<entry name="LEGEATER_REMEET">Mutastine animum? Da mihi Geum, et aliquid exquisitum ostendam tibi.</entry>
+
+<entry name="LEGEATER_REFUSE">Stultus es.</entry>
+<entry name="LEGEATER_REFUSE_AGAIN">Etiam?! O tu nequam, avare, carnifex! Geum partiri oportet...</entry>
+<entry name="LEGEATER_NOSTOCK">Nihil iam habeo. Num quid vis?&lt;page&gt;Avare...</entry>
+<entry name="LEGEATER_NOTENOUGHGEO">Pauper, miser... sine Geo.&lt;page&gt;Abi. Redito cum Geo.</entry>
+<entry name="LEGEATER_PAID">Vide... ecce. Vin&#39; tu haec? Si ea vis, dabo... pro Geo. Da Geum...</entry>
+
+<entry name="LEGEATER_GREET">Mitte loqui! Garrire... taedet. Cedo Geum.</entry>
+
+<entry name="LEGEATER_CONVO1">Nonne displicet dolor tibi? An forte eum... nil curas...?</entry>
+<entry name="LEGEATER_CONVO2">Esne benignus? Si benignus es, dabis mihi Geum.&lt;page&gt;Nonne benignus es...? Noli me ludos facere... Non sum stultus ego.</entry>
+<entry name="LEGEATER_CONVO3">Nonne venusta? Mea munuscla... lucida, lepida, infesta.&lt;page&gt;Ea feci egomet. Noli invidere... Da mi Geum, et unum dabo.</entry>
+<entry name="LEGEATER_CONVO4">Hm. Aliquid novum in aere olfacio. Aliquid huc venit malum... Timesne?&lt;page&gt;Si hic manes, ego... non te protegam.</entry>
+<entry name="LEGEATER_CONVO5">Vin&#39; scire? Quomodo... mea munuscula faciam?&lt;page&gt;Eeeuaaux! Fur! Noli secreta mea sciscitari! Si ea de me furaris, ego invicem de te ea furabor!&lt;page&gt;Noli erga me esse crudelem... aut paenitebit te.</entry>
+
+<entry name="LEGEATER_DUNG">Eeeuuaux! Iste odor...&lt;page&gt;Ah! Ah! Ahhhhh!&lt;page&gt;...Quam suavem!&lt;page&gt;Tu quidem suavis, qui suavem odorem mecum partiris. Numquid pro gratia vis reddam?&lt;page&gt;Munuscla... ecce. Munuscula dabo... minore pretio.</entry>
+<entry name="LEGEATER_BROKEN">Eeeauuggh! Fregisti tu id! Amuletum meum, quod tibi donavi! O tu inepte, stolide...&lt;page&gt;Obsecra me ut ignoscam tibi, et reficiam. Da mihi Geum, et reficiam.</entry>
+
+<entry name="LEGEATER_DREAM">Plura munuscla faciam... Et plus Geum dabit. Si quis veniat, debet mihi Geum.&lt;page&gt;Qui Geum habet, rex est. Si Geum habebo, rex ero...</entry>
+
+<!-- TUK -->
+<!-- TL note:
+Another weirdo.
+This is how it is.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+<entry name="TUK_INTRO">Mmmnnnnnnngghhh... Noli capere rem quae non tua&#39;st. Haec est lex.&lt;page&gt;Omnes res quas vides... res meae sunt.&lt;page&gt;Noli esse iratus. Cibum saltem partiar tecum... pro Geo.</entry>
+<entry name="TUK_GREET">Mmmnnnnnnngghhh... Aquae afferunt mihi rem quamquam velim... siquidem invenio.&lt;page&gt;At adduxit te ad me. Esurisne? Partiar tecum meum cibum... pro Geo.</entry>
+<entry name="TUK_DREAM">Mmmnnnnnnngghhh... Te invenero. Aquae te ad me reducent. Si modo plus anquiro... et spero.&lt;page&gt;Cum te videbo... volo te precantem... ignosci tibi.</entry>
+
+<entry name="TUK_BUY">Mnngh... Hoc Geum nunc meum est. Noli redimere velle.&lt;page&gt;Em cibum. Nunc abi.</entry>
+<entry name="TUK_DECLINE">Mngh? Si non vis, teneam ego eum.</entry>
+<entry name="TUK_NOTENOUGH">Cur Geum non satis habes?! Mnnghh! Non partiar cibum tecum, Geo non dato.</entry>
+<entry name="TUK_REPEAT">Partiar tecum meum cibum... pro Geo.</entry>
+
+<entry name="TUK_EGGMAX">Nonne iam satis habes cibi? Mnngh... nam id olfacio.&lt;page&gt;O tu avare... cibum non partiar tecum meum.</entry>
+<entry name="TUK_DUNG">Mmnnnnggghhh...? Tuus odor... Esne tu quoque amicus? Siquidem amicus es, tecum cibum partiar meum.&lt;page&gt;Si eum invenies iterum, amicum nostrum communem... Fer ei gratias meas. Quod me adiuvit.</entry>
+
+<!-- JINN -->
+<!-- TL note:
+The weirdos triumviri.
+So it stays this way.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+<entry name="JINN_MEET">...Exper... giscefacit Jinn?..&lt;page&gt;Visus... parvus. Frigidus. Sine animo. Umbra longa... vacuus, sed fortis...&lt;page&gt;Fertne dona? Jinn sunt multae res, parvae, lucidae... nullius usus Jinn. Sed tradat pro dono magnifico.</entry>
+<entry name="JINN_RETURN">...Reversus est. Meminitne Jinn? Fertne nunc dona? Tradet pro rebus lucidis?</entry>
+
+<entry name="JINN_OFFER">Fertne Jinn magnifica dona?</entry>
+<entry name="JINN_REOFFER">Alterum? Alterumne fert donum Jinn?</entry>
+
+<entry name="JINN_ACCEPT">...Donum... malum. Foedum...&lt;page&gt;At Jinn scit, cui placeat donum. Amico Jinn. Edenti foeda. Amanti foeda. Accepturo. Provisuro.&lt;page&gt;Res lucidas pro dono... bonum est tradere has. Quia onerosae Jinn.</entry>
+<entry name="JINN_ACCEPT_REPEAT">Alterum horridum... foedum donum. Jinn tenebit donum... amico Jinn datura... tradituro lucidas Jinn. Sic est mercatus...</entry>
+
+<entry name="JINN_REFUSE">...Non tradere vult...? Voluntatem habens suam? Potensne renuere? At Jinn manebit... donum datura.</entry>
+
+<entry name="JINN_NOEGG">...Quod donum Jinn vult. Id non habet. Non tradat Jinn sine dono.&lt;page&gt;...Quaeretne donum Jinn? Horridum... rotundum... foedum donum? Reversurusne? Jinn manebit....</entry>
+<entry name="JONN_NOEGG_REPEAT">...Quaeretne donum Jinn? Horridum... rotundum... foedum donum? Reversurusne? Jinn manebit...</entry>
+
+<entry name="JINN_TALK_01">Vultne cognoscere Jinn?...&lt;page&gt;Jinn parum scit Jinn... Jinn non potest dicere. Jinn iuvenis nimium. Mente iuvenior, et cognitione. Nata providendo, res traditura.&lt;page&gt;Adiuvetne tradere?... Ferat donum Jinn. Pulcrum donum Jinn.</entry>
+<entry name="JINN_TALK_02">Corpus, molle... fragile... secus quam Jinn.&lt;page&gt;Jinn non dolet. Jinn obdurat.</entry>
+<entry name="JINN_TALK_03">Placentne res lucidae Jinn? Jinn multas habet. Dona, ab alio. Adiutato a Jinn. Vulnerato a Jinn.&lt;page&gt;Jinn rejiciebat res lucidas. Inutiles. At tradi possunt, pro donis.</entry>
+<entry name="JINN_TALK_GENERIC">Vultne tradere? Si vult, stet ante Jinn, et traditum erit.</entry>
+<entry name="JINN_DREAM">Somniatne Jinn?... Cur sit Jinn?... Servire, hocine satis?</entry>
+
+<entry name="JINN_KING_BRAND">...Is Rex est factus. Jinn noscit signum, at non veretur.&lt;page&gt;Alii sunt domini Jinn... aliae mentes... neque ordinem. Non ordinem petentes.</entry>
+<entry name="JINN_SHADE_CHARM">Is est... rarus. Non multos vidit Jinn, imbelles, tamen victores. Jinn... miratur.&lt;page&gt;Jinn perperam iudicavit. Non est inferior. Sed... diversus. Diversus quam Jinn. Perfectior? Diversus... ut domini?</entry>
+
+<!-- EMILITIA -->
+<!-- TL note:
+Could've gone more pompous Ciceronian on her but who has the skill?
+I'll go back to it later.
+
+TL 100%
+Check 60%
+Confidence 40%
+-->
+<!-- BAD Certe quandam ex me percepisti nobilitatem.
+Offendistine eos? Foris amentibus, ut sunt, corporibus errantes. -->
+<entry name="EMILITIA_MEET">Oh, quam gratam tu, o viator, veniens me facis, qui tamdiu indigeo societate quapiam.&lt;page&gt;Hic sis commorare mecum, sperante, tanto cum tempore lapso, non defuturam mihi tamen urbanitatem meam.&lt;page&gt;Certe sensisti iam ex verbis clarioribus me esse natalibus. Neque falleris quidem, quippe quod, sicut suspicaris, equidem, inter Nidisacrenses nobilissimas gentes, nonnulla fruebar fama et claritate.&lt;page&gt;... Aut saltem, donec illi stolidi in exilium me eiecere.&lt;page&gt;Offendistine eos? Foris amentibus, ut sunt, corporibus errantes. Ego autem sola resto, testis eorum miseri exitii.&lt;page&gt;Quid tandem multa, pergaudeo hac re. Dulcissima et suavissima res est, fortuna secunda.</entry>
+<entry name="EMILITIA_GREET">In temporibus iamdudum praeteritis, haudquaquam, o viator, talem, qualis tu esse videris, alloqui ullo pacto in animo habuissem.&lt;page&gt;Cum vero iam diu demortua sit mea gens, nisi id faciam, sit tandem mihi nemo, quicum meum gaudium communicem.</entry>
+<entry name="EMILITIA_KING_BRAND">Oh... tu... redistine tandem? Immo... minime tu vero...&lt;page&gt;Oh, ignoscas mihi obsecro! Videbaris enim fere, ut ita dicam... regalis.&lt;page&gt;At me stolidam, quid tu, istisce sordidis lacerisque pannulis amictus, cuiusquam videaris nobilioris esse generis, nedum regalis?</entry>
+<entry name="EMILITIA_REPEAT">Oh, quam iucunda est vita...</entry>
+<entry name="EMILITIA_DREAM">Haud dubie hic in aculeos vigilum interiet. Et tibi superstes ero, o puer, sicut ceteris fui.</entry>
+
+
+<!-- DUNG_DEFENDER -->
+<!--
+It works.
+So it stays.
+
+TL 100%
+Check 100%
+Confidence 95%
+-->
+<entry name="DUNG_DEFENDER_1">Oh, ades tu iterum. Gaudeo quod reversus es.&lt;page&gt;Noli, obsecro, dicere quicquam. Paenitet me quod feci tibi.&lt;page&gt;Perperam te unum illorum cadaverum amentium esse existimavi, sed mirabilem in modum et pro equitis parte, tu me superavisti in proelio.</entry>
+<entry name="DUNG_DEFENDER_2">Et quam iucunda, vivida pugna fuit! Paene oblitus eram, huius pugnandi fervoris.&lt;page&gt;Ego enim quondam aliquis Eques fui, qui, boni Regis nostri gratia, praesto iuxta solium regium eram, spectans et admirans, dum Nidus Sacer sub Rege nostro regnum fiebat gloriosissimum.&lt;page&gt;Postea tamen regnum nostrum, propter illam pestilentiam infandam...</entry>
+<entry name="DUNG_DEFENDER_3">Nos enim Equites solemus pugnare contra res corporeas. At hostem sine forma, quomodo repugnemus?&lt;page&gt;Suum in modum Rex noster est conatus, quamvis aliquantum crudelem.... Atqui, utut erat, victi sumus tamen.&lt;page&gt;Vah! Numquid decet mihi esse tam taetrico. Animos addidisti mihi. Magnopere enim gaudeo quod aliquem inveni, qui par meis viribus sit.</entry>
+<entry name="DUNG_DEFENDER_REPEAT">Ilicet, o valide Nidisacrensis Eques! Ostendisti mihi virtutem tuam! Bene vertat tibi fortuna.</entry>
+<entry name="DUNG_DEFENDER_DREAM">...Itaque etiam plures erant...</entry>
+
+<entry name="DUNG_DEFENDER_DUNG_CHARM">Ahh. Odorem redoles ipsius Iustitiae. Vere tu es profecto magnus Eques.</entry>
+
+<!-- BAD?? -->
+<entry name="DUNG_DEFENDER_ISMA">Ah! Illa lacrima... tu adfuisti in eius luco! Iuraveram equidem ut eum viserem, sed... propter mea munera... iuramentum quod feci...&lt;page&gt;Oh, ignosce mihi. Omitte meam stultitiam. Cavere oportet, ne in quasdam veterrumas memorias forte incidam, a quibus reverti inde non quibo.&lt;page&gt;Ipsa autem subtilissimo iudicio est praedita, quamobrem si gratiam suam tibi dono arbitrata est dare, oportet te profecto esse aliquem eximium et propemodum singularem, quem vix dignus videar nunc coram adesse!</entry>
+
+<!-- BAD?? -->
+<!-- BAD?? requietus / improvisum -->
+<!-- BAD?? mane, commorare -->
+<entry name="DUNG_UNDERGROUND_1">Ah, vigilas nunc, et bene quidem requietus!&lt;page&gt;Cum primum e somno solutus sum, improvisum te vidi iuxta dormientem, sed hic tibi profecto conquiescere licet quandolibet.&lt;page&gt;Ut enim Rex regnum suum, sic ego meam domum dedo indigentibus. Mane quamdiu voles, nam hic est commoditas, tepor, suavis humiditas.</entry>
+<!-- BAD?? -->
+<entry name="DUNG_UNDERGROUND_2">Hic specus profecto procul distare videtur ab illa urbanissima aula regia, nihilo tamen minus clare reminiscor consociorum meorum, atque illustrissimi nostri Regis.&lt;page&gt;Domus Alba erat locus magnificus, frequens illius aetatis valentissimis heroibus. Ahh! Et cum te video, unum ferme eorum video! Procul dubio facillime inter eos numereris.</entry>
+<entry name="DUNG_UNDERGROUND_DREAM">Numnam Magnus Ordo Equitum Nidisacrensis simul mecum periet? Quomodo sit talis res posteris tradenda?</entry>
+
+<entry name="DUNG_DEFENDER_SLEEP_DREAM">...Isma... Quam fortis es.... Doce me...</entry>
+
+<!-- WHITE_DEFENDER -->
+<!-- BAD?? -->
+<entry name="WHITE_DEFENDER_OUTRO_1a">Amici mei... Nostrum carissumum Regnum defendam. Confidite meis verbis!</entry>
+<!-- BAD?? -->
+<entry name="WHITE_DEFENDER_OUTRO_1b">Promitto vobis, me vos iterum visuros...</entry>
+<!-- BAD?? -->
+<entry name="WHITE_DEFENDER_OUTRO_2">Rex mi... Confido tibi. Confido Regno nostro! Numquam deerit mea fides...</entry>
+<entry name="WHITE_DEFENDER_OUTRO_3">Rex mi... Nidus Sacer renascetur! Amplus et clarus! Ut semper fuit...</entry>
+<!-- BAD?? -->
+<entry name="WHITE_DEFENDER_OUTRO_4">Rex mi... Aliquando omnes iterum conveniemus...</entry>
+<!-- BAD?? -->
+<entry name="WHITE_DEFENDER_OUTRO_5">Miror quod te quoque, o puer, in meis somniis video. Ista tua nobilis figura, remonet me nostri carissimi Regis. Eia, cum is redierit, orabo ut Equitem te asciscat! Et quam iucunda postea erunt nostra itinera...</entry>
+
+<!-- KING_ABYSS -->
+<!-- shamelessly stolen from Michael Champagne -->
+<entry name="KING_ABYSS_01">Nullum pretium nimis magnum.</entry>
+<entry name="KING_ABYSS_02">Nullus animus ad cogitandum.</entry>
+<entry name="KING_ABYSS_03">Nullum quod frangi potest consilium.</entry>
+<entry name="KING_ABYSS_04">Nulla vox ingemens supplicium.</entry>
+<entry name="KING_ABYSS_05">Natus ex Deo et Inani.</entry>
+<!-- BAD?? somnia quod civibus conturbat -->
+<entry name="KING_ABYSS_FINAL">Tu id lumen candescens arcebis, somnia quod civibus conturbat.&lt;page&gt;Tu esto Vas.&lt;page&gt;Tu esto Eques Cassus.</entry>
+<entry name="KING_ABYSS_FINAL_A">Tu id lumen candescens arcebis, somnia quod civibus conturbat.</entry>
+<entry name="KING_ABYSS_FINAL_B">Tu esto Vas.</entry>
+<entry name="KING_ABYSS_FINAL_C">Tu esto Eques Cassus.</entry>
+<entry name="KING_FINAL_WORDS">...Animus Draconis. Anima Radicis. Cor ex Inani...</entry>
+
+
+<!-- XUN -->
+<!-- TL note:
+AAAAAAAAAAAAAHHHHHHHHHHHHHH.
+
+TL 100%
+Check 90%
+Confidence 80%
+-->
+<entry name="XUN_MEET">Eheu... Me&#39;hon. Hic mundus. Hic mundus, quam crudelis, sceleratus. Quorsum vigilat che&#39;? In quid perseverat che&#39;?&lt;page&gt;Heu Le&#39;mer, nusquam comperies, quam nostrum tam tragicum amorem, hunc quidem duarum amantium inter se diremptarum, mundis in duobus inter se seiunctis.&lt;page&gt;Nunc iam meled&#39;amans, emortua&#39;st iam diu. Mortua, longissime abest. Sepulta, moina? Ai. Easdem inter gentes, quae denegaverant nobis coniugium, quaeque repudiarunt che&#39;... alienitatem.&lt;page&gt;At num... Nahlo, Nahlo. Roget che&#39;? Oneretne hac re? Le&#39;mer, ut donum eius feras sepulchro?&lt;page&gt;Donum, fortasse hoc parvum est? Atqui iter est longum. Quiescit enim cum suis illum prope Reginae recessum viridem.&lt;page&gt;Potestur? An quaeritur quod impossibile? Quod insanum est? Si id facias Le&#39;mer, talis benignitas sit, qualis oblita prope sit che&#39;.</entry>
+
+<entry name="XUN_REFUSE">Abis? Noveram. Nulla enim in mundo hoc est comitas. Malevolentia inest tantum, et invidia.</entry>
+<entry name="XUN_REOFFER">Me&#39;hon? Impletur cor spe, leniendi te condolente cordolii.&lt;page&gt;Feresne donum meum ad amantis sepulcrum?</entry>
+<!-- BAD?? -->
+<entry name="XUN_REOFFER2">Temptabisne iterum ad meae amantis sepulcrum iter?</entry>
+
+<entry name="XUN_ACCEPT">Rarum beneficium facis Le&#39;mer. Hoc erit ultimum rogatum che&#39;. Numquam posthac iterum onerabit che&#39; alios sua re.&lt;page&gt;Donum ecce hic est flos sacer, rarus tenuisque, unicus quidem. Observato eum quasi cor tuum.&lt;page&gt;Seu ictu hostili, seu calcitratu bestiarum vehentium, pereat hic flos sic simul semperque.&lt;page&gt;Eius sepulcrum iacet ibi, in medio viridissimo regali secessu. A suis circumdatum&#39;st, qui aegre transgressum tuum ferent.&lt;page&gt;Cave Le&#39;mer. Spem in te relinquo, tandem ut hoc mihi detur solatium.</entry>
+
+<entry name="XUN_FAILED">Ulll Waaaaii! Che&#39; sacer, carus, unicus flos. Perditus est iam. Amans che&#39;, orbata suo ultimo dono. O dolorem, o miseriam! Tantum doloris iam che&#39; ferre non potest.&lt;page&gt;...At vero sit che&#39; alter flosclus.&lt;page&gt;Atqui Le&#39;mer! Hic quoque tam sacer tenuisque est quam alter. Si preces exaudies meas, quasi cor tuum hunc observes oportet. Conaberisne iterum?</entry>
+<entry name="XUN_HAVE_FLOWER">Eius sepulcrum in medio virenti refugio Reginae situm est, longo itinere hinc, viaque feris obsessa.&lt;page&gt;Quam tutissimum iter facias. Resultat enim cor meum, tantulae bestiolae ob beneficium.</entry>
+
+<entry name="XUN_SUCCESS1">Mi&#39;? Le&#39;mer, perfecistine? Aisne vero? Huius mundi crudelitas, quam immanem esse habebam, eam Le&#39;mer, tu caritate tua... Iam amor che&#39; meum cor in aeternum cognoscet.</entry>
+
+<entry name="XUN_ACCEPT2">Ecce novum, sacrumque florem, unicum sui generis. Ut iam ante monuerat che&#39;, dum eum tenes, quasi cor tuum observandus est.&lt;page&gt;Siquem ictum acceperis hostilem, sive calcitrantibus illis bestiis eris advectus, hic quoque pereat simul semperque.&lt;page&gt;Et si valde meam fiduciam ab hoc mundo temptata est, tamen in te nunc, Le&#39;mer, meam spem repono.</entry>
+
+<entry name="XUN_SUCCESS2">Perfecistine Le&#39;mer? Num tandem est finis facta huius miseriae? Iamne Che&#39; quoque finiri potest?&lt;page&gt;Ullll, eh nai o dulcis amor. Che&#39; tandem finiri potest.</entry>
+
+<entry name="XUN_FAILED2">.....Wai. Perditus est, iterum. Alter flosclus rarus in marcidam radicem misere redactus est.&lt;page&gt;Est vero Che&#39; etiam alter flos... At Le&#39;mer, audi, agnoscendum est tibi quam unicus, tenuis, sacerque hic flos sit. Nolim enim tradere hunc, attamen meled&#39;amantis causa, omnia remittam mea. Quaeso, iterum hunc conatum suscipies?</entry>
+
+<entry name="XUN_HAVE_FLOWER2">Eius sepulcrum in medio virenti refugio Reginae situm est, longo itinere hinc, quod quam periculosum sit iam bene cognosti. Esto tutus... et cautior quoque. Me&#39;hon.</entry>
+
+<!-- UNUSED -->
+<entry name="XUN_KING_BRAND">Le&#39;mer, gravissimum onus sumpsisti... Nemini eo onere onerari optaret cuiquam che&#39;. Novit enim che&#39;, quae sub eo signo in eius summo fastigio serviverim, quas calamitates ferat: tantas, ut nym&#39;Regem in fugam, nobilesque Equites in luctum redegerit.</entry>
+<entry name="XUN_DREAM">Ulll... Nemenoo... Aculeos unguesque... Cur ita esse necesse est?</entry>
+<entry name="XUN_GRAVE_INSPECT">Hic sita est perduellium filia.</entry>
+<entry name="XUN_GRAVE_INSPECT2">Hic sita est perduellium filia.</entry>
+<entry name="XUN_GRAVE_FLOWER">Posuisti Florem</entry>
+
+
+
+<!-- GIRAFFE -->
+<entry name="GIRAFFE_MEET">Oh! Quaerisne delicias? Equidem aliquos fungulos miros nancta sum fortuito, qui supera crescunt nec alias, quorumque sapor perquam suavi&#39;st.</entry>
+<!-- BAD?? -->
+<entry name="GIRAFFE_DREAM">Quam dulcis hic videtur. Haereo, edamne hunc? Quod ceteri prorsum nihil sapiebant.</entry>
+
+<entry name="GIRAFFE_UPPER">Mmmf, quam suave.</entry>
+<entry name="GIRAFFE_UPPER_REPEAT">Mmmmmm, exquisitum.</entry>
+
+<!-- BAD?? locus -->
+<entry name="GIRAFFE_LOWER">Hic locus bivium aliquod fuisse oportet, quia enim exstructus est in limite duarum terrarum, altera ex parte illius caliginosae voraginis, altera bulbosi cuiusdam loci.&lt;page&gt;Neuter vero cum fere tutus mihi videatur locus, donec suppeditabunt deliciae, hic ego me mansuram reor.</entry>
+<entry name="GIRAFFE_LOWER_REPEAT">Devertere huc quandocumque libet. Quamquam enim diligo locum tranquillum, tamen non aspernor comitatem.</entry>
+
+<!-- SPIDER -->
+<!-- TL note:
+It exists.
+
+TL 100%
+Check 90%
+Confidence 80%
+-->
+<!-- BAD?? Quid insuper accidisset amplius cognoscere velis -->
+<entry name="SPIDER_MEET">Oh. Quaeso. Precor. Ne timidus sis. Ferae profecto adsunt terribiles hic, at non ego. Ego enim sum amica omnibus, et valido viatori sicut tu prodesse volo.&lt;page&gt;An scientiam requiris? Certiorem ergo te faciam de aliqua re. Faciam profecto, heehee.&lt;page&gt;Supra hunc locum est pagus quidam, quae domus est tristissimi cuiusdam animalis. Eius vero est perquam tragica fabula, in qua omnia sua suaeque gentis prodere debuerit, quamquam id eam suspicor parum paenituisse.&lt;page&gt;Heehee, ita est. Scio. Scio quidem. Tu plus scire cupis. Quid insuper accidisset amplius cognoscere velis. Pudet vero, quod tibi enarrare velim, verum iam diu est cum quicquam ederim, et...&lt;page&gt;Verum enimvero, ut ita dicam, ego MAGN-OPE-RE... E-SURI-O...</entry>
+<!-- BAD?? licet sane iam comederim profecto, et quidem ad libitum probe -->
+<entry name="SPIDER_GREET">Ah! Redisti. Ignoscas mihi obsecro. Heehee. Nihil est. Nihil est. Fames interdum me movet satianda. Nunciam autem contenta est.&lt;page&gt;An aliquid de me audire velis? Haud multum est quod narrem tibi. Ancilla enim sum nidi nostri, quamvis pauci his diebus meam operam requirunt.&lt;page&gt;Nostra enim proles, illam propter mentis pestilentiam, deperiit iamdudum. Miserrimum quidem exitium nostro generi, quod omnium maximo erat praeditum ingenio.&lt;page&gt;Ah, sed hmmm, licet sane iam comederim profecto, et quidem ad libitum probe. Sed quae melior sit finis epularum, quam si aliam insuper cibi mihi habeam ofellam?...</entry>
+<!-- BAD?? quae agitarit -->
+<!-- BAD?? nonne puella vivacissima est -->
+<!-- BAD?? tametsi gratissime haberemus ea visente -->
+<entry name="SPIDER_GREET2">Oh, mi bone. Illud clarissimum insigne geris. An ei obvius fuisti? Eius insignis quae agitarit custodiam, Generatae Puellae.&lt;page&gt;Quid ais, nonne puella vivacissima est? Album quidem donum et Nido et Belvae, atque aequum pro piaculo munus.&lt;page&gt;Longum iam tempus est cum abest domo, tametsi gratissime haberemus ea visente...&lt;page&gt;...He hee. Oh. Hmm. Ignosce mihi, quod ad ineptiora sum digressa. Ita fit cum veteres memorias memoro, praesertim cum adeo sim ieiuna...</entry>
+<!-- BAD?? Nescio cur adeo praeter te hospitibus careo, qui hospitum sum optima -->
+<entry name="SPIDER_REPEAT">O carissime. Gratum facis, cum me num valeam visas. Nescio cur adeo praeter te hospitibus careo, qui hospitum sum optima.&lt;page&gt;At obsecro, num quid incommodi sit tibi, si buccellam de te demordeam mihi? Vel crus, vel unum quidem. Nam venter plenus dicitur ad felicitatem certissima via...</entry>
+<entry name="SPIDER_DREAM">Gah!! Apage! Abi! Abi!</entry>
+
+<!-- Etc -->
+<!-- BAD?? -->
+<entry name="SPA_DUO_DREAM">Ecce alius imbecillus. Hortarer istum ut aculeum suum temptet in arena, nisi profecto ibi interiret extemplo.</entry>
+
+
+<!-- QUEEN -->
+<!-- TL note:
+I like how unabashedly tryhard this one is, actually.
+
+TL 100%
+Check 80%
+Confidence 70%
+-->
+<entry name="QUEEN_MEET">Oh! Accedit ad me, qui longum nunc peractum inveniendae susceperat itiner. An auxilium meum petat? Anne portatur fortunata ad me via?&lt;page&gt;Enim vero, tu exspectabaris. Aut, ut verius id dicam, exspectabatur is, qui tu tandem esse videris.&lt;page&gt;Donum ecce praebeo tibi, diutissime quod conservavi istius generis uni. Totius hoc est tantummodo dimidium. Quo cum altero integrato, magna potestas infundetur in te, qua potestate profecto, in adipiscendas res futuras erit opus tibi.</entry>
+<entry name="QUEEN_MEET_REPEAT">Compara id quod est necessum, atque absque mora. Corrupto enim praemature Vase, simul prorumpet et illa violenta morbi, quam tempus auxerat, ira.</entry>
+
+<entry name="QUEEN_TALK_01">Per meas radices, vires cum percipio Vasis attenuari, duo sunt quae providentur exitia.&lt;page&gt;Unum, ut universi animi perdantur illi perniciosissimo morbo, quae exspectata ut pergitur eventura regressio&#39;st.&lt;page&gt;Alterum, quae longe praeoptanda&#39;st, ut tu in Vasis locum subdare, refectio.&lt;page&gt;Precor, fi tu Vas, depulso Vase priore. Cuius vires prave existimavimus. Quod a quodam malo vitiatum fuit insito praecepto.&lt;page&gt;At tu, tu quidem nullis horum videris peccare vitiorum. Tu potis es, qui contineas illam corruptelam perpetuo.</entry>
+<entry name="QUEEN_TALK_02">Caveas adhortor. Vas enim, cuius exstinctae sunt opes et vis, tamen robora haurit ab potestate intus contenta.&lt;page&gt;Quod ut exstinguas, moneo, magna erit opus parata animi firmitudine, atque corporis robore ingenti.</entry>
+<!-- BAD? obligata -->
+<entry name="QUEEN_TALK_EXTRA">Videorne captiva, sic obligata? Scito tamen, non nisi mea sponte sic constricta teneor catenis.&lt;page&gt;Ob pudorem enim cuius particeps fuerim facinoris, vincior ita quominus indolem agam meam.&lt;page&gt;Tamen urget adhuc natura, ut semper erit, voraci hac libidine me, ut parta meae prolis propagem semina terris...</entry>
+
+<!-- BAD?? Quid vero inest in ea? -->
+<entry name="QUEEN_REPEAT_KINGSOUL">Ah! Obtinet hic nostrum animum, quondam diffractum, iam integrum refectum. Quantas vires, quantam constantiam, quamque pertinaciam in isto! Numnam aliquid is est factus maius quam Vas merum? Quando ita prope nunc sentio, quasi meum coram amatissimum adsim Draconem.&lt;page&gt;Anima Regia... Quid vero inest in ea? Si id quidem nosse velit, petat locum illum oportet, ubi natus, ubi mortuus, ubi coeptu&#39;st...</entry>
+<entry name="QUEEN_REPEAT_SHADECHARM">Haec percita inanitas... Demutatus est igitur, ab illa quidem veritate comperta.&lt;page&gt;Ecquid est quod sentiat? Gloriam fortassis? An vero odium? Siquidem quicquam sentit, id percipere non queo.&lt;page&gt;Exitium Regni nostri, nostrae domus Nidi Sacri... Id ex te iam totum pendet quod futurum&#39;st.</entry>
+
+<entry name="QUEEN_HORNET">Dimicavitne hic cum Puella Generata? Strenuam igitur sibi offendisse eam oportet adversariam, cum tam pertinax animo et corpore videatur in suae matris similitudinem, quamvis exiguum fuit utrique licitum inter se quod degerent tempus.&lt;page&gt;Numquam equidem id Draconi invidi quod pro pacto fecerat, quandoquidem etiam quaedam erga puellam agnatam non desit mihi caritas nonnulla.&lt;page&gt;Siquando iterum incideris in eam, addetur tibi, opinor, prosperrima sodalis.</entry>
+<entry name="QUEEN_DREAM">Etiam aperire mentes potest? Itaque vincula profecto prae suo aculeo cadent.</entry>
+
+<!-- BAD?? Gratum et acceptum facis -->
+<entry name="QUEEN_DUNG">Hic odor. Num alius tecum adest? Ogrim, adesne etiam tu, o mi valide Eques?&lt;page&gt;Non te videre queo, quando tempus occaecavit meos oculos. Etiam vox tua reboans non iam mihi auditur, silet.&lt;page&gt;Modo hunc puerum percipio, qui cum partem mei obtinet, unus is cernitur clare inter caligines.&lt;page&gt;Ah.... Quot vero iste gravis odor memorem me facit iucundissimarum memoriarum, eius quidem temporis, brevis quamvis prae ruina, nihilo tamen minus grati mihi, dum una eramus.&lt;page&gt;Gratum et acceptum est, mi Eques, mihi, quod me visis, tametsi languida hac specie ego te nunc cogor excipere.</entry>
+<entry name="QUEEN_DUNG_02">O mi Ogrim, veniens foris offendistine Dryyam? Quamdiu me tutata est, custodias dum egit meas.&lt;page&gt;Etsi exterius videatur severa et difficilis, verumtamen intus quam commoda et benigna&#39;st! Illa quidem adventu tuo, Equitis sui consocii, profecto valde laetabitur.</entry>
+
+
+
+<!-- LITTLE_FOOL -->
+<!-- TL note:
+It was one of the first I did yet I like this, but it needs to be reworded here and there.
+
+TL 100%
+Check 80%
+Confidence 60%
+-->
+<!-- BAD?? Aha! -->
+<entry name="LITTLE_FOOL_MEET">Aha! Itaque alius duellator in nostras arenas invenit viam. Nostra enim tandem est ultima meta, iis qui acerrimas pugnas cruentasque petant.&lt;page&gt;Nomen da modo in Tabellam Certaminis cuiusvis, et ecce tibi portas patefient ad pugnam.&lt;page&gt;Parvum tributum est antea solvendum, ut accedas certamen, at, sollerti pugnatori qui es, loculi profecto non vacent opibus.&lt;page&gt;Nunc vero, ante quam aculeo stricto ad pugnam festines, unum hoc faxo scies.&lt;page&gt;Infra est enim, in certamen dum descendant pugnatorum exspectantium conclave, ubi in subsellio sedere, quietem capere possis ante pugnam. Quod ut facias, suadeo tibi toto pectore.&lt;page&gt;Oh, et hoc ne demirere, ego quoque sum strenuus pugnator. Noli enim diiudicare me ab exigua corporis statura, vel ideo quod nunc ita videar... paulum vinculatus. Age vero, Amphitheatrum nos vocat! Ego quam mox in pugnam revertero.</entry>
+<entry name="LITTLE_FOOL_GREET">Salvus sis, o duellator!</entry>
+<entry name="LITTLE_FOOL_DREAM">O Summe Fatue, solve me vinclis. Sine demonstrem meas vires tibi!</entry>
+
+<entry name="LITTLE_FOOL_MARK">Si te vis dare in arenam cuivis certamini, da modo nomen in tabellam, et postea uter sit exitus futurus, tuo ipso Marte est depugnandus...</entry>
+<entry name="LITTLE_FOOL_CHAMP">Fatui sinceri est usque adeo pugnare, dum nulla adipiscenda gloria remaneat. Accede ad tabellam, et da nomen cuilibet certamini! Ostende nobis fatuitatem tuam!</entry>
+
+<!-- UNUSED -->
+<entry name="LITTLE_FOOL_OPEN">Dabin&#39; ergo nomen huic certamini?</entry>
+<entry name="LITTLE_FOOL_REFUSE">Nonne tributum exsolves? Nemo est qui gloriam adeptus sit suis detinendis ditis...</entry>
+
+<entry name="LITTLE_FOOL_OFFER_1">Solve tributum, si nomen profiteris tuum, Certamini Duellatorum.</entry>
+<entry name="LITTLE_FOOL_OFFER_2">Solve tributum, si nomen profiteris tuum, Certamini Victorum.</entry>
+<entry name="LITTLE_FOOL_OFFER_3">Solve tributum, si nomen profiteris tuum, Certamini Fatuum.</entry>
+
+<entry name="LITTLE_FOOL_CHALLENGE">Nomine dato, ecce portae patefiunt. I porro in arenam, et invenito tibi per aculeum ad victoriam viam.</entry>
+<entry name="LITTLE_FOOL_LOCKED">Manedum! Istuc certamen interdictum&#39;st imperito. Quidni prius periclitare alia certamina?</entry>
+<entry name="LITTLE_FOOL_UNPAID">Mane! Istud certamen est interdictum qui nondum debita tributa persoluerunt. Accede huc actutum, et age affer Geum!</entry>
+
+<entry name="LITTLE_FOOL_PAID">Itaque novum certamen tibi apertum erit. Spero te strenue pugnaturum...</entry>
+<entry name="LITTLE_FOOL_NOTENOUGH">Attat, non sat habes pecuniam, qua tributum persolvas. Dolet mihi hoc, sed tributum est unicuique solvendum. Revertere huc, siquando eris dignior... et ditior.</entry>
+
+<entry name="LITTLE_FOOL_COWARD">Cum dederas nomen, abisti! Vah, quantam ignaviam! At fortasse cares ista indole duellatoria. Nam probi bellatores prompte ad pugnam accedunt, neque enim vires sibi acquirunt defugiendis hostibus, verum superandis.</entry>
+
+<!-- UNUSED -->
+<entry name="LITTLE_FOOL_DIED">Quid? Nonne iam ad pugnam aggressus eras? Et ibi cruciatus, cruenta nece obieras? Quonam pacto nunc vivis?&lt;page&gt;Vah, fortasse fallor. Nam novos certatores, qua morte obituri sint, mente fingere soleo.&lt;page&gt;Animi causa hoc est optimum exercitium, quippe cum me ne movere quidem nunc possum.</entry>
+
+<!-- MOSS_CULTIST -->
+<entry name="MOSS_CULTIST_01">Oooohhh clarissimum lumen, quod annuis conatibus nostris!&lt;page&gt;Tuo nos candore implemur. Tuo nos iubare lustramur.&lt;page&gt;In tua enim imagine ardenti, Nidus Sacer est ex integro renatus. Oohhh...</entry>
+<entry name="MOSS_CULTIST_02">Lux est vita, nitens, clara, splendens. Quam si exstinguas, ipsam naturam exstinguas.&lt;page&gt;Exstincta exinde natura, cladibus nos opprimet. Amplectimini lucem! Adipiscimini concordiam! Oohh... Ahhh.</entry>
+<entry name="MOSS_CULTIST_DREAM">...Clarissima... Surgens... Ne fias vacuam...</entry>
+<entry name="MOSS_CULTIST_DREAM_INFECTED">...Ardens... Candor...</entry>
+
+<!-- MASK_MAKER -->
+<!-- TL note:
+Eugh. I don't know why it's the way it is, but it is.
+
+TL 100%
+Check 50%
+Confidence 40%
+-->
+<entry name="MASK_MAKER_GREET">Personane, an facies est illa? In Nido Sacro, haud facile est huic respondere rogato.</entry>
+
+<entry name="MASK_MAKER_REPEAT">Optima res est facies. Non tamen omnes ista nascimur praediti.</entry>
+<entry name="MASK_MAKER_REPEAT2">Iis praesto sum, Regni vultu expertes qui sunt.</entry>
+<entry name="MASK_MAKER_REPEAT3">Persona! Facies! Numquid eam vis? Nonne vis? Ut definias. Ut limites. Ut sis.</entry>
+
+<!-- BAD? -->
+<entry name="MASK_MAKER_UNMASK">Aspicis iam faciem infra latentem! An modo altera est haec quoque persona? Veritas in Nido Sacro semper in imo occulta&#39;st. Falsitatis strata, quot rimatus eris postremo?</entry>
+<!-- BAD?? -->
+<entry name="MASK_MAKER_UNMASK2">Comperistine illam veritatem quam maestissimam? Draconis maximum dedecus, quod procul se in vinculis abscondidit.&lt;page&gt;Itaque ex cessatione Regni, factae sunt postremo Draconis res gestae.</entry>
+<!-- BAD? At sunt tamen qui partem nonnullam sui conservent occultam. -->
+<entry name="MASK_MAKER_UNMASK3">Vultum commutare; eum in altero celare... Id est optimum tutamen, una tamen cum tristi consequentia: perit simul et pristina mens.&lt;page&gt;At sunt quidem qui partem nonnullam conservent sui occultam.</entry>
+<!-- BAD? -->
+<entry name="MASK_MAKER_UNMASK4">En alius qui pallium Regis sumpserit sibi, una cum eius gravissimo onere.&lt;page&gt;Nemo est qui totius sit potitus imperio. Vel etiam belvae satis sapiunt, ne transgrediantur suos limites, et terminum ponunt sibi citra Nidi fines.&lt;page&gt;Una antiqua gens fuit, quae tam vasto regno potiri est conata. Et eorum conatuum exitium, ruinae ostendunt Nidisacrenses concinne.</entry>
+<!-- BAD?? -->
+<entry name="MASK_MAKER_UNMASK_REPEAT">Faciem dono qui rogat, quisquis est. Non est operae, sed auxilio, dono quidem mundo, qui meret.</entry>
+
+<!-- BAD? -->
+<entry name="MASK_MAKER_DREAM">...Novitne hic quae facies latescat infra? O quam magnificam rerum diversitatem, tu peperisti Draco....</entry>
+
+<!-- MR_MUSHROOM -->
+<!-- TL note:
+asdkuhfalisdjghaerliuvnasfiv
+
+TL 90%
+Check 70%
+Confidence 60%
+-->
+<!-- TODO poem -->
+<entry name="MR_MUSHROOM_DREAM">...Wyrms pull bugs into their thrall,&lt;br&gt;Till ages pass and kingdoms fall,&lt;page&gt;Caps and shells may fall to dust,&lt;br&gt;But Mr Mushroom readjusts...</entry>
+<entry name="MR_MUSHROOM_DREAM_SHROOMISH">...Mishi umo sanga. Dogo!..</entry>
+
+<entry name="MR_MUSHROOM_SHROOMISH1">Nyush oola mumu? Shruba dungo ola, ola mu... gungi.</entry>
+<entry name="MR_MUSHROOM_SHROOMISH2">Gungi, gungi... Mishi umo sanga. Poggi u dungo? </entry>
+<entry name="MR_MUSHROOM_SHROOMISH3">Mumushi ola, mumushi u nungoo. Myusha? Dungo myusha? Gungi, gungi...</entry>
+
+<!-- BAD?? amicum? amicam? -->
+<entry name="MR_MUSHROOM_1">...Gaudeo quod amicum tuum adiuvare quisti. Non igitur iam esuris?&lt;page&gt;Qualis enim illa esuries erat. Valde miratus sum. Attamen, omnibus aliquando est procedere.&lt;page&gt;Quo? Ad maiora, fortasse. Quanta enim possunt, tempore tam brevi, adipisci facinora...</entry>
+<entry name="MR_MUSHROOM_2">...Noli oculis nimis fidere, quos dederunt tibi. Potius sapientiae, quam dederit natura, fide.&lt;page&gt;Si bonu&#39;st tibi olfactus, olface.&lt;page&gt;Et dum is venatum secreta, cave cui studium est te rursum venari!</entry>
+<entry name="MR_MUSHROOM_3">...Nullu&#39;st mortuis usus ditis. Numquid est in quod faciant sumptus?&lt;page&gt;Quin, ecce illa creberrima proles. Quibus usu&#39;st cibo, tegmento. Quibus usus crepundiis.&lt;page&gt;At siquam partem tuam detineas... Id pro merito facias, opinor...</entry>
+<entry name="MR_MUSHROOM_4">...Qui quondam appellabatur heros, alio potest post tempus nomine cluere.&lt;page&gt;Maiorum nostrum crimina et triumphi, scelus et gloria, his rebus circumdamur profecto.&lt;page&gt;Et tu, quae fatorum nos in unum continent catenae... Verone vis eas catenas absolvi?</entry>
+<entry name="MR_MUSHROOM_5">...Si periculosior res facta&#39;st inferius, quin cessas?&lt;page&gt;Revertere ad superiora, venator parumper ibi, vel obsonator, vel etiam vagator.&lt;page&gt;Nec multum tempus superest...</entry>
+<entry name="MR_MUSHROOM_6">...Non eam vidi. Nam, credo, memineris ubi ultimum eam reliquisti.&lt;page&gt;Confide enim lunae, vel tibi. Vel ipsae quidem. Aliquid fidendum&#39;st, utut est, id hoc mihi volo.&lt;page&gt;Quid? Immo, non isti. Non ei quidem. Minime vero.</entry>
+<entry name="MR_MUSHROOM_7">...Non per arma adeptus eris victoriam, sed per ingenium, celeritatem, constantiam....</entry>
+
+<entry name="MR_MUSHROOM_EXCUSE">...Oh. Sed ignoscas mihi.</entry>
+
+<entry name="MR_MUSHROOM_FINAL">...Oh. Iam rem teneo. Tu me sequebaris ergo. Spero mea itinera ne tua confudissent, vel distinuissent te quidem.&lt;page&gt;At enim, deversum iter tamen iter est, quod itinerantes nos nosmet invenimus, nec deverticula sunt modo deverticula.&lt;page&gt;Et quae quidem sunt ista deverticula! Aequora alta et transcendentia, distantes arenosae vastitates, vetusta et amplissima regna. Tuum non primum fuit, neque ultimum erit, tamen tuum est iter, neque alterius.&lt;page&gt;Nunc perfuncto meo officio, mihi est iam iterum proficiscendum. Ad proximum, mi amice. Longa&#39;st adhuc, sed iucunda, quam viam inambulamus.</entry>
+<!-- BAD?? congressum -->
+<entry name="MR_MUSHROOM_FINAL2">Usque ad nostrum proximum congressum...</entry>
+
+</entries>
